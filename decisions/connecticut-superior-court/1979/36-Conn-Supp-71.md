@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. CR 19-088524178"
+decided: "1979-11-14"
+citations: ["36 Conn. Supp. 71"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Ronald O. Simmat"]
+source_url: "https://static.case.law/conn-supp/36/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1665067
+cites_cases: ["140 Conn. 176", "141 Conn. 288", "147 Conn. 374", "168 Conn. 212", "170 Conn. 116", "410 U.S. 263"]
+---
+
+# State v. Simmat
+
+## Majority (John F. Shea, Jr., J.)
+
+John F. Shea, Jr., J.
+The defendant in the above captioned action has moved to dismiss the information against him on the grounds that § 53a-169 (a) (3) of the General Statutes is unconstitutional in that it denies him both equal protection of the law in violation of the fourteenth amendment to the United States constitution and due process of the law in violation of the fifth amendment to the United States constitution. The statute in question categorizes the failure to return from a furlough authorized under § 18-101a of the General Statutes as escape in the first degree, a class C felony.
+In 1962, the defendant was sentenced to a life term of imprisonment for the crime of murder in the second degree. On March 22, 1975, the defendant was released from the Connecticut correctional institution at Somers on furlough with the stipulation that he return to that institution no later than 6 p.m. on the same day. The defendant failed to return to the institution and was subsequently arrested and extradited to Connecticut from New Mexico in 1979. He has been charged with escape pursuant to § 53a-169 (a) (3) of the General Statutes. The defendant argues that his constitutional rights have been violated since, in his opinion, it is irrational, unjust and arbitrary to provide the same penalty for failing to return from a furlough-as for an escape from within the institution itself. He argues that the failure to return from a furlough is analogous to a violation of parole. In the latter instance, one is merely obligated to fill out the rest of the term and is not prosecuted for an additional crime.
+The first question to be decided when an equal protection claim is made is whether a legislative classification impinges upon a fundamental right. Since prisoner furloughs are a matter of legislative grace, no fundamental right is involved in this case. Absent a fundamental right, the legislation will withstand constitutional attack if the distinction provided is founded on a rational basis. McGinnis v. Royster, 410 U.S. 263, 270; Liistro v. Robinson, 170 Conn. 116, 124. The defendant’s fifth amendment claim is also based on the argument that providing the same penalty for a failure to return from furlough as for an escape from within the institution itself is irrational, unjust and arbitrary. The court does not find the arguments of the defendant persuasive.
+The defendant’s claim is that it is irrational and arbitrary to classify a failure to return from furlough equally with an escape from within the prison itself because the latter is a much more aggravated offense. There are differences in the degrees of aggravation in the commission of almost all crimes. Even though the same maximum penalty is provided for both forms of escape, the sentence is not mandatory and within the provisions of indeterminate sentencing the court is not only entitled but obligated to consider the nature of the offense and the circumstances attending the same in setting sentence.
+There is a sound and rational basis for drawing a distinction between parole violation and a failure to return from furlough. The analogy which the defendant attempts to draw between the two is not at all sound. Parole is granted because the parole board is of the opinion that there is a reasonable probability that an inmate will live and remain at liberty without violating the law and that his release is not incompatible with the welfare of society. The intent behind parole is that continued incarceration is no longer required for any of the purposes which form the basis of the original sentence. Such is not the case regarding furloughs.
+As provided by § 18-101a of the General Statutes, a furlough merely extends the limits of the place of confinement by authorizing a prisoner to visit a specifically designated place or places for a limited period. The statute provides that such furloughs may be granted only to permit a visit to a dying relative, attendance at the funeral of a relative, the obtaining of medical services not otherwise available, the contacting of prospective employers or for any compelling reasons consistent with rehabilitation. The differences underlying the reasons for granting parole as opposed to a furlough provide a rational basis for distinguishing between parole violators and those who fail to return from furlough.
+“When a question of constitutionality is raised, courts must approach it with caution, examine it with care, and sustain the legislation unless its invalidity is clear.” Snyder v. Newtown, 147 Conn. 374, 390; Liistro v. Robinson, 170 Conn. 116; Lublin v. Brown, 168 Conn. 212, 219. See Amsel v. Brooks, 141 Conn. 288; Schwartz v. Kelly, 140 Conn. 176, 179. Consequently, a court must presume the validity of legislation and sustain it unless it clearly violates constitutional principles. There is no clear violation of constitutional principles in the statute which the defendant has attacked.
+The motion to dismiss is denied.
