@@ -1,0 +1,30 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 72777"
+decided: "1947-01-02"
+citations: ["15 Conn. Supp. 11"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Raladam Company v. John J. Sweeney, Dairy and Food Commissioner"]
+source_url: "https://static.case.law/conn-supp/15/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 707462
+cites_cases: ["114 Conn. 297", "119 Conn. 667", "125 Conn. 266"]
+---
+
+# Raladam Co. v. Sweeney
+
+## Majority (INGLIS, J.)
+
+INGLIS, J.
+In this action the plaintiff seeks a declaratory judgment determining the question whether the Connecticut Food, Drug and Cosmetic Act permits the sale in Connecticut of a drug product (which is alleged to be not a new drug) containing desiccated thyroid, for self-medication, labeled as se: forth in the substituted complaint. It is alleged that the defendant, who is charged with the administration of the act, has notified the state pharmacy commission that he intends to construe the act so as to prohibit the sale of this drug.
+The act prohibits the sale or delivery in intrastate commerce, among other things, of any drug which is adulterated or misbranded, or “any new drug,” in violation of General Statutes, Cum. Sup. 1939, § 903e. That section prohibits the sale of any new drug unless (1) an application with respect thereto has become effective under § 505 of the federal act, or (2), when not subject to the federal act, unless prior to the sale an application has been filed with the commissioner setting forth various facts about the new drug and he has not found within sixty days after that, that the drug is unsafe for use and issued an order refusing to permit the application to become effective. The term “new drug” is defined in § 887e, and the definition leaves no room for a determination by the commissioner of whether a drug is new or not.
+The act provides penalties for the violation of it (§ 890e) and imposes on the commissioner the duty to report violations to the prosecuting officials (§ 892e). It also authorizes injunction' pro' ceedings to be brought by the commissioner.
+' The motion to erase is based on the contention that the court has no jurisdiction of the case because the issues raised are not justiciable. The first reason assigned is that it appears that what the plaintiff claims to be the defendant’s position has not been announced by him but by the board of pharmacy and that therefore the plaintiff has cited in as defendant the wrong party and that no controversy appears to exist between the plaintiff and this defendant. As regards this ground it is sufficient to point out that the complaint does allege that the defendant is himself threatening to interpret the act against the plaintiff, and there can be no question but that he is the person charged with the enforcement of the act. That allegation, which of course is admitted for the purposes of the motion, is adequate to state that a controversy does exist between the parties. Moreover, even though the proper parties were not joined, that would not defeat the action (General Statutes, § 5522) and even though there were not actually a controversy alleged, that might be ground for demurrer but would not go to the question of the jurisdiction of the court.
+The gist of the other two grounds of the motion is that the question sought to be answered in the case is one for the determination of an administrative official and, therefore, one over which the judicial branch of the government has no jurisdiction. It is of course well settled that the courts have no jurisdiction to decide a question of fact for an administrative officer. On such a question the administrator alone can make a decision. The courts can act only after the administrator has made the decision, and then only in the event 'that the administrative official has acted unreasonably, arbitrarily or illegally.
+All of that, however, has no particular application to the present case. So far as the situation involved in this case is concerned, the only point at which the determination of a fact would come into play would be in the event that the drug in question were a “new drug.” If it were a “new' drug,” then under § 903e it would be the function of the commissioner to pass upon the question whether the drug was unsafe for use.
+Under the act the commissioner has no power to determine whether a drug is a new drug or not. That is a matter of definition set up in the act and is therefore for the courts to decide. And if a drug is not a new drug there is nothing in the act which gives the commissioner any power to say that it shall not be marketed. If he thinks that the drug is adulterated or misbranded it becomes his duty to apply to the courts for an injunction and a criminal prosecution against those who are selling it. But the question whether it is adulterated or misbranded under the statute is a judicial question. It is one for the courts to decide and not for the commissioner.
+The substituted complaint in this case alleges that the drug in question is not a “new drug” and poses the question, first, whether the commissioner is right in taking the position that it is. That, clearly, is a judicial question. If that question is decided in favor of the plaintiff the substituted complaint poses the additional question whether the drug in question, bearing the proposed label as set forth in the complaint, is an adulterated or misbranded drug. That question also, depending as it does on the finding of facts and the interpretation of the statute as applied to those facts, and to no extent on any finding by the commissioner, is clearly a question for the courts. It is one peculiarly fitted for determination by way of a declaratory judgment. Sigal v. Wise, 114 Conn. 297; Sage Allen Co. Inc., v. Wheeler, 119 Conn. 667; West Hartford v. Willetts, 125 Conn. 266.
+It is therefore concluded that the issues involved in this case are justiciable issues and are within the jurisdiction of the court.
+The motion to erase is denied.
