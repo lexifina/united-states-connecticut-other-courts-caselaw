@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 209239"
+decided: "1984-03-14"
+citations: ["40 Conn. Supp. 63"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Middlesex Mutual Assurance Company v. Joseph Black"]
+source_url: "https://static.case.law/conn-supp/40/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1655669
+cites_cases: ["165 Conn. 277", "186 Conn. 86", "334 A.2d 437", "36 Conn. Sup. 134", "414 A.2d 818", "438 F.2d 62", "439 A.2d 1066"]
+---
+
+# Middlesex Mutual Assurance Co. v. Black
+
+## Majority (Stodolink, J.)
+
+Stodolink, J.
+This is a subrogation action to recover for fire damage to a multifamily dwelling owned by Michael Licamele, the subrogor, and located at 365 Mill Hill Avenue in Bridgeport. On January 17, 1982 the fire allegedly began in the apartment of Joseph Black, the defendant, as a result of a short circuit in an electric heater. Pursuant to the terms of an insurance policy covering the building, Middlesex Mutual Assurance Company, the plaintiff, paid Licamele for the damages and became subrogated to his rights against Black. On April 6,1983, Middlesex initiated this suit, alleging that Black’s negligence caused the fire.
+On September 29, 1983, the defendant moved to implead Licamele as a third party defendant to this action. An objection to the motion was filed on October 4, 1983, asserting that Licamele is not a proper third party within the meaning of the impleader statute, General Statutes § 52-102 (a), but rather is the nominal party in interest whose rights have been subrogated. On October 21, 1983, this court, Berdon, J., granted Black’s motion to implead.
+The court now has before it the third party defendant's motion to strike Black’s third party complaint. The motion asserts that the third party defendant, Licamele, was incorrectly impleaded into this action. In the alternative, the motion asserts that Black’s third party claim for damages in excess of those sought in the original complaint should be stricken.
+The motion to strike is primarily designed to test the legal sufficiency of a pleading. McAnerney v. McAnemey, 165 Conn. 277, 282, 334 A.2d 437 (1973). In the first ground of the third party defendant’s motion to strike, he does not challenge the legal sufficiency of the allegations of Black’s third party complaint. Rather, the substance of the first ground is that the third party defendant cannot be properly impleaded pursuant to General Statutes § 52-102 (a). Section 52-102 (a) provides in pertinent part: “A defendant in any civil action may move the court for permission . . . to serve a . . . complaint upon a person not a party to the action who is or may be liable to him for all or part of the plaintiff’s claim against him.” (Emphasis added.) The third party defendant, Licamele, argues that he is indeed a “party to the action” for the purposes of impleader in that he is the nominal party in interest whose rights have been subrogated. This assertion, however, is identical to the prior objection to the motion to implead. The dispute now presented, therefore, has been previously resolved by the decision of this court, Berdon, J., to overrule the objection and to grant the motion to implead. Since this court’s prior ruling has determined the issues presented in the first ground, that ruling may be properly relied on as the law of the case. See Breen v. Phelps, 186 Conn. 86, 99, 439 A.2d 1066 (1982).
+The third party defendant alternatively moves this court to strike Black’s third party claim for damages in excess of those sought by the original complaint. Black’s third party complaint has alleged that Black has suffered personal property damage as a result of the fire amounting to $2000, and seeks to recover this amount in addition to indemnification for any damages the original plaintiff may recover. Black’s third party complaint alleges that the negligence of the third party defendant caused the fire.
+Section 52-102 (a), the impleader statute, is based on rule 14 (a) of the Federal Rules of Civil Procedure. See Teulon v. Johnson, 36 Conn. Sup. 134, 135, 414 A.2d 818 (1980). When a federal court is faced with a third party complaint which includes a claim for damages in excess of, or different from, those sought by the original complaint, rule 14 (a) is read in conjunction with rule 18 (a) so as to allow any and all claims to be pleaded against a properly impleaded third party defendant. E.g., Schwab v. Erie Lackawanna R. Co., 438 F.2d 62 (3d Cir. 1971); Crompton-Richmond Co., Inc. Factors v. United States, 273 F. Sup. 219 (D.C.N.Y. 1967); 6 Wright & Miller, Federal Practice and Procedure § 1452 (1971).
+No reported Connecticut case has considered whether a third party complaint can include claims against a properly impleaded third party defendant which are in excess of those alleged in the original complaint. Connecticut procedure permits this court to reach the result arrived at by the federal courts. A third party complaint is equivalent in all respects to an original complaint. Practice Book § 117. Accordingly, a third party complaint may join all claims against the third party defendant which arise out of the same transaction. Practice Book §§ 133 and 134. In the present case, where Licamele, the third party defendant, has been properly impleaded, and where all claims made by Black, the third party plaintiff, arise out of the same transaction complained of in the original complaint, the third party complaint may include claims for damages in excess of those sought in the original complaint.
+For the foregoing reasons the motion to strike is denied.
