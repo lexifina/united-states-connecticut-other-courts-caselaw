@@ -1,0 +1,32 @@
+---
+court: "Connecticut Superior Court"
+decided: "1977"
+citations: ["34 Conn. Supp. 679"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Anonymous (1978-3)"]
+source_url: "https://static.case.law/conn-supp/34/cases/0679-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1668290
+cites_cases: ["139 Conn. 203", "152 Conn. 85", "153 Conn. 103", "32 Conn. Sup. 611", "342 Mass. 67", "5 Conn. Cir. Ct. 326", "6 Conn. Cir. Ct. 303", "81 Conn. 598"]
+---
+
+# State v. Anonymous
+
+## Majority (Anthony J. Armentano, J.)
+
+Anthony J. Armentano, J.
+The pertinent facts are briefly summarized as follows: The defendant was arrested for operating his pickup truck while under the influence of liquor. The police officer noticed that the defendant’s vehicle was swaying in its lane and that it veered into the opposite lane cutting off another vehicle. The defendant was taken to the police station where he was advised that he could take a urine test, a blood test and a breath test. The defendant requested a blood test but was unable to locate a doctor for it. When the defendant was advised that the police would take him to a hospital for the blood test, he consented to take the breath test.
+On the second day of the trial, the defendant moved to suppress the toxicological laboratory report. His motion was denied. The defendant also objected to the introduction of the report into evidence. The objection was overruled and an exception to the court’s ruling was taken by the defendant. The reason for the motion to suppress and the basis of the objection was that the condition of § 14-227a (b) (5) had not been met and satisfied. The defendant appealed those two rulings of the trial court.
+The dispositive issue in this appeal is whether the trial court committed harmful and prejudicial error when it received into evidence the results of a chemical analysis of the defendant’s breath when the condition specified in § 14-227a (b) (5) of the General Statutes had not been met and satisfied.
+The pertinent portions of § 14-227a (b) read as follows: “In any criminal prosecution for a violation of subsection (a) of this section, evidence respecting the amount of alcohol in the defendant’s blood at the time of the alleged offense, as shown by a chemical analysis of the defendant’s breath . . . shall be admissible and competent provided . . . (5) the defendant was afforded an opportunity to have an additional chemical test performed and the officer who arrested or charged the defendant immediately informed him of this right, afforded him a reasonable opportunity to exercise the same and made a notation to that effect upon the records of the police department . . . .” (Emphasis added.)
+“There is no more elementary rule of statutory construction than that the intention which the legislature has expressed must govern.” State ex rel. Rourke v. Barbieri, 139 Conn. 203, 207. If the statute is clear, there is no room for construction. Swits v. Swits, 81 Conn. 598, 599. No part of the statute is to be treated as insignificant or unnecessary, and there is a presumption of purpose behind every sentence, clause or phrase. Charlton Press, Inc. v. Sullivan, 153 Conn. 103,109. The words are to be given the commonly approved usage of the language. General Statutes § 1-1.
+The word “provided” means “on condition that: with the understanding: if only.” Webster, Third New International Dictionary. The word “provided” in common speech naturally expresses a qualification, a limitation, a condition. Weiner v. Boston, 342 Mass. 67, 74. The word “provided” is an appropriate word to create a condition. Its meaning is clear and unambiguous.
+The word “provided” as contained in § 14-227a (b) of the General Statutes creates a condition precedent which must be met and satisfied before evidence respecting the amount of alcohol in the defendant’s blood at the time of the alleged offense as shown by a chemical analysis of the defendant’s breath shall be admissible and competent. State v. Anonymous (1975-5), 32 Conn. Sup. 611; State v. Blanchard, 6 Conn. Cir. Ct. 303; State v. Novotasky, 5 Conn. Cir. Ct. 326, 328. In the present matter, the condition precedent which must be met and satisfied is expressed in § 14-227a (b) (5) of the General Statutes. To admit the toxicological laboratory report before there is a finding that this condition precedent is satisfied constitutes harmful and prejudicial error.
+The evidence as to whether § 14-227a (b) (5) has been satisfied is in conflict. The defendant signed the breath test consent form, an exhibit in the action, wherein he acknowledged that he “has been informed that I have a right to have an additional chemical test performed and that the police afforded me a reasonable opportunity to have such additional test performed.” On the other hand, Officer Jay Mason testified that he did not specifically tell the defendant that he had a right to an additional test other than the breath test. He also testified that he did not read the consent form to the defendant. Whether the condition precedent of § 14-227a (b) (5) has been satisfied is a preliminary question of fact for the court’s determination prior to the introduction into evidence of the toxicological laboratory report, but the record discloses that there was no such determination.
+Section 14-227a (c) of the General Statutes sets forth what force and effect the evidence admitted under the provision of subsection (b) shall have. Before the evidence can be given that force and effect, it must be introduced. Before it can be introduced, the condition precedent of § 14-227a (b) (5) must be met and satisfied. To claim that the waiving of the provisions of § 14-227a (b) (5) would eliminate the need for the satisfying of the condition precedent is without merit. To hold otherwise would frustrate the purpose of § 14-227a (b) and disregard the existence of the word “provided” in it.
+There is error, the judgment is set aside and the case is remanded for a new trial.
+In this opinion A. Healey and Parskey, Js., concurred.
+See footnote 1, supra.
+One of the grounds upon which the court denied the motion to suppress was that it was not timely filed. The fact that a motion to suppress has been denied does not preclude a defendant from objecting to the admissibility of the evidence. See State v. Mariano, 152 Conn. 85, 91.
