@@ -1,0 +1,39 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 260512"
+decided: "1983-07-12"
+citations: ["38 Conn. Supp. 98"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["New England Mutual Life Insurance Company v. The Porcumac Mold and Tool Corporation et al."]
+source_url: "https://static.case.law/conn-supp/38/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1659540
+cites_cases: ["116 Conn. 617", "165 A. 557", "531 F.2d 58"]
+---
+
+# New England Mutual Life Insurance v. Porcumac Mold & Tool Corp.
+
+## Majority (O’Neill, J.)
+
+O’Neill, J.
+The plaintiff brings this interpleader action to require “the defendants to interplead together concerning their claims to funds now in the hands of the plaintiff.” Service has been made of the Internal Revenue Service (IRS); Jerome S. McCormick (McCormick); The Porcumac Mold and Tool Corporation (Porcumac); and Hartford National Bank and Trust Co. (HNB). All the defendants have appeared and answered. The IRS, HNB and McCormick have filed their statements of claim; Porcumac has not and was defaulted as a result. The IRS now moves for determination of priorities.
+On and after March 17, 1978, HNB made loans to Porcumac pursuant to various promissory notes and loan and security agreements. Under the security agreements, HNB obtained a security interest in all assets of Porcumac including, inter alia, general intangibles, contract rights, policies of insurance as well as proceeds therefrom. HNB filed financing statements with the Connecticut secretary of the state’s office on March 27, 1978, and on September 5, 1978.
+As additional security for the indebtedness, on November 1, 1979, HNB obtained guarantee of the defendant McCormick. In executing said guarantee agreement McCormick waived demand, presentment, protest and notice in connection with said indebtedness.
+In November, 1979, the plaintiff issued a life insurance policy to the defendant Porcumac on the life of P. Kenneth Hunton, the president of Porcumac. Porcumac is both the owner and the sole beneficiary of that policy.
+On February 27 and 28,1980, notices of federal tax liens against Porcumac were filed with the town clerk of Plainfield and with the secretary of the state for Connecticut.
+P. Kenneth Hunton died November 14, 1980.
+On November 20,1980, the defendant, United States of America on behalf of the IRS, levied in the amount of $37,249 on the proceeds of the subject insurance policy in connection with the above-mentioned federal tax liens.
+The loans from HNB to Porcumac are presently in default by virtue of Porcumac’s failure to make payments when due. HNB took possession of Porcumac’s assets and conducted a public sale. In addition HNB has brought an action against McCormick on his guarantee. That litigation is pending in the Hartford Superior Court. The outstanding principal and interest due HNB is not less than $90,000.
+After HNB brought the action against McCormick he commenced a collection action against Porcumac. McCormick did not notify HNB of his action. On December 22, 1980, McCormick obtained an ex parte garnishment upon the proceeds of the life insurance policy held by plaintiff. On May 4, 1981, he obtained a default judgment against Porcumac for $87,448.32. On May 28, 1981, an execution was issued for the collection of that judgment. McCormick claims that his garnishment takes priority over any interest HNB may have in those proceeds but admits he is subsequent in right to the IRS claim. The defendant HNB asserts that its recording of a “security interest” entitles HNB to a priority of lien concerning the proceeds of the insurance policy.
+As a consequence of the above-competing claims, on June 5, 1981, the plaintiff has filed this interpleader action.
+The face value of the policy is $62,500. The court does not know the cash surrender value immediately prior to the death of Hunton.
+HNB’s statutory claim is based on the concept that its security agreement gave it a security interest in “[a]ll . . . contract rights, bank accounts, instruments, documents, chattel paper, general intangibles, patents and all other personal property . . .” of Porcumac; that all of the listed property was collateral; that that included the life insurance contract on Hunton and that under the Uniform Commercial Code the proceeds of that life insurance policy are considered proceeds of the collateral. General Statutes § 42a-9-306 (1).
+The defendant HNB cites PPG Industries, Inc. v. Hartford Fire Ins. Co., 531 F.2d 58 (2d Cir. 1976), which held that insurance proceeds derived from a policy covering secured inventory and equipment was merely the collateral in another form. Because that is a property insurance case it does not directly help this court in dealing with a life insurance policy case. In dictum the court said that U.C.C. § 9-104 (g) “would be triggered in cases where a debtor uses his life insurance policy as a means of securing a debt owed to the insurer”; id., 60; but that is of no help either.
+General Statutes § 42a-9-102 (1) provides that except “as otherwise provided in section 42a-9-104 on excluded transactions, this article applies (a) to any transaction, regardless of its form, which is intended to create a security interest in personal property or fixtures including goods, documents, instruments, general intangibles, chattel paper or accounts . . . .” The exclusion of § 42a-9-104 pertinent to this inquiry is: “This article does not apply . . . (g) to a transfer of an interest or claim in or under any policy of insurance, except as provided with respect to proceeds and priorities in proceeds . . . .”
+“Proceeds” is defined in General Statutes § 42a-9-306 (1). Included in that definition is the following language: “Insurance payable by reason of loss or damage to the collateral is proceeds.” That clearly does not refer to life insurance. The whole intent of General Statutes § 42a-9-306 including the title is to deal with property and the various forms of proceeds that may be derived therefrom. HNB has no security interest in the proceeds of the subject life insurance policy under the statutes.
+HNB’s claim of an equitable lien as against McCormick sits on this court’s general equitable powers “to protect the rights of creditors” including the recognition of an equitable lien. “Such a lien is a right over the thing with which the contract deals, by means of which the obligee is ‘enabled to follow the identical thing’ to which the lien attaches and enforce the obligation by a remedy which operates directly upon that thing. Therefore, in order that it may arise, the agreement must deal with some specific property, such as a tract of land or particular chattels or securities, and identify it or so describe it that it can be identified. 3 Pomeroy’s Equity Jurisprudence (4th Ed.) §§ 1234, 1235, pp. 2961, 2964.” Bassett v. City Bank & Trust Co., 116 Conn. 617, 631, 165 A. 557 (1933). That is not our situation.
+What HNB really seeks is some form of prejudgment remedy but as it has not complied with the statute and as this court cannot find from the admissions before it probable cause that HNB will win, such a remedy, regardless of form, cannot be granted. General Statutes §§ 52-278a through 52-278n. The court makes no determination of HNB’s right to issue a writ based on waiver in this commercial transaction under General Statutes § 52-278Í.
+The priorities are: First, the IRS to the extent of its levy and liens. Second, McCormick to the extent of its garnishment and judgment.
+Before payment of claims in accordance with the priorities as herein determined the plaintiff shall be allowed a reasonable sum for counsel fees, costs and disbursements.
