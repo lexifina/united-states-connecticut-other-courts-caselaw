@@ -2,7 +2,7 @@
 court: "Connecticut Superior Court"
 docket: "File #3722"
 decided: "1936-03-18"
-citations: ["3 Conn. Supp. 351", "3 Conn. Supp. 354"]
+citations: ["3 Conn. Supp. 351"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["JOHN JOSEPH SEMPLE vs. CHRISTINE SEMPLE"]
 source_url: "https://static.case.law/conn-supp/3/cases/0351-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1336518
-cites_cases: ["48 Conn. 174", "70 Conn. 332", "73 Conn. 435", "83 Conn., 128", "97 Conn. 440"]
+cites_cases: ["97 Conn. 440"]
 ---
 
 # Semple v. Semple
