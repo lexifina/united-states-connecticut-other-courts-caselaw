@@ -1,0 +1,44 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 8154"
+decided: "1942-07-13"
+citations: ["11 Conn. Supp. 261"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BAY STATE SMELTING CORP. vs. RAYMOND ROSENFIELD"]
+source_url: "https://static.case.law/conn-supp/11/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343339
+cites_cases: ["113 Conn. 74", "62 Conn. 21", "75 Conn. 656", "84 Conn. 618", "9 Conn. Sup. 520"]
+---
+
+# Bay State Smelting Corp. v. Rosenfield
+
+## Majority (KING, J.)
+
+Memorandum of decision on demurrer to plea to jurisdiction and in abatement.
+KING, J.
+In this action an attachment of certain property of the defendant .purportedly was made by the officer in accordance with the amended return by him filed.
+This defendant filed a “Plea to the Jurisdiction and in Abatement” “of.... [the} writ and the attachments made thereunder” setting forth 10 paragraphs of reasons therefor.
+The plaintiff has demurred to paragraphs 4 through 10, both inclusive, of the plea, on the ground that such paragraphs attack only the validity of the attachment of the property, and that invalidity in the attachment in the respects claimed, even if it existed, is not a matter which can be reached by this plea.
+That a plea to the jurisdiction a.nd in abatement is not a proper method of contesting the .validity of an attachment, as such, is obvious, and needs no extended discussion. The available remedies for the seizure of property under a purported attachment invalid for defective service depend upon the character of the property seized, whether real or personal.
+Here it appears, by inference at least, that the property sought to be attached consisted of personal property of some sort located in the defendant’s factory. The reference in. the amended return to an inventory suggests that the officer had in mind proceeding, as to some of the property, under the provisions of section 5718 of the General Statutes, Revision of 1930.
+The amended return filed May 1, 1942, states that a copy of the- original process was left in the hands of the defendant at Putnam, • on November 4, 1941, and that the copy contained the usual caption, and a notation “This is a true copy of the 'original writ, summons and complaint, and process in my hands for service.
+“Attest: Henry W. Baker, Deputy Sheriff, Windham County.”
+The original process was returned to the Superior Court for Windham County at Putnam, on November 6, 1941. The writ was made returnable to the first Tuesday of December, 1941.
+It thus appears that the requisites of a valid service of a process of summons, at least, were carried out by the sheriff (Gen. Stat. [1930} §5468), so that no ground of abatement exists as to the action itself unless, as the defendant claims, an invalidity in the process of attachment operated to make abatable the entire action.
+It is obvious that a defect in the service of process such that no jurisdiction was obtained over the defendant, as by failure, to return the original process to court, would make the whole ■proceeding void and any attempted attachment would fall also. But here the converse of this proposition is presented.
+The remedy by attachment has always been supplementary to a civil action. Thus in our State execution may issue whether there has been any attachment or not. Gen. Stat. [1930} §5762. In most states the power of attachment is hemmed in with restrictions not obtaining in this State, where an attorney himself, by virtue of his standing as an officer of the court, is invested with this extraordinary power. Quite frequently the power of attachment is granted only when the defendant is not himself within the jurisdiction of the court and is therefore not amenable to service of a writ of summons. Such, in effect, was the historical background of our own statute as to attachments. Barber vs. Morgan, 84 Conn. 618, 622; Hayes vs. Weisman, 97 id. 387, 394.
+In other words, the process of attachment is ancillary to and distinct from, the process of service on the defendant, as far as an in personam, as distinguished from an in rem, judgment is concerned. Indeed the statutes governing the two matters are placed in widely separated chapters of the General Statutes, respectively chapters 297 and 288.
+This is not a case involving a defendant without the State, where no jurisdiction could be obtained over the person of the defendant and only an in rem judgment to the extent of the seizure of defendant’s property within the jurisdiction could be sought, so that an invalidity in the seizure (attachment) would vitiate the sine qua non to jurisdiction to render an in rem judgment. Munger vs. Doolan, 75 Conn. 656, 658; Barber vs. Morgan, supra, 620; Hyatt vs. Wallingford Gas Light Co., Inc., 9 Conn. Sup. 520, 521.
+In various ways it is set forth in this plea that the officer’s return on the copy of the process left with the defendant did not disclose what property had been attached. This of course was a serious deficiency. General Statutes (1930) §5713; Ahern vs. Purnell, 62 Conn. 21, 22. One question is whether this defect operated to prevent a valid service upon the defendant, apart from any consideration of its ' effect on the validity of the attachment.
+Fundamentally, the service of process is a method of making a defendant amenable to the jurisdiction of a court. While a. state may make such requirements as it pleases as to the mode of service of process, these are circumscribed by the constituí tional requirements of due process of law. Hartley vs. Vitiello, 113 Conn. 74, 75; Barbieri vs. Pandiscio, 116 id. 48, 49. The paragraphs of the plea in abatement attacked do not indicate that these fundamental requirements were omitted. This re' duces the question to one of the proper construction of the effect of our applicable statutes as to summons and attachment, which the parties agree are, respectively, sections 5468 and 5713 of the General Statutes, Revision of 1930.
+As already pointed out a true and attested copy of the original process' was served on the defendant in Putnam on November 4, 1941, and the original process was returned to court on November 6, 1941. This was a sufficient service of process to bring the defendant within the jurisdiction of the court and to sustain an in personam judgment against him whether the attachment was effectively made or not.
+The question of venue is not affected by the paragraphs of the plea demurred to. Here the plaintiff is described as a nonresident corporation, and the defendant’s residence is im' properly omitted from the process. If it be assumed that the defendant is a nonresident of Connecticut, then the venue is governed by section 5444 of the General Statutes, Revision of 1930, under which, regardless of any question of the validity of the attachment (or if no attachment had been attempted), the venue would be “in the county... .where the defendant is when the action is commenced.” If the defendant was a resi' dent of Putnam, the venue was certainly correct under section' 5449 of the General Statutes, Revision of 1930.
+If the defendant was an inhabitant of Connecticut, but of a town within Connecticut not situated within Windham County, then the venue of the action is defective under section 5449 of the General Statutes, ’ Revision of 1930, and this would be a proper ground of abatement.
+However, this has nothing to do with the invalidity of the attachment, at least in view of the personal service made on the defendant, so that there is ■ no reason for attacking the attachment, as such, in this plea.
+No question has been raised as to the propriety of addressing the demurrer to a part, only, of the plea to the jurisdiction and in abatement, and counsel on both sides treated this as a proper method of reaching the question at present at issue, involving, as it does, only the question of whether the action is vulnerable to the present plea by reason of any invalidity in the service of the process of attachment. In this connection it should be noted that the first three paragraphs of the plea are not attacked by this demurrer and are not involved in the decision on the demurrer.
+It is hardly necessary to add that nothing here adjudicated determines the validity or invalidity of the attachment, as such, but only the inefficacy of any alleged ground of invalidity as a ground for abating the entire action.
+Because of this personal service, and because no quasi in rem judgment is sought, the paragraphs demurred to, as already pointed out, do not affect the jurisdiction or venue of the action and are irrelevant on this plea in abatement.
+It follows that the demurrer to paragraphs 4 through 10 of the plea to the jurisdiction and in abatement should be, and is, sustained.
