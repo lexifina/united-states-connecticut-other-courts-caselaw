@@ -2,7 +2,7 @@
 court: "Connecticut Superior Court"
 docket: "File No. 61783"
 decided: "1940-11-15"
-citations: ["8 Conn. Supp. 511", "8 Conn. Supp. 509"]
+citations: ["8 Conn. Supp. 511"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
