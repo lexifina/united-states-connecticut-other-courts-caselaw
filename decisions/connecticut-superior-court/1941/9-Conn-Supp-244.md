@@ -1,0 +1,54 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 13830"
+decided: "1941-04-01"
+citations: ["9 Conn. Supp. 244"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED TYRE SALES CO., INC. vs. CORNELIUS DANAHER, COMMISSIONER"]
+source_url: "https://static.case.law/conn-supp/9/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1341742
+---
+
+# United Tyre Sales Co. v. Danaher
+
+## Majority (McEVOY, J.)
+
+McEVOY, J.
+This is an appeal from a determination made by the Commissioner of Labor and, ex officio, Administrator of the Unemployment Compensation Division in that department, of the amount of contributions due from United Tyre Sales Company, Inc., under the Connecticut Unemployment Compensation Act.
+The plaintiff, appellant, alleges that “said assessment and determination by the Administrator was erroneous, illegal and improper.”
+Since the plaintiff has made these allegations the burden of proof rests upon it in that respect.
+One Gabriel Berardino is the president and treasurer of the plaintiff corporation and ,practically, its sole stockholder. He is also a salesman for the corporation and, as such, in order to create good will, he is accustomed to travel about the State and to make expenditures for entertainment and the claimed payment of commissions.
+The company has agreed to reimburse him for the amount which he is required to expend in the furtherance of the company’s business. He receives a stated salary each week. There is another salesman who also receives a stated salary. The other salesman receives no allowance for expenses, as the main item of salary paid to him covers all of his expenditures made in behalf of the company.
+For several years last past, the president and treasurer has instructed the bookkeeper of the company to enter upon the books of the company the sum of about $2,600 each year. This sum is charged on the company books to the “traveling and selling expense” account and is paid to the president.
+This amount has been roughly estimated by the president as $50'per week.
+There is no entry upon the books of the company of any of the items of this claimed expense nor has any such sum been determined in advance. The amount fixed is simply the amount which the president has instructed the bookkeeper to enter under that heading.
+Under the provisions of subsection (e) of section 1342e of the 1939 Supplement to the General Statutes, it is provided that: “Each employer. . . .shall keep accurate records of employment as defined in subsection (a) of section 1334e, containing such information as the administrator may by regulation prescribe in order to effectuate the purposes of this chapter.”
+Under the provisions of subsection (f) of section 1345e of the 1939 Supplement to the General Statutes, it is provided that: “If an employer fail to file a report for the purpose of determining the amount of contributions due under this chapter, or if such report when filed shall be incorrect or insufficient and the employer shall fail to file a corrected or sufficient report within twenty days after the administrator shall have required the same by written notice, the administrator shall determine the amount of contributions due, with interest thereon, pursuant to subsection (a) hereof, from such employer on the basis of such information as he may be able to obtain and he shall give written notice of such determination to the employer.” The Act further provides for notice of the amount of contributions so fixed and for the right of appeal. Upon the appeal the prescribed procedure is that the court may confirm or correct the action of the Administrator.
+The Act further provides in subsection (c) of section 1336e of the 1939 Supplement to the General Statutes, that: “The administrator may make and publish regulations with reference to details of the computation and payment of such contributions.”
+By virtue of the provisions of the Act the Administrator has issued official regulations which prescribe, in great detail, the method by which all of the essential facts shall be determined. There are 29 separate and distinct headings in these regulations and they provide in detail the method by which records and reports shall be kept and furnished by employers.
+The appellant, employer, did not keep accurate records, in accordance with the provisions of the statute and the rules and regulations made by the Administrator.
+It is conceded that the amount of the claimed expenses, including alleged payment for commissions, loans and other items, was fixed by the president and treasurer. Under the provisions of subsection (b) of section 1349e of the 1939 Supplement to the General Statutes, it is provided, substantially, that: “If the federal social security act shall be repealed or amended by the congress or declared wholly or partly unconstitutional by the supreme court of the United States, with the result that no portion of the contributions required by this chapter can be credited against any tax imposed by the social security act or any amendments thereto, then, upon the date of such repeal, amendment or declaration of unconstitutionality, the provisions of this chapter requiring contributions and providing for the payment of benefits shall cease to be operative. ...”
+The provisions of the Connecticut Unemployment Compensation Act are based upon and intimately connected with the provisions of the Federal Social Security Act.
+Under the provisions of the Federal Social Security Act it is requisite that accurate records be kept and be available to the interested official.
+Upon an examination of the books of the plaintiff company and upon the obtaining of such other information as was available to the Administrator, he ruled that the claimed deductions for the claimed expenses, including the alleged payment of commissions and the making of loans and other items, were not properly deductible, apparently, upon the theory that they did not sufficiently appear upon the books of the company nor was there a fair keeping of accurate records in accordance with the terms of the Act.
+It is claimed by the appellant that, even though the Administrator may not find that the claimed sum of $2,600 each year is properly deductible that, nevertheless, he may make such proportionate allowance as in his discretion may seem to him to be just.
+The difficulty with this claim is that there is no basis for such a finding on the part of the Administrator. He is limited to the assessment of an amount which may fairly be arrived at by reasonable consideration of the details of the records and the computation based thereon.
+The finding of any less amount than that claimed would be merely the result of speculation or surmise or guess and would have no reasonable foundation.
+In a ruling issued in connection with article 307 of Regulations 90 of the Federal Bureau of Internal Revenue, the following appears: “Where a salesman is paid a certain amount to cover his salary and expenses incurred in his employer’s business, the basis for computing the tax imposed by section 901, Title IX of the Social Security Act, is the total amount paid or payable minus expenses actually incurred by the salesman and accounted for by him. The salesman must maintain such records as will enable him to account to his employer for the amount of expenses actually incurred, and the employer must keep such records as will show the portions of the amount paid the salesman which represent expenses and remuneration for services.” (Italics added. Unemployment Compensation Interpretation Service, Fed. Series, Vol. 1, No. 4, p. 21, Aug. 16, 1937, S. S. T. 28.)
+Article 307 of said Regulations 90, provides, in part, as follows: “(a) Every person subject to tax under the Act shall, during the calendar year.... keep such permanent records as are necessary to establish:
+(1). The total amount of remuneration payable to his em' ployees in cash or in a medium other than cash, showing separately, (a) total remuneration payable with respect to services excepted by section 907 (c), (b) total remuneration payable with respect to services performed outside of the United States, (c) total remuneration payable with respect to all other services.”
+Article 209 (c) of Regulations 90, reads as follows: “Traveling and other expenses. — Amounts paid to traveling salesmen or other employees as allowance or reimbursement for traveling or other expenses incurred in the business of the employer con' stitute wages only to the extent of the excess of such amounts over such expenses actually incurred and accounted for by the employee.”
+It would thus appear that, like the Federal Social Security Act, the Connecticut Act is intended to require the keeping of explicit records so that the whole matter may be the subject of investigation and accurate estimate.
+It was conceded, upon this hearing, that it .would have been feasible for this appellant to have kept accurate records and that no such records were kept.
+All of these informative regulations were issued and were available to the plaintiff, appellant. The plaintiff was presumed to know the law and to be acquainted with the regulations issued concerning the administration of the law.
+Under these circumstances it would appear that the plaintiff knew of the existing provisions of the law and the administra' tive regulations and that it elected not to comply with them.
+These provisions and the regulations concerning them were for the plaintiff’s own protection as well as that of the State. If properly and reasonably kept it would have a basis on and foundation for an appeal from the action of the administrator. Having elected not to comply with the plain provisions of the law the plaintiff has therefore left itself in a position where it has no real cause of complaint against the present assessment.
+Under the pleadings and the evidence introduced in connection therewith it is found that the claimed deduction has no basis in the records of the plaintiff and that the information furnished to the Administrator, in connection therewith, was not such as to properly permit the Administrator, in the fair exercise of his duties, to regard it as a legal deduction.
+It is found that the action of the Administrator was neither erroneous, illegal, nor improper.
+The action of the Administrator is confirmed.
+Under the provisions of subsection (f) of section 1345e of the 1939 Supplement to the General Statutes the costs of the proceedings, in this given instance, are required to be assessed against the employer. They are ordered to be so assessed.
+The appeal is dismissed with costs in favor of the appellee.
+Judgment may enter accordingly.
