@@ -1,0 +1,28 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CR 12-3968"
+decided: "1963-07-16"
+citations: ["2 Conn. Cir. Ct. 218"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Frederick Bickerton"]
+source_url: "https://static.case.law/conn-cir-ct/2/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1738552
+cites_cases: ["107 Conn. 101", "123 Conn. 338", "134 Conn. 354", "14 Conn. Sup. 123", "32 R.I. 477", "91 Conn. 6"]
+---
+
+# State v. Bickerton
+
+## Majority (Kosicki, J.)
+
+Kosicki, J.
+The defendant was prosecuted under § 53-304 of the General Statutes and found guilty of neglecting or refusing to furnish reasonably necessary support to his wife. It is undisputed that the complaining witness, Mildred Bickerton, is the wife of the defendant and that he has failed to support her. His sole claim on appeal is that this failure was excused or justified because of the fault of his wife.
+The defendant and his wife were married in December, 1959, and lived together until March, 1961, except for a short period of separation during the latter part of 1960. Both had been married before and each had adult children by prior marriages. The children of Mrs. Bickerton lived with her and the defendant at an apartment originally rented by her. Both the defendant and the complainant were gainfully employed, although Mrs. Bickerton worked only part time and her earnings were insufficient for her support. The contributions toward household expenses made desultorily by the defendant were not enough to support his wife without the aid of her own earnings. It was not claimed that owing to physical incapacity or other good cause the defendant was unable to furnish reasonably necessary support as required by the statute.
+The record is barren of any finding or assignment of errors and silent on any claims of law made by the defendant and on the conclusions reached by the court. As nearly as we can determine — being guided entirely by the transcript of evidence and the briefs of the parties — the defendant seeks to excuse himself from his duty under § 53-304 on the following grounds: (1) His wife refused to cohabit with him because, while they lived together, he did not support her, and (2) she forcibly ejected him from the apartment, thereby causing the separation of which she now complains.
+The circular reasoning contained in the first ground stated is assertedly derived from the rule, in an equity action for support, that a husband is entitled to cohabitation as an incident to the support of his wife and “is not required to support her if she, by her conduct, makes cohabitation intolerable or prevents it without justification.” Martin v. Martin, 134 Conn. 354, 357. This case and others cited by the defendant deal with situations in which civil remedies were invoked and revolve about questions of divorce, separate maintenance, separation and the like. They do not touch upon criminal prosecution for nonsupport, which is the case before us.
+This is not an action by the wife against the husband but a criminal prosecution in the name of the state. “The evidence necessary to sustain a prosecution like the present one is altogether different from that in an action brought directly in the name of and for the benefit of the wife. State v. Karagavoorian, 32 R.I. 477 . . . .” State v. Newman, 91 Conn. 6, 10. “While a wife necessarily benefits from a prosecution under . . . [§53-304], the purpose of that statute, as well as of . . . [§ 17-320] as amended (Koniak v. Koniak, 123 Conn. 338, 342), is to ‘protect the public purse from demands upon it which would otherwise result.’ Manifestly, the duty of a husband to support his wife, with the violation of which the law is concerned in these statutes, has no affinity with the duty of a husband to cohabit with her, the breach of which constitutes desertion within the meaning of . . . [§46-13]. The one is a duty imposed by the state and is owed to the state; the other is a duty owed to the wife. In case of neglect in the performance of the one, it is the state which is offended and the state which penalizes it; in the other it is the wife who is wronged and upon her a remedy is conferred, to be invoked or not at her personal option, the state taking no cognizance of it. In the one case it is a duty with which the public is concerned that is disregarded; in the other, one that is wholly private. The duty to cohabit is of the essence of the marriage contract; that of the husband to support his wife is annexed to the marital status.” McDonnell v. McDonnell, 14 Conn. Sup. 123, 128.
+When a wife absents herself from her husband without just cause, his obligation to support her under § 53-304 becomes suspended. Alexander v. Alexander, 107 Conn. 101, 108. But if the separation has been induced by a common fault in which, to a substantial extent, both the husband and wife concurred, the husband is not relieved of his responsibilities under the statute. State v. Newman, 91 Conn. 6, 10. The evidence plainly shows that the marriage in this case was in a constantly troubled state, agitated by quarrels, reproaches and displays of temper, the cumulative effect of which was the final separation. The ejection of the defendant by his wife from her apartment was only an incident in bringing to an end a domestic situation which perhaps was equally intolerable to both. It does not excuse the defendant from Ms duty to furnish reasonably necessary support to his wife.
+There is no error.
+In this opinion Pbuyn and Jacobs, Js., concurred.
