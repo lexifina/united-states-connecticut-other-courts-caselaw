@@ -1,0 +1,80 @@
+---
+court: "Connecticut Superior Court"
+docket: "File # 9795; #11056"
+decided: "1935-08-12"
+citations: ["2 Conn. Supp. 112"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Hon. NEWELL JENNINGS, Judge."]
+parties: ["ALICE M. ANTHONY vs. GUSTAV A. ALMORTH, ET AL."]
+source_url: "https://static.case.law/conn-supp/2/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6752567
+cites_cases: ["103 Conn. 341", "103 Ia. 302", "108 Conn. 26", "116 At. 869", "116 Conn. 253", "119 Conn. 453", "135 Mass. 464", "144 Mass. 287", "178 N. W. 712", "211 Mich. 365", "40 Mich. 356", "41 At. 405", "41 Minn. 14", "42 Minn. 281", "42 N. W. 483", "44 N. W. 69", "53 Ala. 208", "68 Conn. 298", "70 Me. 384", "72 N. W. 531", "79 Conn. 286", "89 Conn., 59", "91 Conn., 571", "93 N. J. Eq 486"]
+---
+
+# Anthony v. Almorth
+
+## Majority (JENNINGS, J.)
+
+JENNINGS, J.
+These suits resulted from the failure of the land development schemes of Gustav A. Almorth. He purchased two separate tracts on Ashland Lake from one William M. McNicJoll, giving back purchase money mortgage in each case. These mortgages McNicoll subsequently assigned to the plaintiff. Almorth, in spite of the complicated situation existing, apparently dealt with these properties as his own. He gave deeds free of encumbrance and bonds for deeds on many of the lots. He accepted payments on account and in full. Some of these payments were turned over to Mrs. Anthony and some were apparently retained by Almorth. The result is aptly described by Mr. Rathbun as a Chinese ’pussle.
+The situation in 11056 is the simpler of the two and will be first described. The plaintiff in this case foreclosed and took title to the second of the two pieces referred to on June 22, 1934. In tbe same action she attached the first piece and, having secured a deficiency judgment in her foreclosure of the second piece amounting to $2074.89 plus $4?. costs, or $2119.89 in all, she placed a judgment lien on the second piece for that amount. This suit, 11056, is a foreclosure of this lien. The amount due is in dispute.
+The plaintiff admitted that after the attachment she released the attachment against the Bessette lot for $200. and that against the Forsburg lot for $100. It is my conclusion that in view of her testimony as to the manner in which and the circumstances under which these payments were made, they should, in equity, be credited on the amount of the deficiency judgment. In this view she gets the full amount of her judgment and they have a claim to recover the amounts from Almorth. If the latter is worthless, this is merely the penalty for their negligence in not securing good title when they paid for their lots.
+The next question in this case is whether the lots of the Smalls, the Youngs and the Swansons are subject to the judgment lien. As to the 'first two, the testimony is clear that they paid in full for their lots to Almorth but did not receive or record their deeds until after the attachment. As to the Swansons, while the recorded testimony is less definite, it seems to have been generally understood that they also had paid in full prior to the attachment. At any rate they had a deed and recorded it as appears from Exhibit 2.
+When the plaintiff took the assignment of mortgage on the first piece and paid for it, she looked to the land mortgaged as security. When she attached the second piece, she gave no additional consideration, nor did she give credit to Almorth on that account. It follows that the equities of these defendants outweigh those of the plaintiff and that these lots should not be included in the foreclosure. The cases cited by Mr. Perkins appear to be conclusive on this point.
+Waterman vs. Buckingham, 79 Conn. 286, 291; Washington Trust Company vs. R. R., 89 Conn., 59; Fosdick vs. Roberson, 91 Conn., 571, 576; Travelers Insurance Company vs. Mayo, 103 Conn. 341, 348.
+The amount of the debt in 11056 is found to be $2119.89 less $300., or $1819.89 plus interest from October 19, 1934, or $1908.72 in all.
+It appeared in evidence that other persons, not parties to this suit, may have equities similar to those referred to herein. Since they are not parties their rights cannot be litigated here.
+The situation in 9795 is materially different and concerns the same piece of land involved in 11056. This piece was also 'purchased by Almorth from McNicoll, a purchase money mortgage being given. After various payments had been made on this mortgage it was assigned to the plaintiff who brings this foreclosure. The handling of this proposition by Almorth has already been described in general terms. Its designation by counsel as casual is very conservative. While his intentions may have been good, the result was deplorable. He seems to have combined the optimism of a promoter with the judgment of a two-year-old and heedless and reckless disregard of the rights of others to a degree not hitherto observed by me.
+Much of the evidence in this suit is concerned with the amount of the debt. The general situation appears to be that when the assignment of mortgage was made by McNicoll to the plaintiff the affair was already extremely complicated. The three parties got together and it was agreed that the balance due on the note at that time was $2480. This balance was subsequently acknowledged by Almorth on various occasions. After suit was brought Almorth attempted a recheck to prove that the balance was in reality less by $331. (Transcript page 85.) The evidence on this point was not satisfactory to me and furthermore was of doubtful force against the plaintiff. This amount was subsequently reduced by payments to the plaintiff until the balance was $1980.; together with interest on these payments from July 9, 1932 to the date on which they were made as follows: (Mr. James Brief p. 2.)
+July 9, 1932 to September 28, 1934 o •6* p\ O* o
+” ” December 14, 1932 o ¡-1 to VO
+2.84 on 50. ” ” June 27, 1933
+5.88 on 100. ” ” July 2, 1933
+3.08 on 50. ” ” July 18, 1933
+19.93 on 200. ” ” March 7, 1934
+$39.52
+or $2019.52.
+The aggregate of $1980. claimed by the plaintiff differs from the amount claimed by Mr. Robbins for Almorth of $1159. by $821.
+A substantial part of this difference is accounted for by the claim of Mr. Robbins that $740. was paid by seven lot owners for releases of the mortgage. This claim is sub' stantiated by an admission of the plaintiff. (Transcript page 123.) This admission came, however, after an involved cross' examination by Mr. Rathbun. An analysis of this examina' tion compared with Exhibit 9 does not give this result. The confusion undoubtedly occurred because of the inclusion in the admission of the $300 specifically paid for the release of the attachment and already credited on the debt in 11056. I find the amount received by the plaintiff on the mortgage debt and not credited to be $440. This should be reduced by interest from July 9, 1932 to the date of payment as follows:
+$ 1.80 on $ 20. July 9, 1932 to December 22, 1933
+1.70 on 20. ” ” December 11, 1933
+17.00 on 200. ” ” December 6, 1933
+9.00 on 100. January 8, 1934
+4.50 on 50. January 26, 1934
+4.25 on 50. December 12, 1934
+$36.45
+leaving the amount received $403.55.
+The question as to whether this net amount should be credited on the mortgage debt is undoubtedly similar to that raised in 11056 with reference to payments made for the release of attachment. In that case, as stated, it could be decided on admissions by the plaintiff as shown by the tram script of her testimony. Here, however, the plaintiff has made no admissions and has claimed at all times that she gave value for the releases and that the money paid for them was paid by third persons and belonged to her without relation to the foreclosure.
+No authority has been cited on this proposition. As stated, the plaintiff claims that the lot owners who made these pay' ments came to her voluntarily and paid her these several sums to remove a cloud on their title and that she gave value for this money independently of her mortgage. She points out that the lot owners have a perfectly good legal claim for these sums against their grantor, Almorth, even though it may be worthless practically; that the necessity for the payment arose as a result of their own negligence; that the effect of crediting the amount on the mortgage debt is to improve pro tanta the position of Almorth who caused the trouble; that the combined negligence of the lot owners and fraudulent conduct of Almorth has caused her great expense and trouble in collecting her debt.
+The principal argument for the lot owners is that the debt is the main thing and that the plaintiff should not get any part of it twice. If she is paid in full, that is all she is entitled to.
+Balancing these equities, the thing that really stands out is that the debt is the principal thing and that if the plaintiff gets that with interest she must be satisfied.
+Ensign vs. Batterson, 68 Conn. 298, 310.
+Of course, coming into equity, she must do equity.
+Id.
+Her claim to recover her expenses is not a legal claim. While she has had plenty of trouble with this investment, the evidence discloses that she was involved financially with Almorth in still other transactions and she must have known what she was getting into.
+The point was not directly decided in Bradford Realty Company vs. Beetz, 108 Conn. 26, but an examination of the briefs indicates that where grantees of the mortgagor paid money for the release of their particular tracts, it was duly applied on the mortgage debt. The following cases, while not clearly in point, indicate that this is the proper course.
+Webster vs. Singley, 53 Ala. 208, 25 Am. R. 609; Favrot vs. Allain, 6 La. Am. 428; York Company Savings Bank vs. Roberts, 70 Me. 384.
+It follows that the amount claimed by the plaintiff, $2019.52, should be reduced by $403.55, leaving the amount $1615.97. To this must be added interest from July 9, 1932, making in all $1915. The remaining discrepancy between the , figures amounts substantially to the recheck of Almorth. This, for reasons stated, is not accepted.
+Some attempt has been made by me to entirely exonerate grantees of Almorth from the lien of this mortgage but the absence of any pleadings raising this issue has made this impossible. It is a difficult matter to adjust in any event, par' ticularly where the testimony as to values is as indefinite and unsatisfactory as it is in this case. Under any but the most extraordinary circumstances, the mortgagee is entitled to enforce the lien of the mortgage on the entire premises covered thereby and any junior or equitable encumbrancer redeeming, even though the interest attaches to only one of many lots, must redeem the whole debt.
+Lomas & Nettleton Company vs. DiFrancisco, 116 Conn. 253; New Haven Bank vs. Jackson, 119 Conn. 453.
+The possibility of foreclosure by sale as requested by the plaintiff has been considered by me but the title is in such a confused state that the possibility of getting a substantial bid seems remote. The most practical way to clear the title is by strict foreclosure.
+Mr. Rathbun also raises an interesting question of agency but the pleadings do not give sufficient notice of this defense to support a judgment even if it were allowed.
+The defendants in this case fall into the following classes:
+I. Almorth, the original mortgagor.
+II. Defendants who have been or are now defaulted for failure to appear or failure to plead,
+III. Defendants who have appeared and defended.
+I cannot find that the Fairland Realty Company has been made a defendant in this suit. If I am in error in this it can be corrected in the judgment.
+I find no good defense established for Almorth or the Fair-land Realty Company except in so far as the amount of the debt claimed has been reduced.
+I find no good defense for the defendants in class II.
+Taking up class III, the mortgage, as indicated by the recitation of its terms in the complaint and Exhibit E, provides for the release of the several lots on the payment of certain specified sums. The defendants represented by Mr. Rathbun claim the right to avail themselves of this clause even after default by the mortgagor. Such a covenant runs with the land and is available to persons in the position of Mr. Rath' bun’s clients. The Smalls also attempted to raise this defense in a cross-complaint to which a demurrer was sustained. Although Judge Booth reserved this point in his memorandum, no attempt was made to amend by the Smalls. Under these circumstances, an amendment should be filed by them forthwith covering this specific point. .
+The following cases appear to support this proposition:
+Clark vs. Fountain, 135 Mass. 464, 144 Mass. 287; American Net & Twine Company vs. Githens, 57 N. J. eq 539, 41 At. 405; Van Arsdale vs. Gorenflo, 93 N. J. Eq 486, 116 At. 869; Vawter vs. Crafts, 41 Minn. 14, 42 N. W. 483; Barge vs. Klausman, 42 Minn. 281, 44 N. W. 69; Nims vs. Vaughn, 40 Mich. 356; Taylor vs. Carter, 211 Mich. 365, 178 N. W. 712; Gammel vs. Goode, 103 Ia. 302, 72 N. W. 531.
+Mr. Rathbun makes the further claim that his clients should not be obliged to pay the full amount provided in the mortgage but only the proportionate amount equitably due. No authority is cited. Although the cases cited under 41 C. J. page 762 Section 842 indicate that under certain circumstances this can be done, the mechanical difficulty if not impossibility of figuring this out in such a complicated situation and the fact that the same result can be reached if these defendants elect to redeem rather than to secure releases, have decided me against granting this form of relief.
+The claim of Mr. Robbins that the mortgage should be first foreclosed is well made. If the very complicated situation in this case cannot be ironed out, none of the interested parties can afford to bother with the foreclosure of the lien. As to time, the plaintiff is entitled to her money but sufficient time should be given to enable the interested parties to try to get together and straighten the thing out.
+The amount of the debt in 9795 is found to be $1915. The 4th of November, 1935, is fixed for the redemption day for Almorth. If Almorth fails to redeem, any defendant in class III who pays to the plaintiff the release price stated in the mortgage on or before November 30th, 1935, shall receive from the plaintiff a release of the corresponding lot from the encumbrance of this mortgage and the plaintiff shall promptly give such release and shall credit the amount paid on the mortgage debt. The date of redemption for the remaining defendants in classes II and III shall be December 9, 1932.
+The amount of the debt in 11056 is found to be $1908.72 and the 10th of January, 1936, is fixed as the date of redemp' tion for The Fairland Realty Company. As the lots of the remaining defendants have been exonerated from the burden of this lien, the plaintiff is directed to promptly deliver to them or their attorneys releases of their lots as far as the encumbrance of this lien is concerned. Judgment to be em tered for them in this case. While the recording of this judgment would accomplish the same result, the record will be clearer if this method is followed. Anything that will clarify this record is much to be desired.
+I wish again to express my appreciation of the assistance of counsel in this very involved affair. In view of the amount involved, no compensation which they can receive will even approximate the value of their services before, during and after trial. Under these circumstances I am sorry to impose further labors upon them by leaving the judgment in such general terms. Their familiarity with the parties dropped and releases given since suit brought should, however, enable them to do this much quicker and more accurately than I could.
+Costs to be taxed to the plaintiff in both cases and no costs to be taxed for any defendant in either case.
