@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #7663"
+decided: "1938-11-19"
+citations: ["6 Conn. Supp. 435"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["APPLICATION OF RICHARD E. MYLCHREEST, ET AL. FOR RECOUNT"]
+source_url: "https://static.case.law/conn-supp/6/cases/0435-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1314756
+cites_cases: ["107 A.L.R. 205", "107 A.L.R. 209", "29 Ill. 413", "40 Conn. 359"]
+---
+
+# In re Mylchreest
+
+## Majority (INGLIS, J.)
+
+INGLIS, J.
+This is an application brought, not to the Superior Court, but to a judge of the Superior Court, praying a recount of ballots cast for State Senator in the town of Cromwell, a declaration that Richard E. Mylchreest has been elected senator from the 33 rd senatorial district, the issuance of a certificate to that effect and such other relief as the petitioners may be entitled to.
+In so far as the application prays for a declaration that the named applicant be declared elected senator and that a certificate issue to that effect, it clearly is outside of the jurisdiction of a judge of the of the Superior Court or, indeed, of any court to grant it. Section 6, article III of the State Constitution provides that “each house [of the General Assembly} shall be the final judge of the election returns and qualifications of its own members.” Similar provisions have uniformly been held to give the Legislature exclusive jurisdiction to decide who has been elected to membership therein so that no court has jurisdiction to pass upon such a question. Selleck vs. Common Council of South Norwalk, 40 Conn. 359, 362; 20 C.J. Elections §272; Anno., 107 A.L.R. 205, 207 et seq.
+It is of course true that section 651 of the General Statutes, Revision of 1930, authorizes a judge of the Superior Court to order a recount of ballots cast for governor and certain other state officers (not including State Senators or Representatives) and that the Constitution provides that it shall be the General Assembly which declares the person whom they shall find to be legally chosen. The difference between the constitutional powers of the General Assembly with reference to the election of state officers and its power with reference to the election of its own members is that as to the former the Constitution nowhere provides that the General Assembly shall be the “final” judges. This difference is such that under the Constitution it is justifiable for the Legislature to make provision for a judge- of the Superior Court to pass upon the question as to who has been elected governor or to some other state office but not proper for any court to be given power to pass upon the question as to who has been elected state senator or representative.
+As regards the final prayer, that is for such other relief as the petitioners may be entitled to, a judge of the Superior Court has jurisdiction to grant only such relief as he is specifically authorized by statute to grant and there is no statute which gives such a judge power to grant any sort of relief, either equitable or at law, oh the facts alleged in the application.
+A recount would be of service to the applicant only as an incident to, and to form the basis for, the granting of some other relief. Simply to make a finding that a certain number of votes were cast for the applicant and a certain number for his opponent without being able to enter a judgment on the basis of that finding that something be done about it by some official would be a meaningless gesture. Accordingly, if the judge has no jurisdiction to render a judgment based on such a finding it follows that he has no jurisdiction to make such a finding.
+For instance, it may be that a court might have the power to mandamus the presiding officer of the electors’ meeting in Cromwell to send to the Secretary of State a corrected certificate setting forth the correct returns on the vote for senator in that town. Peo. ex rel. Fuller vs. Hilliard, 29 Ill. 413, cited 107 A.L.R. 209, 212. Such a mandamus would not be a final determination of the election but would simply provide information first to the board of canvassers and then to the State Senate upon which the latter could act in deciding the election. If the court did have jurisdiction to issue such a mandamus upon the application for such mandamus it doubtless could order a recount in order to make a finding as to the exact number of votes cast and thereby lay a foundation for the mandamus. That, however, is the only conceivable situation in which a court would have power to order a recount and it could do it then only as incidental to its power to issue the writ of mandamus. The present action is not an application for a writ of mandamus nor can it be so interpreted because, if for no other reason, it is returnable to a judge of the Superior Court, not the Superior Court itself, and mandamus can issue only from the court.
+It is therefore concluded that a judge of the Superior Court has no jurisdiction to declare Mr. Mylchreest elected as senator nor to issue a certificate to that effect, nor has a judge of the Superior Court jurisdiction to grant any other ultimate relief on this application. No statute authorises a judge of the Superior Court to order a recount of votes for State Senator and failing that and likewise lacking jurisdiction to grant any relief which would be predicated on a finding as to what the actual vote was, such a judge has no jurisdiction either to order a recount or make such a finding.
+Judgment is hereby entered sustaining the plea to the jurisdiction and dismissing the application.
