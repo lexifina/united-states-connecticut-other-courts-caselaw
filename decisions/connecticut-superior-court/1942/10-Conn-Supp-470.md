@@ -1,0 +1,30 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 14673"
+decided: "1942-05-08"
+citations: ["10 Conn. Supp. 470"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANGELO PERRONE vs. AMERICAN WOOLEN CO., INC."]
+source_url: "https://static.case.law/conn-supp/10/cases/0470-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1318319
+cites_cases: ["146 Okla. 9", "293 Pac. 191"]
+---
+
+# Perrone v. American Woolen Co.
+
+## Majority (BALDWIN, J.)
+
+BALDWIN, J.
+The plaintiff sustained an injury to his right forearm which resulted in a scar which has been found by the Compensation Commissioner to be serious, permanent and disfiguring. It is in the mid'portion of the arm on the anterior surface and is four and one'quarter inches long and two and one'half inches wide, beginning four and onedialf inches above the wrist and extending upward.
+The plaintiff claims that since section 1328e of the 1939 Supplement to the General Statutes provides for payment of compensation for loss of a hand “at or above the wrist” and the loss of an arm “at or above the elbow”, the language in that section relating to compensation for disfigurement of the “hand” must mean the “hand at or above the wrist” ex' tending to the elbow.
+The defendants claim that the portion of the statute pro' viding for compensation for disfigurement applies only to the “face, neck, head and hands”, and does not apply to the forearm.
+The parts of the statute upon which these respective claims of construction are based are the following: “(b) for the loss ■of one hand at or above the wrist, or the complete and perma' nent loss of the use of one hand, one hundred and seventy' five weeks”; and further on in the section the following: “In addition to compensation for total or partial incapacity or for ■a specific loss of a member or use of the function of a member of the body, the commissioner may award such compensation as he deems just, equal to one-half of the average weekly earnings of the injured employee, but in no case more than twenty-five dollars or less than seven dollars weekly, for any serious and permanent disfigurement of the face, neck, head or hands up to one hundred and four weeks, but no compensation shall be awarded when such disfigurement was caused solely by the loss of or loss of use of a member of the body for which compensation payments are provided by the terms of subsections (a) to (k), inclusive.”
+This section of the statute (§1328e) provides for compensation for certain disabilities. Among others it provides for compensation for “loss of one arm at or above the elbow” and for “loss of one hand at or above the wrist.” The Commissioner has concluded that, since disability from loss of the hand is based upon “loss of the hand at or above the wrist”, the term “hand” in the disfigurement portion of the statute must be construed to mean “the hand at or above the wrist.”
+In the case of Ford Motor Co. vs. Farmer, 146 Okla. 9, 293 Pac. 191, the claim was that the award of $100 made by the Commissioner to the claimant for disfigurement to his wrist was not covered by the provisions of section 7290 of the Oklahoma Compiled Statutes (1921), as amended, which limited compensation for disfigurement to the “head, face, or hands”, which contention presented the question whether the disfigurement in that case was a disfigurement to claimant’s “hand” within the meaning of that term as used in said section 7290 of the statutes. It appears in that case that one of the surgeons who performed the operation which resulted in the disfiguring scar testified that as a result of the operation there was a permanent disfigurement scar to claimant’s “hand” and the claimant testified that there was a scar about one and one-half inches long on the inside of his wrist and extending down to the palm of his hand. The court said: “Based upon expert medical testimony, the testimony of claimant and corroborating testimony, we conclude that there was in fact a permanent disfigurement to claimant’s ‘hand,’ and that the Industrial Commission in its order of May 7, 1930, in finding that the injury in question left a permanent disfigurement to claimant’s ‘wrist,’ used that term interchangeably or synonomously with the term ‘hand.’. .. .We, therefore, conclude that the award made by the Commission for disfigurement of claimant’s wrist (hand) was in accord with sec. 7290, supra, and prior decisions by this court construing said section.”
+Webster’s Dictionary defines the word “hand” as “the extremity of the arm, consisting of the palm and fingers, connected with the arm at the wrist: The terminal part of the arm when, as in man and the apes, it is specially' modified as a grasping organ. In anatomical usage the hand, or manus, includes the phalanges, or fingers and thumb; the metacarpus, or hand proper.” “Wrist” is defined as, “the joint, or the region of the joint, between the hand and the arm; the carpus;” and “forearm” is defined as “that part of the arm or fore limb between the elbow and the wrist.”
+The scar in question is on the forearm and not on the hand according to the definition of these terms, and the term “hand” as used in that part of the statute relating to disfigurement was in the ordinary accepted usage of the term. The very fact of having used different language in the specific indemnity part of the statute, providing for compensation for loss of use of the hand at or above the wrist, from that language used providing for compensation for .the “serious and permanent disfigurement of the face, neck, head or hands” indicates clearly the intention of the Legislature to limit the disfigurement, so far as the hands are concerned, to the hand as in ordinary usage that term is understood and not to include the forearm.
+The scar in question is not included in the provisions of the statute and the appeal is sustained.
+Judgment may therefore enter for the defendants.
