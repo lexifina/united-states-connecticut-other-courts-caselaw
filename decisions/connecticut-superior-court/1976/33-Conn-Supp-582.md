@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 54"
+decided: "1976-05-07"
+citations: ["33 Conn. Supp. 582"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Luis Rodriguez v. Michael Gilbertie et al."]
+source_url: "https://static.case.law/conn-supp/33/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1670807
+cites_cases: ["135 Conn. 286", "158 Conn. 600"]
+---
+
+# Rodriguez v. Gilbertie
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The plaintiff purchased a home in Wilton from the defendants, who had built it. About six months after he had taken possession, the plaintiff experienced some trouble with the septic tank system. He notified the defendants who refused to repair it.
+The trial court concluded that the defendants had been negligent in installing the septic tank system by failing to use reasonable care to provide for its adequate functioning in view of the high ground water table and the poor soil conditions in the area of the installation. A violation of the public health code of the state of Connecticut was also found in that the leaching area was seventy-five feet less than the minimum required under the best soil conditions. The finding also states that the ground water table in the area of the septic tank system was less than the eighteen-inch minimum, as required by § 19-13-B8 of the code, and that the soil seepage rate, as indicated by a percolation test made by the plaintiff’s expert, was slower than the minimum required by § 19-13-B14 of the code. None of the subordinate facts on which the conclusions of negligence are based has been assigned as error and they adequately support those conclusions. Even if the additions to the finding sought by the motion to correct were adopted, those conclusions would not be affected.
+The principal claim of the defendants is that they followed the directions of the sanitary officer of the town in constructing the septic tank system as evidenced by the certificate of occupancy which he signed. The code, § 19-13-B14, does allow a sewage disposal system to be built in an area where the seepage rate is slower and the ground water table is higher than specified if “special plans are prepared and carried out in accordance with regulations of the local director of health.” Assuming arguendo that the additions to the finding requested might make that exception applicable, so that the nonconformity to the code specifications for seepage and water table depth would not constitute a violation and negligence per se, it would not negate the conclusion of common-law negligence drawn by the trial court from failure of the defendants to exercise the care reasonably required of persons qualified to instal septic tank systems in view of the adverse soil and drainage conditions encountered. Those provisions of the code would still be significant in establishing the customary standard which is followed in making such installations. The failure of the defendants to conform to them without good reason would justify a conclusion of common-law negligence regardless of any reliance upon the approval of the town sanitary officer. No exception to the minimum leaching area specifications of the code is claimed by the defendants, and the conclusion of negligence per se based upon the violation is incontrovertible. Citerella v. United Illuminating Co., 158 Conn. 600, 608.
+The defendants also rely on a paragraph of the contract for the sale of the house stating that “the delivery and acceptance of conveyance shall constitute full compliance by the seller with all of the terms, covenants, conditions and representations contained herein or connected with this transaction, excepting the warranties and covenants of the warranty deed.” That provision is of no avail in insulating the defendants from the consequences of their own negligence, however, since a party cannot by contract relieve himself of such liability. See Malone v. Santora, 135 Conn. 286, 293.
+The trial court awarded $4750 damages to the plaintiff. The house was purchased for $61,000 and improvements costing $4000 were made. The house was sold in March, 1972 for $64,200 but $5000 was held in escrow because of the septic tank system and that amount was later paid to the new owner for a release of the plaintiff from any liability in relation thereto. The plaintiff had also paid $150 to an engineer to inspect the system. The plaintiff’s actual loss, according to the subordinate facts stated in the finding, was $5950, the difference between his total outlay of $65,150 and the net proceeds of the sale, $59,200. The defendants claim that the $5000 payment to the new purchaser is unrelated to the cost of repairing the system. There was testimony by the plaintiff’s expert that repairs would cost about $10,000 and certainly in excess of $5000. Where the subordinate facts found by the court would support a greater award of damages, obviously the defendants cannot complain. Accordingly, there is no merit in the claim of the defendants that the damages awarded were excessive.
+There is no error.
+A. Abmextaxo, D. Shea and Spoxzo, Js., participated in this decision.
+The “State Sanitary Code” (The Public Health Code of the State of Connecticut, §§ 19-13-A1 et seq.) was incorporated by reference in the health and sanitation ordinances of the town of Wilton. The applicable state subsurface sewage disposal regulations governing this case were §5 19-13-B3-19-13-B20 of the public health code regulations (repealed January 13, 1970).
