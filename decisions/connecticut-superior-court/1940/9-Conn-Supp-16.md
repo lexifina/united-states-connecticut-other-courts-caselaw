@@ -1,0 +1,33 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 55444"
+decided: "1940-12-10"
+citations: ["9 Conn. Supp. 16"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RECONSTRUCTION FINANCE CORP. vs. NEW IMPERIAL LAUNDRIES, INC. ET AL."]
+source_url: "https://static.case.law/conn-supp/9/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1341744
+cites_cases: ["147 App. Div. (N.Y.) 871", "155 N.Y. 185", "181 Iowa 319", "20 Me. 98", "43 Me. 381", "49 Ill. 370"]
+---
+
+# Reconstruction Finance Corp. v. New Imperial Laundries, Inc.
+
+## Majority (MUNGER, J.)
+
+MUNGER, J.
+The defendants Goldberg and Louis Chaiken by an amended answer filed May 15, 1940, have set up a special defense and the plaintiff has demurred to it. In substance the defense alleges that at the time the note in suit was given to the Mechanics Bank, a mortgage on real estate was also given, together with a chattel mortgage, to the Mechanics Bank as security for the payment of the note.
+In paragraph 4 it is alleged that subsequent to the transfer by the Mechanics Bank to the plaintiff a part of this collateral was released by the plaintiff and other collateral was substituted therefor.
+Paragraph 5 of the special defense reads as follows: “Subsequently, the Mechanics Bank and/or Reconstruction Finance Corporation disposed of the collateral security without notice to the defendants and without their knowledge and consent and for an amount far below the reasonable market value of said security, all of which was to the prejudice of the said defendants, endorsers on said obligation, and to their loss, and that therefore any balance due and not satisfied by the sale of the collateral security is uncollectable against the defendants.”
+The defendants are charged in the complaint as being guarantors. It is said that prior to the delivery of the note to the Mechanics Bank they guaranteed its payment, principal and interest. They are therefore doubtless in a little different position than that of an endorser, but whether as endorsers or guarantors, the defense in the form in which it is now set forth is insufficient. Indeed, the citation in the brief of these defendants in no wise supports the position which they take. 8 C.J. Bills and Notes §861, p. 620, is cited. This goes no further than to say that the surrender or release of the security “operates as a discharge of indorsers to the amount of the security so surrendered, provided the indorsers’ liability has not become fixed, and they do not consent thereto.” Neither of the other two citations in the defendants’ brief supports their position.
+A surety is not released by the substitution, by the creditor, of one collateral security for another, when made in good faith and apparently for the benefit of all concerned. State Bank vs. Smith, 155 N.Y. 185. “No authority has been cited, and we have been able -to find none, holding that a surety may not in good faith endeavor to better his situation by exchanging one kind of collateral for another that he regards as more valuable.” State Bank vs. Smith, supra, 199.
+The principle is well settled, that where a mortgage is taken by a creditor from the principal debtor, as a further 'security for his debt, the mortgage so taken must be held in trust, not only for the benefit of such creditor, but for the surety’s indemnity. In such case, the creditor becomes a trustee as to the mortgaged property, and this relation imposes it as an obligation upon him to act in good faith towards his cestui que trust, in dealing with the fund, and hold it fairly and impartially, for the benefit of the surety, as well as for himself. Phares vs. Barbour, 49 Ill. 370.
+The special defense filed is to the whole obligation. It seeks to destroy the entire debt. No case goes so far as to support the special defense as pleaded, nor, as above stated, does the defendants’ authority support it.
+“The surrender, or release by a creditor without the guarantor’s consent, of any security held at the time when a third person guarantees the debt will operate as a discharge of the guarantor to the extent that he is injured thereby. . . .But the guarantor is not entirely discharged unless the security surrendered or lost equals or exceeds the amount of the secured debt.” 28 C.J. Guaranty §169, p. 1007.
+“A loss of securities by the fault of the creditor only releases the surety to the extent of the loss.” Central State Bank vs. Ford, 181 Iowa 319. See, also, Springer vs. Toothaker, 43 Me. 381.
+The guarantor’s liability will not be affected where there has been a release of the security “without any negligence or breach of duty on his part; or where there has been merely a change in the form of the security.” 28 C.J. Guaranty §169, p. 1008. See, also, Knickerbocker Trust Co. vs. Condon, 147 App. Div. (N.Y.) 871; Lane vs. Steward, 20 Me. 98.
+It is nowhere alleged in the special defense that the collateral released by the plaintiff was more valuable than the collateral substituted therefor, or to put it another way, that the security received by the plaintiff by means of this substituted collateral was not equal in value to the original security; therefore, no possible wrong on the part of the plaintiff appears by this allegation as made.
+The allegation in paragraph 5 of the special defense heretofore quoted likewise charges no wrong on the part of the plaintiff. It is said that the security was disposed of by the plaintiff without notice to the defendants and without their knowledge and consent. It is nowhere alleged that there was any negligence or want of good faith on the part of the plaintiff in taking this action. The defense goes on to state that the disposal of the security was “for an amount far below the reasonable market value of said security.” For all that appears, the disposal may have been for a sum which represented all that the plaintiff was able to secure. Whether or not the defense might be amended in such a manner as to make it sufficient is, of course, beside the point. As it now stands it certainly is not a valid defense to the extent of the whole obligation and it is pleaded as such a defense. The demurrer must be sustained.
+There is pending a companion suit in the instant case under the same title bearing number 55443 in this court in which an answer identical with that of the answer in the instant case is filed and a demurrer has been filed. The issue of law of course is precisely the same and this memorandum may serve also for this case. No. 55443.
