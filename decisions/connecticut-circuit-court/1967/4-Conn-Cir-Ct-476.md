@@ -1,0 +1,28 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CR 6-46799"
+decided: "1967-09-22"
+citations: ["4 Conn. Cir. Ct. 476"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Lemo Dorsey"]
+source_url: "https://static.case.law/conn-cir-ct/4/cases/0476-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1743694
+cites_cases: ["126 Conn. 1", "138 Conn. 196", "140 Conn. 586", "142 Conn. 285", "145 Conn. 124", "147 Conn. 7", "151 Conn. 391", "155 Conn. 463", "2 Conn. Cir. Ct. 288"]
+---
+
+# State v. Dorsey
+
+## Majority (Kinmonth, J.)
+
+Kinmonth, J.
+In a trial to the court the defendant was convicted of breach of the peace; General Statutes §53-174; and wilful injury to personal property; § 53-126; and has appealed, assigning as error the conclusion of the court that upon all the evidence he was guilty beyond a reasonable doubt. Upon this assignment we determine from the entire evidence whether the court erred in holding that guilt was established by the requisite degree of proof. State v. Pundy, 147 Conn. 7, 8.
+The facts may be stated briefly as follows: On the morning of February 16, 1967, the complaining witness went to work but came home unexpectedly at about 11:30 a.m. As she entered the front door of her apartment, she saw the defendant coming out of her bedroom and running out the back door and breaking the glass in the back door. "When she left in the morning, the back door was locked and the glass was intact. She chased the defendant for a short distance and returned to call the police. She found furniture slashed and scratched which had been in good condition when she left in the morning. The complaining witness and the defendant had been friends for about three years and had recently broken off relations. The defendant did not testify. On the above facts, the court found the defendant guilty of breach of the peace and wilful injury to private property.
+As to the charge of breach of the peace, the applicable portion of the statute (§53-174) reads as follows : “Any person who disturbs or breaks the peace by tumultuous and offensive . . . behavior, or by threatening ... or disturbs or breaks the peace . . . by . . . mocking any person, with abusive or indecent language, gestures or noise . . . .” The statute embraces a great variety of conduct which may disturb order and tranquility. Section 53-174 of the General Statutes does not define the crime of breach of the peace but merely specifies certain ways of committing it. It may be committed in ways other than those so specified. State v. Cantwell, 126 Conn. 1, 5. It suffices if the alleged offensive act is of such a character that it naturally tends to cause serious disquietude on the part of those in the vicinity. State v. Van Allen, 140 Conn. 586, 589. Each individual is entitled to be secure in his person, to be free from unjustified violation by others, and to be guarded by the law against any unwarranted intrusion upon Ms tranquility. Upon tMs foundation rests the existence of an orderly and civilized society. State v. Boyer, 2 Conn. Cir. Ct. 288, 294. The acts of the defendant constituted a breach of the peace within the fair intendment of the statute.
+As to the charge of wilful injury to private property, it is apparent that the state’s ease relating to the connection of the defendant with the damage to the furnishings rested exclusively on circumstantial evidence. The law recognizes no distinction between circumstantial evidence and direct evidence so far as probative force is concerned. If the evidence, whether direct or circumstantial, convinces the trier beyond a reasonable doubt that the accused is guilty, that is all that is required for a conviction. State v. Smith, 138 Conn. 196, 200. It is within the province of the trier to draw reasonable and logical inferences from the facts proven, and to base an inference on facts it finds as a result of other inferences. State v. Gonski, 155 Conn. 463, 467; State v. Foord, 142 Conn. 285, 294. Proof of a material fact by inference need not be so conclusive as to exclude every other hypothesis. It is sufficient if the evidence produces in the mind of the trier a reasonable belief in the probability of the existence of the material fact. Blados v. Blados, 151 Conn. 391, 395.
+As has been said so often, proof beyond a reasonable doubt is such proof as precludes every reasonable hypothesis except that which it tends to support and is consistent with the defendant’s guilt and inconsistent with any other rational conclusion. The requirement that evidence must be such as satisfies beyond a reasonable doubt does not mean that the proof must be beyond a possible doubt, and a possible supposition of innocence is a far different thing from a reasonable hypothesis. State v. Annunziato, 145 Conn. 124, 136; State v. Smith, supra. The fact that the defendant was found in the house and was fleeing led irresistibly to the inference that it was he who had damaged the furnishings. It follows that this evidence, and other facts of lesser importance, was sufficient to justify the court in finding that it had been established beyond a reasonable doubt that the defendant was the one who did the damage.
+Upon all the evidence, including the inferences which the court was amply warranted in drawing, it was justified in concluding that the defendant was guilty of the offenses charged beyond a reasonable doubt.
+There is no error.
+In this opinion Dearington and Wise, Js., concurred.
