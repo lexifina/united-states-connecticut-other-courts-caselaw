@@ -1,0 +1,36 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 142221"
+decided: "1971-03-31"
+citations: ["29 Conn. Supp. 198"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lawrence Sherman et al. v. John Kemish et al."]
+source_url: "https://static.case.law/conn-supp/29/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1768472
+cites_cases: ["59 Conn. 50"]
+---
+
+# Sherman v. Kemish
+
+## Majority (Testo, J.)
+
+Testo, J.
+This is an action by the plaintiffs, who are taxpayers, residents and electors of the town of Westport and as such are seeking from this court a permanent injunction enjoining the board of selectmen of the town of Westport from calling a special election pursuant to the provisions of chapter 30, § 8, of the town charter (28 Spec. Laws 450), which election would recall from office the chairman of the board of education. In their prayer for relief the plaintiffs also seek a judgment declaring that chapter 30, § 8, of the Westport town charter is invalid, illegal and unconstitutional.
+The defendants originally named were the selectmen of the town of Westport, who are charged by the aforementioned provisions of the town charter with ordering the holding of the recall election. Subsequently, the defendant Gilmore was permitted by this court to intervene as a party defendant.
+The defendant Gilmore asserts that this court is without jurisdiction to hear this matter; that an ex parte injunction heretofore issued by this court was illegal; that the plaintiffs have no standing in court; that they are guilty of laches; and that any relief granted by this court would be in violation of the constitution of the state of Connecticut in that such relief, if granted, would deprive the voters of the town of Westport of their right of suffrage.
+Permitted by this court to participate in this matter are representatives of the Connecticut Education Association and the Connecticut Association of the Boards of Education. They have appeared, participated, and argued as amici curiae.
+The plaintiffs are residents, taxpayers and electors of the town of Westport and as such come into this court seeking a remedy to correct a situation in the town which has become almost uncontrollable. If children are deprived of the full benefits of the state’s system of education, then the school patrons (the plaintiffs herein) should have a right to complain. Judicial disavowal of authority to review, on the grounds set out in the defendant Gilmore’s special defenses, or a reluctance to interfere with this problem serves to abdicate a grave responsibility. The educational provision of the constitution of the state of Connecticut, article eighth, § 1, lays the basis for a suit by its citizens for the young beneficiary. The court, therefore, is of the opinion that it has jurisdiction over this matter and that the plaintiffs are properly before the court.
+The defendant Gilmore also asserts as one of his defenses that a judge of this court should not have signed an ex parte injunction. While a judge normally will discourage ex parte hearings on applications for injunctions, a judge should act on such applications where the necessity for quick action is clearly shown. This court can only conclude that the ex parte injunction application was signed because the necessity for quick action was clearly shown.
+The court is of the opinion that the defendant Gilmore’s right to suffrage (Conn. Const, arts. II, X § 1) has not been violated. The defendant Gilmore and, indeed, the electorate of the town of Westport are not being disenfranchised if their right to vote in the regular November election is not prohibited. This court does not intend to prohibit them from voting in this regular election.
+The defense of laches interposed by the defendant Gilmore has no merit. This court does not believe that the time which has elapsed before the bringing of this action has unduly prejudiced the defendant Gilmore.
+Article eighth, § 1, of the constitution of Connecticut states: “There shall always be free public elementary and secondary schools in the state. The general assembly shall implement this principle by appropriate legislation.” The General Assembly has in many instances implemented this principle of free education by much legislation. In many of our statutes there are set out the powers and duties of members of the many boards of education in this state. See General Statutes § 10-220. Most recently, Public Acts 1969, No. 690, in amending § 10-220, has stated that members of boards of education shall “provide such other educational activities as in their judgment will best serve the interests of the town” (italics supplied). In the case at hand, it appears that the chairman of the board of education has exercised her judgment in a state-sanctioned educational activity and by so doing finds herself confronted with the recall provision of her town charter.
+This court agrees with the many cases heretofore decided wherein it is stated that members of boards of education are agents of the state for educational purposes. See State ex rel. Walsh v. Hine, 59 Conn. 50. They are agents of the state compelled to comply with the state constitution (article eighth, § 1) and the many statutes implementing this principle.
+The court is of the opinion that the members of the board of education of the town of Westport are excluded from the provisions of chapter 30, § 8, of its charter, because they are unique in their position as members of such a board, charged with their duties by the state constitution and the General Statutes. They are not, nor could they be, reasonably included in the recall provision as elective officers of the town. If their primary obligation and duty were to perform solely and exclusively for the town of Westport, their inclusion would be unquestionable.
+Recall is a proper political matter for officers or officials who have no constitutional or statutory basis for existence. A member of the board of education does possess this connection to the laws of this state and to their subsequent implementation as provided by the legislature, and because of this connection a board of education member should never be in conflict with the charter provisions of the town wherein he is elected.
+This court, therefore, holds that members of a board of education, as agents of the state for educational purposes, cannot be included as members of an “elective board” of the town of Westport, because the primary legal obligation of members of a board of education is to the state of Connecticut for educational purposes. They are not municipal officers under the charter of the town of Westport.
+Therefore, it is hereby adjudged that chapter 30, § 8, of the charter of the town of Westport does not apply to members of the board of education of the town; and the defendants Kemish, Lyne and Marcus are permanently enjoined from calling a special election for the recall of the chairman of the board of education of the town of Westport.
+Judgment may enter accordingly.
+“[Westport Charter, e. 30] Section 8. recall. Any elective officer or member of an elective board may be removed from office as provided in this section.. ..”
