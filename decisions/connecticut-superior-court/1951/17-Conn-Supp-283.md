@@ -1,0 +1,29 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 19706"
+decided: "1951-06-25"
+citations: ["17 Conn. Supp. 283"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Earl P. Daines v. Groton Post No. 3 of the Patrolmen’s Benevolent Association of Connecticut"]
+source_url: "https://static.case.law/conn-supp/17/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321864
+cites_cases: ["113 Conn. 188", "50 Conn. 433", "61 Conn. 157", "87 Conn. 354"]
+---
+
+# Daines v. Groton Post No. 3 of Patrolmen's Benevolent Ass'n
+
+## Majority (QUINLAN, J.)
+
+QUINLAN, J.
+This plaintiff sustained injuries while working on a ladder at the Groton airport in preparation for a ball to be given by the defendant. The defendant is a corporation without capital stock, organized for the following purposes: “The object of the Association shall be the promotion of those measures that will improve public service; the improvement of the moral, mental, social and material conditions of its members; and by united effort endeavor to improve conditions of our employment in the public service.”
+The defendant not only claims contributory negligence but by way of special defense alleges that the defendant is a charitable institution and that the work at the airport was done and the dance or ball was held for the purpose of raising funds with which to carry on its charitable purposes. Evidence was offered in support of the latter defense, but this evidence also disclosed that the maintenance of the defendant organization, in addition to the dues, came in part from funds raised at this annual ball. Also, under the title “Finance,” article 5 of the by-laws provides: “All expenditures or appropriations of money must be ordered and approved by the Executive Committee. Payments shall be made by check and signed by the Treasurer. There shall be no appropriation of money or disposal of property made without a two-thirds (2-3) vote of the members present at any regular, special, or annual meeting of the Association.”
+I cannot find that the avails of the ball were of an entirely charitable character, but even if they were a question of law is raised that seems to have been disposed of by our Connecticut cases.
+Before reference is made to the principle, it should be pointed out that these pleadings approach the case as one of negligence against the owner in control as to an invitee. While it may be true that a denial of allegations setting forth a master ana agent relationship would enable the defendant to take advantage of the fellow servant rule without specially pleading it, the condition of the pleadings here does not admit of such procedure, in my opinion.
+The defendant urges the relation of master and servant and, while I am not inclined to accept the existence of such a relationship, it seems not to make a difference as to culpability here. “The master is bound to exercise reasonable care to provide, for the use of his servants and for their protection and security, suitable machinery, implements, materials and appliances, and to employ as their associates and co-laborers none but fit and competent persons; and if he fail to perform those duties and in consequence of such failure any of his servants are injured, he will be responsible for the injuries, though the negligence of a fellow-servant contributed to produce them.” Wilson v. Willimantic Linen Co., 50 Conn. 433, 440. In the case of O’Bierne v. Stafford, 87 Conn. 354, 357, our court said: “The law places upon the master a positive duty as to the place, appliances, instrumentalities, and co-laborers he shall provide for his servant. He may, by his contract of employment, extend the range of his duty. The parties are not restricted in their right of contract save by law. Whatever the master contracts to do within the law he must perform; he cannot by delegation escape the consequences of his nonperformance.”
+Again, our court in McElligott v. Randolph, 61 Conn. 157, 162, quotes from Wood on Master and Servant (p. 871) as follows: “The rule established and supported by the better class of cases is, that whenever the master delegates to another the performance of a duty to his servants which the master has impliedly contracted to perform in person or which rests upon him as an absolute duty, he is liable for the manner in which that duty is performed by the middleman whom he has selected as his agent, and to the extent of the discharge of those duties by the middleman he stands in the place of the master.”
+Subdivisions a, b, c, and d of paragraph 4 of the complaint set forth obligations of the master which were violated, and, as to e and f, Iverson was the middleman, so that even if St. Lawrence was a fellow servant the defendant is not relieved. St. Lawrence was not a competent servant and he did not testify.
+To return, then, to the special defense of charitable immunity and my earlier reference to its disposition by Connecticut cases, I refer particularly to Cohen v. General Hospital Society, 113 Conn. 188, 198, where our court said: “While for one reason or another the courts have held a public charity immune from liability for the negligence of its employees, in the employment of whom it has exercised due care, such exemption from liability has not generally been extended to cover actions brought by employees, invitees or strangers.”
+The plaintiff sustained a comminuted fracture of the left os calcis affecting weight bearing surface, accompanied of course by a cast for twd months, and there is permanent partial disability. There are hospital and doctors’ bills amounting to over $700. Damages in the sum of $6500, in the light of the purchasing value of the dollar, are fixed, and judgment therefor with costs may enter.
