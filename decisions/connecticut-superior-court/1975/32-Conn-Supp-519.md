@@ -1,0 +1,30 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 04"
+decided: "1975-04-02"
+citations: ["32 Conn. Supp. 519"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Raymond Densmore v. Thomas H. Eyles"]
+source_url: "https://static.case.law/conn-supp/32/cases/0519-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1672767
+cites_cases: ["144 Conn. 725", "162 Conn. 430", "18 Conn. 561", "404 S.W.2d 433", "58 Conn. 561", "71 Conn. 413", "80 Conn. 140"]
+---
+
+# Densmore v. Eyles
+
+## Majority (Barber, J.)
+
+Barber, J.
+In this action brought to recover for labor and materials furnished to the defendant, the plaintiff moved for disclosure of defense or judgment. On the defendant’s failure to disclose within three weeks as ordered by the court, judgment was rendered for the plaintiff. The defendant has appealed, assigning as error the action of the court in granting the motion of the plaintiff for disclosure of defense or judgment.
+The record shows that the defendant entered an appearance for himself. We take judicial notice, and the defendant admits, that he is an attorney admitted to practice in this state. The defendant claims that, although he is an attorney, he is not bound by the rules of practice requiring disclosure of defense by attorneys, because he has entered an appearance for himself.
+The rules of practice of the Superior Court provide for disclosure of defense by an attorney for a defendant or judgment for the plaintiff, and permit an attorney who intentionally or recklessly makes a false statement in such a disclosure to be disciplined. Practice Book § 176. That rule of practice was applicable to the Circuit Court. General Statutes § 51-269 (later amended; see § 51-164g); Practice Book § 800; see Practice Book § 800A. The design of the rule is not to cut off meritorious defenses but to avoid dilatory tactics, advance justice, and speed the date of judgment. Jennings v. Parsons, 71 Conn. 413, 416; see Practice Book § 547; 71 C.J.S., Pleading, § 177. Compare Practice Book § 176 with Practice Book § 302, which provides that when an affidavit is made or presented in bad faith in a proceeding for summary judgment, any offending party or attorney may be adjudged guilty of contempt, and any offending attorney may also be disciplined by the court. Those rules are designed to put teeth into the requirement that pleadings be in good faith. 1 Stephenson, Conn. Civ. Proc. (2d Ed.) § 133.
+The defendant does not dispute that Practice Book § 176 was valid and applicable in the Circuit Court, but he does claim that it should not be construed to apply to him because he has entered an appearance for himself. Buies of practice must be construed reasonably and with consideration of their purpose. 20 Am. Jur. 2d, Courts, § 86. Rules, like statutes, must be interpreted as they are written. Mancinone v. Warden, 162 Conn. 430, 439. If the meaning of a rule is not clear from its language, its historical background is relevant. State v. Ewing, 404 S.W.2d 433, 436 (Mo. App.).
+Section 176 may be traced back to a time before the enactment of the Practice Act in 1879. Rules of Practice, c. 2 § 7 (1847), 18 Conn. 561, 562. The rule has survived substantially unchanged. The rule then as now applied in any case in which there shall be “an appearance by attorney for the defendant” and provided that “if such attorney . -. . shall intentionally [or recklessly] . . . make a false statement with a view to procure the continuance or postponement of [an action] . . . the eourt may suspend him from practice as . . . attorney.” It is significant that the rule in 1847 was included in the chapter entitled “Attorneys.” The rule was also included in the revised rules of practice, adopted after the enactment of the Practice Act, in the chapter entitled “Attorneys.” Rules of Practice, pt. 2, c. 4 § 6 (1890), 58 Conn. 561, 576.
+Ordinarily an appearance is made through an attorney, but any party may appear for himself. Practice Book § 42; Beardsley v. Beardsley, 144 Conn. 725, 729. When an attorney appears before the court in either instance, it is expected that his conduct will be characterized by candor and competence. An attorney admitted to practice is an officer of the court. In re Durant, 80 Conn. 140, 147. As such, he is subject to the rules and orders of the court before which he acts and may be disciplined for just cause. General Statutes § 51-84. It would be a strained interpretation of § 176 that would allow an officer of the court appearing before the court, either as an individual or in a representative capacity, to shed, his status and responsibility as such. The clear language of § 176, its purpose and its history, compel us to decide that it applies to an attorney who is admitted to practice, whether he is appearing for himself or another.
+The trial court correctly applied Practice Book § 176 in granting the motion of the plaintiff for disclosure of defense by the defendant.
+There is no error.
+In this opinion Speziale and Sponzo, Js., concurred.
+“[Practice Book] Sec. 176. disclosure of defense. Id any case in which there is an appearance by attorney for the defendant the plaintiff may at any time require such attorney to present to the court, to become a part of the file in such case, a writing signed by him stating whether he has reasons to believe and does believe that there exists a bona fide defense to the plaintiff’s action and whether such defense will be made, together with a general statement of the nature or substance of such defense. If such attorney shall fail to disclose as required, or shall not satisfy the court that such defense will be made, the court may order judgment to be entered for the plaintiff; and if such attorney shall intentionally or recklessly make a false statement with a view to procure the continuance or postponement of an action, the court may suspend him from practice as attorney in said court for such time as it shall deem proper.”
