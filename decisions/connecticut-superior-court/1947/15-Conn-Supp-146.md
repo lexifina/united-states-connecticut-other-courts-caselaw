@@ -1,0 +1,30 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 69352"
+decided: "1947-08-15"
+citations: ["15 Conn. Supp. 146"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dorothea E. Krappatsch et al. v. Kenneth G. Thompson et al."]
+source_url: "https://static.case.law/conn-supp/15/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 707595
+cites_cases: ["100 Conn. 114", "106 Conn. 294", "112 Conn. 76", "114 Conn. 523", "115 Conn. 379", "119 Conn. 307", "126 Conn. 704", "128 Conn. 24", "130 Conn. 185", "93 Conn. 431", "95 Conn. 239"]
+---
+
+# Krappatsch v. Thompson
+
+## Majority (COMLEY, J.)
+
+COMLEY, J.
+This case was tried before the late Hon. Charles J. McLaughlin who died before rendering a decision. The parties have submitted the case by stipulation to me upon a transcript of the testimony. I have read the evidence and examined the exhibits and there can be no doubt, and I so find, that the plaintiffs’ injuries were proximately caused by the negligence of Kenneth G. Thompson and without contributory negligence on the part of Virginia Krappatsch.
+A more serious question arises in connection with the plaintiffs’ claim that George J. Thompson was the owner of the car driven by his son, Kenneth, and that, at the time of the accident, it was being operated by Kenneth as a family car or within the scope of a general agency.
+There is no doubt that the father enabled the son to negotiate the purchase of the car by indorsing the son’s promissory note, and there is no doubt that at least one of the reasons why the car was registered in the father’s name was to avoid the proof of financial responsibility which would have been required to effect registration in the name of the minor son. Now that a situation has arisen which makes the matter of financial responsibility one of acute, concern to these plaintiffs, the father and son both join in trying to fasten ownership of the car on the son. Under these circumstances the father is estopped to deny ownership or to evade the responsibility that goes with that ownership. See Kaplenski v. Horwitz, 114 Conn. 523; Cleeland v. Carter, 126 Conn. 704; Dunn v. Santamauro 119 Conn. 307; Kaufman v. Hegeman Transfer Lighterage Terminal, Inc., 100 Conn. 114.
+This conclusion leads to the question whether the car, at the time of the accident, was being operated as a family car. Since the operator was the son of the owner there is a presumption that it was being driven as a family car within the scope of a general authority from the owner. See General Statutes, Cum. Sup. 1935, § 1658c. To overcome this presumption, the defendant offered evidence that the father lived in Arlington Heights, Massachusetts, while the son lived in Windsor, Connecticut. The car at all times was in the possession of the son in Windsor. He used it daily to go to and from his place of employment in East Hartford and, outside of working hours, he used it generally for his own pleasure or convenience. No one but the son had driven the car down to the time of the accident and it was never used for any one’s benefit or pleasure or convenience but his own.
+Under these circumstances it does not seem to me that this can be regarded as a family car. Even in Durso v. Cozzolino, Inc., 128 Conn. 24, where the family-car doctrine was liberally extended and applied, there is repeated several times in the course of the opinion such phrases as “for the general use of his household” and “for the general use of a family.” There seems to be implicit in the meaning of the phrase that the car is kept for the general use of two or more persons constituting a household group. See Wolf v. Sulik, 93 Conn. 431; O'Keefe v. Fitzgerald, 106 Conn. 294; Maher v. Fahy, 112 Conn. 76.
+In the present case, the car was kept at all times a substantial distance from the owner’s home. In fact it was kept in another state. In no sense of the word was it maintained by the father as a car for the use and convenience of a group constituting a household. It was kept exclusively for the use of a son who maintained a separate and distant residence and who used it at all times solely for his own purposes. Under these circumstances, it was not a family car and, therefore, George J. Thompson is not liable on that theory.
+The plaintiff’s final claim is that George J. Thompson is liable on the general theory of agency. Section 1661c Cum. Sup. 1935, creates a rebuttable presumption of such liability. The defendants have offered proof of sufficient facts to overcome this statutory presumption and place the burden of proof as to agency upon the plaintiffs. I find that the plaintiffs have successfully sustained this burden and that Kenneth G. Thompson was operating the car as his father’s agent.
+To be sure, Kenneth was performing no particular business for his father when the accident happened. However, it does appear that Kenneth was a minor son living away from home. He needed a car in order to go to and from his employment and to get about in the general activities of his life. To assist him in doing this the father aided him in the purchase of the car and assumed the responsibilities of the registered owner. Under these circumstances and in view of the decisions in Koops v. Gregg, 130 Conn. 185, Whiteman v. Al’s Tire & Service Garage, Inc., 115 Conn. 379, and Adomaitis v. Hopkins, 95 Conn. 239, it seems to me that the father is liable.
+The special damages of Dorothea Krappatsch total $877.01, while those of Virginia are $490.13. For pain and suffering and general incapacity each is awarded the sum of $2000. Each sustained extensive and permanent facial scars as the result of the accident, those suffered by Dorothea 'being especially prominent and disfiguring. For this element of damage Dorothea is awarded the sum of $5000 and Virginia the sum of $2000.
+Judgment is rendered for Virginia Krappatsch to recover from the defendants $4490.13, and for Dorothea Krappatsch to recover from the defendants $7877.01.
