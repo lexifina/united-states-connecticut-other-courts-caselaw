@@ -1,0 +1,30 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. CV-04-0488803S"
+decided: "2005-01-25"
+citations: ["49 Conn. Supp. 216"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MEDICAL ASSOCIATES OF NORTH HAVEN, LLC v. HARTFORD CASUALTY INSURANCE COMPANY"]
+source_url: "https://static.case.law/conn-supp/49/cases/0216-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3884689
+cites_cases: ["196 Conn. 596", "494 A.2d 1206"]
+---
+
+# Medical Associates of North Haven, LLC v. Hartford Casualty Insurance
+
+## Majority (BLUE, J.)
+
+BLUE, J.
+The motion for summary judgment now before the court presents the question of whether the term “land,” used in a property damage insurance policy, encompasses buildings as well as unimproved ground area. For the reasons briefly stated, the court finds that the answer to this question is in the affirmative. The motion for summary judgment filed by insurer Hartford Casualty Insurance Company (Hartford), the defendant, must consequently be denied.
+The relevant facts are not in dispute. The parties agree that the issue presented is one of law. In 2002, defendant Hartford entered into an insurance policy (policy) with the plaintiff, Medical Associates of North Haven, LLC (Associates). The policy covers physical loss or damage to Associates’ “premises” located at 2 Broadway in North Haven.
+On May 15,2003, an employee of Associates dislodged a blood pressure machine from the wall of a second floor office on the premises. The machine broke, and mercury was spilled. Associates submitted a claim for the resulting damage, which Hartford subsequently denied.
+On March 26, 2004, Associates commenced this action by service of process. The single count complaint seeks monetary damages. On November 22, 2004, Hartford filed the motion for summary judgment now before the court. The motion asserts that Associates’ claim is precluded by the provisions of the policy. The motion was heard on January 24, 2005.
+The parties agree that the mercury spilled at the premises was a “pollutant” for purposes of the policy. The policy states: “We will pay your expense to extract ‘pollutants’ from land or water at the described premises.” The parties further agree that the applicability of the provision just quoted to the circumstances presented here turns on the meaning of the term “land.” The term is not defined by the policy. If, as Hartford asserts, the term “land” refers exclusively to undeveloped ground area, Hartford has no obligation to pay Associates’ expenses because the “pollution” here occurred inside the four walls of a building. If, on the other hand, as Associates argues, the term “land” refers more broadly to real property, it encompasses buildings as well as undeveloped ground area, and the policy does not preclude the claim made here.
+The term “land” has a well established legal meaning. Our Supreme Court has explained that in the context of the historic district statute, General Statutes § 7-147b, “ ‘land’ . . . means real property in the conventional sense . . . .” Gentry v. Norwalk, 196 Conn. 596, 612, 494 A.2d 1206 (1985). This definition is not restricted to the statute at issue in Gentry but is instead grounded in broadly accepted principles of law. Gentry relies on 1 Restatement, Property § 8 (1936), which defines “real property” as “interests in land.” Gentry v. Norwalk, supra, 612.
+The definition of “land” set forth in the most recent edition of Black’s Law Dictionary is consistent with this understanding. Black’s defines “land” in pertinent part as “[a]n immovable and indestructible three-dimensional area consisting of a portion of the earth’s surface, the space above and below the surface, and everything growing or permanently affixed to it.” Black’s Law Dictionary (8th Ed. 2004). Lawyers have had this understanding of the term “land” since at least the time of Blackstone. “[T]he word ‘land’ includes not only the face of the earth, but every thing under it, or over it. And therefore if a man grants all his lands, he grants thereby all his mines of metal and other fossils, his woods, his waters, and his houses, as well as his fields and meadows.” 2 W. Blackstone, Commentaries on the Laws of England (1807 Ed.) pp. 18-19. Unless the term “land” is otherwise defined in a specific insurance policy — and here it is not — that term should be given its well established legal meaning of “real property,” a meaning which encompasses buildings as well as unimproved grounds.
+Hartford points out that a separate provision of the policy, concerning “property not covered,” states that the policy does not cover “[l]and (including land on which the property is located), water, growing crops, or lawns. ” At best, however, the “not covered” provision just quoted makes the policy contradictory rather than clear. As mentioned, the “pollution” clause on which the case actually turns states: “We will pay your expense to extract “pollutants” from land or water at the described premises.” The fact that the policy purports to exclude “land” and, at the same time, purports to cover “land” is plainly nonsensical. Any resulting contradiction or ambiguity must be read in favor of the insured.
+The purpose of the policy as a whole is, however, reasonably clear. That purpose is to cover damages sustained at a business “premises.” The “premises” in question here plainly take the form of a building. The fact that the policyholder is named “Medical Associates of North Haven, LLC,” should have been sufficient to alert Hartford that its policyholder was not a coalition of farmers. It is unlikely that a group of medical professionals will conduct the majority of its business on unimproved ground. If “land” is to be covered by the policy, and it clearly is for purposes of the “pollution” clause in question here, that term must be given its broad, well established legal meaning. That term encompasses buildings as well as unimproved grounds.
+Hartford’s motion for summary judgment is, therefore, denied.
