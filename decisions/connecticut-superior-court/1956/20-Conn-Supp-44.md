@@ -1,0 +1,31 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 103422"
+decided: "1956-02-29"
+citations: ["20 Conn. Supp. 44"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Zarchen v. Union Equipment Company, Inc., et al."]
+source_url: "https://static.case.law/conn-supp/20/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1756461
+cites_cases: ["59 Conn. 354"]
+---
+
+# Zarchen v. Union Equipment Co.
+
+## Majority (Phillips, J.)
+
+Phillips, J.
+The present action is for the foreclosure of a chattel mortgage. The plaintiff has moved to stay the proceedings and for an order compelling the defendant Cink, hereafter referred to as defendant, to proceed with arbitration in accordance with an arbitration agreement. The pleadings disclose the following situation:
+On August 6, 1954, the plaintiff and defendant entered into an agreement whereby the former agreed to sell to the latter the capital stock of three corporations. On August 27, 1954, a chattel mortgage and note for $10,000 was given by the defendant to the plaintiff, in pursuance of the agreement, providing weekly payments of $100. On May 26, 1955, the parties entered into an agreement to arbitrate all differences, disputes and controversies arising under the agreement of August 6, 1954, including the interpretation and construction thereof, and on the same day a submission to arbitrators selected from the panels of the American Arbitration Association was executed by the parties. The arbitration agreement provided that pending the arbitration, defendant would continue to make payments in escrow under the chattel mortgage.
+In July, 1955, the present foreclosure proceeding was commenced, alleging that payments under the chattel mortgage had ceased July 15, 1955. The defendant pleaded a special defense alleging that the note and mortgage were procured by fraud. He also filed a counterclaim, alleging in essence that the plaintiff furnished false statements to the defendant under the agreement of August 6, 1954, for the purpose of inducing defendant to complete the purchase, and that relying on these false statements the defendant consummated the purchase and executed the note and chattel mortgage; also that the plaintiff had breached certain terms of the agreement; damages of $25,000 were claimed in the counterclaim.
+The questions now presented are whether the plaintiff is entitled under General Statutes, § 8152, to a stay of the foreclosure suit, which he himself has brought and which involves a litigation of the counterclaim, and whether he is entitled to compel the defendant to proceed with arbitration, under § 8153 or otherwise.
+The plaintiff is clearly entitled to a stay under § 8152. That statute provides that if any action is brought by any party to a written agreement to arbitrate, the court, upon being satisfied that any issue involved in such action or proceeding is referable to arbitration under such agreement, shall, on motion of any party to the arbitration agreement, stay the action until an arbitration has been had, provided the person making application for the stay shall be ready and willing to proceed with such arbitration. Every requirement of the statute is satisfied; it is undisputed that this foreclosure was brought by a party to an arbitration agreement, the pleadings disclose that at least some of the issues raised by the counterclaim are referable to arbitration under the arbitration agreement, and the present motion is made by a party to the arbitration agreement who has alleged that he is ready and willing to proceed with the arbitration. It does not matter that the moving party is the one who has brought the suit. The statute does not exclude such a situation. Where, as here, there is a counterclaim containing issues which are covered by the arbitration agreement, the reason why a plaintiff should be permitted a stay becomes evident.
+The remaining question is a procedural one. The statute, § 8153, provides that a party to a written agreement for arbitration claiming the neglect or refusal of another to proceed with arbitration “may” make an application to the Superior Court for an order directing the parties to proceed with the arbitration. It provides that such application “shall” be by writ of summons and complaint, served in the manner provided by law. It then provides that such complaint “may” be in a certain form. The plaintiff has made his application for an order directing the defendant to proceed with arbitration by motion in the instant suit, not by writ of summons and complaint.
+In determining whether the provisions of a statute are mandatory or merely directory, the test most satisfactory and conclusive is whether the prescribed mode of action is of the essence of the thing to be accomplished, or in other words whether it relates to matter material or immaterial. Gallup v. Smith, 59 Conn. 354, 358. The procedure under § 8153 clearly relates to a material matter. By following it, the adverse party is assured of proper notice, the case comes to court in the customary manner and results in a final judgment from which an appeal may be taken, as distinguished from a ruling on an interlocutory motion. By following it the parties may take advantage of the further provisions for a speedy hearing at short calendar, or, if the situation warrants, for a more lengthy hearing before the court as a privileged case.
+It is significant that the word “shall” was used in prescribing action by summons and complaint whereas the word “may” was used in the preceding and following sentences, as stated above. The phraseology fortifies the conclusion that the provision for proceeding by writ and complaint is mandatory rather than directory.
+The plaintiff may resort to this statute, or he may adopt another course, for example, the arbitration may go forward under § 8157. But if he elects to apply for a court order, he must bring his application as provided in § 8153.
+An order may issue staying the present foreclosure proceeding until an arbitration has been had in compliance with the agreement.
+The motion for an order to proceed with arbitration is denied.
