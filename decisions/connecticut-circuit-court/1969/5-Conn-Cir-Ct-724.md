@@ -1,0 +1,29 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CV 8-6710-6234"
+decided: "1969-06-20"
+citations: ["5 Conn. Cir. Ct. 724"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter Shanbrom v. Marion K. Tupko"]
+source_url: "https://static.case.law/conn-cir-ct/5/cases/0724-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1745590
+cites_cases: ["384 U.S. 373", "391 U.S. 194", "391 U.S. 216"]
+---
+
+# Shanbrom v. Tupko
+
+## Majority (Kosicki, J.)
+
+Kosicki, J.
+We deem it unnecessary to discuss the court’s finding, which has not been attacked and is sufficient to support the ultimate conclusion reached by the court. The assignment of errors presents only two questions: (1) whether the court erred in issuing the injunction ex parte, thus depriving the defendant of representation by counsel she had retained; (2) whether, on the hearing for contempt and the eventual order, the defendant was deprived of her constitutional right to a trial by jury.
+The first claim of error is not a correct statement of the facts as they appear on record. The parties appeared and signed a stipulation that each would refrain from certain specified acts and conduct and that, if the defendant violated or breached her agreement, “the injunction prayed for in the plaintiffs complaint shall issue forthwith.” The stipulation was approved by the court on the same date. Several days thereafter, the plaintiff presented a motion for an order to show cause why the injunction provided for in the stipulation should not issue. The motion recited a number of violations of the stipulation and was accompanied by supporting affidavits. The court set the matter down for hearing and notified counsel of the date thereof. Neither the defendant nor her counsel appeared and, after waiting until the afternoon, the court proceeded with the hearing and issued ex parte the injunction described in the stipulation mentioned above. The defendant at no time moved to dissolve the injunction or appealed from the decree.
+Thereafter, the court ordered the defendant to appear and show cause why she should not be held in contempt. After a lengthy hearing with all parties present and represented by counsel, the court found that the defendant, on numerous occasions and in various ways, had violated the terms of the injunction and ordered her committed for six months.
+In onr opinion, the first assignment of error is without merit. Under § 52-473 of the General Statutes, “ [injunctions may be granted forthwith, if the circumstances of the case demand it, or the court or judge may cause immediate notice of the application to be given to the adverse party, that he may show cause why such injunction should not be granted.” The procedure followed in this case was in accord with the statute. Furthermore, the stipulation, signed by the parties and their counsel and approved by the court, unequivocally provided that if the defendant violated or breached her agreement “the injunction prayed for in the plaintiff’s complaint shall issue forthwith.” The court’s conclusion and order cannot be disturbed.
+The remaining assignment, for the first time, claims violation of a constitutional right because the defendant was never offered the opportunity to elect a trial by jury. The simple answer is that the defendant never asked for a jury trial. But even if she had expressed such an election, she still would not have been entitled to a trial before a jury in the contempt hearing, which was for a civil contempt.
+In two recent decisions, both rendered on May 20, 1968, the Supreme Court of the United States passed on the question of the right to a jury trial under the provisions of the federal constitution. In Bloom v. Illinois, 391 U.S. 194, a state prosecution for criminal contempt in which the defendant made timely demand for a jury trial, the court held that since criminal contempt is a crime in the ordinary sense it is a crime to which the jury trial provisions of the constitution apply. U.S. Const. art. III § 2 & amends. VI, V, XIV § 1. The court, however, went on to say (p. 209): “The goals of dispatch, economy, and efficiency are important, but they are amply served by preserving the power to commit for civil contempt and by recognizing that many contempts are not serious crimes but petty offenses not within the jury trial provisions of the Constitution.” (Italics supplied.) In another case decided the same day, the Supreme Court of the United States said: “Alleged criminal contemnors must be given a jury trial, therefore, unless the legislature has authorized a maximum penalty within the ‘petty offense’ limit or, if the legislature has made no judgment about the maximum penalty that can be imposed, unless the penalty actually imposed is within that limit.” Dyke v. Taylor Implement Mfg. Co., 391 U.S. 216, 219. The court continued (p. 220): “From Cheff v. Schnackenberg, 384 U.S. 373 ... , it is clear that a six-month sentence is short enough to be ‘petty.’ ”
+In the instant matter, we have a civil contempt action specifically exempted from the jury trial provisions of the United States constitution by the Bloom case. Further, the six-month sentence imposed by the court is “petty,” as defined by the Dyke case, and therefore, by way of a second reason, the action is exempted from the right to a jury trial. Both the Bloom and the Dyke cases arose out of state criminal contempt proceedings. The defendant has cited no authority for the proposition that in a case for civil contempt she is entitled to a jury trial. The proceedings are in equity and heard by the court or, in a proper case, by a judge thereof. General Statutes § 52-471.
+There is no error.
+In this opinion Uearixgtoít and Kixmosth, Js., concurred.
