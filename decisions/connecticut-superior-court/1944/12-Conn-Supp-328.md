@@ -2,7 +2,7 @@
 court: "Connecticut Superior Court"
 docket: "File No. 64518"
 decided: "1944-01-11"
-citations: ["12 Conn. Supp. 328", "12 Conn. Supp. 327"]
+citations: ["12 Conn. Supp. 328"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["CONNECTICUT SAVINGS BANK vs. THOMAS F. REILLY ET ALS."]
 source_url: "https://static.case.law/conn-supp/12/cases/0328-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1319836
-cites_cases: ["106 Conn., 436", "110 Conn. 528"]
+cites_cases: ["110 Conn. 528"]
 ---
 
 # Connecticut Savings Bank v. Reilly
