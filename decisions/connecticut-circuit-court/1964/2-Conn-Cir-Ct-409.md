@@ -1,0 +1,26 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. MV 13-5146"
+decided: "1964-01-14"
+citations: ["2 Conn. Cir. Ct. 409"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Dearborn F. Halpin"]
+source_url: "https://static.case.law/conn-cir-ct/2/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1738638
+cites_cases: ["103 Conn. 511"]
+---
+
+# State v. Halpin
+
+## Majority (Dearington, J.)
+
+Dearington, J.
+The defendant was found guilty of operating an overweight vehicle in violation of § 14-267 of the General Statutes and has appealed, claiming certain errors in the court’s conclusions and further that upon all the evidence the court erred in finding him guilty, as charged, beyond a reasonable doubt.
+The facts may he summarized as follows: On May 21, 1963, the defendant was operating a 1952 Autocar two-axle dump truck bearing Connecticut registration number, commercial, 23388. While he was traveling on route 187 in the town of East Granby, he was observed by a state trooper and upon being stopped gave his registration and weight slip to the trooper. The registration of the vehicle indicated that the vehicle’s light weight was 16,000 pounds and its gross weight was 32,000 pounds. The vehicle was then weighed at a scale and its total weight was found to be 41,600 pounds, indicating an overweight of 9600 pounds. Thus, the combined weight of the vehicle and its load exceeded by more than 2 percent the registered gross weight. Such an excess is prohibited under § 14-267. The certificate of registration of the vehicle had expired on April 30, 1963, and had not been renewed. Upon these facts the trial court concluded that the defendant was guilty as charged.
+The defendant does not dispute these facts. His basic contention is that since the court found that the right to operate this vehicle on a public highway had expired prior to the day in question, the court committed error in admitting the evidence of weight appearing in the certificate of registration as prima facie evidence of the vehicle’s weight for use in computing the overweight. Section 14-267 provides in part as follows: “No person shall operate any commercial motor vehicle ... on any public highway . . . when the combined weight of vehicle and load exceeds by two per cent or more the gross weight ... as registered with the department of motor vehicles . . . .” The court resorted to the information indicated in the certificate of registration in computing the overweight. No objection was made to the admission of the registration for the reason that it was not a valid certificate issued by authority of the motor vehicle department of the state of Connecticut or that the information it contained was other than accurate or that such certificate did not apply to the vehicle in question. In fact, the certificate was introduced by the defendant and came in as a full exhibit subject to no limitations. The defendant further admitted the combined weight of the vehicle and its load to be 41,600 pounds. Thus the vital question presented by the defendant for our review is whether the trial court was in error in resorting to the information appearing in the certificate for the purpose of determining whether the vehicle was overweighted.
+While it is true that the right to use or operate the vehicle on a public highway had expired under the terms of the certificate, it is also true that the contents of the certificate were not thereby invalidated. The certificate was prima facie evidence of the truth of what it contained as certified to by the motor vehicle department from its registry. See State v. Torello, 103 Conn. 511. The defendant does not question this rule but he does contend that such evidence lost its probative force upon the expiration date of the certificate and thereafter was not available as evidence. “It is well established that when the existence of ... a state of things is once established by proof, the law presumes that the . . . state of things continues to exist as before, until the contrary is shown, or until a different presumption is raised from the nature of the subject in question. The question as to the presumption of continuance of certain facts or conditions is largely a matter resting within the sound discretion of the trial court, to be decided by the light of the facts and circumstances of the particular case.” 20 Am. Jur. 205, Evidence, § 207. “The burden is on the party who seeks to prove its termination.” 1 Wharton, Criminal Evidence (12th Ed.) § 115, p. 221. Such a presumption of continuity is not retroactive; it is prospective only. Ibid. Since the presumption is a rebut-table one, the defendant could have offered countervailing evidence if he had such evidence. The failure of the defendant to offer any countervailing evidence on this point was obviously regarded by the trial court as tending to confirm the weights indicated in the certificate.
+Upon all of the evidence, including the presumption, which the court was entitled to consider, the court was justified in concluding that the defendant was guilty as charged beyond a reasonable doubt.
+In this opinion Jacobs and Kinmonth, Js., concurred.
