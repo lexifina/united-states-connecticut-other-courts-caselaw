@@ -1,0 +1,26 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 9491"
+decided: "1947-01-13"
+citations: ["14 Conn. Supp. 429"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pauline R. Donovan v. George H. Donovan"]
+source_url: "https://static.case.law/conn-supp/14/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1345714
+cites_cases: ["128 Conn. 128"]
+---
+
+# Donovan v. Donovan
+
+## Majority (INGLIS, J.)
+
+INGLIS, J.
+The ground upon which a divorce is sought in this action is conviction of an infamous crime involving a breach of conjugal duty. On September 17, 1943, the defendant was convicted in this court of the crime of indecent assault upon a minor female. Such a crime is clearly an infamous crime and, therefore, the only substantial question here is as to whether it involves a breach of conjugal duty as intended by the statute.
+This exact question has never been decided by the Supreme Court of Errors in this state. In other jurisdictions, although conviction of crime resulting in certain special penalties is a common ground for divorce, no statutory provision for a divorce on the ground of conviction of crime involving a breach of conjugal duty seems to have been made. Accordingly, no authority on the subject in other jurisdictions has been discovered.
+It has been said generally with reference to the common provision for a divorce upon conviction of crime that the legislative purpose in making such a provision is to give relief “because of the public indignity sustained by the innocent spouse . . . who is forced to endure the ignominy of partner to a convicted felon.” 2 Sdhouler, Marriage, Separation and Domestic Relations (6th Ed.) § 1560. In interpreting our statute, it must be borne in mind likewise that the legislative intent is that the gravamen of the offense which is thus made a ground for divorce is the ignominy which a conviction brings upon the innocent spouse.
+It is of course clear that a crime involving a breach of conjugal duty is one which does not necessarily involve actual sexual intercourse. Swanson v. Swanson, 128 Conn. 128. As is said in that case at page 130: “Attempted rape, while the unlawful sexual intercourse requisite in rape is not incident to it, does include, as necessary attributes, the intent to indulge in such intercourse coupled with the use of force to accomplish this purpose.”
+Conjugal means “of or pertaining to marriage, the married state, or married persons in their mutual relations.” Webster’s New International Dictionary (2d Ed.). Two persons who are in the marriage state together clearly owe the duty to each other to confine all of their sex activity and all exercise of their sensuous desires to each other. It is the conjugal duty of each therefore to refrain from all acts of lust with any third party. An indecent assault upon .a female by a man is an act of lust, a gratification of a sensuous desire. What is said in the Swanson case, supra, 130, concerning attempted rape can be said with equal force concerning an indecent assault by a man on a minor female: “A husband who not only entertains such a lustful intent, but aggressively manifests this intent by resort to force in his effort to gratify it, is guilty of conduct so abhorrent and so contrary to the social and moral obligations of his married status as to involve a clear violation of conjugal duty within the meaning which must be accorded those words under the above definition.” Certainly a conviction of a husband of indecent assault upon a minor female brings as much ignominy upon his wife as would the conviction of attempted rape. In both cases the conviction is of a crime involving lust. In both cases the husband has been publicly marked as a man who has not confined the exercise of his sensuous desires within the marriage. Accordingly, it is concluded that the conviction of an indecent assault upon a minor female is conviction of an infamous crime involving a breach of conjugal duty.
+Judgment may enter decreeing a divorce on the ground alleged in the complaint and awarding custody of the minor child to the plaintiff.
