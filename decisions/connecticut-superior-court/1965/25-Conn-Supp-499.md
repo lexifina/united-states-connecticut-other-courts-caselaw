@@ -1,0 +1,26 @@
+---
+court: "Connecticut Superior Court"
+decided: "1965-01-26"
+citations: ["25 Conn. Supp. 499"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Raymond H. Bourbeau, Sr."]
+source_url: "https://static.case.law/conn-supp/25/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1762568
+---
+
+# State v. Bourbeau
+
+## Majority (By the Division.)
+
+By the Division.
+The defendant, age twenty-five, is married and was living with his wife and two children at the time of his commission of the offense here involved. On his plea of guilty to the charge of statutory rape, he was sentenced to state prison for not less than twelve and not more than fifteen years. He was arrested on August 20, 1964, the plea was entered on October 6, 1964, and the sentence of court was imposed on November 4, 1964.
+It is evident that both the remarks by the state’s attorney at the time of sentence and the contents of the presentence report as prepared by the adult probation department in substantial measure motivated the trial court in the determination of sentence. Both of these sources furnished information which included lurid details as contained in the victim’s statement of what had occurred and concerning claims of force and viciousness used upon her by the defendant and the many indecencies and outrage which she suffered. The transcript of the sentence proceedings on November 4,1964, discloses also that these recitations prompted the court to comment, in effect, that this might well have been a prosecution for rape for there were present the elements of force and no consent on the victim’s part.
+Subsequent to the imposition of sentence, counsel for the defendant, with indication thereof to the state’s attorney, began a reexamination of the victim’s account of what had happened. This investigation was illuminating and resulted, among other things, in the preparation, examination and submission in affidavit form of a number of statements from disinterested adults concerning the previous behavior and experiences of the complainant. When, on December 23, 1964, a full report was made to the sentencing judge and state’s attorney of the disturbing findings of the investigation referred to, it was agreed that the sentence was highly excessive. However, by that time, the defendant, having been committed, had started to serve the sentence which had been imposed upon him. The opportunity to disturb the execution thereof or to modify the sentence no longer remained with the trial court. General Statutes §54-116. Subsequently, this division was urged by the trial court to adopt the sentence recommended by the state’s attorney and joined in by the public defender, which was not less than two and not more than four years. There exists an awareness that this suggestion called for a drastic modification of the sentence as imposed.
+Thereafter and upon request of this division, there was conducted a further investigation by the adult probation department. An addendum to its original report was furnished by that agency and this included its statement that the information therein contained was not available prior to the sentencing. Reliable people who enjoy fine reputations and are residents of the not extremely large community wherein this crime took place have made statements as to the unusual deportment of the victim. This division is convinced of the shortcomings of this girl and how these could affect her accusations and narrative as to her behavior both prior to and during the incident complained of as well as her account of the entire incident itself. It would be a fair inference that there has not occurred the attendant high personal and moral injury which usually results from a harrowing experience of this nature.
+The complainant is a young child. It would serve no useful purpose to detail here the particularized information, postconviction and sentence, which now has become available concerning the proclivities of this overdeveloped twelve-year-old girl and, specifically, her repeated practice to vex with importunity and impertinence. Albeit, to so abuse any child, to be guilty of such an offense, is a despicable and serious crime. However, such maltreatment is not akin to the ravaging of a subject who is totally unwilling, previously inexperienced, modest, pure-minded and vitally concerned with her honor.
+It remains but to state that in the light of the uniform contents of a series of affidavits now on file, the results of further investigation as contained in the addendum referred to, and all of the attendant circumstances here considered, there is justification for a modification of sentence and the adoption of the recommendation of the state’s attorney as approved by the public defender and joined in by the trial court.
+Accordingly, it is hereby ordered that the sentence of not less than twelve nor more than fifteen years as imposed upon this defendant should be modified and that he should be resentenced by the Superior Court to a term of not less than two nor more than four years in state prison.
+Bogdanski, Meyers and Palmer, Js., participated in this decision.
