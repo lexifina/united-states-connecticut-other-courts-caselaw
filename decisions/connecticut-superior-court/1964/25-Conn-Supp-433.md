@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+decided: "1964-05-01"
+citations: ["25 Conn. Supp. 433"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. William J. Perrilli, Jr."]
+source_url: "https://static.case.law/conn-supp/25/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1762564
+---
+
+# State v. Perrilli
+
+## Majority (By the Division.)
+
+By the Division.
+On October 29,1963, the defendant, age twenty-five, married and having five children, pleaded guilty to one count of burglary and one count of indecent assault. On the burglary count he was sentenced to state’s prison for not less than nine-and-a-half years and not more than sixteen years. The statutory provision as to penalty for this crime is not more than twenty years. General Statutes § 53-68. On the indecent assault charge, the sentence was two years. The statute for such crime provides a penalty of not more than ten years. General Statutes § 53-217. The total effective sentence to state’s prison was not less than nine-and-a-half years and not more than eighteen years.
+On the night of June 28, 1963, obviously in keeping with a prowling nature as admitted by him, this defendant observed a woman undressing through a window at Nilan Hall, a residence building at Albertus Magnus College in New Haven. He approached the building, partially a residence for nuns, went up a fire escape, forced a screen in a window, made entrance to a room, physically attacked a sister of a religious order by striking her about the head and stomach, and then stole a purse from the premises with about $7 therein before he departed. He escaped as his victim cried out.
+On the evening of August 17, 1963, Perrilli engaged in conversation a second victim while both were eating at a diner in downtown New Haven. It is granted that the young woman used poor discretion in that she permitted such an approach as she was having her evening meal. There followed the imbibing of intoxicants, the visiting at several bars, walking through a number of streets and the luring by the defendant of this victim to a culvert under the pretense of accompanying her to the YWCA where she lived. The defendant beat her violently, forced her to perform unnatural sexual acts upon bim, and similarly to be the object thereof by him. The physical assault on her included kicking her in the stomach, knocking her to the ground several times, and then kicking her some more. She resisted as best she could. He threw a board at her which hit her and tackled her as she attempted to run away. He used considerable force in restraining and abusing her.
+Previous convictions for breach of the peace and theft appear in the record of this defendant. On December 24, 1959, after having been confined there for about fifty days, he was discharged from the Connecticut Valley Hospital and his condition was declared to be nonpsychotic.
+This board finds nothing in the record of this case or in the remarks of this defendant which lend themselves in any way to the justification of a modification of this sentence to the lighter side. It is not reasonable that there be a resultant earlier release of the defendant to the detriment of society, particularly those who by reason of either physical or mental shortcomings are unable by themselves to fend off such vicious attacks. It is clear that the theory of defense afforded to the public contemplates society’s right to protection for all from attack and harm by the very few who imperil its acceptable standard of welfare, decency and morality. Certainly, both the nun retiring at her residence and the social worker partaking of her evening meal are entitled to the indicated concern. It is concluded that there were here involved crimes of a heinous nature, sordid and vicious, and, further, that these transgressions gave evidence of a complete lack of respect for human relations and even lesser care for the results which follow such abominable conduct.
+The antisocial nature of this defendant further visited itself during his remarks to this board. Both by his attitude and very words he declared that his sentence was excessive not because of what he did but because of whom he did it to. Unsound as this claim is, it is also completely unmindful of the seriousness of his crimes. This defendant fails to appreciate that there might well have been placed against him other grave and additional charges which possibly might have resulted in an increase of penalty. It is obvious that even now he does not choose to believe that his crimes were as loathsome as society knows them to be. Actually, an increase of the penalty involved was a matter of realistic concern to this board.
+We have considered the application, the plea by the defendant, his record, the viciousness and degeneracy of these crimes, the transcript and remarks of the public defender, the state’s attorney and the sentencing court, and the probation report. Contrary to the defendant’s claims both of severity of sentence and excessiveness of subjectivity as to concern for the victims, it is the conclusion of this board that the sentencing judge neither violated moderation nor veered from such objectivity as was essential.
+A fair term was imposed and must stand.
+Bogdanski, Loiselle and Meyers, Js., participated in this decision.
