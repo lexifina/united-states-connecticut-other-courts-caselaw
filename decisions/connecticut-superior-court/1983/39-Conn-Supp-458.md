@@ -1,0 +1,34 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 1139"
+decided: "1983-08-05"
+citations: ["39 Conn. Supp. 458"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry H. Nowakowski et al. v. Zbigniew S. Rozbicki et al."]
+source_url: "https://static.case.law/conn-supp/39/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1658514
+cites_cases: ["169 Conn. 491", "170 Conn. 243", "171 Conn. 286", "178 Conn. 258", "181 Conn. 217", "363 A.2d 1048", "365 A.2d 1153", "370 A.2d 923", "423 A.2d 897", "435 A.2d 24"]
+---
+
+# Nowakowski v. Rozbicki
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal by the defendant Zbigniew S. Rozbicki from a judgment awarding damages to the plaintiffs for breach of a contract to perform legal services.
+In 1971, the plaintiffs retained Rozbicki, an attorney, to represent them in the purchase of a home. The plaintiffs spoke very little English while Rozbicki was fluent in their native language, Polish. With the parties’ consent, Rozbicki also represented the seller and the.mortgagee bank. Pursuant to these retainers, Rozbicki prepared closing documents which included a warranty-deed for the seller, a mortgage deed and a certificate of title for the bank. These documents all described the property as having boundaries of 150 feet on the easterly and westerly sides. Rozbicki testified that he or someone in his office had performed a title search prior to preparing the documents but he was unable to produce any notes or other evidence that one was performed. The closing took place on March 26, 1971.
+Subsequently, a dispute arose between the plaintiffs and the owners of the property abutting the southerly boundary of the plaintiffs’ lot over a strip of land between the two parcels. As a result of this dispute, the plaintiffs notified Rozbicki, who ordered a survey for which the plaintiffs paid $460. The survey revealed that the easterly and westerly boundaries were, in fact, only eighty-five feet and, therefore, did not encompass the disputed strip of land.
+The plaintiffs thereafter instituted this action against Rozbicki for breach of contract. The court found the issues for the plaintiffs and awarded them damages in the amount of $1660.
+In his appeal, Rozbicki argues that there was no proof that the injury sustained by the plaintiffs was, in fact, caused by the erroneous description of the property. The gravamen of this claim is that a proper legal description of the property would not have determined the exact boundaries of the plaintiffs’ property. Only a survey would have disclosed the defect. Therefore, the misdescription in the deeds could not have caused the plaintiffs’ injury. We disagree.
+Causation is a question of fact for the trier. Johnson v. Flammia, 169 Conn. 491, 493, 363 A.2d 1048 (1975). Here, the trial court found that the failure of Rozbicki to perform his contractual duty resulted in the plaintiffs’ obtaining less land than they bargained for. Where the factual basis of the court’s decision is challenged, it is the function of this court to determine whether the facts found are supported by the evidence, or whether, in light of the evidence and the pleadings in the record, those facts are clearly erroneous. Practice Book § 3060D; Pandolphe’s Auto Parts, Inc. v. Manchester, 181 Conn. 217, 221-22, 435 A.2d 24 (1980). Here the record amply supports the court’s finding that the plaintiffs’ injury was caused by the failure of Rozbicki to perform the legal duties required of him under the contract between the parties.
+The defendant also claims error in the amount of damages awarded. He claims that the damages awarded for loss of value of the property were not proven with reasonable certainty and were far in excess of the fair' market value of the disputed strip of land. We disagree.
+“Damages should be established with reasonable certainty and not speculatively and problematically. 25 C.J.S., Damages, § 41. However, such damages for loss of use or enjoyment of property ordinarily are not susceptible of exact pecuniary computation and must be left largely to the sound judgment of the trier.” Johnson v. Flammia, supra, 500. Here, the plaintiffs presented evidence which, if believed, established that the value of the lost property was $3000. The defendant’s expert testified that the plaintiffs’ damages were $200. The trial referee viewed the premises personally and concluded that the value was $1200. “ ‘The purpose of offering in evidence the opinions of experts as to the value of land is to aid the trier to arrive at his own conclusion, which is to be reached by weighing those opinions in the light of all the circumstances in evidence bearing upon value and his own general knowledge of the elements going to establish it . . . . Ultimately, the determination of the value of the land depended on the considered judgment of the referee, taking into account the divergent opinions expressed by the witnesses and the claims advanced by the parties.’ ” (Citations omitted.) Maykut v. Shugrue, 171 Conn. 286, 288, 370 A.2d 923 (1976).
+Rozbicki also contends that the court erred in including the cost of the survey in its award. We disagree.
+Damages for breach of contract are such as arise naturally from the breach itself or as may reasonably be within the contemplation of the parties at the time of making the contract as a probable result of a breach thereof. 22 Am. Jur. 2d 86, Damages § 56; 25 C.J.S. 662-64, Damages § 24. We conclude, as did the trial court, that the cost of the survey was a direct consequence of Rozbicki’s breach of the contract, and, therefore, was properly included in the award.
+Finally, Rozbicki claims error in the court’s conclusion that the action was not barred by the statute of limitations. The gravamen of this claim is twofold: (1) that the complaint sounds in tort for malpractice and is therefore bound by the three year tort statute of limitations, General Statutes § 52-577; and (2) even if it is a contract action, the three year statute of limitations governing oral contracts, General Statutes § 52-581, applies. We disagree with both of these claims.
+The complaint alleges the defendant’s failure to perform the terms of his agreement with the plaintiffs and, therefore, clearly sounds in contract. Thus the tort statute of limitations is inapplicable. See Robbins v. McGuinness, 178 Conn. 258, 262, 423 A.2d 897 (1979). Moreover, although this was an oral contract, since it was fully performed by the plaintiff, the six year statute of limitations provided by § 52-576 applies. Tierney v. American Urban Corporation, 170 Conn. 243, 248-49, 365 A.2d 1153 (1976); see Robbins v. McGuinness, supra.
+There is no error.
+Bieluch, Covello and F. Hennessy, Js., participated in this decision.
