@@ -1,0 +1,42 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #46080"
+decided: "1935-11-18"
+citations: ["3 Conn. Supp. 88"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANTHONY NUZZO vs. NORTHERN INSURANCE COMPANY"]
+source_url: "https://static.case.law/conn-supp/3/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336571
+---
+
+# Nuzzo v. Northern Insurance
+
+## Majority (CORNELL, J.)
+
+CORNELL, J.
+If the jury were correctly instructed as concerns the applicable law, the court would be without warrant in setting aside the verdict as contrary to the evidence in response to the first reason assigned in the motion.
+The considerations particularly urged by the defendant in support of the motion have to do with the charge to the jury.
+One of these projects the claim that the charge as it was concerned with the reduced rate contribution clause of the fire insurance policy (Ex. A) was not sufficiently full and clear. By this is, undoubtedly meant that it was not such as to furnish an adequate guide ,to enable the jury to properly assess damages.
+The clause of the policy in question provides in effect that in case of loss the defendant’s liability should be no greater proportion of such loss than the amount insured bears to 80% of the actual cash value of the property insured at the time the loss occurred.
+According to the reasoning advanced by defendant in support of the instant motion, if either of two situations might be found to exist, the reduced rate contribution clause did not become operative, viz., (1) if the insurance equalled or exceeded 80 % of the value of the property covered as that value was at the time the loss occurred, or (2) whatever the amount of the insurance, if the loss equalled or exceeded 80 % of the value covered as that value was at the time the loss occurred.
+Since the amount of the verdict, viz., $1176.00 (which presumably, also, included an allowance for interest) was less than the value covered (viz. $1500) it is apparent that the second instance noted upon the existence of which the reduced rate contribution clause would not be operative, was not found to be present.
+The question next suggested is, therefore, was there evidence before the jury, from which it might have been determined that the amount of the insurance did not equal or exceed 80 % of the value of the property covered at the time of the loss.
+As applicable to the answer to this query, it may be noted that while the proof of loss filed asserted a loss of substantially $2000., the complaint (par. 5) asserts a loss which “exceeded $1500.”, and thus left the way open to the plaintiff to claim on the trial that the proof of loss overstated the loss actually sustained, but did so in good faith, and that the actual loss was such a sum that the amount of insurance (viz. $1500.) was equal to or in excess of 80% of it.
+As bearing upon the question of the value of the several articles of personal property claimed to have been covered by the policy, at the time they were damaged or destroyed, the insurance agent who issued the policy testified that in his opinion, based upon a personal inspection of the tavern at the time plaintiff made application for the policy (about August 31, 1934) there was personal property there of the insurable value of $1500. Soli who sold the tavern to plaintiff, after reciting that he had expended a sum approximating $2200. in fitting the tavern up, stated that the items which he listed at he time he sold the store to plaintiff about August 26th were fairly worth $1540.
+While there was other evidence bearing upon the sums paid for various items when purchased and installed and the value of the property as a unit constituting a tavern just before the fire, it seems apparent that there was no evidence before the jury from which they could have found' that the value of the insured items at the time the loss occurred exceeded $1500. —especially after deducting the value of certain items which were concededly not on the premises to which the policy applied and others which, under the instructions given, the jury might, also, have found not to have been there, when the fire occurred.
+Counsel for the plaintiff so regarded it in their arguments to the jury, the court stated plaintiff’s claim to be that the property “was worth at least $1500. when the fire occurred”, in its charge and counsel for the defendant contended in his argument that the property was of a value, much below $1000.
+Under the evidence, it seems plain that the jury could not have found that the actual value of the property insured at the time of the fire exceeded the amount for which it was insured—a fact to which emphasis is lent by the circum' stance that counsel for the plaintiff in argument made no claim different than this.
+If this premise is correct, then it must follow that, the amount of insurance certainly was not less than 80 % of the value of the property covered. From this, the conclusion results, according to defendant’s interpretation of the reduced rate contribution clause, that the latter did not come into operation.
+The instruction given on this point, if applicable, would seem to be insufficient since it purported to do no more than to state the provision of the policy and did not attempt to explain or illustrate the application of the clause.
+If, however, the conclusions stated, supra, are correct, no instruction on the reduced rate contribution clause should have been given at all or, at least, if given should have been so formulated as to make clear to the jury that it was not applicable to any finding which they could permissibly reach upon the evidence and under the claims of counsel with respect to it.
+The instructions given would appear, in any event to have been inadequate, but upon the premise adopted, it was the plaintiff—not the defendant—who was injured thereby. The insufficiency cannot be said under such circumstances to have been harmful to defendant, and if not harmful to it, it pro' vides no just reason for setting the verdict aside.
+Another consideration intrudes itself in connection with defendant’s claims in this respect. Thus, there was no intimation to the court during, nor at the conclusion of the evidence on the trial that either party considered the reduced rate contribution clause applicable. Neither submitted any request to charge on the point.
+The only notice which the court had that either party considered the clause involved occurred when, a short time before the delivery of the charge was commenced, counsel for the defendant called the attention of the judge, outside of the court room, to the fact that the policy contained such a clause, which incident made it evident that the defendant expected that some reference would be made to its application, in the charge.
+This was palpably insufficient to acquaint the court with the claims entertained by defendant under the clause in question and did not comply with Practice Book #156.
+As to the court’s alleged failure to charge in accordance with defendant’s third, fourth, fifth, sixth, eighth and ninth requests, it is believed that the gist of these insofar as deemed applicable appears in the charge as given—not in the same language, to be sure, and not without some limitations—but sufficiently, it is believed, to have furnished a reliable guide to the jury in solving the problem before them. Incidentally, only one of the numbered paragraphs of defendant’s request to charge contains any citation of authority, viz;., paragraph 10, Practice Book, #156.
+On the whole, if the jury took the view of the evidence as respects the defence relied upon by defendant, (and the pleadings contain no intimation of any other either as to the cause alleged or in diminuition of damages) which the verdict indicates they did, the verdict seems thoroughly logical and in view of the character of the evidence and the conflicts in it, betokens an unusually intelligent comprehension of the issues upon which the case was tried and submitted.
+In any event, if harmful error was committed or the charging lacking in adequacy of instruction from defendant’s standpoint, it would seem that the question is one for the Supreme Court of Errors to decide, rather than the trial court.
+The motion is denied.
