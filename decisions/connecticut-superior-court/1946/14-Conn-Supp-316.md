@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 16252"
+decided: "1946-08-06"
+citations: ["14 Conn. Supp. 316"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lola M. R. Elliott v. Lewis E. Elliott"]
+source_url: "https://static.case.law/conn-supp/14/cases/0316-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1345764
+cites_cases: ["104 Conn. 206", "113 Conn. 74", "12 Conn Sup, 276", "130 Conn. 122", "4 Conn. Sup. 19", "89 Conn. 214", "93 Conn. 550", "95 U. S. 714", "96 Conn. 265"]
+---
+
+# Elliott v. Elliott
+
+## Majority (ALCORN, J.)
+
+ALCORN, J.
+This action is brought under § 1316e of the 1939 Supplement to the General Statutes, to annul a marriage for lack of consent. The plaintiff and defendant, after an all-night round of drinking in New York night clubs, went to Greenwich, Connecticut, where they went through a marriage ceremony before a justice of the peace and immediately thereafter separated without cohabiting.
+Neither party is nor was, at the time of the marriage, a resident of or domiciled .in Connecticut. The plaintiff is a resident of the state of New York and the defendant is a resident of the state of California. The defendant was not personally served in Connecticut but service was made by an order of notice by registered mail issued by an assistant clerk of the court. The defendant has not appeared either generally or specially. The defendant being a member of the armed forces, the plaintiff moved for the appointment of an attorney and the court (Pallotti, J.) accordingly appointed an attorney to represent him, pursuant to § 88b of the Practice Book, subsection 2 of which provides: “No such attorney shall have power to waive any right of the person for whom he is appointed or to bind him by his acts.” The attorney so appointed has filed a report embodying a copy of a letter which he wrote to the defendant advising the latter of his appointment and a reply in which the defendant states that he does not wish to contest the action. Thereafter the case came on for hearing ex parte.
+The court of its own motion raised the question of jurisdiction and venue. An examination of the file indicates that the question is not so much one of venue, which, after all is primarily a rule of convenience, as it is the more fundamental question of jurisdiction. This last the court must take cognizance of whenever it arises. Walkinshaw v. O’Brien, 130 Conn. 122, 124. The incidents of the marriage status are of such consequence that it is of no benefit to the parties to this action to accord them the false security of a judgment the validity of which may at some later day be questioned. The primary consideration is whether this court has jurisdiction to annul a marriage performed in this state when neither of the parties are residents of or domiciled in this state and when the defendant has not been personally served by a process in this state and has not appeared in the action.
+“The law as to effect of judgments founded on substituted service by publication, upon nonresident defendants, has not been disturbed since it was conclusively settled by the Supreme Court of the United States in Pennoyer v. Neff, 95 U. S. 714.” Harris v. Weed, 89 Conn. 214, 221. The court in Harris v. Weed quotes from Pennoyer v. Neff at page 727, in part as follows: “In other words, such service may answer in all actions which are substantially proceedings in rem. But where the entire object of the action is to determine the personal rights and obligations of the defendants, that is, where the suit is merely in personam, constructive service in this form upon a non-resident is ineffectual for any purpose.” See also Receivers Middlesex Banking Co. v. Realty Investment Co., 104 Conn. 206.
+In the case of Murdock v. Murdockh, 4 Conn. Sup. 19, this court (Jennings, J.) granted an annulment of marriage in an action between nonresidents in which there was service by registered mail as in the present case, but in that case the defendant filed a general appearance. It is an established principle that a defendant may by a voluntary appearance submit to the jurisdiction. White v. Greene, 96 Conn. 265, 272; 1 Beale, Conflict of Laws, § 82.1. Consequently, the court was not faced in the Murdock case with a question of jurisdiction of the parties and quite properly held that it had jurisdiction of the subject matter. Case v. Bush, 93 Conn. 550, 553; General Statutes, 1939 Sup. § 1316e; 1 Beale, op cit., § 115.1 The reasoning in'the case of Miller v. Miller, 12 Conn Sup, 276, is not applicable to the present case.
+If the service in this case can be held valid to confer jurisdiction of this defendant, a question which is not now decided, it could be so determined only after § 1398e of the 1939 Supplement to the General Statutes has been complied with. The mandatory requirements of that statute have not yet been met, although the statute applies to “every civil action.” Martley v. Vitiello, 113 Conn. 74, 81.
+The court, therefore, cannot render judgment upon the present state of the record. The case is continued for a period of three months and further notice of the pendency of the action is directed to be'given within two weeks by registered mail, return receipt requested, addressed to the defendant at his California residence. After compliance with the statute or after an appearance, the case should be reassigned for trial and decision.
