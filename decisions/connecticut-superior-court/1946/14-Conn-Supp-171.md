@@ -1,0 +1,30 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 70084"
+decided: "1946-06-26"
+citations: ["14 Conn. Supp. 171"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lola M. Fournier v. Henry Fournier"]
+source_url: "https://static.case.law/conn-supp/14/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1345825
+cites_cases: ["108 Conn. 271", "110 Conn. 443", "114 Conn. 7", "129 Conn. 394", "61 Conn. 502", "78 Conn. 242", "85 Conn. 196", "90 Conn. 399"]
+---
+
+# Fournier v. Fournier
+
+## Majority (ALCORN, J.)
+
+ALCORN, J.
+The plaintiff brought this action for a divorce upon the ground of intolerable cruelty. The defendant’s answer denied the allegation of cruelty, and sought a divorce upon a novel cross-complaint alleging “bigamy,” and, by amendment, added an additional count alleging fraudulent contract. The plaintiff offered no evidence in support of the complaint and the defendant introduced evidence upon the count of fraudulent contract.
+The pleadings are a maze of inconsistency. The complaint alleges the plaintiff’s maiden name to have been Lola M. Boer-den and that she married the defendant on November 11, 1932. The answer admits both these facts. The amended cross-complaint, howeever, alleges that the plaintiff’s maiden name was Lola M. Beaudin and that she married the defendant on November 10, 1930. These facts the plaintiff in turn admits. The defendant also alleges in the original cross-complaint, and the , plaintiff admits, that at the time of their marriage she was the wife of Neree Gagnon whom she married on August 14, 1906. To confound the issues further the defendant offered exhibit 2 to prove this marriage. The exhibit recites the marriage of one Neree Gagnon on August 14,. 1906, to one Delvina Sarrasin. Whatever the plaintiff’s maiden name may have been it is not claimed to have been Sarrasin. •
+The issues joined upon the so-called “additional count” of fraudulent contract do not admit the prior marriage admitted in the reply to the original cross-complaint. The court is entitled, however, to consider that admission in connection with the other proof including the plaintiff’s own testimony.
+I am satisfied that the facts are that the plaintiff married one Neree Gagnon in 1906. She lived with him until 1908 when he left her. Thereafter she made extensive search for him and being unable to find any trace of him, concluded that he was dead. On Novmber 10, 1930, she married the defendant. At that time she believed her first husband to be dead and told the defendant nothing about him merely because she preferred that the defendant should not know she had been previously married.
+The plaintiff and defendant lived together until 1945 when the plaintiff left the defendant. Thereafter the defendant heard that the plaintiff had been married before. He then made a search to locate the former husband but was unable to find any trace of him. There is no evidence that the plaintiff’s first husband is alive today or was alive at the time of her marriage to the defendant.
+“Fraudulent contract” as a ground of divorce has been defined as a “deception in respect to some fact whose existence or nonexistence may affect in some certain way the very essence of the marriage relation, resulting in a lawful marriage which practically operates as a fraud upon the deceived spouse; and the existence or nonexistence of the fact thus concealed or misrepresented must operate, as between the parties to the marriage, to prevent some essential purpose of marriage and work a practical destruction of that relation.” Gould v. Gould, 78 Conn. 242, 261; Lyman v. Lyman, 90 Conn. 399, 402. The misrepresentation, if made through honest error and with a bona fide belief in its truth is not fraudulent. “To constitute fraud by nondisclosure or suppression there must be a failure to disclose known facts and, as well, a request or an occasion or circumstance which imposes a duty to speak.” Behrmann v. Behrmann, 110 Conn. 443, 446.
+The defendant assumes that presumptively the first husband * was alive at the time of the second marriage. The law in this state negates such a presumption, however, in the interest of the later marriage. This plaintiff and defendant lived openly together as husband and wife for fifteen years. Their marriage having been proved the law raises a presumption of its validity which will support it until its invalidity is proved. Nor will the presumption be overthrown by proof of a prior marriage of one of the parties unattended with proof that there has been no divorce and that the former spouse is alive. Roxbury v. Bridgewater, 85 Conn. 196, 202; Erwin v. English, 61 Conn. 502, 510.
+At the time of the plaintiff’s marriage to the defendant, her former husband had been unheard of for twenty-two years. She had “looked for him everywhere” without success. Under such' circumstances, at common law, the inference reasonably follows after seven years of absence that death is the reason for the absence. Kaminskas v. John Hancock Mutual Life Ins. Co., 129 Conn. 394; Potter v. Prudential Ins. Co., 108 Conn. 271, 276.
+Certainly the plaintiff was not unreasonable in reaching, at the end of twenty-two years, a conclusion which the common law would permit her to draw after seven years. I am thoroughly satisfied that her first husband’s death had become, in her mind, an established fact before she married the defendant. There is nothing before the court to indicate that it is not now or was not then actually the fact. That being so, it follows that there was no fraudulent misrepresentation upon her part entitling the defendant to a decree. The mere misstatement of her name in the marriage certificate is not ground to dissolve the marriage. Wetstine v. Wetstine, 114 Conn. 7, 11.
+A decree may be entered in favor of the defendant on the complaint and in favor of the palintiff on the cross-complaint.
