@@ -1,7 +1,8 @@
 ---
 court: "Connecticut Court of Common Pleas"
 decided: "1976"
-citations: ["33 Conn. Supp. 55", "33 Conn. Supp. 141", "33 Conn. Supp. 34", "33 Conn. Supp. 93"]
+decided_precision: "year"
+citations: ["33 Conn. Supp. 55"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["State of Connecticut v. Anonymous et al. (1976-7)"]
 source_url: "https://static.case.law/conn-supp/33/cases/0055-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1670688
-cites_cases: ["1 Conn. Cir. Ct. 348", "112 Conn. 39", "115 Conn. 600", "118 Conn. 267", "127 Conn. 719", "128 Conn. 160", "133 Conn. 600", "145 Conn. 554", "146 Conn. 605", "154 Conn. 583", "157 Conn. 485", "158 Conn. 452", "158 Conn. 461", "159 Conn. 362", "162 Conn. 249", "165 Conn. 490", "24 Conn. Sup. 7", "269 U.S. 385", "3 N.Y.2d 327", "310 U.S. 296", "33 Conn. Sup. 55", "366 U.S. 420", "37 N.Y.2d 326", "372 U.S. 229", "379 U.S. 536", "384 U.S. 195", "394 U.S. 802", "4 Conn. 60", "40 N.Y.2d 277", "404 U.S. 71", "408 U.S. 104", "413 U.S. 717", "479 F.2d 616", "51 App. Div. 2d 772", "56 Misc. 2d 546", "60 Misc. 2d 277", "63 Misc. 2d 577", "68 Conn. 373", "85 Conn. 481"]
+cites_cases: ["112 Conn. 39", "118 Conn. 267", "128 Conn. 160", "145 Conn. 554", "158 Conn. 461", "269 U.S. 385", "366 U.S. 420", "37 N.Y.2d 326", "379 U.S. 536", "4 Conn. 60", "408 U.S. 104", "479 F.2d 616", "51 App. Div. 2d 772", "85 Conn. 481"]
 ---
 
 # State v. Anonymous
