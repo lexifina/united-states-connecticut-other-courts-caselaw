@@ -1,0 +1,29 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CV 12-6701-8796"
+decided: "1968-11-01"
+citations: ["5 Conn. Cir. Ct. 254"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Warren Case et al. v. Virginia M. Topping"]
+source_url: "https://static.case.law/conn-cir-ct/5/cases/0254-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1745596
+cites_cases: ["138 Conn. 653", "144 Conn. 535", "146 Conn. 383", "147 Conn. 254", "148 Conn. 283", "93 Conn. 614"]
+---
+
+# Case v. Topping
+
+## Majority (Kinmonth, J.)
+
+Kinmonth, J.
+The plaintiffs brought this action to recover for personal injuries and damage to a motor vehicle alleged to have been sustained as a result of the negligence of the defendant. The court rendered judgment for the plaintiffs, and the defendant has appealed, claiming that the court erred (1) in reaching the conclusion stated in the memorandum of decision, in that neither the subordinate facts nor the law supports the conclusion; (2) in reaching the conclusion under all of the evidence that the defendant was negligent when that conclusion wa,s not supported by the law or the facts; and (3) in not finding certain facts. It is to be noted that although these assignments were filed after the court made its finding, assignment (1) is improper, as pointed out in footnote 1, and assignment (2) is too general to furnish a ground of appeal, because it does not direct the attention of the court to any specific point as to which the trial court was in error. It is not enough to say simply that the court rendered a wrong judgment; the reason why must be stated. Olesen v. Beckanstin, 93 Conn. 614, 621. Assignment (3) does not comply with our rules as set forth in § 989 (2) (see Form 819 [B] [2]) of the Practice Book.
+The defendant has not moved to correct the court’s finding on appeal; Practice Book §§ 981, 985; therefore the finding must stand, and we shall treat the appeal as being on the ground that the conclusions are not supported by the subordinate facts. The conclusions of the court must be tested by the finding and not the evidence. Klahr v. Koslopoulos, 138 Conn. 653, 655. The defendant cannot bypass the finding. The court’s conclusions must prevail unless legally or logically inconsistent with the facts found or if they invoke the application of some erroneous rule of law material to the case. Yale University v. Benneson, 147 Conn. 254, 255.
+The following facts were found by the court. On the evening of December 26, 1965, the defendant operated her 1960 Buick automobile from her place of employment to her home at 494 North Main Street in Manchester, arriving at approximately 11:15 p.m. Her home is on the southerly side of North Main Street, and she drove into the driveway, which is located west of her home, and parked her automobile at the top thereof. At that time the driveway was covered with ice and snow and was slippery. The macadam portion of the driveway has a steep grade and slants down northerly to North Main Street. The defendant did not set her hand brake, nor did she cramp or turn her front wheels. She removed the ignition key but did not lock the car. She put the gear lever in “park” position. The car was parked perpendicular to North Main Street with its rear end nearest the road. When she alighted she did not go to the rear of the car to see if it was parked completely off the slanted portion of the driveway. On December 27, 1965, at approximately 10:15 a.m., the plaintiff’s vehicle was being operated in an easterly direction on North Main Street, approaching the defendant’s driveway, when the operator noticed the defendant’s automobile backing down the driveway. The plaintiff operator swerved to the left to avoid being struck, but was struck by the defendant’s car on the right middle side. No one was in the defendant’s car when it rolled down the driveway into the street. There Avas no evidence that anyone tampered with the defendant’s car from the time she parked it to the time of the collision.
+On these facts, found by the court and not challenged by the defendant, the court concluded that the defendant was negligent in failing to set her hand brake when she parked her automobile on the top of the steep-graded slippery driveway and in failing to take reasonable and proper precautions, particularly in that she did not cramp or turn her wheels or park her automobile in a reasonably secure position so as to prevent it from moving or rolling down the driveway under the circumstances then and there prevailing, and that the defendant’s negligence was the proximate cause of the accident.
+A conclusion of negligence or freedom from it is, ordinarily, one of fact, and if the conclusion reached from the facts found was reasonable the decision of the trier is final. Gorman v. American Sumatra Tobacco Corporation, 146 Conn. 383, 386. The trier is the sole arbiter of the credibility of witnesses. Metz v. Hvass Construction Co., 144 Conn. 535, 537. “It is the privilege of the trier to adopt whatever testimony he reasonably believes to be credible.” Grote v. A. C. Hine Co., 148 Conn. 283, 287.
+Upon the subordinate facts found, there was ample basis for a conclusion that the defendant’s conduct in leaving the car on a steep grade and not setting the hand brake constituted negligence which was the proximate cause of the collision. The conclusions are legally and logically supported by the subordinate facts found.
+There is no error.
+In this opinion Dbarington and Macdonald, Js., concurred.
+In an appeal by a defendant in a criminal case tried to the court, the defendant may assign as error that he was not, upon all the evidence, guilty beyond a reasonable doubt. Practice Book §§ 995, 989 (6) & Form 819 (B) (8).
