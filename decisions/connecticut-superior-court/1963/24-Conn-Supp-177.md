@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 131446"
+decided: "1963-01-08"
+citations: ["24 Conn. Supp. 177"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edgar R. Langlois v. Administrator, Unemployment Compensation Act"]
+source_url: "https://static.case.law/conn-supp/24/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1761626
+cites_cases: ["168 Wis. 436", "237 Wis. 249", "97 Conn. 46"]
+---
+
+# Langlois v. Administrator
+
+## Majority (Longo, J.)
+
+Longo, J.
+This is an appeal by the administrator of the unemployment compensation act from the decision of the unemployment compensation commissioner for the first congressional district reversing the decision of the administrator that the plaintiff was not entitled to benefits for tbe statutory disqualification period because he had been discharged for wilful misconduct during the course of his employment. General Statutes §31-236 (2) (b).
+The commissioner found the following facts: The plaintiff’s hours of employment were from 8 a.m. to 4:30 p.m. from the date he was hired, on February 5, 1962, to the day he was discharged, on April 20, 1962. The plaintiff was late on twenty-six occasions, ranging from one minute to thirty-three minutes. On twenty of these days, he was late five minutes or less. A company rule permitted employees to be allowed the first five minutes of the workday without loss of pay, but a loss of pay would be incurred when tardy for more than five minutes. The plaintiff had been warned on three occasions concerning his tardiness. Although late on twenty-one days between February 5 and April 9, he was given an increase in pay effective April 9. The commissioner found that the plaintiff lived ten miles from the plant and that there was no basic reason for the tardiness other than carelessness in failing to start earlier for work, and that this conduct was careless but not so great in extent or malicious or wilful as to characterize it as wilful misconduct.
+The commissioner further found that during the entire month of April the company had no welding for the plaintiff and assigned him to the shipping department and that on the day before he was terminated he was told by an assistant foreman that his layoff was imminent due to the lack of welding work. The commissioner concluded that the conduct of the plaintiff was not wilful misconduct and held that he should have been granted benefits. It is from this conclusion that the administrator has appealed, and the only issue before this court is whether the conclusion reached by the commissioner was arbitrary, unreasonable and illegal.
+Misconduct is any wrong or improper conduct and becomes wilful if it is done intentionally, that is, purposely with knowledge, or is of such a nature as to evince a reckless disregard of consequences by him who is guilty of it. Gonier v. Chase Companies, Inc., 97 Conn. 46, 55. Mere violation of a rule does not always constitute wilful misconduct. To have that effect, the disobedience must have been deliberate, not merely a thoughtless act on the spur of the moment. Frint Motor Car Co. v. Industrial Commission, 168 Wis. 436, 439. In Boynton Cab Co. v. Neubeck, 237 Wis. 249, 259, the court said: “[T]he intended meaning of the term ‘misconduct’ ... is limited to conduct evincing such wilful or wanton disregard of an employer’s interest as is found in deliberate violations or disregard of standards of behavior which the employer has the right to expect of his employee, in any carelessness or negligence of such degree or recurrence as to manifest equal culpability, wrongful intent or evil design, or to show an intentional and substantial disregard of the employer’s interests or of the employee’s duties and obligations to his employer. On the other hand, mere inefficiency, unsatisfactory conduct, failure in good performance as the result of inability or incapacity, inadvertencies or ordinary negligence in isolated instances, or good-faith errors in judgment or discretion are not to be deemed ‘misconduct’ within the meaning of the statute.”
+The continued course of conduct of the plaintiff in reporting late for work approximately 50 percent of the time can only be considered as wilful or wanton disregard of an employer’s interest and, coupled with the failure to heed warnings of the employer, cannot be construed as ordinary carelessness or negligence in isolated instances. Under the facts found, the conclusion is inescapable, in the absence of findings of reasonable excuse, that the violations were persistent, intentional and without reasonable justification. The violations were such as to indicate a reckless disregard of the very consequences which resulted to the plaintiff. The failure to leave for work a little earlier on so many occasions, approximately 50 percent of the time, was not reasonable, and such a practice in industry should not be condoned.
+In view of the finding by the commissioner that the tardiness was the result of the plaintiff’s failure to start earlier for work and in view of the frequency of the violations and disregard of warnings, as found by the commissioner, there appears no reasonable basis for the conclusion that the plaintiff’s conduct did not constitute wilful misconduct.
+The appeal of the administrator is sustained, and the decision of the commissioner allowing benefits to the plaintiff is reversed.
