@@ -1,0 +1,27 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File No. 64599"
+decided: "1956-11-07"
+citations: ["20 Conn. Supp. 143"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Salecki v. Coca-Cola Bottling Company of Hartford"]
+source_url: "https://static.case.law/conn-supp/20/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1756457
+cites_cases: ["123 Conn. 308", "127 Conn. 464", "138 Conn. 625", "139 Conn. 65", "141 Conn. 250", "141 Conn. 701", "18 Conn. Sup. 313"]
+---
+
+# Salecki v. Coca-Cola Bottling Co.
+
+## Majority (Bogdanski, J.)
+
+Bogdanski, J.
+In this case the jury returned a verdict for $1000 as damages caused plaintiff when he drank a bottle of Coca-Cola that had a cigar butt contained therein. Defendant now seeks to set this verdict aside.
+In argument defendant made three vigorous attacks ; first, that the Sales Act is applicable to this action, and that notice of the breach to the seller is an essential requirement. Defendant claims the evidence is inadequate on this point to sustain plaintiff’s cause. It is true that in an action of this nature the plaintiff must plead and prove notice to the seller, and such notice is a condition precedent to recovery. DeLucia v. Coca-Cola Bottling Co., 139 Conn. 65, 66. It is true also that an oral notice of the breach of warranty sufficiently complies with the statute if it is given within a reasonable time after discovery of the breach and fairly apprises the seller that the buyer proposes to look to him for damages. And it is the jury who are the arbitrators of these factual considerations. Kapinos v. Shartenberg Co., 18 Conn. Sup. 313, 314.
+The evidence in this case was that on the day of the breach the plaintiff took the contaminated bottle to his employer, Robert H. Reardon, business manager of the Young Men’s Christian Association in Hartford, who immediately phoned the defendant company advising it of what had happened and suggested it check into the matter. Next day one of defendant’s representatives appeared at the Y.M.C.A. building and talked with the plaintiff, examined the bottle and obtained a report of the incident. It is fundamental that a jury are entitled to draw inferences from facts proved. In a civil case the proof of a material fact need not be conclusive. It is sufficient if the evidence produces in the mind of the trier a reasonable belief in the probability of the existence of the material fact. Dickson v. Yale University, 141 Conn. 250, 253. By their verdict the jury found the notice requirement in plaintiff’s favor. Hence the court cannot interfere with the verdict on this aspect, since this finding concerns factual considerations upon which the jury were the arbitrators. Kapinos v. Shartenberg Co., supra, 315.
+Defendant’s second contention is that the plaintiff failed to establish that he to whom notice was claimed to have been given was an agent of the defendant, and cites DeLucia v. Coca-Cola Bottling Co., 139 Conn. 65, in support of same. The answer is that the DeLucia case is clearly distinguishable from the case at bar. In the DeLucia case the court ordered stricken from the record all testimony dealing with the question of notice to the seller. As our Supreme Court said, that left the transcript devoid of any evidence, whatever, which directly or inferentially related to the giving of notice. Id., 67. As has already been noted, in the case here there was evidence before the jury that either directly or indirectly related to the giving of notice.
+The final attack is that the verdict is excessive and should be set aside unless substantially reduced. The testimony was that after drinking the Coca-Cola plaintiff immediately became nauseated and vomited in the sink; that he suffered from nausea, nervousness and headaches for two to three weeks; that he was unable to eat or sleep normally during this period. He did not seek medical care or lose time from work for the reason, as stated on cross-examination, that he had four children to support and could not afford a doctor or lose time from work. There were no special damages offered at the trial.
+Damages for personal injuries cannot be precisely fixed and is a matter peculiarly for the jury. However, a jury award should be scrutinized to see if it might reasonably be considered to have been the result of emotion rather than sound judgment, and whether the verdict is so far from fair and reasonable compensation as to shock the sense of justice. Goldberg v. Mertz, 123 Conn. 308, 310; Scarcello v. Greenwich, 127 Conn. 464, 467. The practical test is whether the verdict falls somewhere within the uncertain limits of fair compensation or whether it compels the conclusion that the jury were influenced by partiality, prejudice, mistake or corruption. Gorczyca v. New York, N.H. & H.R. Co., 141 Conn. 701, 703; Slabinski v. Dix, 138 Conn. 625, 629. Here it is to be noted that the jury awarded plaintiff $1000 by way of general damages. Applying the above principles to the instant facts, this appears to the court as being too high. The court is of the opinion that the jury became quite sympathetic with this plaintiff.
+Accordingly, the verdict is set aside unless within three weeks from the filing and receipt of this memorandum a remittitur of $500 is filed by the plaintiff. If such remittitur is filed, judgment shall enter for $500.
