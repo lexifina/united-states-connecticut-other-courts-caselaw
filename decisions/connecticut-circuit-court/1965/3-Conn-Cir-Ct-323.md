@@ -1,0 +1,25 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CV 14-646-11177"
+decided: "1965-07-29"
+citations: ["3 Conn. Cir. Ct. 323"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Hartford Electric Light Company v. Gerald W. Beard"]
+source_url: "https://static.case.law/conn-cir-ct/3/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1740863
+cites_cases: ["105 Ohio App. 459", "137 Conn. 562", "2 Wis. 2d 649", "261 N.C. 710", "273 F.2d 447", "41 N.J. 439"]
+---
+
+# Hartford Electric Light Co. v. Beard
+
+## Majority (Kinmonth, J.)
+
+Kinmonth, J.
+An electric light pole of the plaintiff was damaged when hit by an automobile driven by the defendant. The defendant’s liability is not disputed, and the only question presented on this appeal involves the proper measure of damages to which the plaintiff is entitled. The trial court, in rendering judgment for the plaintiff in the amount of $339.36, included payroll costs and costs of automotive equipment and meal allowance, but refused to include certain “overhead” expenses covering such items as payroll taxes, pension costs, vacation and holidays for its employees, and engineering and supervision personnel costs amounting to $62.20, and allowed the defendant a credit of $27 for depreciation in the value of the pole. It is upon these two items that the plaintiff appeals. As far as we can discern, this is a question of first impression in this state.
+The measure of damages to property without market value is the reasonable cost of repairs necessary to restore it to its former condition. Whitman Hotel Corporation v. Elliot & Watrous Engineering Co., 137 Conn. 562, 573. The plaintiff’s assistant supervisor of plant accounting testified at the trial on how the overhead costs were set up on the plaintiff’s books and that such accounting practice was usual and recognized as proper. The method used by the plaintiff in determining the indirect costs of repairs was to use a percentage of the direct cost of labor and materials, which percentage was based on the actual experience of the plaintiff as to what such indirect costs were to the company over many years. The defendant offered no evidence showing error or unreasonableness in this method, but he maintains that the indirect costs of repairs are too remote and speculative. Of course, the plaintiff may not recover damages which are conjectural and matters of guesswork, but if the plaintiff is able to prove with reasonable certainty indirect overhead costs of repairs and that these indirect costs have been correctly ascertained in accordance with sound accounting principles, then these indirect costs are a proper element of damage, and the plaintiff may recover them. In this case, the plaintiff has proved that these indirect costs are computed on sound accounting principles based on the experience of the company over a long period of time. Wisconsin Telephone Co. v. Reynolds, 2 Wis. 2d 649, 654-55; Warren Telephone Co. v. Hakala, 105 Ohio App. 459; Baltimore & Ohio R. Co. v. Commercial Transport, Inc., 273 F.2d 447, 449. The evidence before us is that the cost of repairs included both direct and indirect costs. There is nothing in the record to refute this proof. The trial court erred in not allowing this item.
+As to the allowance of depreciation, it seems to us that the true issue is whether the replacement of the pole did more than make the plaintiff whole or whether, if it did, it would be just to make the victim of the wrong contribute so much of the cost as would reflect that further benefit. In short, at least upon the record before us, we cannot say with reasonable assurance that the installation of a new pole did more than remedy the wrong done. An injured party should not be required to lay out money, as the defendant’s approach would require, upon a questionable assumption that one day its worth will be recaptured. Carolina Power & Light Co. v. Paul, 261 N.C. 710, 712; New Jersey Power & Light Co. v. Mabee, 41 N.J. 439. If the life of every pole was a certain number of years and if it was clear that each pole would be replaced at the end of that period, the defendant could well urge that a new pole clearly conferred a benefit beyond the amount of the damage done. The difficulty is that there is no discernible life expectancy of an individual pole and that although a set period is used for accounting purposes, the pole which was destroyed might well have served for a much longer period and the new pole may last for but a few years. Moreover, because of changes in circumstances or in technology, it cannot be known whether the pole would ever have been replaced. The court erred in allowing this credit to the defendant.
+There is error, the judgment is set aside and the case is remanded with direction to render judgment for the plaintiff in the amount of $428.56.
+In this opinion Kosicki and Dearington, Js., concurred.
