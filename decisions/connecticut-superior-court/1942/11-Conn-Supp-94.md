@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 60455"
+decided: "1942-07-28"
+citations: ["11 Conn. Supp. 94"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOUIS GALBICSEK vs. LUMBERMAN’S MUTUAL CASUALTY CO., INC."]
+source_url: "https://static.case.law/conn-supp/11/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343343
+cites_cases: ["101 Conn. 369", "107 Conn. 446", "127 Conn. 516"]
+---
+
+# Galbicsek v. Lumberman's Mutual Casualty Co.
+
+## Majority (O’SULLIVAN, J.)
+
+Memorandum of decision in action on policy of automobile liability insurance.
+O’SULLIVAN, J.
+In this action upon a policy of automobile liability insurance issued by the defendant, the plaintiff is seeking to recover the amount of a judgment rendered against him in a New York State court. The facts may be stated as follows: On October 9, 1937, Galbicsek was engaged in a laundry business located in Bridgeport, for the purposes of which he had bought and was using two Dodge one-half ton trucks fitted with panel delivery bodies. He operated under the trade name of Howard Avenue Laundry. On the mentioned date, the defendant issued a policy of liability insur' anee by which it agreed, among other things, “to pay on behalf of the insured all sums which the insured shall become obligated to pay by reason .of the liability imposed upon him by law for damages. .. .because of bodily injury.. . .sustained by any person or persons, caused by accident and arising out of the ownership, maintenance or use” of the two Dodge trucks, “for the purposes stated as applicable thereto in the declarations.”
+On December 22, 1937, while the policy was in effect, the plaintiff’s son, Julius, took one of the trucks to New York City to bring back to Bridgeport a young friend of the family who had been arrested and was being held in custody by the police. No purpose, directly or incidentally connected with the laundry business, was advanced by the trip. Julius left Bridgeport about 8:00 p.m. and drove to the 46th Precinct, New York City, and from there to another section of the city. The young man under arrest was finally released around 3:00 a.m. and he and Julius immediately started back to Bridgeport. Shortly thereafter, while the latter was driving, the truck struck a Miss Gareth Canniff who later brought suit in New York against the instant plaintiff and recovered judgment. The insurer was notified of the institution of the action, and although it entered and defended, it did so under an express reservation of right to contest its obligation to pay any judgment that might be rendered. On April 30, 1940, Miss Canniff began an action in Connecticut on her New York judgment but immediately thereafter it was discon' tinued when Galbicsek paid her counsel $2,711.18, the face of the judgment plus interest and costs. As the defendant has refused to reimburse him, the plaintiff has brought the present action, aimed at that objective.
+One of the defenses runs to the effect that, at the time of the accident, the truck was being used for a purpose other than any of those provided for by the terms of the policy. The policy, which is on a printed form adaptive for either passenger or commercial cars or both, carries a declaration that passenger cars are to be limited in use to “pleasure and business” and commercial cars, to “commercial” use. It then defines “pleasure and business” as “personal, pleasure, family and business use”, and the term “commercial”, as the “trans' portation or delivery of goods, merchandise or other materials, and uses incidental thereto, in direct connection with the named insured’s business occupation” as stated in the policy. ■
+Provisions of the contract, if ambiguous, must be construed against the insurer. Dickinson vs. Maryland Casualty Co., 101 Conn. 369. But this rule-does not go so far as to require a court to assume a ridiculous premise or to reach an absurd conclusion. This observation is apt, because the plaintiff asks the court to base its reasoning on the premise that the vehicle involved in the accident was a passenger car. This would be flying in the face of common sense, for the vehicle was a one-half ton truck, equipped with a closed windowless body, known as a panel job and designed for the delivery of light merchandise. Everyone knows that such a vehicle is not a passenger car. It was not necessary for the policy specifically to designate the truck as a commercial car.
+This brings us back to the contractual provision concerning the uses to which a commercial car was limited. It could have been used, if the coverage was to continue, and used only to transport “goods, merchandise or other materials, and uses incidental thereto”, in furtherance of the plaintiff’s laundry business. That the accident to Miss Canniff occurred while the truck was on the highway for a purpose other than “commercial”, as that term is defined in the policy, is quite apparent. The trip to New York City was totally divorced from any end aimed at furthering or connected with the plaintiff’s laundry business. Manthey vs. American Automobile Ins. Co., 127 Conn. 516. The policy therefore afforded the plaintiff no more protection than if someone had stolen his car and inflicted the injury. Basta vs. United States F. & G. Co., 107 Conn. 446, 449.
+Judgment may enter for the defendant.
