@@ -1,0 +1,27 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CR 15-14402"
+decided: "1968-04-19"
+citations: ["5 Conn. Cir. Ct. 186"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Mark Heller"]
+source_url: "https://static.case.law/conn-cir-ct/5/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1745588
+cites_cases: ["143 Conn. 72", "147 Conn. 7", "81 Conn. 97"]
+---
+
+# State v. Heller
+
+## Majority (Dearington, J.)
+
+Dearington, J.
+The defendant, having been convicted of the crime of breach of peace by assault, has appealed, assigning error in the denial of his motion to correct the finding and in the failure to grant his motion to dismiss the information at the conclusion of the state’s case. Further error is assigned in the court’s conclusion of guilt, the defendant claiming that the evidence does not support such a conclusion beyond a reasonable doubt. Upon the defendant’s last assignment of error we determine from the entire evidence whether the court erred in concluding that guilt was established beyond a reasonable doubt. It is, therefore, unnecessary to consider in detail the claims of error directed to the finding. State v. Pundy, 147 Conn. 7, 8.
+On or about July 25, 1967, the complaining witness, a young wife and mother, living in New Britain, received a telephone call from the Family Publication Service, Inc., of New Haven, soliciting a magazine subscription. She expressed some interest in a subscription and was told that a representative of the company, also known as a “closer,” would call on her and discuss such a subscription. On or about July 26, at approximately 11 a.m., the defendant, a “closer” for the organization, called at the home of the complainant. The defendant, after knocking on the front door and receiving no response, went to the rear door, where he met the complainant and informed her that he had come to discuss a subscription for the magazine in which she had expressed interest. The complainant told him to wait there as she wished to get her baby, who was in a crib in an inner room. She then closed the door and went to the nursery. In the meantime, the defendant opened the door and walked through the kitchen and dining room and into the living room. When the complainant returned from the nursery she found the defendant in her living room sitting on the couch. The complainant then sat in a chair, and after a brief conversation with the defendant she selected a magazine and signed a subscription contract. After she signed the contract, the defendant reached for her hand, in which a pencil was being held. The complainant thought the defendant was reaching for the pencil. At the same time her baby cried, and she arose to attend the baby. At this point the defendant grabbed her hand and turned her or rocked her off her feet and on to the couch. He then got on top of her and attempted to kiss her. In her fright she struggled and managed to extricate herself, and she landed on the floor near the couch in a sitting position. She arose, ran for her baby, and then ran out into the hall with her baby in her arms. The defendant followed her into the hall. She then ran back to her apartment, entered it and locked the door. Upon this evidence the court concluded the defendant was guilty as charged.
+After the state had rested the defendant moved to dismiss the information, claiming the state had failed to establish a prima facie case. In view of the testimony of the complaining witness, accepted by the court as set forth in its finding, it is difficult to follow the defendant’s reasoning. The direct evidence, without resort to inferences or presumptions, if believed by the trier, as it apparently was, was sufficient to establish a prima facie case. Not only does it appear that an assault was made upon the complainant but the evidence indicates it was accompanied by a battery. See 2 Swift, Digest (Rev. 1862) p. 365; 6 Am. Jur. 2d, Assault and Battery, §§ 3-7.
+In connection with the motion of the defendant to dismiss the information, he also claims the state failed to establish the date upon which the alleged offense occurred. The information alleged that the offense was committed “on or about July 26, 1967.” While the complaining witness was somewhat in doubt as to the precise date of the alleged offense, she did testify that she went to the police station the following day and signed a statement and in addition she also testified that the subscription contract she signed “is dated the twenty-seventh.” It does not appear that the date was material to the defense, for the defendant admitted that he called at the home of the complaining witness but he denied the conduct alleged to have been committed by him while there. A defendant in a criminal matter is “bound to meet any evidence admissible under the allegation which might be offered, and under the allegation it was competent to prove that the crime was committed on any day prior to the filing of the information and within the statute of limitations.” State v. Ferris, 81 Conn. 97, 99; Stenz v. Sandstrom, 143 Conn. 72, 75. The trial court was justified in denying the motion.
+Upon all the evidence, the court was warranted in concluding that the defendant was guilty of the offense charged beyond a reasonable doubt.
+There is no error.
+In this opinion Kosicki and Jacobs, Js., concurred.
