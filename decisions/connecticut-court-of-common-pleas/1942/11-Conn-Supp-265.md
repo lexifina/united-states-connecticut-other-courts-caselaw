@@ -1,0 +1,31 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File Nos. 32821; 32923"
+decided: "1942-11-03"
+citations: ["11 Conn. Supp. 265"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HUGH E. MULHERN ET AL. vs. LEROY MALLAHAN ET AL GERTRUDE MALLAHAN vs. CHARLES A. SIBLEY"]
+source_url: "https://static.case.law/conn-supp/11/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343277
+cites_cases: ["110 Conn. 184", "125 Conn. 60", "127 Conn. 85", "129 Conn. 1", "59 Conn. 261", "80 Conn. 268"]
+---
+
+# Mulhern v. Mallahan
+
+## Majority (BORDON, J.)
+
+Memorandum of decision in action arising out of collision of automobiles at intersection.
+BORDON, J.
+In case No. 32821 the plaintiffs were innocent bystanders injured as a result of the collision between Sibley’s and Mallahan’s automobiles. In this case both owners are defendants. In case No. 32923 the plaintiff, Mallahan’s wife, was a passenger in his automobile and sued only the defendant Sibley. If the collision was due entirely to Mallahan’s. negligence, the actions against Sibley must fail. If, however, Sibley was concurrently negligent, then he is equally liable with Mallahan.
+The driver of the Mallahan car was negligent aside from his failure to see and observe the stop sign. His entry into the intersection of the heavily traveled thoroughfare without slowing down, as warranted by existing conditions in the immediate vicinity of the intersection at that moment, was negligence. The fact that he did not see the defendant until the collision was imminent indicates a failure to use his normal faculties of observation. These acts on his part' materially contributed to the collision.
+The defendant Sibley contends that Mallahan’s failure to stop at the stop sign was the sole proximate cause of the accident, and that this act was the substantial factor in producing the plaintiffs’ damage and injuries. It is contended that if Mallahan had stopped, pursuant to his statutory duty, there would have been no accident. With this the court is in agreement. It may, however, also be said that if Sibley had stopped there would have been no accident. The court must test the propriety of conduct by what either or both parties did rather than by what neither did. In discussing a similar point in Smithwick vs. Hall & Upson Co., 59 Conn. 261, 269, the court observes that if the plaintiff “had never been born, or had remained at home on the day of the injury, it would not have happened; yet no one would claim that his birth or his not remaining at home that day, can in any just or legal sense be deemed a cause of the injury.” And so in the instant case what Sibley did when he saw Mallahan in the intersection determines the propriety of his conduct. Had he seen Mallahan in Elm Street, east of the stop sign, he would have been justified in proceeding through the intersection in the belief that the statute would be observed by the other car. However, when he reached the intersection the other car was already in it, and he knew that the driver had failed to observe his statutory duty. Under such circumstances it was his duty to slow down or stop as the exigencies of the conditions, at that moment, demanded.
+“The defendant was entitled to assume that the driver of the other vehicle would observe the provisions of the statute until he knew or, in the exercise of reasonable care, should have known that the assumption had become unwarranted.” Johnson vs. Shattuck, 125 Conn. 60.
+His failure to act accordingly constitutes negligence and this negligence was as much the proximate cause of the plaintiff’s injuries as was the negligence of Mallahan. By proceeding through the intersection, under the circumstances, he set in motion certain factors which were bound to produce damage, and these factors continued down to the setting in motion of the final injurious force which immediately produced the damage, thus becoming, in connection with Mallahan’s negligence, the substantial factor. Mahoney vs. Beatman, 110 Conn. 184.
+The negligent act of one does not relieve the other from liability if he could have avoided injury by acting as a reasonably prudent person under the circumstances. If he fails to do so, he is equally liable for the consequences of his act. Smith vs. Conn. Railway & Lighting Co., 80 Conn. 268; Bullard vs. de Cordova, 119 id. 262; Smirnoff vs. McNerney, 112 id. 421; Connellan vs. Coffey, 122 id. 136.
+An exhaustive statement on the question of proximate cause is contained in our Supreme Court decision of Kinderavich vs. Palmer, 127 Conn. 85, and cases therein cited. The principle therein enunciated was adhered to and further clarified in Cosgrove vs. Shusterman, 129 Conn. 1.
+From a careful study of these cases it would seem that the defendant Sibley can escape liability only if the negligence of Mallahan, independently of anything done by him, was the sole proximate cause of the plaintiff’s injuries. The evidence, however, is clear that Mallahan’s negligence alone would not have resulted in injury to anyone. It so resulted because of Sibley’s act in proceeding through the intersection although cognisant of Mallahan’s wrongful presence there. Under such circumstances the negligent act of Sibley, concurrently with Mallahan’s negligent act, was the proximate cause of the plaintiff’s damage.
+In view of this finding by the court, it is unnecessary to pass upon the question of whether one passing an obscured stop sign is negligent as a matter of law. The court has been unable to find any Connecticut cases exactly in point. There is, however, a note in 6 Current Legal Thought, p. 164, which seems to incline towards the theory that a driver is not bound for the consequences óf his failure to see an obscured stop sign, the presence of which was unknown to him.
+In case No. 32821 judgment may be entered against both defendants in favor of the plaintiff Margaret C. McGrath to recover the sum of $117.55 and in favor of the plaintiff Hugh E. Mulhern to recover from both defendants the sum of $750 and costs. In case No. 32923 judgment may be entered for the plaintiff to recover from the defendant Sibley the sum of $600 and costs.
