@@ -1,0 +1,28 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CV 2-611-409"
+decided: "1961-06-09"
+citations: ["1 Conn. Cir. Ct. 43", "22 Conn. Supp. 377"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nicholas J. Phelan v. Daniel O. Everlith, Jr."]
+source_url: "https://static.case.law/conn-cir-ct/1/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12122041
+cites_cases: ["113 Conn. 128", "116 Conn. 526", "192 Va. 672", "75 S.D. 617", "97 Conn. 336"]
+---
+
+# Phelan v. Everlith
+
+## Majority (Wise, J.)
+
+Wise, J.
+In this action, plaintiff seeks to recover from defendant the amount of a premium for a liability insurance policy.
+On or about January 9, 1959, the defendant ordered and received from plaintiff a liability insurance policy for the term of one year from January 9, 1959, and paid the premium. This policy contained no clause or provision for its renewal. On December 1, 1959, in the course of the practice and custom of plaintiff’s office, a renewal policy of the original policy was mailed to defendant together with a bill for the premium. The bill had printed on i't “return policies promptly if any changes are desired or if policies are not wanted.” The defendant contended he never received the renewal policy or the bill but admitted receiving subsequent statements. It is not in dispute that the only dealings the parties had with each other was the issuance of the original policy in January, 1959, and the alleged renewal policy. There had been no prior dealings between them. The defendant never made an application for the renewal of the policy; never ordered it or asked that it be renewed; never indicated that he wanted it renewed; nor indicated an acceptance of the renewal; nor was any part of the premium paid by the defendant.
+The fundamental and basic requisites that there must be an offer and an acceptance to make a valid contract have been applied to insurance contracts. “It is a thoroughly established principle of the law of contracts, within the field of which insurance largely lies, that ordinarily a bare offer imposes no liability upon the person to whom it is made until it is accepted; he need make no reply to it at all, and if he fails to do so for any reason, because he does not propose to accept it, or because he has forgotten it, or under other circumstances, the only result the law recognizes is that no contract comes into existence.” Swentusky v. Prudential Ins. Co., 116 Conn. 526, 533. A renewal policy is a separate contract, independent of the original policy, requiring its own elements of offer and acceptance. Back v. Peoples National Fire Ins. Co., 97 Conn. 336, 344. The unsolicited issuance of a renewal policy prior to the expiration of the original policy is but a proposal or an offer to insure. “Inasmuch as the employer had not in any way made application for the [renewal] policy, it would of course have to be accepted by him before it could become effective as a binding contract between him and the appellant.” Piscitello v. Boscarello, 113 Conn. 128, 130. A binding contract of renewal must have all the essentials of a valid contract, and the renewal cannot be effected or consummated without the mutual assent of the parties and the meeting of the minds of the parties on all the essentials of the contract and a new consideration.
+An express acceptance of an offer of renewal is not always necessary but may be implied under some circumstances. A familiar illustration of this is where, in accordance with prior dealings between the parties, the agent writes and delivers a policy to his customer prior to the expiration date and bills him for the premium upon the assumption that in the absence of notice to the contrary the policy will be accepted and the premium paid as in the past. Here, failure of the customer to notify the agent to the contrary will signify the customer’s implied acceptance of the policy and his promise to pay the premium within a reasonable time. However, the doctrine that in view of a general custom among insurance agents to renew the insurance of their policyholders without request, a failure by the insured to reject the renewal is tantamount to its acceptance may not be availed of unless the custom is established and it is shown that the party relying thereon knew of it and there had been a course of dealings between the parties from which it could be implied that the policyholder’s silence or failure to reject the offer would be regarded as an acceptance. 29 Am. Jur. 717, § 358; Boone v. Standard Accident Ins. Co., 192 Va. 672; Standard Casualty Co. v. Boyd, 75 S.D. 617. Applying these principles to the instant case, it is clear that there was no acceptance by the defendant of the renewal policy.
+Only in a single instance, which occurred in January, 1959, had the plaintiff issued a policy to the defendant. Never had he previously renewed a policy for the defendant. A single transaction does not establish a course of conduct or course of dealing. There had been no course of dealing between the parties which would lead the plaintiff to think that defendant’s silence would result in the renewal of the policy, nor was there anything in the conduct on the part of the defendant to lead the plaintiff to believe that the policy would be renewed.
+In the absence of circumstances from which an acceptance may be implied, an acceptance will not be presumed from a mere failure to decline a proposal. 29 Am. Jur. 718, § 358.
+The issues are found in favor of the defendant.
+Judgment may enter for the defendant to recover of the plaintiff his costs.
