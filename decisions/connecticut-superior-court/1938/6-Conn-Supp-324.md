@@ -1,0 +1,24 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #57626"
+decided: "1938-07-05"
+citations: ["6 Conn. Supp. 324"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MINNIE CLARK, ET ALS. vs. P. F. McDonough, ET ALS."]
+source_url: "https://static.case.law/conn-supp/6/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1314779
+cites_cases: ["109 Conn. 583", "113 Conn. 132", "120 Conn. 287", "145 Atl. 48", "198 N. Y. S. 397"]
+---
+
+# Clark v. McDonough
+
+## Majority (O’SULLIVAN, J.)
+
+O’SULLIVAN, J.
+This is an appeal by several property owners from the action of the Board of Adjustment of the City of New Britain in permitting Anthony Venkunas to establish a funeral home and embalming parlor on Stanley Street. The portion of the street involved in this controversy is within a zone in which such establishments are not permitted.
+On September 13, 1937, a hearing was held by the Board upon the application of Mrs. Venkunas for a special exception, provided for by law, to maintain a funeral home at 663 Stan' ley Street. The application was denied. On December 3rd, Mrs. Venkunas, together with her husband, Anthony Venkunas, petitioned the Board to reconsider its former action. This the Board did and, after a full hearing, it vacated its order and granted the applicants their petition to establish the home. The evidence heard by the Board on December 3rd was identical with that presented at the original hearing, with one exception hereinafter stated. There was an absence, at the hearing in December, of any change since September 13th in conditions in the neighborhood or in the property itself where the applicants desired to establish the home. The sole question involved on this appeal is whether or not the Board of Adjustment, in reconsidering and rescinding its action of September 13 th, acted unreasonably, arbitrarily and beyond the legal limits of its discretion. A Court cannot set aside the decision of a public administrative body, such as the Board of Adjustment of the City of New Britain, unless compelled to the conclusion that it has no foundation in reason or is a mere arbitrary or irrational exercise of power having no sub' stantial relation to the public health, public morals, the public safety or the public welfare in its proper sense. DeFlumeri vs. Sunderland, 109 Conn. 583, 145 Atl. 48. The situation disclosed by the events in this case is not one presenting the problem of the power and duty of the Board to hear and determine successive applications for special exemption from the zoning law. St. Patrick’s Church Corporation vs. Daniels, 113 Conn. 132, 137, 138. However, even if the application of December 3rd be deemed a new application, the result would be the same, because it must appear, as the test requires, that new or additional facts have been presented showing a change in conditions or other considerations materially affecting the merits, intervening since the former decision. St. Patrick’s Church Corporation vs. Daniels, supra, at page 138. The only evidence heard by the Board on December 3rd which it did not have on September 13th was that, while on the latter date it was stated that the applicant might be forced to discontinue a funeral home on October 1st at the place where it was then located at another site on Stanley Street, the evidence, on De' cember 3rd was that the home had in fact been discontinued. To hold that this insignificant change would support the action of the Board in reversing a former decision gives too broad a scope to the question of material changes or considerations. Burr vs. Rago, 120 Conn. 287. The whole scheme of zoning is not to assist.an individual, who unfortunately may have lost the situs of his business, but rather to promote the general welfare of the community.
+However, far stricter must the action of the Board be ex' amined in the instant case, because, as indicated, this involves a reconsideration and reversal of a decision upon the same application. As to this, it appears to be well established that a zoning board of adjustment should not ordinarily be per' mitted to review its own decisions and revoke action once duly taken. Otherwise there would be no finality to the proceed' ing. The result would be subject to change at the whim of members, or due to the effect of influence exerted upon them, or other undesirable elements tending to uncertainty and im' permanence. People ex rel. Swedish Hospital vs. Leo, 198 N. Y. S. 397; Baker, Legal Aspects of Zoning (1927) 92.
+Consequently, in its order of December 3rd, the Board acted illegally, unreasonably, arbitrarily and abused its discre' tion. Accordingly judgment may enter sustaining the appeal and vacating the order complained of.
