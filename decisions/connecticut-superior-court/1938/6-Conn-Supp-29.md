@@ -2,7 +2,7 @@
 court: "Connecticut Superior Court"
 docket: "File #54606"
 decided: "1938-03-15"
-citations: ["6 Conn. Supp. 29", "6 Conn. Supp. 43"]
+citations: ["6 Conn. Supp. 29"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
