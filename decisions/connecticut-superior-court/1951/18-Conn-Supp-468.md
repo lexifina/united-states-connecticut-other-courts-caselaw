@@ -1,0 +1,31 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 19759"
+decided: "1951-08-03"
+citations: ["18 Conn. Supp. 468"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clarence Barrie et al. v. Administrator, Unemployment Compensation Act"]
+source_url: "https://static.case.law/conn-supp/18/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1324020
+cites_cases: ["136 Conn. 482"]
+---
+
+# Barrie v. Administrator
+
+## Majority (Troland, J.)
+
+Troland, J.
+The plaintiffs were all employees of Glasgo Finishing Company, a textile processing company, located at Glasgo, Connecticut. They were laid off due to lack of work on April 21, 1950, for an indefinite period.
+At the time of the layoff there was in effect a contract of employment between the plaintiffs by their union and their employer, the Glasgo Finishing Company, which provided among other things for annual vacations for employees, the length of which and the amount of “vacation pay” to be paid depending in part on length of service with the company prior to a so-called “eligibility date” and in part on the number of months worked during the current year. The contract contained a provision which reads as follows: “3. All employees who are laid off before receiving their annual vacation shall be entitled to receive the earned portion of their vacation pay at the time of lay-off.”
+Just prior to their layoff, the plaintiffs requested the company to pay their vacation pay at the time of the layoff in accordance with the foregoing paragraph 3 of the contract. The company declined to make payment at said time under the claim that said paragraph did not require payment of vacation pay at the time of layoff. On April 23, 1950, the plaintiffs were paid by the company wages for work actually performed through April 21,1950. Following their layoff due to lack of work, the claimants registered for work and filed claims for unemployment compensation benefits. Their claims were approved by the examiner with the exception of the claims at issue here, covering the week ending July 8, 1950.
+The contract between the union and the company provided that there should be a conference in April to decide upon a vacation period. No such conference was had in 1950, and at no time was any agreement reached between the company and the union as to what period of time would be designated as the vacation period.
+The layoff continued for about six months and during this period, on or about July 13, 1950, the company issued to each of the claimants a check marked “Vacation Pay,” for an amount computed in accordance with procedure set forth in the contract. Upon receipt thereof the claimants notified the unemployment compensation department of this fact and the examiner on making inquiry of the company was informed that this payment was to cover the week ending July 8, 1950. The reason for so allocating the payment was that the week in which July 4 falls is generally a vacation week in the textile industry, and had been a vacation week at the company during certain, though not all, previous years.
+It is conceded by the administrator, defendant, that the claimants, during the week ending July 8, 1950, met the benefit eligibility conditions of the unemployment compensation law in all other respects, but he claims that during said week the payment received by each claimant, of vacation pay, under the circumstances set out above, is a payment by way of compensation for loss of wages with respect to that week. The unemployment commissioner overruled this claim and the administrator has appealed.
+It seems clear that under the contract the plaintiffs were entitled to the “earned portion of their vacation pay” at the time of layoff. The company arbitrarily postponed the time for payment. It is not claimed that the money was due as a dismissal payment, or wages in lieu of notice. The sole claim of the administrator is that with respect to the week ending July 8, 1950, these claimants received payments which were remuneration in the form of payment by way of compensation for loss of wages within the meaning of General Statutes, §7508(4) (a). The administrator relies on the rule laid down in Kelly v. Administrator, 136 Conn. 482.
+The plaintiffs claim that on the facts of this case the rule in the Kelly ease does not apply. They assert they were not on vacation but were out of employment during a layoff of indefinite duration, and that their “vacation” pay received by them in July was really due in April, and was in the nature of an earned bonus, and that at the time it was received it was not and could not have been remuneration with respect to a particular week.
+The commissioner apparently adopted the reasoning of the claimants and because, as he states, “the factual situation in this case is different from that in Kelly v. Administrator,” he has held “that decision is not controlling.” In so doing he has overlooked the principle or rule laid down in said case.
+There is some conflict in the decisions of other states but our court in the Kelly case has made it definite that payments provided in a contract between employer and employees for vacation periods are payments by way of compensation for loss of wages under § 7508. Our Supreme Court recognizes therein that employees who have been continuously employed for the designated time by their company have earned the right to the vacation pay provided in the contract and holds (p. 486) that this compensation is “directly related to the vacation period.” In the present case there was no definite vacation period agreed on, although the company intended the payment to be for the week of July 2-8. It is equitable to relate the payments to this week. The claimants did not work during this week. They did receive from the employer sums substantially equivalent to the pay they would have received if they had actually worked. Therefore, under the rule in Kelly v. Administrator, 136 Conn. 482, 487, they are not eligible for unemployment benefits during the week for which such payments were made and received.
+The commissioner is found in error, the appeal of the administrator is sustained, and judgment may enter accordingly.
