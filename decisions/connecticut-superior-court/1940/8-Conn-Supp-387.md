@@ -1,0 +1,26 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 8664"
+decided: "1940-08-27"
+citations: ["8 Conn. Supp. 387"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SOL B. BERNSTEIN vs. SPERAS VELLES"]
+source_url: "https://static.case.law/conn-supp/8/cases/0387-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1315954
+cites_cases: ["114 Conn. 400", "8 Conn. Sup. 123"]
+---
+
+# Bernstein v. Velles
+
+## Majority (WALLER, J.)
+
+WALLER, J.
+In this case the defendant secured a judgment in a justice court on July 10, 1939, from which judgment the plaintiff appealed to this court. The defendant has filed a motion to erase the appeal on the claim that section 1397e of the 1939 Supplement to the General Statutes repealed section 1646c of the 1935 Cumulative Supplement to the General Statutes, and thereby took away the only statutory right of appeal from a judgment of a justice of the peace.
+Such right of appeal has long been recognised as an established principle in our system of judicial administration. It is true that there were in past times restrictions on this right •of appeal based upon the matter in demand. At the time of the adoption of our Constitution, such appeals were allowed to be taken only when the matter in demand exceeded seven dollars in value. In 1853 this right of appeal was extended to all cases without restriction, and has so continued to the present time, unless all right of appeal from such a judgment was terminated by the adoption of section 1397e. Prior to the enactment of section 1646c, section 5442 of the General Statutes, Revision of 1930, contained the only statutory provisions regulating appeals from justices of the peace. Section 1646c was a verbatim restatement of section 5442, with the •exception as to the days of the month to which such appeals should be taken to the appellate courts in the several counties. Section 1646c omitted these return days, and thereby left the provisions of section 5465 of the General Statutes, Revision ■of 1930, as governing such return days.
+Section 1646c was not in form an express repeal of all the provisions of section 5442. It was apparently intended as striking out from section 5442 the provisions as to return •days before referred to. In all other respects section 1646c was entirely consistent with section 5442. If section 1646c is considered as amendatory only, then only the part of section 5442 omitted in section 1646c should be taken as repealed thereby, and all the rest of section 5442 as continued in force. “However, repeals by implication are not favored and occur only when two statutes are so repugnant to each other as to clearly indicate that the later Act was intended, wholly or in part, as a substitute for the former. If both can be reconciled, they must stand together and be accorded concurrent effect and operation.” Leete vs. Griswold Post, 114 Conn. 400, 405. See, also, 59 C.J. Statutes §526. Under this theory, the effect of section 1397e in repealing section 1646c would leave in force the provisions of section 5442, at least so far as appeals from judgments of justices of the peace are concerned. The same conclusion was reached by the Superior Court in an opinion by Judge Baldwin in the case of Medbury vs. Renick, 8 Conn. Sup. 123.
+Furthermore, it seems clearly apparent that it was not the intent of the Legislature by the passage of section 1397e to take away the right of appeal from judgments of justices of the peace. The jurisdiction of the justices of the peace as set forth in section 5437 of the General Statutes, Revision of 1930, is as follows: “All civil actions for legal relief when the matter in demand does not exceed one hundred dollars shall be heard and determined by a justice of the peace, subject to the right of appeal as hereinafter provided” (italics added). That statute makes the jurisdiction of justices of the peace conditioned on the right of appeal.
+The Minor Courts Act adopted by the Legislature in 1939 contains exclusive provisions covering appeals from city, town, and borough courts (Supp. {1939} §1364e) which by implication repeal all former inconsistent provisions contained in section 1646c or in section 5442. It seems from an examination of the Minor Courts Act and the statutory provision relating to civil jurisdiction of justices of the peace hereinbefore referred to, that the Legislature only intended to provide a new method of appeal from judgments of city, town, and borough courts, and did not intend in any manner to affect the right of appeal from judgments of justices of the peace. This intent is manifested not only by the fact that section 5437, providing that all civil jurisdiction of justices of the peace shall be subject to appeal, was not amended, but it is also indicated by the fact that at the same session the Legislature amended summary process proceedings before a justice of the peace or other court by permitting a claim for damages to be made a part of the complaint, and that “the complaint shall be returnable in accordance with the established rules and procedure of civil process, including the right of appeal.” (Supp. {1939} §1429e.)
+The motion to erase is therefore denied.
