@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 122681"
+decided: "1962-06-13"
+citations: ["23 Conn. Supp. 352"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis DeFelippi v. Josephine M. DeFelippi"]
+source_url: "https://static.case.law/conn-supp/23/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1760457
+cites_cases: ["143 Conn. 708", "145 Conn. 709", "15 Conn. Sup. 89", "5 Conn. Sup. 391", "5 Conn. Sup. 401", "63 Conn. 551"]
+---
+
+# DeFelippi v. DeFelippi
+
+## Majority (Pastoke, J.)
+
+Pastoke, J.
+In the complaint, the plaintiff seeks a divorce and a division of the joint property. In the cross complaint, the defendant wife seeks a divorce and alimony. The ground of the divorce in both cases is intolerable cruelty.
+Defendant has moved to amend her cross complaint by the addition of a second count seeking to recover damages for her past support. Plaintiff’s objection to the allowance of the amendment is that it would constitute a misjoinder of actions. There are two aspects to the motion: One is the propriety of joining the proposed amendment with the first count of the cross complaint, and the other is the propriety of permitting the proposed amendment as a cross complaint to the cause of action stated in the complaint. General Statutes § 52-97 (7), permits the joinder in the same complaint of several causes of action brought to recover “upon claims, whether in contract or tort or both, arising out of the same transaction or transactions connected with the same subject of action.”
+“As the word is employed in American codes of pleading and in our own Practice Act, a transaction is something which has taken place whereby a cause of action has arisen. It must therefore consist of an act or agreement, or several acts or agreements having some connection with each other, in which more than one person is concerned, and by which the legal relations of such persons between themselves are altered. . . . The Practice Act is to be ‘favorably and liberally construed as a remedial statute.’ . . . It has taken the word ‘transaction,’ not out of any legal vocabulary of technical terms, but from the common speech of men. ... It is therefore to be construed as men commonly understand it, when applied, as in our Practice Act it certainly is applied, ... to any dealings between the parties resulting in wrongs, without regard to whether the wrong be done by violence, neglect, or breach of contract.” Craft Refrigerating Machine Co. v. Quinnipiac Brewing Co., 63 Conn. 551, 560.
+In the present ease, the claims of divorce under the complaint and cross complaint, each upon the ground of cruelty, and the claim for past support under the proposed amendment concern acts and dealings between the parties necessarily connected with and dependent upon the marital relationship between them. Without the marital relationship there would be no basis of divorce, nor duty to support by the plaintiff. Moreover, the alleged failure to provide support to the defendant may well be relevant and material to the issue of intolerable cruelty, alleged as the ground of divorce by both parties. Also, acts constituting intolerable cruelty and failure to support defendant may well constitute “a group of related acts which went to make up one entire course of conduct [constituting] a single transaction within the meaning of the statute.” See Goggins v. Fawcett, 145 Conn. 709, 711. It seems clear that the claims for divorce and by the defendant for support from the plaintiff arise out of the same transaction, namely the marital relationship of the parties, and may be therefore properly joined in one complaint. Certainly it seems that the alleged failure to provide support to the defendant would in all events be “transactions connected with the same subject of action.” General Statutes § 52-97 (7).
+In Herman v. Herman, 15 Conn. Sup. 89, a count of annulment of marriage and a count seeking a divorce were permitted to be joined in one complaint on the ground that the transaction in the case was the marriage contract between the parties. The case of Peatt v. Peatt, 5 Conn. Sup. 391, is distinguishable in that the constructive trust set forth in the third count was in no way connected with or dependent upon the marital relationship of the parties though created during the marriage relation and hence was held not properly joined with counts seeking a divorce. The same reason distinguishes Castonguay v. Castonguay, 5 Conn. Sup. 401, in holding that a count alleging a breach of an agreement to convey property upon request could not be joined with one seeking a divorce. In both these eases, the counts in question had no necessary basis in the marital relationship.
+The subject matter of the proposed amendment to the cross complaint, for the reasons stated, appears so connected with the matter in controversy under the plaintiff’s complaint that its consideration may be necessary for a full determination of the rights of the parties, and hence properly the subject of a cross complaint. This may follow not only because of the relevancy and materiality of the matter of failure to support upon the issue of intolerable cruelty but also in connection with the prayer of plaintiff for a division of the alleged joint property of the parties. See Springfield-Dewitt Gardens, Inc. v. Wood, 143 Conn. 708, 713.
+Defendant’s motion to amend her cross complaint is granted.
