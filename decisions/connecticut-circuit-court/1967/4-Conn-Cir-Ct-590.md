@@ -1,0 +1,28 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CV 16-648-3123"
+decided: "1967-09-22"
+citations: ["4 Conn. Cir. Ct. 590"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. William O’Brien v. Donald C. Rosenblatt et al."]
+source_url: "https://static.case.law/conn-cir-ct/4/cases/0590-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1743695
+cites_cases: ["136 Conn. 621", "137 Conn. 311", "139 Conn. 225", "141 Conn. 242", "142 Conn. 13", "143 Conn. 22", "144 Conn. 488", "147 Conn. 496"]
+---
+
+# O'Brien v. Rosenblatt
+
+## Majority (Pruyn, J.)
+
+Pruyn, J.
+The plaintiff brought this action to recover a real estate broker’s commission and obtained judgment against the defendant Rosenblatt only. The defendant Herrup obtained a judgment in his favor. Both the defendant Rosenblatt and the plaintiff have appealed.
+It is well settled that a real estate broker earns his commission when he procures a purchaser who is ready, willing and able to purchase on the terms prescribed or accepted by the seller. Thomas F. Rogers, Inc. v. Hochberg, 143 Conn. 22, 24; Richter v. Drenckhahn, 147 Conn. 496, 500. The burden of proving these facts is on the broker. Lesser v. Altnacraig Convalescent Rome, Inc., 144 Conn. 488, 491. This is an issue of fact for the trier, and its conclusion must stand unless it is contrary to, or unsupported by, the subordinate facts, or is in conflict with logic or reason, or is found in violation of some rule of law. Kane v. Brunneau, 141 Conn. 242, 246.
+The facts as found by the court, with such corrections in the finding as are appropriate, may be briefly stated as follows: The defendant Rosenblatt engaged the plaintiff to sell certain premises in Newington. The plaintiff then procured a prospective purchaser named Martin. An agreement of sale was signed by Martin, and after certain changes in the terms were made by Rosenblatt, it was signed by him. Martin then agreed to the changed terms. The agreement provided for the payment of a commission by the seller. A subsequent title search revealed that the title to the premises was not in Rosenblatt but in the defendant Herrup. The premises had previously been owned by Rosenblatt, who experienced extreme financial difficulties, and after foreclosure of a mortgage thereon and on the refinancing thereof, Herrup became the record owner of the premises as an accommodation to Rosenblatt, who continued to occupy the premises and had full authority from Herrup to deal with the property as his own and to sell it at such a price and on such terms as he wished. The plaintiff knew the circumstances under which Herrup held title to the premises. At the request of the plaintiff and Rosenblatt, Herrup signed the agreement of sale between Rosenblatt and Martin. Martin hesitated to make the balance of the initial payment as provided in the agreement of sale when he discovered that Rosenblatt was not the owner of record but was willing to make the payment as soon as the parties signed a new bond for deed. Rosenblatt refused to arrange for transfer of the property as previously agreed upon. Martin purchased other property at a higher price.
+The trial court’s conclusion that the plaintiff produced a buyer who was ready, willing and able to purchase the premises on terms prescribed by the seller, Rosenblatt, is amply supported by the subordinate facts found. Rosenblatt lays great stress in his brief on the fact that Martin did not pay the balance of the deposit as indicative of Martin’s unwillingness to purchase. There is no requirement that the parties enter into an enforceable agreement but only that the offer of one party meets the terms of the other. Dyas v. Akston, 137 Conn. 311, 313. Nor does the fact that the sale did not materialize defeat the plaintiff’s recovery. Finch v. Donella, 136 Conn. 621, 626.
+As for the defendant Herrup, the plaintiff claims the same judgment against him as against Rosenblatt on the ground that Herrup was more than a nominal defendant. Although the trial court in its memorandum of decision, which as part of the record we may consult, stated that Herrup was a nominal defendant and that the plaintiff did not press his claim against him, and later denied the plaintiff’s application to open the judgment in Herrup’s favor, which application was made on the ground that the plaintiff did press his claim against him as more than a nominal defendant, there is nothing in the record to show that the plaintiff in any way abandoned his claim against Herrup.
+There is nothing in the finding to indicate that the plaintiff made a demand upon Herrup to convey the property and that Herrup refused. The only pertinent evidence offered by the plaintiff in regard thereto was the testimony of Martin’s attorney that he had asked Herrup if he would evict Rosenblatt and deliver legal title, to which Herrup had replied that he could not do that because all the equity was Rosenblatt’s. The court found that Herrup had never been requested to convey the premises to Martin. We cannot disturb this finding, the court apparently not believing the plaintiff’s testimony. The trier is the arbiter of the credibility of witnesses and the weight to be given to their testimony. Ball v. Branford, 142 Conn. 13, 15. Courts are entitled to draw reasonable and logical inferences from the facts. Fandiller v. Peluso, 139 Conn. 225, 228. The court’s conclusions are supported by the facts found.
+There is no error.
+In this opinion Dearingtost and Kinmowth, Js., concurred.
