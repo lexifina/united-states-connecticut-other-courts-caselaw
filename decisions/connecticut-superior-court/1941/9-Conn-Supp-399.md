@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 53619"
+decided: "1941-07-16"
+citations: ["9 Conn. Supp. 399"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM R. WHITE, SUPERINTENDENT OF BANKS, STATE OF NEW YORK vs. PAULINE RATNER ET AL."]
+source_url: "https://static.case.law/conn-supp/9/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1341612
+---
+
+# White v. Ratner
+
+## Majority (FOSTER, J.)
+
+FOSTER, J.
+On and after December 11, 1930, the defendant was the owner of shares of the stock of the Bank of the United States, a corporation located in the City and State of New York and organised under the banking laws of the State of New York. It is alleged in the complaint that on and prior to January 1, 1935, Joseph A. Broderick was the Superintendent of Banks of the State of New York; that the banking laws of the State of New York are in part as set forth in paragraph 5 of the complaint; that on May 6, 1931, Broderick as such Superintendent of Banks did by virtue of such banking laws take possession and control of such bank; that pursuant to such banking laws Broderick as such Superintendent of Banks did on July 6, 1932, make demand upon the defendant that the monies which are the subject of this suit be paid to him by the defendant on August 8, 1932. Process in this action was served upon the defendant on October 13, 1937.
+A part of the banking law of the State of New York (Banking Law, former §120) is as follows: “The stockholders of every bank shall be individually responsible, equally and rat-ably and not one for another, for all contracts, debts and engagements of the bank, to the extent of the amount of their .stock therein, at the par value thereof, in addition to the amount invested in such shares. An action to enforce such liability must be brought within six years after the cause of action has accrued.”
+Paragraph 8 of the second defense of the defendant’s answer is as follows: “The right of action for the cause stated in said complaint did not accrue within three years next before the commencement of this action.”
+The plaintiff demurs to the second defense on two grounds: 1. That the right of action for the cause stated in the complaint accrued within six years next before the commencement of this action as provided in [former] section 120 of the Banking Law of the State of New York. 2. That the right of action for the cause stated in the complaint accrued within six years next before the commencement of this action as provided by Connecticut General Statutes, Revision of 1930, section 6005.
+Counsel for the plaintiff and for the defendant have aided the court in the decision of this demurrer by extensive briefs, in which appear numerous authorities. I do not feel that it is necessary in this opinion to enter into any extensive argument in support of my decision. I shall leave the briefs in the file for the use of the trial court, if they are desired, and, if the case goes to the Supreme Court of Errors on appeal, the usual printed briefs will appear there.
+That a statute of limitations is procedural in its effect is conceded by both parties. This general rule will bring this action under the statute of limitations of the State of Connecticut. But where in the statute fixing the liability there is incorporated a limitation of the time within which such liability may be enforced, then there is presented an exception to the general rule, and the case is governed by the law of the locus rather than the law of the forum. This exception to the general rule the defendant concedes. But the defendant relies in this defense upon two propositions: 1. That there is an exception to the exception to the general rule; that this exception to the exception is that where the limitation of time fixed by the statute of the forum is shorter than that fixed by the statute of the locus, the statute of the forum governs the case. 2. That this case is governed by section 6010 of the General Statutes of Connecticut, Revision of 1930. The plaintiff contends that the contract is not one that could be governed by section 6010, supra, even if the case were governed by the law of the forum. Section 6005 of the General Statutes, Revision of 1930, is in part as follows: “No action. .. .on any simple or implied contract, or upon any contract in writing not under seal... .shall be brought but within six years. ...” Section 6010 of the General Statutes, Revision of 1930, is in part as follows: “.... no action founded upon any express contract or agreement not reduced to writing, or of which some note or memorandum shall not be made in writing and signed by the party to be charged therewith or his agent, shall be brought but within three years next after the right of action shall accrue.”
+I hold that this contract is an implied contract and, if gov' erned by the law of the forum, would be governed by section 6005 of the General Statutes, Revision of 1930, and not by section 6010 of the General Statutes, Revision of 1930. This conclusion takes the case out of the exception to the exception of the general rule, since the limitation of time in section 6005 is the same as the law of the locus.
+Moreover, while the defendant submits cases in support of the contention that there is an exception to the exception to the general rule, I am of the opinion that the great weight of authority is contra to this position.
+The demurrer to the second defense of the Congress Bank and Trust Company is sustained on both grounds therein appearing.
