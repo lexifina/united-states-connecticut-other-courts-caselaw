@@ -1,0 +1,35 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 61502"
+decided: "1942-04-27"
+citations: ["11 Conn. Supp. 10"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRIETTA PEMBERTON vs. SARAH KAUFMAN ET AL."]
+source_url: "https://static.case.law/conn-supp/11/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343304
+cites_cases: ["98 Conn. 241"]
+---
+
+# Pemberton v. Kaufman
+
+## Majority (FOSTER, J.)
+
+Memorandum of decision in action against abutting owner to recover for injuries sustained in fall on sidewalk.
+FOSTER, J.
+County Street in New Haven runs north and south. Goffe Street runs east and west and intersects County Street. On the southeast corner of County and Goffe Streets is a building, which on December 6, 1940, was owned by the defendant and used by her as a tenement house, the lower floor being occupied and used as a store. On the west side of the building near the southwest corner thereof there had existed for several years an eight-inch galvanized iron pipe, running from the roof of the building down to the entrance to a sewer pipe just above the level of the ground, the use of the pipe being to carry rain water and water caused by the melting of snow and ice from the roof of the building to the sewer. Such pipe had in some way become dented and broken about four feet above the ground and had been in that condition for a long time before December 6, 1940. By reason of such break in the pipe, water was accustomed to flow from the pipe across the sidewalk adjacent to the building at a location near the pipe.
+It is conceded that George Kaufman was the general agent of his mother, the defendant, in the care and maintenance of the tenement house and the land upon which it stood. George Kaufman testifies that “someone ran into the pipe in the fall”, and that he called it to the attention of one Lakoff, a sheet iron worker, who repaired the pipe by replacing the entire pipe with a new pipe on January 3, 1941. What Lakoff did to the pipe after noon on December 6, 1940, is only considered for the purpose of determining' that George Kaufman knew during a period of several weeks before December 6, 1940, that the pipe was so defective as to permit water to flow across the sidewalk and did not use such care as would cause the defect to be mended before December 6, 1940.
+Snow fell on December 4, 1940, and continued up to 3:05 p.m. on December 5th. Oh December 5, 1940, the temperature rose as high as 35 degrees. On December 6, 1940, the temperature did not rise higher than 25 degrees. On the morning of December 6, 1940, the snow was shoveled from the sidewalk by men employed by George Kaufman. From the pipe there extended all the way across the sidewalk an. area of “glassy, shiny ice” of substantial area. Such ice was caused by the leakage of water from the defective drain pipe.
+About- noon on December .6, 1940, the plaintiff was walking north on County Street on the sidewalk upon which was the ice above mentioned. She saw the area of ice extending across the sidewalk and advanced with much care. Notwithstanding the care that she used in crossing the area of ice, she fell and received injuries.
+The proximate cause of the plaintiff’s fall and injuries was the failure of the defendant to use reasonable care to keep her premises in such condition as not to endanger the plaintiff in her lawful use of the highway. Ruocco vs. United Advertising Corp., 98 Conn. 241, 247; Kane vs. New Idea Realty Co., 104 id. 508, 515.
+The defendant claims that the plaintiff cannot recover in this action, because of a variance between the complaint and the proof. In the action as instituted, Sarah Kaufman and the City of New Haven were named as defendants. In the first count is set forth the plaintiff’s cause of action against Sarah Kaufman. In the second count is set forth the plaintiff’s cause of action against the City of New Haven. On April 14, 1942, in open ’ court the plaintiff by her counsel orally withdrew her action against the City of New Haven and was directed by the court to make such withdrawal in writing, which she did on April 15, 1942.
+In the second count wherein is set forth the cause of action against the City of New Haven, it is alleged that the plaintiff when injured was walking on Goffe Street—not County Street.
+In the first count it is alleged that when injured the plaintiff was walking on the sidewalk “in front of the defendant’s premises.” All of the evidence was to the effect that the plaintiff fell on the sidewalk on County Street. County Street bounds the defendant’s premises on the west—the building being adjacent to the sidewalk. The drain pipe was near the southwest corner of the building—'the County Street side. There was no question or confusion or surprise throughout the trial as to the location of the area of ice upon which the plaintiff fell.
+The defendant claims that on the morning of December 6th the defendant caused the ice on the County Street sidewalk to be covered with ashes. The evidence on this question is conflicting. The testimony as to this question given by the defendant’s witnesses is not in accord. I find as a fact that the defendant did not cover the ice in question with ashes on December 6, 1940, before the plaintiff fell.
+The plaintiff fell upon her back and was assisted to the home of a friend, where she remained until that evening. She suffered contusions and sprains of the muscles of her back, neck, shoulders, buttocks and coccyx. On the evening of December 6, 1940, she was removed to her home, where she was totally incapacitated and remained in bed for a period of eight weeks. She was partially incapacitated until July 1, 1941. During all this time, even up to the present, the plaintiff has suffered much pain. For 15 years prior to the receipt of her injuries the plaintiff had been a laundress, earning $18 a week. During the months of March, April, May and June, 1941, she was able to work only one-half day each week earning $1.50 per week. During the eight weeks that she was in bed she was attended by two women, the fair value of whose services to her in nursing was $1.50 per day. Her doctor’s bill was $20. She spent $4.90 for medicines and liniments. The doctor’s bill was small, because she required little medical treatment, and her doctor was a man of integrity. Her recovery depended upon immobility, rest and the application of hot packs and massage.
+The total damage of the plaintiff as claimed in her complaint and proved by a fair preponderance of the evidence is $1,799.40.
+After the institution of this action, the City of New Haven paid the plaintiff $250 for a covenant not to sue for recovery on account of her damage suffered as alleged in the complaint.
+This sum must be deducted from the amount found to be the plaintiff’s total damages.
+Judgment is rendered that the plaintiff recover from the defendant, Sarah Kaufman, damages of $1,549.40.
