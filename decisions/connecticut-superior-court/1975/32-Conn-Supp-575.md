@@ -1,0 +1,33 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 11"
+decided: "1975-05-28"
+citations: ["32 Conn. Supp. 575"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Philip J. Monahan, Jr. v. Richard W. Brahm et al."]
+source_url: "https://static.case.law/conn-supp/32/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1672765
+cites_cases: ["156 Conn. 75", "163 Conn. 433", "168 Conn. 478", "2 Conn. Cir. Ct. 160", "96 Conn. 12", "98 Conn. 349"]
+---
+
+# Monahan v. Brahm
+
+## Majority (Speziale, J.)
+
+Speziale, J.
+The defendant Richard W. Brahm contracted with the plaintiff for the performance of carpentry services on the home in which he and his wife, the defendant Arlou E. Brahm, had vested interests. The plaintiff proceeded to perform those services. The defendant became dissatisfied with the plaintiff’s work and hired one Mr. Kirk, assessment investigator of the town of Greenwich, to inspect the work of the plaintiff and his carpenters. Mr. Kirk presented a list of twenty defects in the construction of the house to the defendant, who then terminated his contract with the plaintiff. The defendant then hired a Mr. Maas and a Mr. Vail to complete the work contemplated by the contract with the plaintiff. They performed the requested carpentry services and were paid by the defendant.
+The plaintiff brought an action against Richard W. Brahm, individually, and as trustee for Arlou E. Brahm, his wife, and also against the wife. The complaint claimed that the reasonable value of the services and work performed by the plaintiff was $6900 less $3000 paid on account thereof, leaving a balance of $3900 due and owing by the defendants to the plaintiff, which sum the defendants had not paid and had refused to pay to the plaintiff. The defendant Richard W. Brahm counterclaimed for $7500, alleging that the plaintiff failed to provide first quality workmanship in accordance with the terms of the contract. At the trial there was much testimony about the quality of the work performed by the plaintiff. The court found that the plaintiff’s services and work met the requirements of the town of Greenwich. Judgment was rendered for the plaintiff against both defendants on the complaint in the amount of $1800 and against the defendant husband on the counterclaim. The defendant husband appealed.
+The defendant makes seventeen assignments of error attacking the court’s finding of facts, which the court formulated as a memorandum of decision in accordance with Practice Book § 784B. The defendant did not make a motion to the trial court to correct the finding in accordance with Practice Book § 782F. Practice Book § 567L states, in pertinent part: “The panel may examine the evidence presented in the motions to correct and as to any finding concerning which error is assigned it may itself correct the finding . . . .” The finding may not he corrected unless the rules are followed. See Cohan v. Czuchnowski, 2 Conn. Cir. Ct. 160, 162; Maltbie, Conn. App. Proc. § 157. “In this appeal, no motion to correct or add to the finding has been presented in the manner required . . . . Therefore the facts stated in the finding are the only facts which we have to consider. Bell v. Strong, 96 Conn. 12, 13 . . . .” Porter v. Adams, 98 Conn. 349, 352. Because the defendant did not make a motion to the trial court to correct its findings of fact, the facts as found are the only ones before us for our consideration.
+The defendant also assigns as error the conclusion of the trial court rendering judgment for the plaintiff on the complaint to recover $1800 plus costs. In support of that conclusion, the court found: “It was the expert opinion of Mr. Maars [sic] that $3000.00 was the value of finishing the work contemplated by Exhibit A and remaining to be done when defendant husband unilaterally terminated the contract with plaintiff. . . . Mr. Teufel’s opinion, based on his experience as a carpenter and builder since 1936 was that the reasonable value of work as a carpenter, to finish the job unfinished after the plaintiff was fired, was $1198.00 based on $8.00 an hour.” (Footnote added.) It should be pointed out again that the plaintiff in his complaint sought the reasonable value of services and work performed. There is nothing in the finding about the value of those past services performed by the plaintiff. It states the opinions of two expert witnesses only as to the value of the services necessary to complete the job after the plaintiff was fired by the defendant. Conclusions are tested by the finding. They must stand unless they are legally or logically inconsistent with the facts found or unless they involve the application of some erroneous rule of law material to the case. New Haven v. United Illuminating Co., 168 Conn. 478, 483; Hutensky v. Avon, 163 Conn. 433, 437; Johnston Jewels, Ltd. v. Leonard, 156 Conn. 75, 79. The conclusion with respect to the complaint in this case was logically inconsistent with the facts found and clearly not supported by the finding. The court erred in making that conclusion.
+The defendant also assigns error in the conclusion of the court rendering judgment for the plaintiff on the counterclaim. That conclusion was supported by the finding that the plaintiff’s services met the requirements of the town of Greenwich. The court found that the defendant failed to prove the allegations of his counterclaim by a fair preponderance of the evidence. That conclusion was not erroneous.
+The judgment for the plaintiff against the defendant Richard W. Brahm on the counterclaim is affirmed; however, there is error in the judgment for the plaintiff against the defendant Richard W. Brahm on the complaint.
+There is error in part, the judgment for the plaintiff against the defendant Richard W. Brahm on the complaint is set aside and the case is remanded to the Court of Common Pleas for a new trial solely on the complaint.
+In this opinion Barber and Sponzo, Js., concurred.
+All future references to “the defendant” are to Richard W. Brahm.
+Reference is made to the rules of the Appellate Division of the Court of Common Pleas, from which this case was transferred, because they were in effect at the time of the appeal. See Practice Book § 565 (a rule of the Appellate Session of the Superior Court).
+See note 2.
+This rule of the Appellate Session of the Superior Court is a verbatim copy of Practice Book § 782J, applicable to the Appellate Division of the Court of Common Pleas.
+Mr. Teufel was an expert witness for the plaintiff.
