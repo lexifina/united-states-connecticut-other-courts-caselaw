@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 90121"
+decided: "1959-06-24"
+citations: ["21 Conn. Supp. 367"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Hartford-Connecticut Trust Company v. Clark-Barone Company, Inc."]
+source_url: "https://static.case.law/conn-supp/21/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1757847
+cites_cases: ["10 N.J. Misc. 281", "106 Conn. 642", "107 Conn. 40", "109 N.Y.S.2d 143", "11 Ill. App. 2d 80", "115 F.2d 224", "116 Conn. 29", "136 N.Y.S.2d 672", "138 Conn. 605", "143 Conn. 269", "19 Conn. Sup. 85", "194 Ark. 549", "88 Ga. App. 24"]
+---
+
+# Hartford-Connecticut Trust Co. v. Clark-Barone Co.
+
+## Majority (House, J.)
+
+House, J.
+This is a replevin action in which the plaintiff as assignee of a conditional sales contract seeks to replevy equipment sold by The Holmes Equipment Company to the defendant. The defendant has filed an answer setting up certain defenses which basically involve allegations of breaches of warranty on the part of the vendor, The Holmes Equipment Company.
+To this answer the plaintiff has replied by way of denial and plea of no knowledge, followed by the special defense to which the demurrer is addressed. The special defense refers to the basic conditional sales contract and quotes paragraphs 7 and 8 therefrom. It is unnecessary to quote the language in full in this opinion. It suffices to state in brief that paragraph 7 contemplates the assignment of the sales contract by the vendor to the plaintiff and paragraph 8 provides that when assigned the assignee shall hold it free from any defense, set-off or counterclaim of the purchaser.
+To this special defense the defendant has demurred on the grounds that under the terms of the sales contract the provisions of paragraph 8 are not available to the plaintiff and that, even if they were available, they are illegal, invalid and unenforceable.
+The first ground of demurrer cannot be sustained. Not only is the defendant’s interpretation of the language of exhibit A forced and contrived but, “[u]pon a demurrer, a pleading which sets forth a written agreement is to be tested not only by the writing itself but also by the facts which are provable under the allegations. Riverside Coal Co. v. American Coal Co., 107 Conn. 40, 45.” Holden v. Crown Chemical Corporation, 19 Conn. Sup. 85, 87. It is true, as the defendant asserts, that the interpretation of contracts is the function of the court. Libero v. Lumbermens Mutual Casualty Co., 143 Conn. 269, 274. However, in the present instance, in the light of the demurrer, the court must not only consider the interpretation of the language of the contract as it stands by itself but also any facts which are provable under the full allegation of the special defense. The sufficiency of the allegations as against the demurrer are to be tested by the facts provable under them, and in considering the allegations they will be given the same favorable construction that a trier might deem itself required to give in admitting evidence under them. Rutt v. Roche, 138 Conn. 605, 609; Blakeslee v. Board of Water Commissioners, 106 Conn. 642, 649; Bassett v. Foster, 116 Conn. 29, 31. It cannot be held as a matter of law that under the allegation of its special defense the plaintiff cannot successfully maintain that defense to the affirmative allegations of the defendant’s plea. The demurrer therefore cannot be sustained on the first ground claimed.
+The second ground of demurrer is based upon the claim that it is contrary to public policy to permit the vendee of a conditional sales contract to waive as against an assignee of the vendor such defenses as the vendee might have against the vendor. Connsel agree that this is a matter of first impression in Connecticut. However, the authorities cited by the plaintiff from other jurisdictions are persuasive. See United States ex rel. Administrator v. Troy-Parisian, Inc., 115 F.2d 224; Jones v. Universal C.I.T. Credit Corporation, 88 Ga. App. 24; Refrigeration Discount Corporation v. Haskew, 194 Ark. 549; Elzey v. Ajax Heating Co., 10 N.J. Misc. 281; Commercial Credit Corporation v. Biagi, 11 Ill. App. 2d 80; Glens Falls National Bank & Trust Co. v. Sansivere, 136 N.Y.S.2d 672; National City Bank v. La Porta, 109 N.Y.S.2d 143.
+The reasoning supporting the rule against the position of the defendant is well stated in the cited case of United States ex rel. Administrator v. Troy-Parisian, Inc., supra, 226: “Since the parties might originally have put their contract in negotiable form, there would appear to be no good reason why they may not by agreement impart to it limited elements of negotiability. (See Beutel, Negotiability by Contract [1933], 28 Ill. L. Rev. 205, 215.) Buyer and seller stood on equal footing and it is evident that this clause was deliberately inserted as a means of facilitating the financing of the sale through the named local bank. Unless in circumstances affronting public policy, it is no part of the business of the courts to decline to give effect to contracts which the parties have fairly and deliberately made.”
+There is nothing in the provisions of the waiver that offends the public policy of this state, which favors freedom of contract to facilitate today’s complex commercial financing. See Rev. 1958, § 42-72. The defendant has obtained the benefits of this contract. It is bound by its waiver. Accordingly, on the second ground the demurrer cannot be sustained.
+The demurrer is overruled.
