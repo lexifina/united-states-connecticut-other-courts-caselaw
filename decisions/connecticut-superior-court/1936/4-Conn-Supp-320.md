@@ -1,0 +1,32 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #48522"
+decided: "1936-11-12"
+citations: ["4 Conn. Supp. 320"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANNA M. LAZARUS vs. ALBERT H. LAZARUS"]
+source_url: "https://static.case.law/conn-supp/4/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1337465
+---
+
+# Lazarus v. Lazarus
+
+## Majority (BALDWIN, J.)
+
+BALDWIN, J.
+Plaintiff and defendant married July 7, 1909. They have since marrying lived in this state continuously. Two sons, Frank H. aged 19 years September 6, 1936, and Robert F. aged 15 years August 14, 1936, have been born.
+Plaintiff alleges intolerable cruelty between September, 1929 and the date of her complaint, which is July 22, 1935.
+After marriage plaintiff continued in employment for six and a half years banking the proceeds of her earnings in a joint account with the defendant, using his earnings for living expenses. They acquired a lot upon which they built a house, in which, from time to time, they installed improvements. A mortgage upon this house was finally discharged, the last payment being of $500.00, the money used being substantially all of the proceeds of an endowment policy carried by the defendant. This home is jointly owned by them.
+The defendant is a mechanic. He is a strictly sober and industrious man, attending to his employment when there is employment and working overtime whenever overtime employment may be had. For the past ten years he has been in the employ of the Nash Engineering Company at his trade.
+After the plaintiff gave up her employment before the birth of their first child, defendant brought home and gave to her his pay check and she paid the current bills.
+There was an occasional criticism by him that she bought too many shoes and too many clothes, but, on the whole, they got along well together until the advent of the depression in 1929. With that came short time in his employment and decreased wages. He was industrious and frugal, never taking a vacation and of very limited diversions; he felt that his earning capacity did not admit of the expenditures incidental to vacations or diversions .in view of the family dependant upon him. With his industrial and frugal nature, the short time employment and decreasing wages as the depression progressed, he became more'concerned over family expenses and at times inquired of his wife what she had done with the money he had given her. She would usually, if not always, explain and account for her use of the money, but a “flare up” would occur and something of an argument be had, which, on some occasions, would be followed by a period of not speaking to each other.
+The plaintiff is an industrious and frugal wife; she has with credit managed the home and economised with their resources. Feeling conscious of her industry and deprivations, she resented his inquiries about her expenditures and his suggestions that they “ought to save more money” and “to be careful about expenses” which she “called . . . nagging”, and late in 1930 she told him if he thought he could do a better job he should take over and pay the bills, and thereafter he gave her $15.00 a week for their table expenses with sometimes an additional small amount for some extra or, incidental expense until the older boy went to work, when from his wages $8.00 a week, she had and the defendant gave her $8.00 a week, he paying taxes, repairs, insurance and most of the expenses other than for their food.
+With the continuation of the depression these conditions in the home have continued and their importance has grown upon the plaintiff and the periods of not speaking to each other have lengthened and the plaintiff has for a long time withdrawn from the usual relations of wife with her husband.
+Plaintiff is approximately forty-nine or fifty years of age and defendant is approximately fifty-three or fifty-four years of age. He does not use bad or profane language, nor does he ever use intoxicating drink to excess. During these past few years of the depression he has been concerned over his shortened hours of employment and reduction of earnings and because of his family he has too greatly limited his entertainment and diversions and his providing of more entertainment and diversion for his wife, but these faults have sprung from a consciousness of limited earning capacity and family obligations; they were not born of any immoral or vicious quality or purpose; they have sprung from an integrity of purpose, a desire to protect, and the fault, if any, lay in an over-anxiety which has caused him to fail to observe the effect of this course upon her. Many of these faults in a person, it would seem, should be overlooked when integrity of purpose underlies such faults, and the making of a tragedy of such incidents should not occur.
+Both of these parties possess the good and substantial qualities that make good men and women; they have each failed to realice and appreciate some of these good qualities in the other; they ought not be in this court pursuing this course— but quite aside from this, I cannot find upon the evidence that defendant’s conduct constituted intolerable cruelty as that term in our law is construed. He has, at times, been concerned about his earnings and their expenses and savings and this concern led to his inquiries about what she did with the money and his cautioning her about their expenses. The real underlying cause of his concern has not been received with that understanding or tolerance which, if employed, would not have led the plaintiff to regard it as “nagging” and prompted her to resort to this action.
+With the fundamental qualities of industry, frugality and good morals which each of these parties possess and which are so admirable and essential there has been by each somewhat of a lack of their true appraisal and appreciation and a bit of a lack of that patience with each other that almost universally the marriage relation requires. The giving of more thoughtful consideration of the problems and an understanding of the viewpoints of each other and the devotion of a little time to play or entertainment of each other and this unhappy condition would, in all probability, have never existed.
+Judgment denying a decree may be entered.
+Upon the opening of the trial plaintiff moved for a reasonable allowance to prosecute. This motion is denied.
