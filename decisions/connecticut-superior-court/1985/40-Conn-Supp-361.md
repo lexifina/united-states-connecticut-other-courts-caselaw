@@ -1,0 +1,34 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. CV7-880"
+decided: "1985-06-27"
+citations: ["40 Conn. Supp. 361"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Margaret Maunder Associates, Inc., et al. v. A-Copy, Inc."]
+source_url: "https://static.case.law/conn-supp/40/cases/0361-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1655722
+cites_cases: ["103 Conn. 744", "109 Conn. 690", "131 A. 736", "131 A.2d 646", "145 A. 20", "198 A.2d 68", "2 Conn. Cir. Ct. 284", "20 Conn. Sup. 248", "39 Conn. Sup. 294", "477 A.2d 695"]
+---
+
+# Margaret Maunder Associates, Inc. v. A-Copy, Inc.
+
+## Majority (DeMayo, J.)
+
+DeMayo, J.
+This action was instituted on September 20, 1984, in the small claims division of the Superior Court. The complaint was signed by Margaret Maunder as president of the named plaintiff, a Connecticut corporation, and alleged that the defendant had sold them a copy machine which was represented to be a “demonstrator” when it had actually been extensively used as rented equipment. The defendant moved to transfer the case from the small claims division to the regular docket and that motion was granted.
+In the course of hearing prior motions in this case, the court has suggested to Margaret Maunder that she should retain counsel to represent the corporation, of which she is president and sole stockholder. Maunder has responded that she cannot afford to retain counsel, has not been able to retain counsel and has no alternative, short of waiving her claim, but to act for the plaintiff corporation. She has so proceeded and has been an effective advocate and speaker and has at all times conducted herself with dignity and has been respectful to the court.
+The defendant has now filed a motion for nonsuit, claiming that a corporation cannot represent itself or act through another person who is not an attorney.
+At first blush, the defendant’s position is sound, and the court is aware of the line of cases which supports its position. This court remembers well the long and bitter dispute between the Connecticut Bar Association and various state banks, culminating in decisions of the Superior and Supreme Courts. In fact, as a member of that association’s governing body, the undersigned was involved in the preparation and dissemination of the bar association’s response to the 1958 decision of the Connecticut Supreme Court.
+Maunder, however, raises some provocative issues in support of her position. She points out that corporations appear regularly in the small claims division, represented by an officer or employee, and § 51-15 of the General Statutes provides for the commencement of such actions by an attorney or other person. Maunder also distinguishes her situation from that of the usual corporate plaintiff or defendant in that she is the sole stockholder of a subchapter S corporation and likens herself to a sole proprietorship. In effect, she claims she is representing only herself and appearing only in her own cause.
+She also raises a due process claim and points out that by the simple procedural step of moving for a transfer to the regular docket, the defendant is attempting to deprive her of equal protection of the law.
+It should be noted at the outset that rules and standards governing the practice of law and those persons permitted to practice law have as their primary purpose the protection of the public and not the creation of any private advantage for lawyers. Bar Association v. Connecticut Bank & Trust Co., 20 Conn. Sup. 248, 250, 131 A.2d 646 (1957). The courts have a tradition of protecting pro se parties so that their cases will be fully and fairly heard. To this end, an overly strict construction of the rules of practice is not encouraged unless that course is necessary to protect the defendant or to avoid unduly impeding the court. Higgins v. Hartford County Bar Assn., 109 Conn. 690, 692, 145 A. 20 (1929); O’Connor v. Solomon, 103 Conn. 744, 745, 131 A. 736 (1926).
+As pointed out by Maunder, Connecticut has for years permitted corporations to be represented in small claims matters by officers, agents and employees. Section 51-15 of the General Statutes specifically provides for such actions to be commenced by a person other than an attorney.
+In American Sand & Gravel, Inc. v. Clark & Fray Construction Co., 2 Conn. Cir. Ct. 284, 286, 198 A.2d 68 (1963), a case cited by the defendant, the court stated: “In spite of the obvious impropriety of the defendant’s appearance, and the presence in court of its president as attorney, the defendant was accorded an opportunity to have its case fully and fairly heard.” There is no indication in that case or in Ero v. M & M Enterprises, Inc., 39 Conn. Sup. 294, 477 A.2d 695 (1984), also cited by the defendant, that the officers who appeared for those corporate defendants were sole stockholders.
+Section 51-88 (d) (2) of the General Statutes provides: “[T]he provisions of this section shall not be construed . . . as prohibiting any person from practicing law or pleading at the bar of any court of this state in his own cause.”
+In Bar Association v. Connecticut Bank & Trust Co., supra, 260, the court draws a distinction between acts performed by an individual or a corporation incidental to his or its own business and those acts performed for others. The court goes on to say: “Countless other examples could be cited of everyday legal transactions properly carried on by an individual or corporation whom they concern without the assistance of an attorney.” Id., 261.
+Maunder would not be practicing law in this instance by acting on behalf of her corporation. The practice of law has been defined as giving legal advice or rendering legal services to others. Id. Maunder is not acting for another in a true sense, for, although she is acting for a separate legal entity, she is the sole owner and stockholder of that entity. In effect, she is acting for herself, just as would be the case if this matter had remained in the small claims division or if this entity of hers were a sole proprietorship.
+Under the facts of this case, Maunder would not be practicing law if she represented the named corporate plaintiff, and it would be contrary to § 51-88 (d) (2) to deny her the right to pursue this action where she is acting “in . . . [her] own cause.” Further, it would be a denial of equal protection of the law if she could represent her corporation in one division of the court but could be forced either to forego suit or to spend money to hire counsel by the mere filing of a motion to transfer by her adversary. Finally, the representation of the corporate plaintiff by its owner poses no threat to the public well-being.
+The defendant’s motion for nonsuit for failure to appear is denied.
