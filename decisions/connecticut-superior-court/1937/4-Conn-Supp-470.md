@@ -1,0 +1,31 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #52289"
+decided: "1937-03-01"
+citations: ["4 Conn. Supp. 470"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MALOVINA ELIZABETH WELSH vs. MARIE HAGEDORN WELSH, ET AL., EXECUTORS"]
+source_url: "https://static.case.law/conn-supp/4/cases/0470-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1337492
+cites_cases: ["115 Conn. 375", "116 Conn. 582", "120 Conn. 315", "129 App. Div. (N.Y.) 192", "75 Conn. 548", "76 Conn. 27", "98 Conn. 666"]
+---
+
+# Welsh v. Welsh
+
+## Majority (CORNELL, J.)
+
+CORNELL, J.
+The facts material to the consideration of the demurrer as they appear from the complaint are these:
+On February 3, 1920, the plaintifF and her husband in the will of the latter of whom the defendants are named executors, entered into an agreement of separation. Under the terms of this, the plaintifF agreed to convey certain properties to her now deceased husband and the latter, in consideration thereof, covenanted to pay the plaintiff during her natural life or until she married again, the sum of $5400. per annum in monthly installments of $450. each.
+It is alleged that the plaintiff’s husband died on November 8, 1935; that at the time of his decease he was in arrears in the making of certain of such payments and that after the defendants had duly qualified as executors on his will, the plaintiff presented a claim against her husband’s estate in the sum of $60,138.00. This claim was made up of two items, viz,-, (1) accrued and unpaid installments from December 1, 1934, to July 1, 1936, inclusive and (2) a sum arrived at by computing future payments for the period of plaintiff’s life expectancy, all of which claim was disallowed.
+Wherefore, this action was instituted.
+The demurrer proceeds on the theory that the purpose of the agreement entered into between the parties on February 3, 1920, was to provide support for the plaintiff. One of the contentions of law advanced in its behalf is this: “In an action for breach of a contract to provide support and to make periodical payments, a recovery is permitted by law only for payments or installments which have become due and not for payments and installments which might become due in the future.”
+This is apparently directed at that part of the complaint which claims a right of present recovery in one sum for the value of the contract either at the time the first payment was defaulted, while plaintiff’s deceased husband lived, at the time of his death or since. The difficulty' is that the complaint fails to reveal upon what theory recovery of that part of its claim is based. It states nothing from which a repudiation of the plaintiff’s husband’s contractual obligation can be found during his lifetime. The mere fact that he permitted the stipulated payments to go unsatisfied would not suffice to support such a contention. Sagamore Corporation vs. Willcutt, 120 Conn. 315, 318; Yoffe vs. Glen Falls Indemnity Co. 115 Conn. 375, 377, 378; Wonalancet vs. Banfield, 116 Conn. 582, 587, 588; Wells vs. Hartford Manilla Co., 76 Conn. 27, 37. The dis-allowance by the defendants, executors, of the claim filed against the estate cannot be held to be a repudiation of the agreement for the same reasons and because it was neither preceded by, nor is there contained in it any such unequivocal demand for performance of the contract as would lay the foundation for the drawing of an inference of intention to breach upon noncompliance with it, such as occurred in Finlay vs. Swirsky, 98 Conn. 666, 672.
+Defendants can hardly be criticised if they assume that the complaint advances the contention that the death of plaintiff’s. husband, in itself, constituted a breach and that plaintiff, thereupon became possessed of a right to recover the value of the contract to her as of that time. The validity of the claim advanced in the demurrer, however, that plaintiff’s husband’s death terminated the contract so that his estate would not be liable for payments thereafter accruing cannot be conceded. Even where the agreement is silent on the subject, there is a presumption of law in the absence of express language nega' tiving it that the parties to a contract intend to bind not only themselves, but their personal representatives. Barnes vs. Klug, et al, Ex’rs, 129 App. Div. (N.Y.) 192. Here all doubt on that subject is removed by the expressed intention of the writing which says: “. . . . the party of the first part (plain' tiff’s deceased husband) expressly agrees that the above pro' vision for the said payments shall be binding and obligatory upon the estate of the party of the first part, his heirs, executors and administrators and that the payments hereinbefore provided for shall not only be made during the life of the party of the first part, but shall continue to be made after the death of the party of the first part, by his representatives, during the life of the party of the second part or until she remarries.”
+In the instant case the complaint does not negative the fact that plaintiff’s deceased husband made suitable provision by his will to enable “his representatives” to carry out his obli' gations under the contract. In Barnes vs. Klug, et al Ex’rs, supra, where the will made no such provision, a decree in equity was applied for and granted, whereby a fund was set apart from the deceased’s husband’s estate sufficient to pay the stipulated monthly installments.
+As to the reason of demurrer which states that in a contract of the nature here under discussion the law does not permit recovery of the value of the contract upon an anticipatory breach to the extent that damages for the unfulfilled portion thereof may be recovered in a liquidated sum, this becomes merely academic in view of what is said supra. The point is not well taken because, as noted above, there is no claim of a breach by repudiation and none occurred as a result of the death of plaintiff’s husband.
+The same is true as respects the use of insurance mortality tables to prove life expectancy. The latter, too, has to do only with the problem of proof and so is evidential only Nelson, Adm. vs. Branford L. & W. Co. 75 Conn. 548.
+For the reasons noted, the demurrer is overruled.
