@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 1350"
+decided: "1982-11-05"
+citations: ["38 Conn. Supp. 538"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richmond C. Hubbard v. Department of Income Maintenance"]
+source_url: "https://static.case.law/conn-supp/38/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1659563
+cites_cases: ["170 Conn. 1", "175 Conn. 30", "177 Conn. 584", "363 A.2d 1386", "392 A.2d 485", "418 A.2d 939"]
+---
+
+# Hubbard v. Department of Income Maintenance
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal from the trial court’s judgment granting the state’s motion to dismiss the plaintiff’s appeal to the Superior Court from the decision of the Department of Income Maintenance. The following facts are undisputed: On May 20,1981, the Department of Income Maintenance issued sanctions against the plaintiff doctor for Medicaid overpayments. On July 6,1981, the plaintiff filed a request for a rehearing. The Department of Income Maintenance denied the request and modified its original decision on August 10,1981, but delayed notifying the plaintiff of this decision until September 18,1981. This notice was received by the plaintiff’s counsel on September 21,1981. The plaintiff filed an appeal to the Superior Court from the agency’s decision on October 22, 1981, and served a copy of the appeal upon the Department of Income Maintenance on October 26,1981. The defendant filed a motion to dismiss the appeal for lack of jurisdiction, which the trial court granted.
+The sole issue presented in this case is whether the trial court erred in dismissing the appeal on the basis that the plaintiff did not timely serve the state agency with a copy of the petition to the Superior Court as required by the Uniform Administrative Procedure Act, General Statutes § 4-183 (b). Section 4-183 (b) provides that an administrative appeal “shall be instituted by filing a petition in superior court for the judicial district of Hartford-New Britain or for the judicial district wherein the aggrieved person resides or if such person is not a resident of this state to the court for the judicial district of Hartford-New Britain within forty-five days after mailing of the notice of the final decision of the agency or, if a rehearing is requested, within forty-five days after the decision thereon. Copies of the petition shall be served upon the agency and all parties of record within thirty days after mailing of such notice or, if a rehearing is requested, thirty days after the decision thereon, except that service upon an agency may be made by mailing a copy of the petition by registered or certified mail, postage prepaid, to the office of the commissioner of the agency or to the office of the attorney general in Hartford.”
+The statute thus establishes two steps to perfect an administrative appeal: (1) the filing of a petition in the Superior Court and (2) the serving of the petition upon the agency and all parties of record. Further, there are two time periods for each of these two steps. If an appeal is from a final agency decision, the petition must be filed within forty-five days after mailing of the notice of the final decision and served upon the agency and all parties of record within thirty days of such date.
+On the other hand, if an appeal is taken from a decision on a request for a rehearing, the basic starting point for computing the applicable time limitations is the date of the decision. The appeal must be filed within forty-five days after the decision on the request and served upon the agency and all parties of record within thirty days of that date.
+The limitation periods thus are triggered in the first case by the mailing of the notice of the final decision and in the second case by the decision on the request for rehearing. This distinction made by the legislature overlooks the possible delay in notification of a decision on a request for a rehearing beyond the allotted time for filing, or as occurred here, beyond the time for service of the appeal petition, thereby creating a condition impossible of fulfillment. The facts of the present case make it unnecessary for this court to decide the legislature’s intent in such a situation, since the petition here was served upon the agency in excess of thirty days even from the mailing of notice of the decision on the rehearing request.
+The decision of the agency denying the plaintiff’s request for a rehearing and incidentally modifying its earlier decision was rendered on August 10,1981. The plaintiff was notified of the decision on September 18, 1981. However, it was not until October 26, 1981, thirty-eight days later, that the plaintiff served the petition upon the agency. The plaintiff therefore failed to comply with the requirement of service of process even under the maximum time period allowable under the statute.
+Our Supreme Court has consistently held that statutory provisions limiting the time within which to take an administrative appeal and to serve process upon opposing parties are mandatory, and unless complied with, render an appeal subject to dismissal. Royce v. Freedom of Information Commission, 177 Conn. 584, 587, 418 A.2d 939 (1979); Valley Cable Vision, Inc. v. Public Utilities Commission, 175 Conn. 30, 32, 392 A.2d 485 (1978); Norwich Land Co. v. Public Utilities Commission, 170 Conn. 1, 6, 363 A.2d 1386 (1975). The trial court thus was correct in granting the state’s motion to dismiss the appeal. There is no error.
+Daly, Bieluch and Cioffi, Js., participated in this decision.
