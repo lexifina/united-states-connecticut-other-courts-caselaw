@@ -1,0 +1,29 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File No. 39378"
+decided: "1949-04-27"
+citations: ["16 Conn. Supp. 190"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tom Pappas v. The Kerite Company"]
+source_url: "https://static.case.law/conn-supp/16/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1320904
+cites_cases: ["301 Ky. 517", "52 Stat. 1060"]
+---
+
+# Pappas v. Kerite Co.
+
+## Majority (BORDON, J.)
+
+BORDON, J.
+Plaintiff was hired on Thursday, January 10, 1946, by the defendant as a night watchman and fireman to work alternate weeks from Thursday 6 p. m. to the following Thursday 6 a. m., namely, seven nights at twelve hours a night, and was so employed until July 31, 1947. He was paid, however, according to the prevailing work week in the defendant’s factory, namely, Monday to Monday, during which hours in the daytime the production workers were employed. Plaintiff accordingly was paid for fourty-eight hours during one company work week (Thursday, Friday, Saturday and Sunday) and for thirty-six hours during the next company work week (Monday, Tuesday and Wednesday). Plaintiff has claimed that his work week was from Thursday to Thursday and that he should be paid on the basis of eighty-four hours during his work week, and accordingly instituted suit under § 16(b) of the Fair Labor Standards Act of 1938 (52 Stat. 1060, 29 U. S. C. 3397).
+The provision of the Fair Labor Standards Act relevant to this case is § 7, which provides in part as follows:
+“ (a) No employer shall . . . employ any of his employees . . . (3) for a workweek longer than forty hours . . . unless such employee receives compensation for his employment in excess of the hours above specified at a rate not less than one and one-half times the regular rate at which he is employed.” The term “workweek” is not defined anywhere in the Fair Labor Standards Act.
+Interpretative Bulletin No. 4; issued in November, 1940, by the wage and hour division, office of the administrator, United States department of labor states: “(3) The 40-hour standard in section 7 (a) is a limitation upon the number of hours that may be worked in any wor\wee\ free of time and one-half overtime compensation. A workweek consists of seven consecutive days. It need not coincide with the calendar week but may begin on any day and at any time of any day. The beginning of the workweek may be changed if the change is intended to be permanent and not to evade the overtime requirements of the act.”
+A ruling by the wage and hour administrator, reported in “Official Answers to Questions, Wage and Hour Manual, Cumulative Edition 1944-1945,” states in part: “A workweek, consisting of any consecutive seven days, may begin on any day and at any time of any day. The employer may select any time desirable to begin and end the employee’s workweek . . . (Italics added.) Section 11 (c) of the Fair Labor Standards Act states in part: “Every employer . . . shall make, keep, and preserve such records . . . and shall make such reports therefrom to the Administrator as he shall prescribe by regulation . . . .”
+Pursuant to this statutory direction, the wage and hour administrator has issued detailed record-keeping regulations. These are set forth in 29 Code of Federal Regulations § 516 (Cum. Sup. 1943). The provisions of these regulations relating to the work week are as follows: “Sec. 516.2. ... Every employer shall maintain and preserve payroll or other records containing the following information and data on each and every employee. . . . (5) Time of day and name of the day on which the employee’s workweek begins .... [Footnote to subparagraph 5:} If the employee is a part of a workforce or employed in or by an establishment all of whose workers have a workweek beginning at the same time on the same day, a single notation of the time of the day and beginning day of the workweek for the whole workforce or establishment will suffice. If, however, any employee or group of employees has a workweek beginning and ending at a different time, a separate notation shall then be kept for that employee or group of employees.”
+The wage and hour division has issued an “Explanatory Bulletin on the Employer’s Records Regulations.” With respect to the work-week record, this states in part: “e. Time of day and name of day on which the employee’s workweek begins.. . . This item does not require that the employer show the exact moment the employee actually begins work in the workweek or the moment- he ceases work. The employer may select any time desirable to begin and end employee’s workweek, as for instance, midnight Saturday or high noon Wednesday. This may be done, even though the employee ceases work, in the first instance, at 1 p. m. Saturday and does not begin work the next week until 7:30 a. m. Monday; or even though the employee, in the second instance works all day Wednesday, thereby throwing Wednesday morning hours of employment into one workweek. A workweek, however, must be established and it may not then be varied for purposes of evasion of either the minimum wage or overtime provisions of the Act.”
+The Fair Labor Standards Act does not control the right of the employer to determine the beginning or end of a work week. In the instant case the prevailing work week in the defendant’s factory was from Monday to Monday and no additional overtime pay is due the plaintiff under such a computation. The court is of the opinion that there was no violation of the act by the defendant and no subterfuge employed to defeat' plaintiff’s right to overtime pay. Sloat v. Davidson Ore Mining Co., 71 F. Sup. 1010; Harned v. Atlas Powder Co., 301 Ky. 517; Barclay v. Magnolia Petroleum Co., (Tex. Civ. App.) 203 S. W. .[2d] 626.
+Judgment may be entered for the defendant.
