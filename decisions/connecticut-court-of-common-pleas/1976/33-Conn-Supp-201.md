@@ -1,0 +1,27 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File No. 29958"
+decided: "1976-10-27"
+citations: ["33 Conn. Supp. 201"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["St. Mary’s Hospital v. Nilda Torres"]
+source_url: "https://static.case.law/conn-supp/33/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1670789
+cites_cases: ["133 Ga. App. 336", "15 U.S.C. §§ 1601", "18 Ill. App. 3d 149", "289 So. 2d 451", "29 N.C. App. 78", "8 Conn. Sup. 92"]
+---
+
+# St. Mary's Hospital v. Torres
+
+## Majority (Donald T. Dorsey, J.)
+
+Donald T. Dorsey, J.
+The plaintiff initiated this action to recover the value of medical services rendered plus interest at the rate of 6 percent per year. By way of special defense, the defendant asserts that the plaintiff’s failure to disclose the cost of credit was a violation of General Statutes §§ 36-393 through 36-417, the state Truth-in-Lending Act. The defendant claims attorneys’ fees and, by way of recoupment, twice the amount of the finance charge which is the penalty for nondisclosure under the act. General Statutes § 36-407. The plaintiff’s demurrer to that claim is based on §36-407 (e), which limits the right of action for violation of the disclosure provisions to one year. The present action was brought over two years after the defendant’s hospital stay.
+The issue of whether a statutory defense which would be time-barred as a claim may, nevertheless, be raised by way of recoupment on a counterclaim is one of first impression in Connecticut. Several other states have considered whether such a defense should be permitted under the federal Truth in Lending Act, 15 U.S.C. §§ 1601 through 1666j, to which the Connecticut act conforms precisely. In resolving the question, courts have examined the policies of the act and the purposes of their own statutes of limitation applying to recoupment. In Wood Acceptance Co. v. King, 18 Ill. App. 3d 149, the court concluded that the purpose of the Illinois statute dealing with recoupment was one of fundamental fairness, to give the defendant his day in court where the plaintiff’s claim was not stale. Noting that the federal Truth in Lending Act is designed to give the borrower meaningful information about the cost of credit and that compliance is to be secured by the often unknowledgeable private citizen, the court held that the one-year limitation was not such “an integral part of the federal Truth in Lending Act as to outweigh the combined purposes of that Act” and the Illinois statute. Wood Acceptance Co. v. King, supra, 151. The dismissal of the counterclaim by the trial court was reversed.
+Connecticut has no statute concerning recoupment, but the state courts have long recognized the ancient equitable defense. See Orsi v. Hall, 8 Conn. Sup. 92 and the cases cited therein. Recoupment’s distinguishing feature is that the defense arises out of the same transaction on which the plaintiff’s claim is based. The defense exists as long as the plaintiff’s cause of action exists. It may be asserted even though the claim as an independent cause of action is barred by a statute of limitations. The announced purpose of the defense is to prevent circuity of action, presumably to permit the court to adjudicate completely all claims based on the same facts.
+In light of the purpose of recoupment and the policies behind the Truth-in-Lending Act, we conclude that the limitation provided in § 36-407 (e) is not such an integral part of the act as to overcome the combined purposes of the act and the common-law defense of recoupment. A full adjudication of all claims and defenses based on the same transaction not only permits the defendant to have his day in court, but furthers compliance with the disclosure provisions of the act as well. To hold otherwise would be to frustrate the purpose of the Truth-in-Lending Act by creating the opportunity for abuse by noncomplying creditors who could wait to bring their actions until the time permitted for a defense based on nondisclosure of credit terms had elapsed.
+The demurrer to the counterclaim is overruled.
+Public Acts 1975, Ho. 75-436.
+First National City Bank v. Drake, CCH Consumer Credit Guide (1969-1973 Transfer Binder), ¶98,939, p. 88,652 (N.Y. Civ. Ct.). For a contrary conclusion, see Gillis v. Fisher Hardware Co., 289 So. 2d 451 (Fla. App.); Hodges v. Community Loan and Investment Corporation, 133 Ga. App. 336, in which the court held that the defendant’s counterclaim based on the federal Truth in Lending Aet did not arise out of the mutual obligations and covenants of the loan transaction, but was only a by-product in the nature of a set-off and was barred by the act’s limitation section. An even more restrictive interpretation is found in Ken-Lu Enterprises, Inc. v. Neal, 29 N.C. App. 78. The court construed the provision corresponding to Connecticut Public Acts 1975, No. 75-436, § 6 (i) prohibiting any person from taking any action to “offset any amount for which a creditor is potentially liable” to mean that the potential liability referred to could not be asserted as a defense in any aetion brought by the creditor to collect monies due if the one-year limitation period provided by the act had elapsed. This was so because the liability had not yet been adjudicated by a court of competent jurisdiction!
