@@ -1,0 +1,27 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File No. 39243"
+decided: "1949-03-02"
+citations: ["16 Conn. Supp. 139"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lillian Russo v. Edward I. Cesnutis"]
+source_url: "https://static.case.law/conn-supp/16/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1320869
+cites_cases: ["114 Conn. 662", "12 Conn. Sup. 154", "44 Conn. 218", "79 Conn. 317", "85 Conn. 16"]
+---
+
+# Russo v. Cesnutis
+
+## Majority (FITZGERALD, J.)
+
+FITZGERALD, J.
+In this action the plaintiff seeks to recover of the defendant the sum of $250 paid by her as the price of a fur coat. The essential facts determined by the court require a statement.
+For the past forty-five years the defendant has been a furrier in Derby. In the fall of 1946 the plaintiff selected an otter fur coat from the defendant’s stock, paying down $5. The price was $300 and the defendant agreed to hold the coat until full payment. In January, 1947, the plaintiff paid the balance due and the defendant turned over the coat. On the following day the plaintiff returned the coat and stated that she discovered two worms in the fur when she arrived home the preceding day. The defendant accepted the return of the coat and said that he would try to satisfy the plaintiff on another coat. The plaintiff had a friend who recently bought a marmink fur coat of the defendant, and she told him that she wanted a coat similar to that of her friend. The defendant said he would get her such a coat. It was agreed that the price of the second coat would be $250. A refund of $50 was given to the plaintiff out of the $300 paid by her for the first coat, the defendant retaining $250 in payment of the second coat. Several days later the defendant showed a marmink fur coat to the plaintiff who, upon trying it on, stated that it fitted too tightly. Thereafter he defendant made some alteration to the coat and on a subsequent visit to the defendant’s shop the plaintiff took it home. On the following day the plaintiff brought the coat back. Her complaint was that the striped lines of the fur, running up and down, were not evenly spaced, and that a patch of fur inserted by the defendant was noticeable. It was her testimony that she did not observe these features before taking the coat home due to the fact that she did not have her glasses; that it was her husband who called these matters to her attention. The coat has been in the defendant’s possession ever since, and he has refused upon demand to return the sum of $250 representing its price. Actually the plaintiff could have had the coat at any time upon payment of a storage charge which has accrued.
+The question for decision is whether the plaintiff is entitled to recover of the defendant the sum of $250 representing the price of the coat. Counsel for the parties have vigorously argued their respective claims of law and of facts. In its statement of the facts the court has attempted to recite only those of pres' ent moment, and has omitted others demmed unnecessary to a decision of the case.
+In support of her claim of recovery the plaintiff cites Zaleski v. Clark, 44 Conn. 218, 223; Liberman v. Beckwith, 79 Conn. 317, 319; and Hawken v. Daley, 85 Conn. 16, 22. These cases stand for the proposition that in a contract for the sale where' in it is expressly agreed that the thing which is the subject shall be to the satisfaction of the buyer, the seller cannot enforce the contract unless the buyer is satisfied with the thing; that the reasonableness of the buyer’s dissatisfaction is not in issue; and that the buyer, and not the court, is the sole judge on the ques' tion of dissatisfaction. For additional cases and references see Connecticut Annotations to the Restatement, 1 Contracts, §265; Codeanne v. Connecticut Hard Rubber Co., 12 Conn. Sup. 154.
+In Krawitz v. Ganzke, 114 Conn. 662, 667, our Supreme Court did not actually relax the rule that dissatisfaction need not be reasonable but emphasised another phase, namely, that it was required to be honest and not used as a pretext. While this case was one involving a contract of employment, the point in question is identical and the case is considered in the Anno' tations, op. cit.
+Had the plaintiff not taken the second coat home and stood on her claim that she continued dissatisfied with it, the cases she invokes would probably control the decision. But take it home she did, and returned with it on the following day. It cannot be found that it was stipulated that she was to take it home on approval or subject to further consideration on her part. This aspect seems important. Moreover, the coat was modelled by the plaintiff at the trial, and the defects which she claims were not observable to the court. Hence the court is constrained to conclude that her manifested dissatisfaction is not honest and is used as a pretext to recover the purchase price from the defendant.
+The cases upon which the plaintiff relies, and the broad proposition for which they stand, are deemed not controlling. The decision is rested upon the added phase in the nature of a qualification stated in Krawitz v. Ganzke, supra. Parenthetically it may be added that the plaintiff has invoked no provision of the Sales Act. On pleadings and offers of proof she has based her claim on contract subject to an express condition, and on this basis the case is decided, although adversely to her position.
