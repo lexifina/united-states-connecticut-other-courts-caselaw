@@ -1,0 +1,28 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File No. 40151"
+decided: "1950-02-20"
+citations: ["16 Conn. Supp. 427"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ruth A. Burgey v. Stephen Bochinski et al."]
+source_url: "https://static.case.law/conn-supp/16/cases/0427-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1320853
+cites_cases: ["102 Conn. 425", "71 Conn. 358", "79 Conn. 286", "85 Conn. 40", "91 Conn. 421"]
+---
+
+# Burgey v. Bochinski
+
+## Majority (FITZGERALD, J.)
+
+FITZGERALD, J.
+This is an action to foreclose a judgment lien. The action was originally instituted by writ, summons and complaint served on September 22, 1948, and returned to court on the first Tuesday of the following month. At the outset Stephen Bochinski was the sole party defendant. By his answer filed on November 1, 1948, this defendant denied that he is the sole owner of the premises described in the plaintiff’s complaint, alleging that by his deed to his brother, W. B. Bochinski, on July 9, 1936, he gave the latter an undivided one-half interest in the premises. Thereafter the plaintiff moved to cite in as additional defendants W. B; Bochinski, Antoinette C. Bancroft and Fred R. Bancroft, which motion was granted by the court. On November 29, 1948, the plaintiff’s amended complaint was filed. Issues have been joined by the defendants Stephen Bochinski and W. B. Bochinski. The defendants Bancroft suffered a default on March 4, 1949, for failure to appear. In this form the case came before the court for adjudication on January 31 last.
+The contesting defendants conceded at the trial that the material allegations of the amended complaint insofar as they are concerned are correct, with the exception of the allegation of paragraph 1 therein relating to the sole ownership of the defendant Stephen Bochinski. Hence the question for decision is what status should, be accorded the defendant W. B. Bochinski under the quitclaim deed from his brother on July 9, 1936, which was not recorded; until September 28, 1948..
+It is to be specifically noted that on September 12, 1945, the . plaintiff’s attachment for $50,000 was recorded; that on April 5, 1948, a judgment lien thereon in the amount of $38,119.94 was recorded; and that the quitclaim from the defendant Stephen Bochinski to the defendant W. B. Bochinski of a one-half interest in the premises, while dated July 9, 1936, was not recorded until September 28, 1948.
+The following situation admittedly appears of record regarding the quitclaim deed: (1) it was recorded twelve years and some months after its execution; (2) it was recorded three years and some weeks after the recording of the plaintiff’s attachment; (3) it was recorded five months and some weeks after the recording of the plaintiff’s judgment lien; and (4) it was recorded six days after the initial commencement of this action.
+Section 7091 of the General Statutes, which goes back a vast number of years to earlier revisions of the statutes, reads so far as is here material: “No conveyance shall be effectual to hold any land against any other person but the grantor and his heirs, unless recorded on the records of the town in which the land lies.” In many jurisdictions judgment creditors are not accorded protection under statutes similar in phraseology to the Connecticut statute. See 45 Am. Jur. 513. But this is not the rule which obtains in Connecticut. “Though differing from the rule in some of our States, it is the law of Connecticut that the lien acquired by the attachment of a creditor of the grantor of a deed not recorded within a reasonable time, is superior to the title of the grantee of such deed, in the absence of notice to the attaching creditor of the existence of such deed.” Newtown Savings Bank v. Lawrence, 71 Conn. 358, 364.
+It is found that the quitclaim deed was not recorded within a reasonable time after its execution; that the plaintiff had no knowledge of its existence until after this action was instituted; and that the. explanation of the delay in recording the deed (testified to as forgetfulness) should not be permitted to inure to the benefit of the contesting defendants. Newtown Savings Bank v. Lawrence, supra; Newman v. Gaul, 102 Conn. 425, 433; Apstein v. Sprow, 91 Conn. 421, 423; Rosenbluth v. Deforest & Hotchkiss Co., 85 Conn. 40, 46; and see Waterman v. Buckingham, 79 Conn. 286, 292, for the basis of the decision in the Newtown Savings Bank case and the controlling importance of the statute regarding unrecorded deeds as distinguished from the enforcement of equitable rights apart therefrom.
+The conclusion reached is that the defendant W. B. Bochinski has no standing in this action under his quitclaim deed of July 9, 1936, which was not recorded until September 28, 1948. Cases cited on his behalf are deemed not to be pertinent to the question at issue. The controlling principles are considered to be those contained in the cases here cited, and are held to support the conclusion stated.
+Judgment of foreclosure may enter. Principal indebtedness is found to be $38,119.34 with interest thereon of $4382.75 making a total debt of $42,502.09. The market value of the property does not exceed $15,000 and there are incumbrances antedating the plaintiff’s attachment and lien. Law day is set for the defendant Stephen Bochinski on March 20, 1950, and the following day for the defendants Bancroft. Judgment file to be submitted by plaintiff’s counsel within two weeks for approval as to form and signature of the court.
