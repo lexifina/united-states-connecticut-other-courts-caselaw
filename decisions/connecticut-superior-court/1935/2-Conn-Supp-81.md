@@ -1,0 +1,41 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #49792"
+decided: "1935"
+citations: ["2 Conn. Supp. 81"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Hon. CARL FOSTER, Judge."]
+parties: ["GEORGE I. WATSON, ET AL. vs. UNDERWRITERS FINANCE COMPANY, INC."]
+source_url: "https://static.case.law/conn-supp/2/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6752459
+cites_cases: ["120 Va. 859", "155 Atl. 514"]
+---
+
+# Watson v. Underwriters Finance Co.
+
+## Majority (FOSTER, J.)
+
+FOSTER, J.
+This corporation has three classes of stock, 8 per cent preferred, 7 per cent preferred A, and common. A Receiver was appointed for the corp/oration on October 1st, 1934. At that time the dividend due and payable on the 8 per cent preferred stock on October 1st, 1934, was paid, and no dividend due and payable on that stock to that date was unpaid. At that time the dividend due and payable on the 7 per cent preferred A stock on August 1st, 1934, wa? paid, and no dividend due and payable on that stock prior to August 1st, 1934, was unpaid, except the dividend due and payable on November 1st, 1932.
+The Receiver has paid all claims that have been allowed against the corporation and has reserved sufficient funds to pay all disallowed claims, if, after hearing, they are allowed. The Receiver has paid the holders of the 8 per- cent preferred The receiver has paid the holders of the 8 per cent preferred stock the par value of their shares and has paid to the holders of the 7 per cent preferred A stock 60 per cent of the par value of their shares.
+Holders of the 8 per cent preferred stock claim that before holders of junior stock are paid, holders of 8 per cent preferred stock should be paid 8 per 'cent cumulative dividends upon their stock up to the day that they received payment of the par value of their stock.
+Holders of the 7 per cent preferred A stock claim that before holders of common stock are paid anything, holders of 7 per cent preferred A stock should be paid 7 per cent per annum upon the par value of the stock unpaid to them up to the day that they received payment of the same; or at least to November 1st, 1934, the regular dividend date of that stock following the appointment of the Receiver; or at least up to the date of the appointment of the Receiver.
+Counsel for holders of the two preferred stocks and counsel for the Receiver, as amicus curiae, have filed helpful and illuminating briefs on the subject. The advice of the Court is asked as to what, if any, dividends should be paid by the Receiver to the holders of the two preferred stocks.
+It is not my intention to cite and analyse the numerous authorities bearing upon this question, nor to enter into any extensive argument in support of my conclusion.
+The contract between the corporation and the holders of the 8 per cent preferred stock appearing in the amendment to the certificate of incorporation and also in those stock certificates is, in part, as follows:
+“In the event of any liquidation or dissolution or wind' ing up (whether voluntary or involuntary) of the company, holders of the preferred stock shall be entitled to be paid in full, both the par amount of their shares and the unpaid dividends accrued thereon, before any amount shall be paid to the holders of the common stock.”
+The contract between the corporation and the holders of the 7 per cent preferred A stock is, as to this subject, couched in practically the same terms.
+The real question here presented is an interpretation or a definition of the words “unpaid dividends accrued thereon”. I adopt the reasoning and conclusion of Drewry Hughes Co. vs. Throckmorton, 120 Va. 859, and Penington vs. Commonwealth Hotel Construction Corp., 155 Atl. 514 (Del. 1931).
+“It is well settled, however, that preferred stockholders are not creditors of the company nor are the dividends as to which they may be preferred to be rated as interest upon a loan. The payments made to preferred stockholders are dividends and should not be made, therefore, unless they are earned so long as the corporation is a going concern; and the right to payment of such unearned and unpaid dividends out of the assets of the corporation only arises because the common stockholders have agreed that such may be the case. No dividends can be either declared or earned after the corporation ceases to do business; therefore, the arrears of dividends due and unpaid, for which the preferred stockholders are given preference, as well as the face value of the stock, means such unpaid dividends as had accumulated up to the time the corporation ceased to do business or went into liquidation. I am, therefore, of the opinion that the preferred stockholders are entitled to be paid, out of the assets of the company in liquidation, dividends upon the preferred stock, if any, which had accumulated and were unpaid at the time the company started to wind up its business.”
+Drewry Hughes Co. vs. Throckmorton, supra, p. 865.
+“The question then arises to what point are these dividends payable? Are they payable to the time of the appointment of the Receiver, or down to the time of the distribution by the Receiver?
+Like the answer to the preceding question heretofore discussed, the answer to this last question lies in a large measure, in the agreement entered into by the stockholders through the medium of the Certificate of Incorporation.
+It seems apparent that the real agreement of the stockholders provided (by Paragraph A) that so long as the company was a going concern the preferred stockholders would be entitled to a cumulative seven per cent dividend; by paragraph E it was agreed that when the company ceased to do business, or, in the words of the paragraph itself ‘in the event of the liquidation, dissolution or winding up of the corporation, or upon any distribu' tion of its capital . . .’ the holders of the preferred stock were entitled to the par value of the stock 'and all unpaid dividends accrued thereon’ before any amount should be paid or assets distributed to the common stockholders.
+The dividends, we think, that were made payable under paragraph E were those dividends that had axrued under paragraph A and which were unpaid because of the lack of any legal fund for their payment. The dividends accrued before the appointment of the Receiver and while the company was a going concern and would have been then paid had there then existed surplus or profits liable for their discharge and the liquidation proceedings merely furnished the fund legally available for their payment.
+The agreement of the stockholders related to the com' pany as a going concern and simply provided (by para' graph E) for the distribution of assets after dissolution proceedings had been commenced. The agreement of the stockholders did not attempt to control the operation of the company during the liquidation proceedings, but in such proceedings merely regulated the distribution of assets. After the appointment of the Receiver the man' agement of the company was taken from the officers and Stockholders and placed in “custodia legis”. While the company was in the hands of the Court, through the instrumentality of its Receiver, no dividend could be declared nor do we think any could accrue as such terms were used in Paragraph E of the Charter.”
+Penington vs. Commonwealth Hotel Construction Corp., supra, p. 520.
+Counsel for the preferred shareholders refer to cases where it is held that under some circumstances the Receiver should pay interest on claims having priority before the principal amount of other claims is paid. This is true as to debts; but in distributing assets to preferred stockholders, the Receiver is not paying a debt of the corporation; he is distributing the assets to those who are the owners upon the dissolution of the Corporation.
+The Court advises the Receiver that no dividend has accumulated on the 8 per cent preferred stock or on the 7 per cent preferred stock since the appointment of the Receiver; that the Receiver should pay to holders of the 7 per cent preferred A stock the dividend due and payable on November 1st, 1932, and no more.
