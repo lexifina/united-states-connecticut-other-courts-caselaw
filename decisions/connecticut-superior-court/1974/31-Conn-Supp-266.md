@@ -1,0 +1,29 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 144699"
+decided: "1974-05-02"
+citations: ["31 Conn. Supp. 266"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Westport National Bank v. G. Hadden Wood, Jr., et al."]
+source_url: "https://static.case.law/conn-supp/31/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1674202
+cites_cases: ["26 Conn. Sup. 29", "3 Conn. 528", "406 U.S. 441"]
+---
+
+# Westport National Bank v. Wood
+
+## Majority (Berdon, J.)
+
+Berdon, J.
+This is an action brought against the defendants on a promissory note. The defendant Dorothy duB. Wood claims as a special defense that her signature was forged. Pursuant to § 185 of the Practice Book, the plaintiff Westport National Bank took the deposition of the defendant G. Hadden Wood, Jr. At the deposition hearing, the attorney for that defendant objected and refused to allow Mm to answer certain questions on the grounds that some of them would tend to incriminate him and others were irrelevant.
+It has long been held to be our law that the privilege against self-incrimination applies to a civil case. “It is an established principle, that a person cannot, in a suit against him, be compelled to produce evidence against himself; and by strong analogy, he ought equally to be protected in his interest, when called on to testify for another.” Benjamin v. Hathaway, 3 Conn. 528, 532. This principle of law has been firmly established, and it is clearly applicable to civil proceedings. “But the power to compel testimony is not absolute. There are a number of exemptions from the testimomal duty, the most important of which is the Fifth Amendment privilege against compulsory self-incrimination. The privilege reflects a complex of our fundamental values and aspirations, and marks an important advance in the development of our liberty. It can be asserted in any proceeding, civil or criminal, administrative or judicial, investigatory or adjudicatory; and it protects against any disclosures that the witness reasonably believes could be used in a criminal prosecution or could lead to other evidence that might be so used. This Court has been zealous to safeguard the values that underlie the privilege.” Kastigar v. United States, 406 U.S. 441, 444.
+This law has also been codified by adoption of General Statutes § 52-199: “In the conduct of any hearing or trial, a party interrogated shall not be obliged to answer a question or produce a document the answering or producing of which would tend to incriminate him or to disclose Ms title to any property the title whereof is not material to the hearing or trial in the course of which he is interrogated, and the right to refuse to answer a question, produce a document or disclose a title may be claimed either by the party interrogated or by counsel in his behalf.” “The term ‘any hearing or trial’ is broad enough to include the taking of a deposition, particularly in view of the fact that the statute was originally enacted as part of discovery procedure.” Stephenson, Conn. Civ. Proc. (2d Ed.) § 141f.
+The plaintiff claims that if the defendant Gr. Had-den Wood, Jr., wanted protection from self-incrimination, he should have obtained an order in advance under § 186 of the Practice Book. This section provides that a person from whom a deposition is to be taken may obtain an order from the court to limit the scope of such examination.
+Section 186 of the Practice Book does not purport to be the exclusive remedy available to a defendant in protecting himself from answering questions which may incriminate him in derogation of his constitutional and statutory rights. Stephenson, loc. cit. It would not be fair to require a person to anticipate such questions. Furthermore, it would appear that affirmative action in advance of the hearing is not necessary to protect one’s constitutional and statutory rights. It therefore is held that the one being examined may exercise his rights against self-incrimination during an examination by deposition without having obtained in advance an order for protection. He may do this by just refusing to answer.
+In regard to questions which may be irrelevant, there is no such compelling reason to protect a defendant. Here at most is involved the cluttering of a transcript with irrelevant testimony which would be inadmissible but which could not harm the defendant. So, in this situation, the person whose deposition is sought should not be allowed to refuse to answer on this ground unless a protective order is first obtained. Brill v. State, 26 Conn. Sup. 29.
+In any ease, the entry of a default does not seem to be an appropriate remedy. The proper procedure is to move to compel the party to answer the questions and for payment of costs for the initial deposition if the court directs that the questions be answered at a subsequent deposition.
+Notwithstanding the foregoing, when reviewing the questions in the instant case, the court will not order irrelevant and immaterial questions to be answered, for this would be an exercise in futility.
+Accordingly, the court enters the following orders: (1) The motion to compel answers is hereby granted to the extent as indicated herein, and the plaintiff is granted permission to take another deposition of the defendant Gr. Hadden Wood, Jr. (2) The defendant Gr. Hadden Wood, Jr., is ordered to pay to the plaintiff, within thirty days after receipt of invoice, such sums as shall reimburse the plaintiff for the fee of the legal stenographer retained to take the deposition and the fee of the officer serving the subpoena for the deposition taken on December 21, 1973, provided a second deposition is had pursuant to authority granted in above order. (3) The motion for default is denied.
