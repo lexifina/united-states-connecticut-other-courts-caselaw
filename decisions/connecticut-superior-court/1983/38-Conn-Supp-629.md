@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 1268"
+decided: "1983-01-28"
+citations: ["38 Conn. Supp. 629"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["University of Connecticut Chapter, American Association of University Professors v. George E. Dombrowski, Sr."]
+source_url: "https://static.case.law/conn-supp/38/cases/0629-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1659559
+cites_cases: ["138 Conn. 405", "186 Conn. 754", "373 U.S. 113", "431 U.S. 209", "443 A.2d 1273", "85 A.2d 489"]
+---
+
+# University of Connecticut Chapter v. Dombrowski
+
+## Majority (Per curiam.)
+
+Per curiam.
+The issue raised by this appeal is whether the trial court erred in granting the defendant’s motion for judgment of dismissal after it found that the plaintiff failed to satisfy its burden of proving the amount of fees to which it claimed to be entitled as the exclusive collective bargaining representative of the defendant.
+The facts are not in dispute. In 1976, the plaintiff was certified by the state board of labor relations as the exclusive collective bargaining representative of a labor union comprised of faculty members employed by the University of Connecticut. During the academic year 1977-78, the defendant was a tenured professor of electrical engineering at the university. He was not, however, a member of the plaintiff union. General Statutes ■§ 5-280 (a) provides that if an exclusive representative has been designated to represent a collective bargaining unit, nonmember employees in such unit must pay to such representative an amount equal to the regular dues, fees and assessments charged to members. The defendant refused to pay the fee for the fiscal year 1977-78, which was determined by the union to be $129. The plaintiff brought this action to recover that sum. At the close of the pleadings, the plaintiff moved for summary judgment on the issue of liability. The court granted the motion and ordered further proceedings to determine the amount of damages.
+The plaintiff then moved for summary judgment on the issue of damages. The affidavit submitted in support of this motion failed to show that there was no genuine issue of material fact that the amount claimed ($129) was the amount actually expended for collective bargaining, contract administration and grievance procedure. The motion was therefore denied.
+Thereafter, the court ordered a hearing on the question of damages. The plaintiff presented no evidence at this hearing, but rather submitted two affidavits by its administrative manager which set forth the formula by which union dues are determined and how they are payable, but which presented no facts to support the claim that it was entitled to the full amount of $129. The defendant then moved for a judgment of dismissal on the ground that the plaintiff failed to make out a prima facie case with regard to the damages claimed. The court granted this motion and the plaintiff appealed to this court.
+We agree with the court’s conclusion that the plaintiff failed to sustain its burden of proof on the issue of damages. In Abood v. Detroit Board of Education, 431 U.S. 209, 234, 97 S. Ct. 1782, 52 L. Ed. 2d 261 (1977), the United States Supreme Court held that a government agency may not require an individual to relinquish rights guaranteed him by the first amendment to the constitution of the United States as a condition of public employment. Therefore, it concluded that individuals who are required as a condition of their continued employment to contribute to a labor union of which they are not members “may constitutionally prevent the Union’s spending a part of their required service fees to contribute to political candidates and to express political views unrelated to its duties as exclusive bargaining representative.” Id. The court went on to say that “[s]ince the unions possess the facts and records from which the proportion of political to total union expenditures can reasonably be calculated, basic considerations of fairness compel that they, not the individual employees, bear the burden of proving such proportion.” Id., 239 n.40, quoting Railway Clerks v. Allen, 373 U.S. 113, 122, 83 S. Ct. 1158, 10 L. Ed. 2d 235 (1963).
+In the present case, the plaintiff produced no evidence that any portion of the fees sought from the defendant would be used for the permissible purposes of collective bargaining, contract administration and grievance procedure; see Abood, supra, 225-26; or conversely, that no portion thereof would be used for impermissible, political purposes. Accordingly, we conclude that the trial court properly found that the plaintiff failed to sustain its burden of proving that it was entitled to recover damages. We hold, however, that the court erred in granting the defendant’s motion for judgment of dismissal. The prior rendition of summary judgment as to liability established the fact that a legal injury had been done to the plaintiff and entitled it to at least nominal damages. Rubin v. Rios, 186 Conn. 754, 756, 443 A.2d 1273 (1982); Keller v. Carone, 138 Conn. 405, 406-407, 85 A.2d 489 (1951). The court here, however, failed to award nominal damages as it should have and, instead, dismissed the plaintiffs case. We conclude that it erred in doing so.
+There is error, the judgment of dismissal is set aside and the case is remanded with direction to render judgment for the plaintiff for nominal damages.
+Daly, Bieluch and Covello, Js., participated in this decision.
