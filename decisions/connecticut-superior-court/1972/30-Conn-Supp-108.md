@@ -1,0 +1,25 @@
+---
+court: "Connecticut Superior Court"
+decided: "1972"
+citations: ["30 Conn. Supp. 108"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Anonymous (1973-3)"]
+source_url: "https://static.case.law/conn-supp/30/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1769861
+cites_cases: ["143 Conn. 167", "304 F.2d 532", "366 U.S. 717"]
+---
+
+# State v. Anonymous
+
+## Majority (Grillo, J.)
+
+Grillo, J.
+The defendant has filed a motion for a change of venue, alleging in effect that pretrial publicity by newspaper, television and radio was so “derogatory” to the defendant and prejudicial that a fair trial by an impartial jury cannot be had in the county. In support of this contention the defendant has offered as exhibits newspaper articles and news reports emanating from television and radio stations. The editors of newspapers and radio and television executives, including broadcasters, testified. These exhibits would demonstrate that the television, radio and newspaper coverage was free of sensationalism and expression of opinion with respect to the innocence or guilt of the defendant. While the crimes in themselves were atrocious, the publicity, both in the press and in the television and radio broadcasts, was confined to reporting facts as revealed to the media.
+The news coverage was not “slanted” in any respect. As a matter of fact, the honors that the defendant had been accorded and the leadership role he had assumed in community affairs were widely reported. Also, reports concerning the creation of a legal defense fund by state residents to ensure the defendant the best legal assistance were also the subject of statewide releases by the news media. The court has not been persuaded that the news articles of the media have aroused such public indignation, feeling and anger against the defendant that he cannot obtain a fair and impartial trial. It is interesting to note that while incarcerated the defendant himself permitted an interview concerning one aspect of the case which was the subject of reportorial coverage and which placed him in a favorable light.
+It is not required that prospective jurors be totally ignorant of the facts and issues involved. “In these days of swift, widespread and diverse methods cf communication,” it is obvious that the interest of the public in the vicinity may be expected to be aroused. Irvin v. Dowd, 366 U.S. 717, 722. The mere existence of widespread publicity is not, in and of itself, sufficient to require a change of venue; the determinative factor is whether a jury which can reach a verdict uninfluenced by such publicity may be selected in the area. Bearden v. United States, 304 F.2d 532, 534. As our Supreme Court has stated: “The burden of showing that a fair and impartial trial could not be had in the county of origin is on the defendant. ... To sustain this burden, he must show more than that the crime with which he is charged received considerable publicity. He must demonstrate that the publicity was necessarily prejudicial to him” and thus will prevent his being accorded a fair and impartial trial. State v. Rogers, 143 Conn. 167, 172. Further relevant factors are the passage of time from the release of the publicity complained of and that wire services transmitted news of the crimes to newspapers throughout the state; television and radio reports, too, encompassed the entire state. Information favorable to the defendant was likewise reported — his background, his involvement in civic endeavors, his antipoverty activities, his protestations of his innocence in leaving court, quotations from others proclaiming his innocence, the honors that had been bestowed upon him. The media also reported him as being described by people as a gentle, likable person. The court has perused the exhibits and viewed films relating to this matter that were shown on television and is satisfied that the news media maintained a fair and reasonable balance between the rights of the news media and the rights of the defendant.
+At this stage in these proceedings, therefore, we cannot presume that a fair-minded citizenry would necessarily be so prejudiced against the accused— by simply reading fair accounts of the matter, listening to radio broadcasts, or viewing television film— as to create a prejudice requiring a removal of this cause from this county with its attendant inconveniences. The pretrial publicity of the press, radio and television was neither inflammatory nor discriminatory. To accede to the defendant’s request would mean that, whenever a heinous crime is committed necessitating widespread coverage by the media, a change of venne of necessity is to be granted. With this proposition the court cannot agree.
+Whether the voir dire at the future trial will demonstrate a basis for the claim of the defendant cannot now be ascertained, but from the evidence presented at the instant hearing, the conclusion cannot be drawn that a fair trial cannot be had in this county.
+The motion is denied.
