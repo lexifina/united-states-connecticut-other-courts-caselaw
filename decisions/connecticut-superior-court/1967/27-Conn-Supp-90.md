@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 16358"
+decided: "1967-05-27"
+citations: ["27 Conn. Supp. 90"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rose H. Simal et al. v. Thomas Clark, Jr., et al."]
+source_url: "https://static.case.law/conn-supp/27/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1765738
+---
+
+# Simal v. Clark
+
+## Majority (Palmer, J.)
+
+Palmer, J.
+This is an action to recover for personal injuries and property damage alleged to have been caused by the negligence of the defendants. The defendant Dorothy Steele, hereinafter called the defendant, has filed a supplemental motion for disclosure and production containing the following interrogatory, numbered A-l: “Is this action being pursued in the name of the plaintiff in connection with, arising out of, or originating as the result of any agreement of assignment, subrogation, insurance agreement or contract, or any agreement between plaintiff and plaintiff’s insurance company?” If the answer to this interrogatory is in the affirmative, the defendant asks a number of additional questions, and also for a copy of “any [such] agreement, contract, subrogation agreement, etc. mentioned in question 1 of Part A.” The plaintiffs have filed objection on the ground that the answers “would not be of assistance to the Defendant in the defense of this action.”
+Practice Book § 168 provides that for good cause shown the court may compel “the answering of interrogatories as to fact,” and further provides: “Good cause shall include a showing that the disclosure sought (a) would be of assistance in the . . . defense” of an action.
+Counsel for the plaintiffs has kindly furnished the court with the following information in respect to the procedure that has been followed in respect to this case. At the time of the accident herein complained of, there was in effect between the plaintiff Rose Simal and the Allstate Insurance Company a contract of insurance which provided in part as follows: “Allstate will pay all sums which the insured shall be legally entitled to recover as damages from the owner or operator of an uninsured automobile because of bodily injury, sustained by the insured, caused by accident and arising out of the ownership, maintenance or use of such automobile.” The policy of insurance further provided that “the determination as to whether the insured shall be legally entitled to recover damages, and if so entitled the amount thereof, shall be made by agreement between the insured and Allstate. In the event of disagreement and upon written demand of the insured, the matter or matters upon which the insured and Allstate do not agree shall be settled by arbitration . . . .” The policy further provided that, in the event of any payment made, “Allstate shall be entitled to the extent of such payment to the proceeds of any settlement or judgment that may result from the exercise of any rights of recovery of the insured against any owner or operator of an uninsured automobile; the insured shall hold in trust for the benefit of Allstate all rights of recovery which he shall have against such owner or operator because of the damages which are the subject of the claim made under this insurance,” and “the insured shall take, through any representative designated by Allstate, such action as may be necessary or appropriate to recover . . . the damages suffered by the insured, such action to be taken in the name of the insured. All expenses and costs incident to the taking of any action pursuant to this provision shall be borne by Allstate . . . .”
+This action was commenced by service made on March 18, 1964. Arbitration was duly had pursuant to the policy of insurance, and a final award was entered on September 15, 1965. The award was satisfied on September 21, 1965, and on that day the plaintiff Rose Simal executed a trust agreement, pursuant to the terms of the policy, providing that any money recovered by her shall be paid to Allstate to the extent of the payment made by Allstate to her.
+The defendant says her “interrogatories are designed to elicit formal judicial admissions that this action is now being [sic] on the basis of an assignment or subrogation between the plaintiff and a possible assignee which is not a named party but in fact the true party in interest.” In actual fact, this action is now being maintained by Allstate pursuant to the so-called trust agreement.
+The defendant says: “The legal claims will be made that an assignment of a personal injury claim is void per se; that any agreement between plaintiff and an insurer for subrogation of a personal injury claim violates the prohibitions of champerty and maintenance; and that if an insurer has bound the plaintiff to defer to the company’s decision in this litigation, such agreement is void.” It appears obvious and elementary that the defendant is entitled to allege these defenses and that the interrogatories are designed to obtain the information necessary to enable her to do so correctly and accurately.
+The court expresses no opinion whatever in regard to the merits or validity of any defense which the defendant proposes to allege or assert.
+The plaintiffs’ objection to questions 6, 12 and 13 of part A is sustained; the objection to the remaining questions contained in part A is overruled; the objection to part B is overruled.
