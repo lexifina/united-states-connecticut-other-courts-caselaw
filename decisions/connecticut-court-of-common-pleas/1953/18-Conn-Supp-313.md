@@ -1,0 +1,34 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File No. 46590"
+decided: "1953-03-31"
+citations: ["18 Conn. Supp. 313"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marion Kapinos v. Shartenberg Company"]
+source_url: "https://static.case.law/conn-supp/18/cases/0313-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1324082
+cites_cases: ["112 Conn. 181", "127 Conn. 224", "139 Conn. 65"]
+---
+
+# Kapinos v. Shartenberg Co.
+
+## Majority (FitzGerald, J.)
+
+FitzGerald, J.
+By their verdict of March 17,1953,
+the jury found the issues for the plaintiff and awarded damages of $750. The defendant moves to set aside the verdict on stock grounds, namely, that it is contrary to law, against the evidence and excessive. Neither of the parties filed requests to charge nor took exceptions to the charge as given by the court. Even at this late date the losing defendant does not suggest that the court incorrectly charged the jury on the law of the case, but concedes that the charge as given was correct in every particular.
+The plaintiff brought this action to recover damages for breach of the implied warranty of fitness under the statute. General Statutes § 6630 (1). The subject of the alleged sale to the plaintiff by an employee of the defendant, the defendant being a department store in New Haven, was a two-gallon can of fluid for the cleaning of clothes. It is called Renuzit.
+The plaintiff testified that after using this fluid on two or three occasions, the skin about the knuckles of her hands became infected, and that the infection spread up her arms to her shoulders; that she had followed all directions relating to use as contained on the can; that two or three weeks after the condition of her skin first became manifested, she returned to the store and made complaint to an employee at the counter where the purchase had been made; and that the employee took notes and said that she would be hearing from someone.
+The notice to the defendant as claimed by the plaintiff was alleged in an amendment to the complaint at the trial. This was done to accord with the requirements of pleading discussed in the recent case of DeLucia v. Coca-Cola Bottling Co., 139 Conn. 65, 67. In passing, it is noted that the statute requiring the giving of notice by a buyer to a seller of breach of a warranty does not prescribe that such notice be given in any special form. It does require, however, that it be given within a reasonable time after discovery by the buyer of the breach, and that it be of such character as to fairly apprise the seller that the buyer proposes to look to him for damages. § 6664; Truslow & Fuller, Inc. v. Diamond Bottling Corporation, 112 Conn. 181, 187.
+An oral notice therefore sufficiently complies with the statute if the other specified requirements have been satisfied. By their verdict the jury have so found in the plaintiff’s favor. Hence the court cannot interfere with the verdict on this aspect, since this finding concerns factual considerations upon which the jury were the arbitrators.
+In support of its general claims that the verdict should be set aside, the defendant argues for consideration the same grounds as those urged by the defendant in Sapiente v. Waltuch, 127 Conn. 224, 226. Although the subject of the sale in that case was food, both cases are comparable from the standpoint of the result obtained by the verdict of the trial jury. Where questions of fact are concerned it is elementary that the findings of a jury cannot be disturbed in the absence of substantial and persuasive reasons for so doing. As in the Sapiente case, so in this case, such are not present.
+The defendant contends that the plaintiff purchased the product by its trade name and therefore no implied warranty attached, under fourth subdivision of the statute. §6630 (4). This was also one of the claims of the defendant in the Sapiente case. In this case, as in that case, the jury could very well find from her testimony as a whole that, while she was familiar with the brand, she asked for no special kind.
+G ranting that the plaintiff did not call as a witness any of the doctors who treated her skin condition, she was permitted without objection to testify to what various doctors had said to her about that condition in the course of examinations and treatments. In this informal manner she gave to the jury for their consideration the medical versions of her skin condition. The court was not required on its own motion to rule out hearsay testimony in the absence of objection, and did not volunteer to do so.
+The bill of Dr. Appell, offered in evidence without objection, contains this statement: “For treatment of contact dermatitis of hands probably due to exposure to soaps.” The defendant argues that this statement negatives the existence of a causal connection between the Renuzit purchased and used by the plaintiff and the subsequent skin infection. The properties of the product, chemical or otherwise, were not gone into by either of the parties. However, it was sufficiently made to appear that Renuzit as such is something of a modern-day substitute for the old fashioned method of cleaning and washing certain kinds of clothes with soap and water. At least that was the impression derived by the court and could have reasonably been derived by the jury. The statement on the bill in question avails the defendant nothing.
+That the plaintiff’s testimony regarding time lost from work did not entirely accord with the records of her employer, which disclosed a lesser amount of time lost because of physical disability, does not in itself undermine the verdict. It remained for the jury to determine what credit should be given her testimony as a whole, and to conclude whether any inaccuracy on a given aspect should affect their consideration of her testimony on other phases of the case. In this connection it should be noted that her doctors’ bills put in evidence exceed $200, and other items of claimed expenditures such as for lotions and the like, apart from any loss of wages, are not inconsiderable. Actually the verdict of $750 is modest and could very well represent a discounting of loss of wages in whole or in part.
+The conclusion reached is that the verdict is neither contrary to law, against the evidence, nor excessive. It must stand as the considered findings of the jury respecting those aspects which historically were in their exclusive province to determine. Interference by the court would not be justified on any hypothesis.
+The parties have had their proverbial “day in court” and must abide the result in the form of the verdict rendered.
+The defendant’s motion to set aside the verdict is required to be denied.
