@@ -1,0 +1,22 @@
+---
+court: "Connecticut Superior Court"
+decided: "1948-07-17"
+citations: ["15 Conn. Supp. 443"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Ferguson v. Stephen F. Gauggel et al."]
+source_url: "https://static.case.law/conn-supp/15/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 706656
+---
+
+# Ferguson v. Gauggel
+
+## Majority (MOLLOY, J.)
+
+MOLLOY, J.
+The plaintiff, a man now eighty-five years of age, alleged in his complaint and offered evidence to prove that for years prior to October 15, 1946, he was the owner of the premises known as No. 400 Burr Street, New Haven; that on October 15, 1946, the plaintiff gave to the defendant Vina E. Gauggel, who is his sister-in-law, and to her husband, Stephen F. Gauggel, a quitclaim deed of the premises No. 400 Burr Street, New Haven, with the understanding, however, that he, the plaintiff, would have the life use thereof, that all the rents, profits and income accruing from said property would be his as long as he lived, and that they, the defendants, would return the property to him on demand. The deed contained no such provisions and the defendants have refused to him the life use thereof, the rents and profits therefrom, and the return of the property to him, although the same was duly demanded of them. The plaintiff further alleges that the deed was not witnessed in his presence nor at the time he signed it. He claims that he gave the deed shortly after his discharge from the hospital, where he had undergone two severe operations, and that he was weakened in body and mind and esily susceptible to he importunities and urging of Mrs. Gauggel and therefore did something he never intended to do. He asks a reformation of the deed reserving the rights aforesaid mentioned, and an accounting of all rents, profits and income of the aforesaid property.
+The defendants deny that any such arrangement as contended by the plaintiff was ever intended or understood by the parties at the time of the execution of the deed or at any time prior thereto. The court is convinced that the defendants’ contentions and stories concerning this transaction are the correct versions and that the evidence amply sustains such conclusion.
+The defendant Vina E. Gauggel was the sister of Mrs. Ferguson, who died in 1939. Indeed, another sister of Mrs. Gauggel was the first wife of the plaintiff. Mrs. Gauggel had been on very friendly terms with Mr. and Mrs. Ferguson. There was undoubtedly a coolness between Mr. Ferguson and the Gauggels after Mrs. Ferguson died. These friendly- relations, I believe, were resumed during his stay in the hospital and continued so after his discharge. What causes his present attitude is somewhat difficult to understand. I do not believe the causes arc as claimed by him in his evidence. Mr. Ferguson is a very old and feeble man requiring the attention of a nurse who, incidentally, has been given a piece of his property subject to his life use in it; and he resides with a couple who were given the money with which to buy the house in which he and they now live. So with the G auggels, I believe he wanted to give the house on the hill, 400 Burr Street, to the Gauggels because he liked them and they liked the house. The reasons Mr. Ferguson now gives for his present action may in his own mind now be sufficient. I believe the simple and real reason is that he has changed his mind. From the evidence I gleaned that Mr. Ferguson in his business life had been astute and shrewd and had accumulated some considerable estate by the time he retired. I think he is shrewd now even in his present condition of health. However, his version of what occurred when his will and the deed, now the subject of this litigation, were executed is not an accurate recital. I think he is all wrong about this part of his story. The facts as testified by the lawyer and the accountant who happened to be called to be a witness to the will and deed are convincing and telling in the disposition of this case. There is not any doubt in my mind on this.
+A detailed recital of the testimony is hardly necessary in substantiation of the conclusions reached herein. Suffice it to say that the claims of the plaintiff are not sustained. The issues are found and judgment is directed for the defendants.
