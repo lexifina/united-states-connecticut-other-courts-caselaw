@@ -1,0 +1,34 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #48405"
+decided: "1936-03-16"
+citations: ["3 Conn. Supp. 319"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TRADESMENS NATIONAL BANK vs. WALDO H. MINOR, ET UX."]
+source_url: "https://static.case.law/conn-supp/3/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336558
+cites_cases: ["105 Conn. 615", "122 Conn. 419", "136 Atl. 556"]
+---
+
+# Tradesmens National Bank v. Minor
+
+## Majority (BALDWIN, J.)
+
+BALDWIN, J.
+On December 30, 1931, the defendant Waldo H. Minor was indebted to The National Tradesmens Bank and Trust Company in the sum of $24,600.00 as evh denced by two notes, one for $18,000.00 and the other for $6,600.00,-plus accumulated interest amounting to $429.50. These were renewal notes payable on demand; the account' having been of long standing.
+The bank, at this time, held as collateral security for these obligations stock of Mr. Minor’s of the market value of $21,591.00 and it called upon him for additional collateral, or payment. He was unable to make payment and he had no further securities to offer as collateral. He owned the parcel of land located in North Haven and described in the complaint which was unencumbered. The stocks included in the collateral were depreciating in value, and being unable to make any payment on account of the notes the bank asked Minor for a note to be payable on demand and secured by a mortgage on the property referred to, to which Minor as' sented, and the note for $7000.00 secured by the mortgage now being foreclosed was given by Minor as additional collateral.
+Subsequently The National Tradesmens Bank and Trust Company went into receivership and during the receivership some of the collateral was sold and the proceeds applied upon the obligations.
+On June 15, 1933, the plaintiff, Tradesmens National Bank, as successor to the National Tradesmens Bank and Trust Com' pany took over the Minor notes, the note for $7000. and the mortgage securing the same being assigned to the plaintiff bank.
+The obligation at this time, less proceeds from dividends and sales of some of the securities, was $17,624.06 for which amount Minor gave plaintiff a new note with such securities as had not been sold as collateral; plaintiff also holding the $7000.00 note and mortgage which it took by assignment as additional collateral.
+The condition of the obligation was not satisfactory to the bank examiner nor to the comptroller of the currency because of the lack of sufficient collateral and the failure of Minor, under the conditions, to reduce the amount due.
+Dividends were applied upon the account and upon consultation between the parties some of the securities were sold and the proceeds invested in other securities which it was thought would produce a larger yield, and ultimately, because of the unbankable condition of the account all of the securities excepting the $7000. note and mortgage were sold, the last sale being April 29, 1935.
+Crediting all dividends and proceeds from sales of all securities to the account, the balance due April 29, 1935 was $7249.86, and the only collateral held to secure this was the instant note and mortgage.
+Prior to and during the receivership interest charged was at the rate of seven percent (7%) per annum. From June 15, 1933, when plaintiff acquired the account until January 1, 1935, interest was at the rate of six percent (6%) per annum and on January 1, 1935 it was reduced to five percent (5%).
+The only payment made on this obligation by Minor was one of $400. which was from funds realised from an insurance policy. The date of this payment did'not appear, and I therefore cannot determine the effect of that payment upon the question of interest, nor can I, crediting defendants with dividends and proceeds from sales of securities and computing interest from time to time upon balances, find the amount due to be as claimed by the plaintiff. The amount I find due plaintiff at the date of this memorandum is $7,568.38.
+Defendants’ claim in their brief that plaintiff, under Section 5029 of the General Statutes, cannot maintain this action since the assignment of the mortgage to it was defective, in that it was not under seal. Section 8 of the Validating Act passed by the General Assembly at its January Session of 1933, cured this defect. See Sec. 8, Chapter 453 Special Acts 1933, pages 1129, 1130.
+It is further claimed that the mortgage did not recite the real nature of the transaction and is therefore invalid. The indebtedness far exceeded the value of the collateral and this note and mortgage were given and intended by the parties as additional collateral and under such conditions it is not required that the mortgage recite that it is given and held as collateral. See The Windsor Trust Co. vs. Champigny, et als, 105 Conn. 615, 136 Atl. 556 and cases cited.
+Interest has not been computed upon the note secured by this mortgage, it has been computed. upon the original indebtedness for which this was given to secure, and had that original indebtedness have been discharged by payment the defendants would have been entitled to a return to them of the $7000. nóte and a release of the mortgage. Payment not having been made plaintiff is entitled to judgment of foreclosure.
+The issues are found for the plaintiff and the debt is found to be $7568.38. Judgment of foreclosure may be entered. The law day may be June 2, 1936.
