@@ -1,0 +1,80 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #55003"
+decided: "1937-05-21"
+citations: ["5 Conn. Supp. 133"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMAS PENCEK vs. FRANK EICHINGER"]
+source_url: "https://static.case.law/conn-supp/5/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1313233
+---
+
+# Pencek v. Eichinger
+
+## Majority (McEVOY, J.)
+
+McEVOY, J.
+This is an action brought by a pedestrian to recover damages against the operator-owner of a motor vehicle for injuries alleged to have been sustained by the plaintiif while he was walking across an intersection which was guarded by traffic lights and upon which white walking lines had been partially installed.
+About eight o’clock in the evening on April 9, 1936, it was raining heavily. The plaintiff was attempting to proceed southerly on Main Street in the City of Hartford. Before doing so he stood at the southwest corner of Jefferson Street and Retreat Avenue; waited for the signal light to turn and when it did turn green “go” he first looked to the north and to the south and, seeing no vehicle approaching, he started easterly across Main Street. He carried an umbrella which was opened and over his head.
+In the center of Main Street there are two trolley tracks running north and south respectively.
+The plaintiff walked easterly across Main Street and over the two trolley tracks. At this so-called crosswalk there had been painted upon the pavement parallel white lines for the guidance of pedestrians and these lines ran east and west but did not cross the space between the trolley rails.
+The injury to the plaintiff occurred on April 9, 1936.
+On November 29th, 1935 these lines were last painted on the pavement.
+There was no further painting or renewal of these lines until April 30, 1936, which was after the date of the injury to the plaintiff.
+On the night in question the lines were indistinct and difficult to discern.
+It is undisputed that the plaintiff walked between the white lines as he proceeded easterly until he came to the easterly car track. There is a conflict as to just how he proceeded after he passed the easterly car track. The conflict is not as to his general direction, which was easterly, but it is as to whether he then continued to proceed exactly between the white lines or whether he proceeded southerly of the south line and if so how much southerly or in just what direction with relation to the lines.
+Several witnesses testified, from their limited observation, as to the movements of the plaintiff just before and at the time when he was injured.
+Upon all of the evidence it would seem that the witness who was in the best position to observe the movements of the plaintiff was Miss Foss. She was observant and plain spoken.
+With a companion she stood at the same intersection as the plaintiff and, as the light was then red, in common with the plaintiff she waited at the southwest corner of Jefferson Street and Retreat Avenue before attempting to cross the street. When the light changed to “green” she, in common with the plaintiff, began to cross the street easterly on the crosswalk. The plaintiff walked a few feet in front of her and a few feet diagonally to her right.
+Her observation was that, after he crossed the tracks in an easterly direction, the plaintiff then veered “about a foot south of the south walk lines”. He then continued walking easterly “parallel with the southerly white line” and was “two or three feet south of the white line when struck”.
+Obviously — there is an inaccuracy between the statement that he veered one foot south of the south line and continued walking parallel thereto and subsequently was two or three feet south of the south line. In any event the plaintiff was from one to three feet south of the south line when struck by the defendant’s automobile.
+The defendant was operating his car northerly on and upon the easterly side of Main Street. As he proceeded northerly on Main Street he stopped 130 feet southerly from the light at the crossing where the plaintiff was walking. The defendant then continued northerly to a point Tl/l feet south of the south line of the walk.
+The defendant claims that when he reached this point- — ■ that is 22J/2 feet south of the south crosswalk line — that the light then turned green in his favor permitting him to proceed and that, for that reason, he proceeded at a speed of about 5 miles an hour, in low gear, and undertook to proceed northerly and across the easterly side of the crosswalk.
+The defendant’s car concededly struck the plaintiff a short distance south of the south crosswalk line and on the easterly side of Main Street and that distance is estimated to be from 5 to 8 feet west of the east curb of Main Street.
+' Immediately after colliding with the plaintiff, and also upon the trial, the defendant frankly stated that he did not see the plaintiff, nor did he see either of the two people who walked immediately in the rear of the plaintiff as all proceeded easterly crossing Main Street almost directly in front of the defendant.
+There was no evidence to indicate that there was anything to obstruct the view of the defendant as he proceeded northerly unless it be the heavy rain which was falling. The lights on the defendant’s car were burning brightly. The windshield wiper of the defendant’s car was in operation and was functioning.
+The negligence of the defendant was not seriously disputed —in fact it was practically conceded.
+On behalf of the defendant it is now claimed that the plaintiff’s negligence was a contributing factor to his injury and it is also claimed that he was not within the provisions of Section 395, General Statutes, Revision 1930 which is indexed under the general heading “Uniform Traffic Control”.
+This Section 395 reads as follows:
+“(a) The traffic authority shall have power to designate, by appropriate devices or markers or by lines upon the surface of the highway, such crosswalks and intersections as, in its opinion constitute an especial danger to pedestrians crossing the highway, (b) At any intersection where traffic is con' trolled by traffic control signals or by police officers, pedes' trians shall not cross the highway against a red or ‘Stop’ sig' nal, and shall not cross at any place not a marked or unmarked •crosswalk. A pedestrian started or starting across any such •crosswalk on a green or ‘Go’ signal shall have the right of way over all vehicles, including those making turns, until such pedestrian shall have reached the opposite curb or safety zone.’’
+Reliance is placed by the defendant upon subdivision “b” of this section and particularly on that part of subdivision “b” which provides that “Pedestrians shall not cross at any place not a marked or unmarked crosswalk”. If this subdivision of the paragraph were literally construed it would apparently mean, upon one construction, that a pedestrian could not cross unless there was a definitely marked crosswalk and, on the other construction, that he could not cross at all.
+It would seem reasonable to assume that the real intent of the legislature was to make it possible for the pedestrian to •cross and to protect him while crossing.
+The incomplete markings existing at the place in question were evidently intended as a general compliance with the statute and it was apparently the .intention of the municipal authorities to at least partially designate the place m question as a crosswalk.
+While it is true that the easterly and westerly marking lines were broken within the space of the intervening trolley rails, yet they were originally painted on the easterly and westerly side of the rails and it was undoubtedly the intention of the municipal authorities to designate the places between the lines as places where pedestrians should ordinarily walk.
+The last sentence of subdivision “b” Section 395 reads as follows:
+“A pedestrian started or starting across any such cross' walk on a green or ‘Go’ signal shall have the right of way over all vehicles, including those making turns, until such pedestrian shall have reached the opposite curb or safety Zone."
+It would seem to have been the intention of the legislature to require that a pedestrian so attempting to cross should be permitted to do so.
+As one walks about the streets of any city in the state an impression would be generally gained, and it would seem to’ be a matter of common observation, that this provision is-entirely unknown to operators of motor vehicles or, if it is known, that its provisions are pretty definitely and generally ignored.
+There seems to be a general impression among operators of automobiles that they use the highway and pass over the crosswalks definitely as a matter of rigl t and that the pedes' trian does so only as a matter of privilege
+The law is quite the reverse.
+“Ever since motor vehicles have come into general use they have been classified separately from horse drawn vehicles and the power of the legislature to impose upon their owners and operators duties not placed upon others has been generally upheld.”
+Various states throughout the country which have adopted Financial Responsibility Laws, have made their regulations upon the theory that the pedestrian has a right to use the high' way while the operation of a vehicle upon a public highway is a privilege.
+Since the plaintiff was using the public highway as a matter of right and since the defendant was using it as a matter of privilege it is difficult to adopt the theory advanced by the defendant that it could be interpreted as the meaning of the legislature that because the plaintiff was proceeding somewhat southerly and outside of the indistinct southerly white line of the crosswalk, that therefore he was entirely out of the protection of the statute.
+Such construction of the law would not seem to be reason' able. It has been held the other way.
+Horney, et al. vs. Giering, et al., 132 Washington 555, 231 Pacific Reporter 958.
+Yanase vs. Seattle Taxicab & Transfer Co., 91 Washington 415, 157 Pacific Reporter 1076.
+In so far as the claim that the plaintiff was negligent is concerned it should be observed that at the time in question the plaintiff wore glasses and that it was raining heavily. It is undisputed that he stood at the southwest corner of Jefferson Street before he undertook to cross easterly on Main Street and that he waited for the red light to turn green in his favor; that after so standing and before proceeding in an easterly direction he looked to the north and south and saw no car approaching from the south — the direction from which the defendant eventually appeared; that he walked between the lines as far as the westerly car track and, presumably, continued to walk in the same general parallel direction east' erly until he had crossed the easterly rail of the car tracks; that he then diverged, to his right, and walked either one foot southerly of and parallel to the southerly white line or not more than two or three feet diagonally southerly from the southerly white line.
+Assuming that the plaintiff had looked to his right as he crossed the easterly rail of the car track he might then, in the exercise of the highest degree of care, have observed the de' fendant practically at a standstill at a point about twenty feet distant from him and he might have reasonably assumed that it was the intention of the defendant to remain standing until the plaintiff and the two pedestrians following him had completed their passage across the street.
+Even had the plaintiff assumed that he was not within the protection of the beneficient provisions of Section 395, he might still reasonably assume that the defendant would act as a reasonably prudent person would have acted under similar circumstances and would have had some regard for the fact that three pedestrians were crossing where, at least two of them, had a right to be and that the defendant would have reasonably waited until the pedestrians had walked out of his path.
+In the circumstances in which he was then placed the con' duct of the defendant was reckless, as the plaintiff has alleged in paragraph 3 of his complaint, and the contributory negligence of the plaintiff, if it existed, would not avail the defendant.
+Assuming that the plaintiff was negligent — after he crossed the easterly rail — then the doctrine of last clear chance would apply because even after the plaintiff might have been claimed to have been negligent, the defendant still had every opportunity to see and observe the negligent conduct of the plain' tiff — if it existed — and the defendant had ample opportunity to so reasonably control his car as to avoid striking the plaintiff.
+It is difficult to escape the conclusion that, proceeding as the defendant did and with three people who ought to have been in plain sight at a well lighted crossing guarded by traffic lights and in a part of the highway which was ordinarily heavily travelled and with which the defendant was thorough' ly familiar by his frequent use of it — the defendant was not only negligent but heedless of the rights of all others and that the injury to the plaintiff was occasioned by the conduct of the defendant.
+The expenses occasioned to the plaintiff were as follows:—
+(1) Providing new eyeglasses.............................................$ 1.75
+(2) Repairs to overcoat............................................................ 1.50
+(3) Loss of umbrella — originally purchased $3.50 — then probably worth....................................... 2.00
+(4) Medical expenses Dr. Fay............................................. 39.00
+(5) Hospital expenses.................................................................. 68.80
+(6) Dr. Kardys’ medical expense.................................... 58.00
+Total expenditures..............................................................................$171.05
+The plaintiff makes a claim for a loss of profits from his business aggregating about $50.00 a week.
+Upon all the evidence it is difficult to find any substantial loss of profits to the plaintiff occasioned by the injury to him.
+It is true that there was evidence that the plaintiff’s wife was required to employ some one to work in his absence. The net result of this loss is difficult to estimate but it would seem fair to the plaintiff — and not unfair to the defendant— to estimate the total loss to the plaintiff from the proceeds of the business at $10.00 a week during the incapacity of the plaintiff.
+While it is true that the plaintiff was in the hospital nine days directly following his injury yet it appears that he stayed one extra day in order to have a small operation performed which had no connection with the injury in question and the cost of this operation has been deducted from the bill of the doctor who attended him generally and also performed the operation and also from the hospital bill.
+He was under the care of Dr. Kardys to June 5, 1936. It would seem reasonable to find that he was incapacitated from after the date of the injury, April 9, 1936 to June 5, 1936, which would be practically eight weeks — at $10.00 a week— $80.00.
+In so far as his personal injuries, pain and suffering are concerned they were substantially as follows: For some weeks he suffered excruciating pain in his right chest; five sutures were taken over his left eye; he was in bed eight to nine days; although not at first discovered it ultimately develop that he sustained a fracture of the tenth and eleventh ribs. There is a permanent scar over the eye as the result of the injury and the sutures which were taken but the scar is hardly perceptible and constitutes little if any disfigurement.
+For these injuries damages are assessed at $1,000.00.
+The issues are found in favor of the plaintiff and judgment may be entered for him to recover of the defendant the sum of $1,251.05 damages and his costs.
