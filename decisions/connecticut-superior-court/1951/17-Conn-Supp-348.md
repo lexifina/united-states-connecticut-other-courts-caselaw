@@ -1,0 +1,39 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 19793"
+decided: "1951-11-26"
+citations: ["17 Conn. Supp. 348"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Heromin Prusaczyk v. Peter V. Kulo"]
+source_url: "https://static.case.law/conn-supp/17/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321770
+cites_cases: ["102 Conn. 612", "111 Conn. 106", "115 Conn. 652", "117 Conn. 218", "125 Conn. 281", "125 Conn. 651", "133 Conn. 141", "133 Conn. 424", "135 Conn. 675", "45 Conn. 159"]
+---
+
+# Prusaczyk v. Kulo
+
+## Majority (ALCORN, J.)
+
+ALCORN, J.
+The plaintiff seeks foreclosure of a mortgage and a deficiency judgment. The defendant denies plaintiff’s right to foreclose and, by a cross complaint set forth in a single count, seeks an accounting of rents, damages for a conversion of the furnishings in the house, an order restoring possession to the defendant, and any other appropriate equitable relief.
+The facts are that the defendant bought a thirteen-room house, divided into seven apartments, from the plaintiff, his stepfather, in 1946. No cash was paid but the defendant executed the mortgage and note now in issue. The note is as follows:
+“$14,000.00 New London, Conn.
+March 9th, 1946
+“For value received, I promise to pay to the order of Heromin Prusac^yk, the sum of fourteen thousand dollars in equal monthly payments of seventy five (75) dollars each for a period of one hundred eighty six and five sevenths (186 5/7) months beginning October 1, 1950.
+“I agree to pay all taxes that may be assessed against the holder of this note by reason of its ownership.
+“ (signed) Peter V. .Kulo
+“This note is secured by a mortgage of even date herewith.”
+The condition of the mortgage is as follows:
+“The Condition of this Deed is such, that whereas the said grantor is justly indebted to the said grantee, in the sum of fourteen thousand (14000) Dollars as evidenced by his promissory' note of even date herewith, payable to said grantee or order in monthly payments of $75.00 each beginning October 1, 1950 for a period of 186-5/7th months.
+“Now Therefore, if said note shall be well and truly paid according to its tenor, then this deed shall be void, otherwise to remain in full force and effect.”
+From the date of purchase in 1946 until August, 1950, the defendant used and occupied the property. The defendant was a member of the army reserve and was recalled to active duty in August, 1950. Before leaving he wrote to his mother, the plaintiff’s wife; stating, in substance, that he had been recalled ■to duty, could not run the house, would “have to let you take it over,” and that she could have it September 1, 1950, before the payments began.. The letter was not answered, but, realizing that the property would be unsupervised,- the plaintiff and his wife took possession on September 1, ■ 19.50, and have since occupied the property and collected the rents. An allegation in the special defense and cross complaint that “without acceptance of. the defendant’s offer the plaintiff took possession of the mortgaged premises” is admitted by plaintiff’s reply. The defendant did not make the payments called for by the note and mortgage on October 1 and November 1, 1950, and this action was started by complaint dated November 4, 1950.
+The plaintiff had the right to enter into possession of the property in order to protect his security so long as he could do so peaceably. Struzinski v. Struzinsky, 133 Conn. 424, 429; Hartford Realization Co. v. Travelers Ins. Co., 117 Conn. 218, 224; Desiderio v. Iadonisi, 115 Conn. 652, 654. His entry was undeniably peaceable. Having taken possession, he had the right to collect the rents. Dime Savings Bank of Hartford v. Bragaw, 125 Conn. 281, 284; Desiderio v. Iadonisi, supra.
+The defendant failed to pay the $75 instalment of principal due on October 1, 1950, and again on November 1, 1950. A note is payable, at the time fixed therein; General Statutes § 6377; and the maker engages to pay according to its tenor § 6352. The defendant’s failure to make the payments called for amounted to a default entitling the plaintiff to foreclose. Butler v. Blackman, 45 Conn. 159; 2 Jones, Mortgages (8th Ed.) §§ 1500, 1503. Neither the note nor the mortgage deed contains an acceleration clause. In the absence of such, the effect of- the breach is enforceable according to its terms and can extend no further than to enforce satisfaction of such part of the debt as is due at the time. 2 Jones, Mortgages (8th Ed.) § 1511. The plaintiff would have been entitled to include, by means of a supplemental complaint, defaults in principal pay' ments which may have occurred since the date of the complaint. Gordon v. Donovan, 111 Conn. 106, 110. This has not been done, however, and the debt can only be found to be $150.
+Against this debt the defendant is entitled to have the rents collected by the plaintiff applied. Milici v. Ferrara, 133 Conn. 141, 145; Dime Savings Bank of Hartford v. Bragaw, supra; Desiderio v. Iadonisi, supra. The amount of rents collected by the plaintiff is not in evidence. Following the trial, counsel were requested to file briefs and, at the same time, to stipulate as to the amount of rents or, if that were not possible, to indi' cate the desire for a further hearing at which the matter could be determined. Briefs have been filed without either of the other courses being taken. It is therefore assumed that, as claimed by the plaintiff at the trial, his disbursements for legitimate items to preserve his security have offset the rents collected. Desiderio v. Iadonisi, 115 Conn. 652, 654-655.
+A judgment of foreclosure determining the debt and fixing a law day does not, however, alter the relationship between the parties as regards the rents collected by the plaintiff, and the defendant may still insist that, on redemption, he be required to pay only the amount of the judgment debt with interest from its date less rentals collected since the date of the judgment; and, if he does not seek to redeem, he has no right to recover the rentals. Dime Savings Bank of Hartford v. Bragaw, 125 Conn. 281, 284-285.
+The claim that the plaintiff has converted the furnishings is not established. The plaintiff entered the property on the date suggested by the defendant in the latter’s letter to his mother. The furnishings were substantially those which went with the house when the defendant acquired it. The evidence does not establish whether or not the furnishings were a part of the sale, and when the defendant wrote to his mother no distinction was made as to them in suggesting a surrender of the property. In order to prove a conversion the defendant must show a wrongful exercise of dominion over his property. Brower v. Perkins, 135 Conn. 675, 684. This requires a showing that the original taking was tortious; or that the original possession, though rightfully acquired, was followed by a wrongful use of or unauthorized dominion over the property; or that a simple detention was followed by a demand and refusal. Coleman v. Francis, 102 Conn. 612; Slosberg v. Callahan Oil Co., 125 Conn. 651. The very sketchy evidence establishes none of these situations. In fact, the seriousness of defendant’s claim of a conversion is in doubt since his position is that such claim is pressed only in the event that a foreclosure is decreed. If the claim of a conversion were bona fide it would exist whether or not a foreclosure was decreed.
+The debt is found to be $150. The plaintiff’s appraiser valued the property at $10,000. Consequently no deficiency judgment is warranted. A decree of strict foreclosure should enter. The redemption date is Monday, January 21, 1952.
+Enter a decree accordingly.
