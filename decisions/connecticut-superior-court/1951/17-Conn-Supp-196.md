@@ -1,0 +1,33 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 78501"
+decided: "1951-04-02"
+citations: ["17 Conn. Supp. 196"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Therese Bond v. Gwen Meredith"]
+source_url: "https://static.case.law/conn-supp/17/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321837
+cites_cases: ["114 Conn. 478", "116 Conn. 545", "117 Conn. 206", "118 Conn. 154", "121 Okla. 1", "131 Conn. 281", "135 Conn. 610", "165 Md. 425", "178 F. 2d 888"]
+---
+
+# Bond v. Meredith
+
+## Majority (MURPHY, J.)
+
+MURPHY, J.
+The evidence does not satisfy me that the defendant is entirely responsible for the dissension that developed between the plaintiff and her husband and led to the breaking up of their home. Rather, the plaintiff herself was principally at fault so that when the defendant came into the husband’s life his affections had been almost completely alienated. Whether the plaintiff could have recaptured the husband’s love and esteem if the defendant had not appeared ir the picture is extremely doubtful. Their relations had reached such a low state that even without the defendant’s intercession permanent separation was imminent.
+Legislation has been adopted in many states barring actions for alienation of affections. New York adopted such a law in 1935. N. Y. Civ. Prac. Act § 61-b.
+The plaintiff and her husband were occupying separate rooms in 1939. From August to late December, 1940, the husband lived apart from the plaintiff. During this period their attorneys conferred in an endeavor to draft a separation agreement but their efforts were not productive. The final separation occurred on June 12, 1941. At that time he deeded the house in which they were living at 66 Magnolia Avenue, Garden City, Long Island, to the plaintiff and gave her $6500 in addition. For his own use he kept $1500, the balance of his inheritance from his father’s estate.
+The defendant became acquainted with Mr. Bond at the world’s fair early in 1940. He took her out to dinner and during the period in 1940 that he was living apart from the plaintiff he developed more than a passing interest in her. As time went on, their relations became intimate. When he left his wife in June, 1941, the defendant was pregnant.
+At that time, the plaintiff, her husband and the defendant were residents of the state of New York, though the defendant was temporarily sojourning in Florida.
+The alienation of the husband’s affections, whether due to the defendant’s attentions or to the plaintiff’s actions, was complete. The right of action, if any, accrued at that time. The tort was committed in New York and the law of that state governs so far as the substantive elements necessary to a recovery are concerned. Gondek v. Pliska, 135 Conn. 610, 613; Simon v. Nelson, 118 Conn. 154, 156; Slobodnjak v. Coyne, 116 Conn. 545, 546; Wawrzin v. Rosenberg, 12 F. Sup. 548, 549; Gordon v. Parker, 83 F. Sup. 40; Parker v. Gordon, 178 F. 2d 888. As New York had abolished the right of recovery for alienation of affection the plaintiff could not recover in that jurisdiction. Therefore, no action could be maintained in this state to recover for any acts that occurred in New York. “[I]n order to maintain an action of tort founded upon an injury to person or property . . . the act which is the cause of the injury and the foundation of the action must therefore be at least actionable by the law of the place in which it is done. {I]f no legally maintainable action is created by the place of wrong, none exists elsewhere.” 11 Am. Jur. 491.
+In November, 1941, the defendant and Mr. Bond took up residence in Greenwich, Conn. Following poor legal advice he received in New York, he obtained what purports to be a Mexican divorce dated January 30, 1942. The following month, he and the defendant went through the form of a marriage ceremony in Stamford. They have two children and, until the reappearance of the plaintiff on the scene, were living what appeared to be a happy, contented married life in Stamford.
+It is the plaintiff’s contention that the cause of action did not accrue in New York state but rather that it arose in this state in 1947 when she claims she first found out about the Mexican divorce, the Stamford marriage and their residence here. She maintains that the cause of action is transitory and, as Bond and the defendant had lived together continuously in this state since November, 1941, and acts of alienation have taken place here, that she is entitled to recover.
+The defendant has pleaded the Statute of Limitations. The plaintiff seeks to evade its limitations by claiming that the defendant fraudulently concealed the cause of action from her and therefore under the provisions of General Statutes § 8335 her right to sue arose in 1947.
+The term “alienation of affections” is something of a misnomer. While that is the phrase commonly used, the action is not restricted to recovery for loss of love or affection. “ ‘The gist of . . . the action ... is the loss of the consortium. This is a property-right growing out of the marriage relation and includes the exclusive right to the services of the spouse - - and these contemplate not so much wages or reward earned as assistance and helpfulness in the relations of conjugal life, according to their station - - and the exclusive right to the society, companionship and conjugal affection of each other.’ ” Hudima v. Hudyma, 131 Conn. 281, 283, and cases cited.
+No right of action accrues until the loss of consortium occurs. That is when the right of consortium is altogether destroyed. Maggay v. Nikitko, 117 Conn. 206, 213. The loss occurs when the offended spouse is deprived of the society, affection and conjugal fellowship of the other. Miller v. Miller, 165 Md. 425, 429; 27 Am. Jur. 140 § 541. Generally, a cause of action accrues at the moment the party owning it has a legal right to sue. 53 C. J. S. 918; Overton v. Overton, 121 Okla. 1, 2. In this case the loss of consortium was absolute on the date of final separation June 12, 1941.
+As the right of action arose in New York and that state has “outlawed” such suits, it cannot be revived here. There is but one right of action, though the tort which gives rise to it may be a continuing one. And while the law recognises the possibility of reconciliation and encourages it (Amellin v. Leone, 114 Conn. 478, 481), such possibility does not give rise to another cause of action.
+Judgment will be entered for the defendant.
