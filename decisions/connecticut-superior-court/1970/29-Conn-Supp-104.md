@@ -1,0 +1,24 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 164374"
+decided: "1970-12-11"
+citations: ["29 Conn. Supp. 104"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lawrence Brackett v. Alice Johnson et al."]
+source_url: "https://static.case.law/conn-supp/29/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1768506
+---
+
+# Brackett v. Johnson
+
+## Majority (Rubinow, J.)
+
+Rubinow, J.
+The third count alleges that the defendant Sears, Roebuck and Company, hereinafter referred to as Sears, sold a defective snowblower to the defendants Johnson, that the blower became clogged while the plaintiff was operating it, that he attempted to relieve the clogging and, in that process, his left hand and fingers became caught in the rotating fan of the blower, and that, as a result, he sustained injuries, including the amputation of several fingers. The first special defense of the answer, dated October 2, 1970, alleges that the plaintiff’s injuries were due to his negligence and carelessness. Included among the specifications of negligence is an allegation that the plaintiff placed his hand down the chute of the hlower while the engine was running. The plaintiff has demurred to the special defense on the ground that contributory negligence is no defense to the third count, which is based on a claim of express and implied warranty of fitness.
+Although there is no Supreme Court decision in this state on the issue raised by the demurrer, in some other jurisdictions there are appellate court decisions holding that contributory negligence is no defense to an action based on warranty, and, in still other jurisdictions, there are decisions holding that it is a defense in those actions. This seeming irreconcilability is largely superficial. In each of the eases, the broad generalization applies only to the specific type of conduct by the plaintiff that is claimed to bar recovery, for in products liability cases the same label, “contributory negligence,” has been applied to types of conduct that are different in their relation to the product and, therefore, different in their standing as a bar to recovery by the plaintiff.
+“In a products liability context, three basic categories of plaintiff conduct might constitute defenses to an action for personal injuries sustained through, use of a defective product: (1) negligent failure to discover the defective condition; (2) use of the product after discovery of the defect; (3) use of the product in a manner that could not reasonably have been foreseen by the manufacturer. Contributory negligence, as it is generally defined, is sufficiently broad to encompass all three categories. Accordingly, there are products liability eases that speak of failure to discover the product’s defective conation as constituting contributory negligence; others that so categorize use of the product after discovery of the defect; and still others that use ‘contributory negligence’ to mean that plaintiff’s negligence was the sole proximate cause of the injuries. These disparate definitions of ‘contributory negligence’ are largely responsible for the confusion that exists in products liability cases concerning the availability of defenses based on the plaintiff’s conduct.” Epstein, “Products Liability: Defenses Based on Plaintiff’s Conduct,” 1968 Utah L.R. 267, 268.
+Under the existing state of the authorities, in an action based on warranty the plaintiff is ordinarily not barred because he failed to inspect the product or to discover the defect. See Epstein, supra, 275 (no reported case has held failure to discover defective condition a defense in a warranty action). The special defense in the present case, however, contains allegations that would permit proof that the plaintiff discovered the defect and used the blower thereafter. For example, Sears alleges that the plaintiff placed his hand in the chute while the engine was running, although “he knew” that he should not have done so. Further, there are allegations that would permit proof that he used the machine in a manner that could not reasonably have been foreseen by the manufacturer. For example, there are allegations that he failed to heed warnings, and allegations that he placed his hand down the chute while the machine was running, although he knew that the rotor continued to work as long as the machine was running. If Sears proves that these allegations are true, the trier of fact might find either that the plaintiff knew that he should not put his hand down the chute but did so, nevertheless, or that Sears could not have reasonably anticipated that the plaintiff would put his hand down the chute. In either event, the trier could find that the plaintiff’s conduct barred him from recovery. See Epstein, supra, 280-83.
+The demurrer is overruled.
