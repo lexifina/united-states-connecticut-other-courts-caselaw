@@ -1,0 +1,31 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 397300S"
+decided: "1995-03-07"
+citations: ["43 Conn. Supp. 467"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EMC Mortgage Corporation v. Vito A. Rossi et al."]
+source_url: "https://static.case.law/conn-supp/43/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 859597
+---
+
+# EMC Mortgage Corp. v. Rossi
+
+## Majority (Hon. Robert Satter, State Trial Referee.)
+
+Hon. Robert Satter, State Trial Referee.
+The defendants, Vito A. Rossi and Carolyn A. Rossi, owners of the equity of redemption, move by order to show cause to vacate an order of ejectment in this foreclosure action, in which title vested in the plaintiff in accordance with a judgment of strict foreclosure. The plaintiff opposes the defendants’ motion and has made a motion for an order of possession.
+The present case reveals the unintended consequences flowing from a change of the rules of practice in the Connecticut Practice Book.
+The facts are as follows. The plaintiff instituted this foreclosure action against Vito and Carolyn Rossi, as mortgagors and owners of the premises, and against another defendant, by a writ dated June 5, 1991, and by a complaint in which the plaintiff sought all the remedies of such an action, including possession of the mortgaged premises. Defenses were interposed but resolved by a stipulation, and a judgment of strict foreclosure was entered on December 17, 1992. The Rossis filed for bankruptcy and, ultimately, the judgment was opened and the law day was reset for September 20, 1993. At the time that judgment was entered, the court did not make a finding as to possession.
+All the defendants failed to redeem and, on September 22,1993, title vested in the plaintiff. On the application of the plaintiff, an assistant clerk of the court issued an execution for ejectment on January 31,1995, empowering a sheriff to eject the Rossis and their possessions from the premises by February 7, 1995. The Rossis secured an order to show cause on February 6, 1995, staying the ejectment until this motion to vacate the ejectment could be heard.
+General Statutes § 49-22 (a) provides in relevant part: “In any action brought for the foreclosure of a mortgage . . . the plaintiff may, in his complaint, demand possession of the land, and the court may, if it renders judgment in his favor and finds that he is entitled to the possession of the land, issue execution of ejectment, commanding the officer to eject the person or persons in possession of the land and to put in possession thereof the plaintiff . . . .” (Emphasis added.)
+Before 1990, the practice in a foreclosure action had been for the plaintiff to prepare a judgment file, in accordance with Practice Book Form 707.1, which provided for title to vest in the party redeeming the premises, otherwise in the plaintiff, and also ordering any party in possession to deliver it up to the redeeming party or to the plaintiff. In 1990, the rules were changed by the adoption of rule 337 of the Practice Book to eliminate the requirement of preparation of a judgment file in a foreclosure action, unless requested by a party. Accordingly, a judgment file is now not normally prepared, and none was made in the present case.
+The official form appendix of the Practice Book sets forth the form for a certificate of judgment of strict foreclosure. That form also provides for an order of possession. It is only issued by the clerk’s office, however, when a party redeems. Here, where no party redeemed and where title vested in the plaintiff by the passage of law days, no certificate was prepared.
+The plaintiff argues that the vesting of title in it automatically carries with it the right to possession of the premises that have been foreclosed. The court can readily conceive of situations where, in equity, title and possesion of premises may not automatically be linked. Moreover, § 49-22 belies the plaintiff’s contention. It specifically provides that before the court may issue an execution of ejectment, it must not only render judgment in favor of the plaintiff (that is, find the amount of the debt and, in a strict foreclosure, set a law day for redemption by the owner of the equity and subsequent defendant lienors) but also find that the plaintiff is entitled to possession of the premises.
+Since no finding of the plaintiff’s right of possession was made by the court in the present case, the execution for ejectment signed by the assistant clerk is defective and must be vacated.
+D. Caron, Connecticut Foreclosures § 5.03 (1993 Cum. Sup.) points out this defect in our procedure as a result of the elimination by Practice Book § 337 of the requirement of a judgment file, and suggests that it can be corrected (1) by courts routinely ordering possession in the plaintiff or redeeming party at the time of entry of judgment, and (2) by amending Practice Book § 526A to make an order of possession an intrinsic part of the decree of strict foreclosure.
+The present case need not, however, stop with vacation of the execution for ejectment. The plaintiff has moved for an order of possession. No evidence or argument was presented at the hearing why, under all the circumstances of this case, the plaintiff is not entitled to a finding of the right of possession at this time. Such a finding is particularly appropriate where the courts have, in part, created the problem by eliminating the requirement that a judgment file be prepared in foreclosure actions and where, as in the present case, the court failed to order possession. General Statutes § 49-26 specifically authorizes the court to order possession of the property to be delivered to the purchaser at the time of, or, after ratification of, a foreclosure sale. Even without the statute, the court has inherent power to order possession in the plaintiff or in a redeeming party in a strict foreclosure after judgment has entered and the time for appeal has expired.
+Accordingly, this court enters an order for possession in favor of the plaintiff against the defendants Vito and Carolyn Rossi and directs the assistant clerk, upon the plaintiffs application, to issue an execution for ejectment.
