@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 351072"
+decided: "1989-11-03"
+citations: ["41 Conn. Supp. 280"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wayne Babych v. Ken McRae et al."]
+source_url: "https://static.case.law/conn-supp/41/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1653286
+cites_cases: ["196 Conn. 359", "196 Conn. 91", "204 Conn. 435", "208 Conn. 161", "208 Conn. 392", "39 Conn. Sup. 129", "471 A.2d 679", "491 A.2d 368", "493 A.2d 193", "502 N.E.2d 964", "510 N.Y.S.2d 49", "528 A.2d 364", "544 A.2d 1185", "545 A.2d 1059", "68 N.Y.2d 432"]
+---
+
+# Babych v. McRae
+
+## Majority (Schaller, J.)
+
+Schaller, J.
+On September 22, 1988, the plaintiff, Wayne Babych, brought a four count tort complaint against the defendants, Ken McRae and the Club De Hockey Les Nordiques. Count one of the plaintiff’s complaint sounds in negligence against both defendants for the injuries allegedly caused by the named defendant. Count two alleges wanton and reckless conduct by both defendants. Count three sounds in intentional assault on the part of both defendants and count four sounds in negligence against the Nordiques due to improper control and training of the named defendant. The plaintiff alleges that the named defendant, a fellow professional hockey player, struck the plaintiff across his right knee with a hockey stick during a game. That action, in violation of Rule 77 of the National Hockey League Rules, caused the plaintiff to suffer personal injuries and financial losses.
+On June 2, 1989, pursuant to Practice Book § 151, the defendants filed a motion to strike the first count of the plaintiff’s complaint on the ground that a negligent violation of a safety rule by a professional athlete fails to state a legally sufficient cause of action. Pursuant to Practice Book § 155, the defendants filed a memorandum in support of their motion to strike, and the plaintiff has timely filed a memorandum in opposition.
+A motion to strike is the proper vehicle by which to test the legal sufficiency of a complaint or any count therein. See Practice Book § 152 (1). “The sole inquiry at this state [of the pleadings] is whether the plaintiff’s allegations, if proved, state a cause of action.” Levine v. Bess & Paul Sigel Hebrew Academy of Greater Hartford, Inc., 39 Conn. Sup. 129, 132, 471 A.2d 679 (1983). “[T]he facts alleged in a complaint, though not the legal conclusions it may contain, are deemed to be admitted.” Maloney v. Conroy, 208 Conn. 392, 394, 545 A.2d 1059 (1988). “The court must construe the facts in the complaint most favorably to the plaintiff.” Gordon v. Bridgeport Housing Authority, 208 Conn. 161, 170, 544 A.2d 1185 (1988). If the facts provable under the allegations would support the contested pleading, the motion to strike it must fail. Mingachos v. CBS, Inc., 196 Conn. 91, 109, 491 A.2d 368 (1985).
+The defendants contend that the complaint is legally deficient because liability cannot lie against the defendants under the facts alleged in the plaintiff’s complaint. The defendants assert that negligent conduct by one professional athlete that injures another participant fails to state a legally sufficient cause of action.
+The first count of the plaintiff’s action is based in negligence. The facts alleged in the complaint that are pertinent to pleading and proving negligence are as follows: On September 24, 1986, while employed as a professional hockey player for the Hartford Whalers, the plaintiff participated in a hockey game at the Hartford Civic Center against the defendants, Ken McRae and the Quebec Nordiques hockey team of Quebec, Canada. On that date, the named defendant struck the plaintiff across his right knee causing personal injury and financial losses. The plaintiff contends that the injuries and losses were caused by the named defendant’s negligence in one or more of the following ways: (1) that the named defendant swung his stick when he knew or should have known that such action could cause serious injury; (2) that such action was unnecessary; (3) that the action violated Rule 77 of the National Hockey League Rules; and (4) that the action was retaliatory by the named defendant. The plaintiff lists the specific injuries and losses in paragraphs seven through ten of the complaint. In order to state a cause of action in negligence, a plaintiff must plead and prove that a defendant breached a duty he owed to him; see Solomon v. Aberman, 196 Conn. 359, 384, 493 A.2d 193 (1985); and that such breach proximately caused his injury. See Wu v. Fairfield, 204 Conn. 435, 438, 528 A.2d 364 (1987). The plaintiff has pleaded sufficient facts to constitute a cause of action in negligence so as to withstand the defendants' motion to strike.
+To support their position that negligence is not a legally sufficient cause of action when one professional participant in an event is injured by another, the defendants cite Turcotte v. Fell, 68 N.Y.2d 432, 502 N.E.2d 964, 510 N.Y.S.2d 49 (1986), as the controlling law on negligence based tort actions between professional athletes. The Turcotte court, in granting the defendant summary judgment, held that negligence was not actionable on the facts that were alleged. There is no analagous Connecticut case law in this area.
+Accordingly, the defendants’ motion to strike is denied.
