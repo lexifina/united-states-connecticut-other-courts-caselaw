@@ -1,0 +1,37 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #52977"
+decided: "1937-07-02"
+citations: ["5 Conn. Supp. 214"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE CONNECTICUT IMPORTING CO. vs. THE CONNECTICUT REFINING CO."]
+source_url: "https://static.case.law/conn-supp/5/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1313332
+cites_cases: ["106 Conn. 475", "113 Conn. 684", "117 Conn. 247", "120 Conn. 348", "82 Conn. 122", "88 Conn. 528"]
+---
+
+# Connecticut Importing Co. v. Connecticut Refining Co.
+
+## Majority (INGLIS, J.)
+
+INGLIS, J.
+The plaintiff seeks a temporary injunction restraining the defendant from erecting and operating a gasoline station on property abutting the plaintiff’s property in New Haven, on the ground that the defendant threatens to proceed on the basis of a certificate of approval of location issued by the Mayor of the City of New Haven rather than by the Board of Zoning Appeals.
+In order to be entitled to such an injunction the plaintiff must show that the erection of such a gasoline station or the conduct of business therein as purposed by the defendant will cause it irreparable damage and special damage different in kind from that sustained by the public in general.
+Point O’Woods Ass’n vs. Busher, 117 Conn. 247.
+Fitzgerald vs. Merard Holding Co., 106 Conn. 475.
+The plaintiff has offered no evidence to the effect that its property would be diminished in value by the erection of the gasoline station as was the case in Greenwich Gas Co. vs. Tuthill, 113 Conn. 684. The basis of its claim is rather that it will be damaged as a result of the operation of the defendant’s business at the place in question in that gasoline fumes emanating from there will interfere with its sale of wines and liquors and will damage certain groceries which it intends to deal in.
+All the evidence is to the effect that, as the defendant plans its structure and plans to operate it, the only chance of gasoline fumes escaping into the air is from two sources. They may escape at the time the gasoline tanks of automobiles are filled or they may escape from the vent pipes which lead from the three storage tanks which are to be installed on the property. When automobiles are filled practically no fumes escape and what do escape are dissipated almost immediately. As regards the vents of the storage tanks, they are to be located from fifty-five to sixty feet from the property line of the plaintiff at its nearest point, the'opening in them will be at least twelve feet above ground, fumes will emanate from them only when the tanks are being filled, that is about once a day for not more than a fifteen minute period, and those fumes will be completely dissipated in the air at a distance of not over eight feet from the vents. It is therefore certain that no gasoline fumes will reach the plaintiff’s property to say nothing of getting into its building. It is therefore found that the plaintiff will suffer no material damage from either the construction or the operation of the defendant gasoline station as it is now planned.
+The other question involved in the case is as to whether in the City of New Haven, as the law now stands, it is the Mayor who has the authority to issue certificates of approval of location for gasoline stations or the Zoning Board of Appeals. In order to decide the question, it is necessary to review briefly the history of the legislation on the subject. This may well start with the legislation in 1927
+In that year the legislature passed a public act (Chap. 245, P. A. 1927) which required an applicant for a license to sell gasoline, to obtain and present to the motor vehicle commissioner a certificate of approval of the location for which such license was required from the warden of the borough, the mayor of the city or the selectmen of the town wherein the station was to be located. This act also provided that in cities of over ten thousand population there should be a hearing after notice on the application for such certificate with the right of appeal to the Superior Court by any one aggrieved by the action of the mayor on such application.
+In 1929 (Chap. 280, P.A. 1929) the 1927 act was repealed and an act substituted therefor.which provided that in municipalities where there was a zoning commission and board of appeals, the authority to issue the certificate of approval should be in the zoning board of appeals. Section 5 of this act provided, however, that “This act shall not apply to the City of New Haven”. This section of course covered the repealing provisions of the Act as well as the provision vesting the authority in the zoning board of appeals, and therefore the net result of the legislation to that date was that the City of New Haven was to continue to operate under the provisions o'f the Act of 1927.
+In 1929, also, the General Assembly (Chap. 258, Sec. 2 P.A. 1929) directed the Commission on the Revision of the Statutes to omit from the general statutes any acts or parts of acts which were private in nature though public in form and to cause them to be printed with the special laws passed at the session in 1931. Pursuant to that direction there was printed with the Special Laws of 1931, Section 5 of Chapter 280 of the Public Acts of 1929. It would seem to be clear that the effect of this was that Chapter 245 of the Public Acts of 1927 was in 1931 continued in force as a special act relating to the City of New Haven and that therefore in New Haven, the authority to issue certificates of approval of the location of gasoline stations was left in the Mayor.
+There was no legislation in any way affecting the situation from 1931 until 193?. The General Assembly of 193? passed a public act (Section 646 c Cum. Supp. 1935) which reenacted the first section of Chap. 280, P.A. 1929 and added to it, simply, a provision that no certificate of approval of location shall be required in the case of a transfer of a station from one person to another or in the case of a renewal except in certain cases. It is apparent that the legislature did not intend by this reenactment to affect the special provisions of the law relating to New Haven. It intended simply to reenact the general law making it applicable only to the same municipalities as it had been applicable to before 193?.
+The 193? Act did not expressly repeal the special legislation affecting New Haven and it certainly is not so inconsistent with that special legislation that it repeals it by implication.
+State ex rel. Wallen vs. Hatch, 82 Conn. 122.
+Walsh vs. Bridgeport, 88 Conn. 528.
+Arsenal School Dist. vs. Hartford, 120 Conn. 348.
+It is, therefore, concluded that Chapter 245 of the Public Acts of 1927 operates, as a special act by virtue of Section 5 •of Chapter 280 of the Public Acts of 1929 made into a special act by the operation of Chapter 258 of the Public Acts of 1929, to control the issuance of certificates of approval of location for gasoline stations in the City of New Haven and that therefore the authority to issue such certificates is in the Mayor rather than the zoning board of appeals. It follows that the certificate upon which the defendant in this case is acting was properly issued.
+For the foregoing reasons the application for a temporary injunction is denied.
