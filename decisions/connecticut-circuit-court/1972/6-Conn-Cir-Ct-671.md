@@ -1,0 +1,25 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CV 10-7204-16762"
+decided: "1972-11-08"
+citations: ["6 Conn. Cir. Ct. 671"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Town of Groton v. Russell S. Medbery et al."]
+source_url: "https://static.case.law/conn-cir-ct/6/cases/0671-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1747720
+cites_cases: ["119 Conn. 532", "138 Conn. 605", "19 Conn. Sup. 85", "20 Conn. Sup. 371", "83 Conn. 503"]
+---
+
+# Town of Groton v. Medbery
+
+## Majority (Bieluch, J.)
+
+Bieluch, J.
+This action is brought under General Statutes § 31-293 for the recovery by the plaintiff of workmen’s compensation payments to its employee, a police officer, injured in a collision with and while in pursuit of a motor vehicle stolen and operated by the defendant John G. Medbery, an uneman-cipated minor. The plaintiff also seeks recovery from the minor’s father, the defendant Russell S. Medbery, by authority of the parental liability law, § 52-572.
+The plaintiff alleges that the minor wilfully and/or maliciously injured and damaged the police officer, known to be pursuing him, by operating a stolen motor vehicle in the nighttime without headlights and in such a manner as to avoid apprehension, by disregarding a stop sign and striking a car, and by colliding with a truck on a bridge and turning his vehicle sideways so as to block both lanes of travel thereon and then colliding with the cruiser operated by the officer. The defendants have demurred on the ground that the substituted complaint does not allege any act of wilfulness or maliciousness by the minor son which caused the officer’s damages and injuries, as required by the parental liability law. Section 52-572 creates parental liability for the torts of minors in two situations. We are not concerned here, however, with the portion of the statute making a parent liable with the minor for damage to a motor vehicle taken by the child without the permission of the owner. The plaintiff seeks to recover by the other provision of the law, which imposes joint and several liability upon the parent with the minor who wilfully or maliciously causes damage to any property or injury to any person, if such minor would have been liable therefor had he been an adult.
+If a cause of action could be proven under the allegations of the complaint, it is good and a demurrer does not lie. The sufficiency of the allegations as against the demurrer is to be tested by the facts provable under them, and the court, in considering the allegations, will give them the same favorable construction as a trier might deem itself required to give in admitting evidence under them to prove a cause of action. Butt v. Boche, 138 Conn. 605, 608; Holden v. Crown Chemical Corporation, 19 Conn. Sup. 85, 87. In order for the plaintiff to recover, the court, after such consideration, must find from the facts provable under the substituted complaint that the injury to the police officer was caused wilfully or maliciously by the minor defendant. This statutory limitation to the vicarious liability of the parent is directly related to the purpose of the law, which is to place upon the parent the obligation to control his minor child so as to prevent the child from intentionally harming others. Lutte-man v. Martin, 20 Conn. Sup. 371, 373. The plaintiff seeks to support its claim of wilful and/or malicious injury by alleging acts of misconduct by the minor. The allegation and proof of specific wilful or malicious behavior do not establish wilful or malicious injury. This legal variance is precisely expressed in Rogers v. Doody, 119 Conn. 532, 534, as follows: “A wilful and malicious injury is one inflicted intentionally without just cause or excuse. It does not necessarily involve the ill will or malevolence shown in express malice. Nor is it sufficient to constitute such an injury that the act resulting in the injury was intentional in the sense that it was the voluntary action of the person involved. Not only the action producing the injury but the resulting injury must be intentional. ‘A wilful or malicious injury is one caused by design. Wilfulness and malice alike import intent. . . . [Its] characteristic element is the design to injure, either actually entertained or to be implied from the conduct and circumstances.’ Sharkey v. Skilton, 83 Conn. 503, 507 . . . .” An intentional injury results from an act done for the purpose of causing the injury or with knowledge that the injury is substantially certain to follow. Lutteman v. Martin, supra, 374.
+The acts of wilful and malicious conduct on the part of the minor alleged by the plaintiff cannot establish wilful or malicious injury to the police officer by this defendant. The substituted complaint, therefore, does not state a cause of action and cannot support a judgment against the defendants.
+The demurrer is sustained.
