@@ -1,0 +1,30 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 1154"
+decided: "1982-09-10"
+citations: ["38 Conn. Supp. 477"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Janet Bogan v. City of New Haven et al."]
+source_url: "https://static.case.law/conn-supp/38/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1659552
+cites_cases: ["10 A.2d 589", "113 Conn. 408", "122 Conn. 300", "126 Conn. 200", "128 Conn. 231", "155 A. 721", "180 Conn. 302", "189 A. 453", "21 A.2d 402", "429 A.2d 877"]
+---
+
+# Bogan v. City of New Haven
+
+## Majority (Bieluch, J.)
+
+Bieluch, J.
+The plaintiff brought an action to recover for personal injuries sustained as the result of a fall allegedly caused by the defendants’ negligence. The first count of the complaint alleges that the defendant city of New Haven negligently failed to remove snow and ice from the sidewalk or take other precautions against injury. The second count alleges negligence on the part of the defendants, a common carrier and its driver, in failing to provide the plaintiff with a safe place to alight or to warn her of the dangerous condition.
+The facts giving rise to the suit are the following: On February 14, 1978, the plaintiff was a passenger on a bus owned by the defendant Connecticut Transit, Inc. and operated by the defendant Alonzo Pugh. The plaintiff and her son boarded the bus in downtown New Haven. It was snowing lightly. They rode the bus to the corner of Division Street and Sheffield Avenue in New Haven. This corner was not a regular stop along the route but the driver stopped there at the request of the plaintiff. She observed that the curb was covered with snow. As she stepped off the bus her foot sank approximately two or three inches into the snow and she slipped and fell.
+The trial court found for the defendant city of New Haven on the first count but found for the plaintiff against the carrier and its operator on the second count. In its memorandum of decision the court found that the place where the bus stopped was covered with ice and snow; the snow was deep enough to cover the plaintiff’s foot and she fell when she stepped and slipped on some ice underneath the snow. The court concluded that the bus company and its driver failed to exercise that high degree of care which they owed to the plaintiff as a passenger, by failing to provide her with a reasonably safe place to alight. The court awarded the plaintiff damages of $7000.
+The defendants raise several issues before this court. We need address only one, however, as it is dispositive of this appeal. The defendants claim that the court erred in finding that they breached their duty to provide a reasonably safe place to alight. The gravamen of this claim is that there was no evidence that the driver was aware of any ice under the snow. Thus it was not reasonably foreseeable that the plaintiff would suffer the kind of harm which resulted. We believe there is merit to this claim.
+A common carrier has a duty “to use the utmost care consistent with the nature of its business to guard its passengers against all dangers which might reasonably and naturally be expected to occur, in view of all the circumstances.” Josephson v. Meyers, 180 Conn. 302, 305, 429 A.2d 877 (1980), quoting Robinson v. Connecticut Co., 122 Conn. 300, 301, 189 A. 453 (1936). This duty “may, under certain circumstances, include giving a warning of dangerous conditions or of impending peril .... But it is unquestionably the duty of the carrier to provide its passengers with a reasonably safe place to alight. Roden v. Connecticut Co., 113 Conn. 408, 410, 155 A. 721 [1931] Josephson v. Meyers, supra, 305-306.
+The high standard of care to which a common carrier is held, however, does not make it an insurer of the plaintiff’s safety. Bowes v. New England Transportation Co., 126 Conn. 200, 205, 10 A.2d 589 (1940) . “The ultimate test of the existence of a duty to use care is found in the foreseeability that harm may result if it is not exercised. . . . By that is not meant that one charged with negligence must be found actually to have foreseen the probability of harm or that the particular injury which resulted was foreseeable, but the test is, would the ordinary man in the defendant’s position, knowing what he knew or should have known, anticipate that harm of the general nature of that suffered was likely to result?” Orlo v. Connecticut Co., 128 Conn. 231, 237, 21 A.2d 402 (1941) .
+The trial court found that the plaintiff “stepped on some ice under the snow and slipped and fell” and that “[t]he snow was deep enough to cover the plaintiff’s foot.” A review of the transcript reveals no evidence from which it can be inferred that the bus driver knew or should have known of the presence of ice underneath the snow. In fact the evidence was to the contrary: The intersection of Division Street and Sheffield Avenue was not a regular bus stop along the route; the driver stopped there at the request of the plaintiff; it was snowing when she boarded the bus; and new snow covered the entire area where she alighted.
+Since the general nature of the harm which the plaintiff suffered was not reasonably foreseeable to the driver of the bus, the duty to warn her of the dangerous condition never arose. Orlo v. Connecticut Co., supra; Bowes v. New England Transportation Co., supra. Moreover, we find that the defendants did not breach their duty to provide a reasonably safe place to alight. The mere fact that there was snow on the ground where the plaintiff alighted did not render the area unreasonably dangerous; see Josephson v. Meyers, supra, 307; and there was no evidence from which to charge the defendants with knowledge of the presence of ice underneath the snow.
+There is error. The judgment is set aside and the case is remanded with direction to render judgment for the defendants on the second count.
+In this opinion Covello and Spada, Js., concurred.
