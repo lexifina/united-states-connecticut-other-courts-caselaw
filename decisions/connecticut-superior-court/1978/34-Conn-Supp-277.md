@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 168682"
+decided: "1978-04-10"
+citations: ["34 Conn. Supp. 277"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alison Ingram v. Bethel Board of Education et al."]
+source_url: "https://static.case.law/conn-supp/34/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1668364
+cites_cases: ["167 Conn. 513"]
+---
+
+# Ingram v. Bethel Board of Education
+
+## Majority (Saden, J.)
+
+Saden, J.
+The plaintiff is a thirteen-year-old child who requires special education as defined in General Statutes § 10-76a. By statute the defendant board of education has the duty to “prescribe suitable educational programs for eligible children” and to “[p]rovide special education for school age children requiring special education.” General Statutes §§ 10-76d (a) and 10-76d (b). The plaintiff is now a student at the Foundation School in Orange, Connecticut, at the expense of the town of Bethel pursuant to § 10-76d. On February 3,1977, the director of the middle school at the Foundation School recommended to the defendant board a residential school setting for the plaintiff. Pursuant to state regulations and § 10-76d (a), the defendant board’s planning and placement team met on April 14,1977, and recommended such placement as soon as possible. That recommendation was again made by the same team on July 27, 1977. The Foundation School no longer provides a suitable program for the plaintiff because she needs a twenty-four-hour-a-day structure which is not available there.
+The plaintiff alleges that the defendant board has failed to provide such a program for her and, in the alleged absence of an adequate legal remedy, she claims a temporary order of mandamus requiring the defendants to provide the residential program she needs at the board’s expense at the Bancroft School, which is located out of state.
+The stipulation of facts signed by both parties flatly states that the Foundation School is unable to provide the twenty-four-hour-a-day structure the plaintiff requires and that the defendant hoard’s planning and placement team has twice recommended “residential placement,” as has the director of the Foundation School. The defendant hoard, however, offered evidence that, except for the plaintiff’s emotional and autistic problems which require the residential setting, her educational requirements can be met in Connecticut. The defendant hoard further contends that it recommended residential placement in order to maximize the plaintiff’s improvement. The stipulation of facts fails to state why the defendant hoard recommended residential placement, and, apparently, its witnesses sought to indicate that that placement was not really necessary except for the plaintiff’s emotional and behavioral problems.
+It appears that the defendant hoard is willing to place the plaintiff in a residential setting hut that it expects the plaintiff’s parents to bear a small portion of the costs not related to her educational needs. This the plaintiff’s parents do not agree to do. Sections 10-76d (e) and 10-76d (f), however, make two things clear: (1) that the town or regional sehool district must pay the costs of special education “except for children who are placed in a residential facility because of the need for services other than educational services,” in which case the school district’s liability is limited to the reasonable costs of special education as defined in state regulations; and (2) that no child may he placed in a private school out of state except when, in the opinion of the secretary of the state board of education, it is determined that no reasonably suitable special educational program is available in Connecticut. A determination which must he made by the secretary of the state board of education in some cases is that the out-of-state placement is more economically feasible than placement in an existing special education program in Connecticut or than placement in any program that could be developed within Connecticut within a reasonable time.
+This hearing on a temporary order has not clearly set forth whether the plaintiff’s placement in a residential setting is wholly for educational purposes or in part for noneducational reasons. It would seem that the plaintiff would obtain the maximum results from a residential setting but, as indicated, the facts do not clearly demonstrate whether such a setting is solely for educational reasons.
+Finally, the plaintiff is confronted with the language of § 10-76d (f), which requires an opinion from the secretary of the state board of education. No evidence was offered to show that such an opinion has been obtained. Furthermore, under no circumstances would the court be justified in mandating the defendant board to place the plaintiff at the Bancroft School specifically rather than at another school. In addition, there is nothing before the court to indicate that mediation under § 10-76h has been attempted. Under the circumstances, it is impossible for the court to grant a temporary order of mandamus and the motion is, therefore, denied. See Milford Education Assn. v. Board of Education, 167 Conn. 513, 518.
+The defendant board has indicated a willingness to bear the major part of the out-of-state school expense but the plaintiff’s parents have indicated either an unwillingness or an inability to meet the remaining costs.
+The issue revolves around whether residential schooling is entirely necessary for educational reasons only. It would seem that the sooner both sides sit down and work out some kind of a reasonable compromise, the better for the child.
