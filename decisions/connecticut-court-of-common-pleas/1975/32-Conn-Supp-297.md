@@ -1,0 +1,27 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File No. CV 4-7411-24360"
+decided: "1975-05-05"
+citations: ["32 Conn. Supp. 297"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hallie Tuttle v. Frazier Martin"]
+source_url: "https://static.case.law/conn-supp/32/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1672808
+cites_cases: ["102 Conn. 640", "108 Conn. 469", "12 Conn. Sup. 264", "125 Conn. 543", "128 Conn. 70", "136 Conn. 603", "137 Conn. 359", "137 Conn. 513", "140 Conn. 219", "143 Conn. 90", "47 Conn. 366", "6 Conn. Sup. 384", "78 Conn. 355"]
+---
+
+# Tuttle v. Martin
+
+## Majority (Moraghan, J.)
+
+Moraghan, J.
+This is an action sounding in summary process in which partial nonpayment of rent and termination of lease are said to be alleged. The termination of lease allegation is set forth in the notice to quit, the plaintiff’s writ reciting, “a copy of which is being attached hereto.” The plaintiff relies, inter alia, on Practice Book § 91, Thompson v. Main, 102 Conn. 640, 641, and Lescaze v. Ansonia, 6 Conn. Sup. 384, to sustain Ms position that the attached document constitutes a pleaded cause of action. The court, having thoroughly examined the file, has substantial reservation about the validity of that proposition despite the defendant’s answer which, in fact, “admits . . . paragraphs . . . 6.”
+Briefly summarized, the facts are as follows: The defendant has been a tenant in the premises in question for a period of approximately four years. The tenancy is a parol month to month tenancy, running from the first day of the month for a monthly rental of $80. The evidence demonstrates nothing remarkable until on or about July 1, 1974, when the plaintiff, landlord, hand delivered a letter to the defendant which gave him notice of a rental increase to $100 commencing on August 1, 1974. The defendant refused to accept the increase and offered checks, in the amount of $80 each, to the plaintiff on the first days of August, September, and October. Each check bears the defendant’s notation on its face that it is rent for the period stated. There are other checks for successive months thereafter which are not relevant to the issue.
+The plaintiff received the checks and deposited them. They all are stamped for collection October 30,1974, and further stamped paid October 31,1974. The plaintiff admits to placing the following endorsement on the checks before depositing them: “accept for use and occupancy only.” The defendant’s wife first learned of that limitation when the exhibits were received by her with her bank statement subsequent to November 5, 1974. The August check was held by the plaintiff for a period of approximately ninety days, the September cheek was held by the plaintiff for approximately sixty days, and the October check was held by the plaintiff for approximately thirty days.
+There is no question that a parol lease for an indefinite period reserving a monthly rental is a lease for one month only. Kligerman v. Robinson, 140 Conn. 219, 221; Webb v. Ambler, 125 Conn. 543, 551. “The tenancy for each month is separate and distinct from that of every other month. Welk v. Bidwell, 136 Conn. 603, 607 .... There is a new contract of leasing for each successive month; DiCostanzo v. Tripodi, 137 Conn. 513, 515 . . . ; and the right of tenancy ends with that month for which the rent has been paid. Webb v. Ambler, . . . [supra]. Since monthly payments must be made as consideration for each contract of leasing, it necessarily follows that if the parties are in dispute as to the amount of the rent, the tenant, in order to avoid default, must tender each month the amount he claims it to be, as an offer of the performance of his part of the contract.” Kligerman v. Robinson, supra, 221. The evidence clearly establishes the requisite tender.
+There seems to be little doubt that the acceptance of rent after a forfeiture waives that forfeiture and creates or accepts a new tenancy. Hartford Wheel Club v. Travelers Ins. Co., 78 Conn. 355, 359; Camp v. Scott, 47 Conn. 366, 370; Hudson v. Kuszynski, 12 Conn. Sup. 264, 266. It is totally inconsistent for a landlord to aceept a rent check, whether absolute or conditional payment, under a nonexisting tenancy. The court is required to decide whether or not the plaintiff did accept the rental checks in issue as payment. “A long, unexplained retention of a check tends to show its acceptance for the purpose for which it was given.” Borst v. Ruff, 137 Conn. 359, 362.
+The court is not persuaded that the endorsement, “accept for use and oceupaney only,” sustains the plaintiff’s position. “When an offer of a sum less than the amount claimed to be due is accompanied by acts or declarations which make the acceptance conditional upon an acceptance in full satisfaction of the debt and the offer is in such form as to clearly bring this home to the creditor, the latter must either refuse the offer or accept it upon that condition.” Perryman Burns Coal Co. v. Seaboard Coal Co., 128 Conn. 70, 73; Hanley Co. v. American Cement Co., 108 Conn. 469, 471. See also Crowder v. Zion Baptist Church, Inc., 143 Conn. 90, 99. The court finds that the plaintiff did in fact accept the defend- . ant’s check in payment of rent and such acceptance in fact waived the claimed forfeiture or termination.
+Judgment may enter for the defendant.
