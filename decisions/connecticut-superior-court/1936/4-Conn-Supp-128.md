@@ -1,0 +1,45 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #48101"
+decided: "1936-07-13"
+citations: ["4 Conn. Supp. 128", "122 Conn. 507"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ERNESTINE G. WOLFE, ET AL. vs. THE WALLINGFORD BANK & TRUST CO."]
+source_url: "https://static.case.law/conn-supp/4/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1337446
+cites_cases: ["112 Conn. 381", "121 Conn. 397", "66 Conn. 154", "77 Conn. 181", "78 Conn. 310", "81 Conn. 343", "83 Conn., 634", "86 Conn. 453", "92 Conn. 43", "97 Conn. 492", "99 Conn. 203"]
+---
+
+# Wolfe v. Wallingford Bank & Trust Co.
+
+## Majority (INGLIS, J.)
+
+INGLIS, J.
+In this case the jury might reasonably have found the following facts: In May of 1933 title to the property described in the complaint stood in the Estate of Frederick J. Wolfe who had died in 1925. The plaintiff, Ernestine G. Wolfe, was the administratrix of that estate and she and the other plaintiffs were the heirs at law of said decedent. At that time the defendant held a first mortgage on the property for $2500. In May of 1933 it was verbally agreed between Ernestine G. Wolfe acting for herself, and the other plaintiffs and the defendant that the Bank should proceed to foreclose the mortgage, that the plaintiffs would not contest such foreclosure nor redeem the property and that when title became absolute in the Bank it would reconvey the title to Mrs. Wolfe individually but for the benefit of herself and the other plaintiffs upon her paying the arrearages in taxes and interest and the expenses of foreclosure and giving back to the Bank a mortgage in the principal sum of $2500.
+The foreclosure was carried through and title became absolute in the Bank in March, 1934. Thereafter, the Bank never made a definite demand on Mrs. Wolfe to perform her end of the agreement. In September, 1934 the Bank, after only a very short notice to Mrs. Wolfe of its intention to sell, sold the first piece described in the complaint and in June of 193? it sold the rest of the property.
+After the foreclosure and before the sale of the property the plaintiffs paid certain premiums of fire insurance on the premises and made various repairs and improvements thereon.
+The first contention of the defendant on this motion is that there was a variance between the complaint and the proof in that the allegation in the complaint was that Mrs. Wolfe agreed to give back a new mortgage for the amount of the old mortgage plus the accrued interest and expenses of foreclosure. Inasmuch as the plaintiffs did not claim that they had tendered either a mortgage for $2?00 plus cash for taxes, interest and expenses of foreclosure or a mortgage for the full amount of the original mortgage and interest and expenses, it would have made no difference to the defendant in the preparation of its complaint, if the allegation in the complaint had exactly coincided with the proof. The defendant therefore was in no way prejudiced by the variance. It follows that the variance was not a material one.
+Pratt vs. Stoner, 78 Conn. 310.
+Maguire vs. Kiesel, 86 Conn. 453.
+Scott vs. Scott, 83 Conn., 634.
+Moreover, the plaintiff’s evidence as to the exact terms of the contract was not objected to on the ground of variance at the time it was admitted, and a variance between allegation and proof is not a good ground upon which to set aside a verdict.
+Broderick vs. Hart, 97 Conn. 492.
+Chinigo vs. Ehrenberg, 112 Conn. 381.
+The second ground for setting aside the verdict urged by the Defendant is that no time for performance of the contract is alleged. In such a case as this when no time for performance is agreed upon the law provides that the performance must be made in a reasonable time. Under our law, therefore, all that is necessary to be alleged is the express agreement and to follow that up with an allegation that the agree' ment was to be performed in a reasonable time would be an allegation of law, rather than of fact. Such an allegation is unnecessary.
+The Defendant also makes the contention that as a matter of law more than a reasonable time for performance of her end of the contract by the plaintiff had elapsed between the time that title became absolute on foreclosure and the date when the Bank sold off the first piece of land. This was a period of about six months. The question of what is a reas' onable time within which to perform a contract is ordinarily one of fact for the jury.
+Loomis vs. Norman Printers Supply Co., 81 Conn. 343.
+Rochester Distilling Co. vs. Geloso, 92 Conn. 43.
+In this case under all of the circumstances and in view of the fact that the Bank had made no demand on the Plaintiff to perform, it can hardly be said that the period elapsing, although it was long, was, as a matter of law, unreasonable.
+The fourth contention of the Defendant is that the doctrine of part performance, being an equitable doctrine, had no place in this case which was clearly an action at law. The contract sued upon was a verbal contract relating to the sale of lands and the plaintiffs could succeed only in the event that the contract were taken out of the statute of frauds by part per' formance. It is, of course, true that the doctrine of part performance is one which originally was recognized in equity. In this State, however, whatever the law may be elsewhere, it seems to be well settled, since the adoption of our Practice Act that a plaintiff may in a single complaint, enforce both legal and equitable rights.
+Baurer vs. Devenis, 99 Conn. 203, 216.
+For instance in an action for damages for breach of contract and in an action for breach of replevin bond it has been held that the plaintiff may rely on an equitable estoppel.
+Plumb vs. Curtis, 66 Conn. 154, 173.
+Douglas vs. Unmack, 77 Conn. 181, 185.
+And so it has been held proper in an action at law for damages for breach of a verbal contract to charge the jury on the subject of part performance where that was relied upon by the plaintiff to take his contract out of the Statute of Frauds.
+McMahon vs. Bryant Electric Co., 121 Conn. 397.
+It would therefore seem clear that it is not a good ground to set aside the verdict of a jury that that verdict rests in part upon a finding of part performance to take the contract sued upon out of the Statute of Frauds.
+The last contention of the Defendant is that the acts of part performance claimed by the Plaintiffs were insufficient in law to constitute part performance. This is a fairly close question but on the whole it would seem that the question as to whether the things done by the Plaintiff clearly indicated the existence of some contract between the parties and was referable to such a contract and could not have been reason' ably accounted for on any basis except that there was a con' tract between the parties relating to the subject matter in dispute was, in this case at least, a question of fact for the jury to decide. In the charge the law as to what constitutes part performance was rather fully explained to the jury and it was left to them to say whether the acts done by the Plaintiff did come within the definition of part performance so given to them. There is enough of a question of fact involved so that the finding of the jury on the subject ought not to be disturbed.
+The motion to set aside the verdict is denied.
