@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #6926"
+decided: "1938-05-26"
+citations: ["6 Conn. Supp. 176"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WALTER PERRY, BANK COMMISSIONER vs. EAST HAMPTON BANK AND TRUST CO."]
+source_url: "https://static.case.law/conn-supp/6/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1314854
+cites_cases: ["116 Conn. 609", "118 Conn. 586"]
+---
+
+# Perry v. East Hampton Bank & Trust Co.
+
+## Majority (INGLIS, J.)
+
+INGLIS, J.
+The essential features of the transaction out of which the claim which is the subject of this application arose are as follows: At the opening of business on July 16, 1936 The Connecticut Light and Power Company had on deposit in the defendant bank $8,504.71 and during that day it made a further deposit of $826.89. On July 14th, seeking to withdraw $4,000.00 of that deposit, The Connecticut Light and Power Company had drawn its check for that sum on the defendant bank to its own order and deposited it at The Hartford National Bank and Trust Company. It was accepted there for collection with the express agreement that The Hartford National Bank and Trust Company should act only as the depositor’s agent for collection. The Hartford National Bank and Trust Company had forwarded the check to The Federal Reserve Bank of Boston for collection and in turn that bank had forwarded it, together with a large number of other items, for collection to the defendant bank. The Federal Reserve Bank’s letter which included the check arrived at the defendant bank on the morning of July 16th and the check in question was immediately charged to the deposit account of The Connecticut Light and Power Company in the defendant bank. On the afternoon of July 16th and before any draft or other remittance was made or sent to the Federal Reserve Bank to cover the said collection items, the defendant bank was closed by the Bank Commissioner.
+This transaction is exactly the same sort of a transaction as that involved in the claim of the American Agricultural Chemical Company in Bassett vs. Merchant’s Trust Co., 118 Conn. 586, 600 (which claim, it was held, was to be classified as a deposit claim) except in one particular, namely, that in the latter case the closed bank had not only charged the depositor’s account but had also sent its draft to cover the item to the Federal Reserve Bank.
+The receiver here claims that there was an added difference in that in the Merchant’s Trust Company case the remittance to the Federal Reserve Bank was made to cover the Agricultural Chemical Company check alone, whereas, he says here it was contemplated that the remittance to the Federal Reserve Bank would be a single draft covering all of the large number of collection items included in its letter. It is not clear in the Merchant’s Trust Company case that the remittance did cover only the one item, but even though it did this claimed difference in the state of facts is not material.
+The reasoning of the Supreme Court of Errors with reference to the claim of the Agricultural Chemical Company was that the bank in which the check was deposited was acting merely as the agent of the company for collection and that, therefore, the various banks through which the check was cleared were acting merely as subagents of the company. Accordingly, it was just as though the depositor in the closed bank had, before closing, itself presented the check and had taken the draft of the closed bank. That would have operated only as conditional payment of the deposit. In the light of that line of reasoning it can make no difference that at the time the Federal Reserve Bank in this case was acting as sub-agent for this claimant it was also acting as agent or subagent for others. The mere fact that it was contemplated that the draft which was to be sent by the East Hampton Bank to the Federal Reserve was to include other items does not affect the fact that in attempting to make the collection the Federal Reserve Bank was acting as the agent of The Connecticut Light and Power Company.
+To revert to the real difference in the state of facts involved here and the state of facts in the Merchant’s Trust Company case, i.e., that in this case'the closed bank had made no remittance, that difference makes a stronger case for the claimant here. In a case in which a depositor has drawn a check in favor of a third party and that check has been presented for payment and the drawee bank has paid the check by giving its own draft, the reason why the depositor no longer has a claim for his deposit as such is that the third party by accepting the obligation of the bank has terminated the obligation of the drawer of the check to him. The check is paid and the amount used to pay it is taken out of the deposit account. Bassett vs. West Haven Bank & Trust Co., 116 Conn. 609, 614.
+In the present case therefore, even though the Connecticut Light and Power Company check had been one payable to a third party, inasmuch as that third party had not received the draft of the closed bank in payment of the check, it probably would be so that the mere fact that the bank had charged it against the depositor’s account would not operate to terminate the bank’s obligation to its depositor.
+However that may be, it certainly is true that so far as this $4,000.00 item is concerned the defendant bank was holding it as a deposit. It remained such until it was paid eith"' to the depositor itself or to some third person on its order. It never was so paid.
+An order may enter directing the receiver to classify the claim in question as a claim for a deposit.
