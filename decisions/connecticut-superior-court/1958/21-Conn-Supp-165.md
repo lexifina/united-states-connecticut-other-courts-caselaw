@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 66"
+decided: "1958-12-02"
+citations: ["21 Conn. Supp. 165"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leonard V. Verrastro et al. v. Daniel Grecco et al."]
+source_url: "https://static.case.law/conn-supp/21/cases/0165-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1757884
+cites_cases: ["100 N.H. 453", "12 F.R.D. 4", "12 Ill. 2d 231", "18 F.R.D. 360", "19 Conn. Sup. 381", "21 F.R.D. 283", "243 Minn. 547", "265 S.W.2d 939", "69 Nev. 196", "76 S.D. 462", "8 F.R.D. 585", "9 N.J. Misc. 507"]
+---
+
+# Verrastro v. Grecco
+
+## Majority (Roberts, J.)
+
+Roberts, J.
+The defendants object to the requests contained in plaintiffs’ motion for disclosure for written statements of witnesses and also written statements of the defendants themselves, with the right to inspect or copy them. As to this, without further discussion, the court agrees with the objection of the defendants.
+The defendants further object to the requests in plaintiffs’ motion which in substance seek to have the defendants disclose if they have liability insurance and, if so, the amount thereof and a copy of the policies. Counsel for the parties have argued this latter issue at some length and have supplied the court with citations in other jurisdictions. So far as the court can discover, this question has not as yet been decided in Connecticut by any reported decision and counsel have not cited any. The material rules of practice involved are §§ 70 and 72, as amended.
+An examination of decisions in other jurisdictions indicates that, in so far as the question has been passed upon, the courts, both federal and state, are divided in their opinions on the subject, although the varying rules and statutes in some instances explain the differences. Even under the federal rules, which are somewhat more in detail and broader than the Connecticut rules, such information has been denied by what appears to be the majority rule in the later cases. It was so held in Gallimore v. Dye, 21 F.R.D. 283, 284, where the matter is thoroughly discussed. The above case cites with approval the same holding in McNelley v. Perry, 18 F.R.D. 360. To the same effect is McClure v. Boeger, 105 F. Sup. 612. As pointed out in those cases, however, a contrary holding ordering disclosure was made in Orgel v. McCurdy, 8 F.R.D. 585, and Brackett v. Woodall Food Products, Inc., 12 F.R.D. 4, 5.
+Turning to the decisions in state courts, a similar diversity appears to exist. Such information was denied in Goheen v. Goheen, 9 N.J. Misc. 507, and Jeppesen v. Swanson, 243 Minn. 547. In the latter case the proponent sought to inspect the insurance policy in an automobile negligence action so “[t]hat . . . plaintiff and his attorneys [could] . . . evaluate a figure for either settlement trial.” The court denied the discovery. The same holding was made in Bean v. Best, 76 S.D. 462, and State ex rel. Allen v. District Court, 69 Nev. 196. In Villars v. Portsmouth, 100 N.H. 453, the Supreme Court of New Hampshire in a declaratory judgment action held that the defendant city should produce the insurance policy upon request of the plaintiff. It is pointed out in that case, however, that under the common law the city would not be liable, but by statute if a policy of liability insurance had been procured by the city, liability might exist up to the limit of the policy. Hence it is understandable why the court held as it did in that case. That the plaintiff was entitled to a discovery as to insurance coverage was also held in People ex rel. Terry v. Fisher, 12 Ill. 2d 231, and Maddox v. Grauman, 265 S.W.2d 939 (Ky.). In Kentucky the rules as to discovery appear to be even more liberal than the federal rules.
+While these cases are helpful in their reasoning on the problem, they do not decide the question under the rather more restrictive rules in Connecticut. See Prizio v. Penachio, 19 Conn. Sup. 381. Good cause under § 70 of the Connecticut rules of practice, as amended, “shall include a showing that the disclosure sought . . . would be of assistance in the prosecution or defense of such action.”
+Inasmuch as this is a disclosure sought on behalf of the plaintiffs, under the Connecticut rule it must be to assist them in the prosecution of their action. Webster’s New International Dictionary (2d Ed.) defines the word “prosecution” in law as the “institution and carrying on of a suit or proceeding in a court of law or equity, to obtain or enforce some right, or to redress and punish some wrong.” The instant action is based upon negligence. A disclosure as to whether or not there is insurance or as to the amount thereof is not information, nor does it lead to information, having a bearing on the plaintiffs’ carrying on their suit to enforce an alleged right to damages against the defendants for alleged negligence. It certainly cannot be used as evidence in the case. It will not be of assistance in the prosecution of such action. It may be true that information as to insurance coverage is helpful in the settlement of cases, but even though that be so, the court cannot hold that the rule, as it is now framed, intends to force defendants as a matter of right to disclose such information.
+Of course the question whether the defendants actually have a policy of liability insurance in the instant case can be ascertained from the accident report filed with the commissioner of motor vehicles.
+The court concludes that the information sought is not within the Connecticut rules of discovery and therefore the objections are sustained.
