@@ -1,0 +1,33 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 1307"
+decided: "1983-05-06"
+citations: ["39 Conn. Supp. 321"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Rose Adams v. City of New Haven"]
+source_url: "https://static.case.law/conn-supp/39/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1658583
+cites_cases: ["125 Conn. 144", "130 Conn. 247", "149 Conn. 396", "165 Conn. 615", "180 A.2d 632", "3 A.2d 839", "33 A.2d 315", "353 A.2d 719"]
+---
+
+# Adams v. City of New Haven
+
+## Majority (Covello, J.)
+
+Covello, J.
+The plaintiff is the widow of retired police officer Raymond J. Adams, who died on February 21, 1979, of congestive heart failure. This is an appeal from a denial of her claim by the workers’ compensation commissioner for survivor benefits under the provisions (1) of General Statutes § 7-433C, the hypertension and heart disease compensation law, and (2) of the municipal charter of the city of New Haven.
+Examination of the record discloses that Raymond Adams joined the New Haven police department as a regular, paid member sometime in the 1950’s. Prior to his employment he successfully passed a physical examination which showed no evidence of hypertension or heart disease.
+On August 3,1969, while in the course of his employment, Adams felt a sharp pain in his chest. On August 25,1969, he suffered a heart attack while on vacation. He was thereafter diagnosed as suffering from hypertensive, arteriosclerotic heart disease with coronary insufficiency and he was, therefore, no longer able to perform his duties as a police officer. On August 5, 1970, Adams and his wife, the plaintiff Mary Rose Adams, signed a stipulation with the city of New Haven wherein, in consideration of the payment of $6500, they waived any claim that either might have had under the then Workmen’s Compensation Act. Officer Adams thereafter retired on September 8, 1970. He died of congestive heart failure on February 21, 1979.
+The commissioner found that General Statutes § 7-433c became effective on June 28, 1971, and was inapplicable to “incidents and disease occurring in August, 1969.” Therefore, he dismissed the widow’s claim. The compensation review division affirmed the commissioner’s holding and dismissed the plaintiff’s appeal.
+In her appeal to this court, the plaintiff contends that § 7-433c is applicable under the factual circumstances of this case. The gravamen of her claim is that as of February 21, 1979, the date of her husband’s death, all the requirements for her entitlement to benefits under this statute existed. We do not agree.
+General Statutes § 7-433c provides that its benefits are available to the dependents of an otherwise qualifying “regular member of a paid municipal police department,” who suffers “any condition or impairment of health caused by hypertension or heart disease resulting in his death . . . .’’At the date this statute took effect, on June 28, 1971, the decedent was not “a regular member of a paid municipal police department,” nor was that the case at the date of his death on February 21, 1979. On both dates, he was not a regular member, but a former member of a paid municipal police department who had retired on September 8, 1970.
+To relate § 7-433c back to September 8,1970, the last day that the decedent was “a regular member of a paid municipal police department,” or to August, 1969, when his heart condition first became evident, requires a retroactive application of a statute imposing a new and significant financial obligation upon a municipal corporation. That is not permitted in the absence of a clear legislative intent to the contrary. General Statutes § 55-3; Lavieri v. Ulysses, 149 Conn. 396, 402, 180 A.2d 632 (1962); Massa v. Nastri, 125 Conn. 144, 148, 3 A.2d 839 (1939).
+The plaintiff next argues that the commissioner erred in failing to consider her entitlement to benefits under the provisions of § 258A of the New Haven charter. We do not agree.
+The powers and duties of workers’ compensation commissioners are conferred upon them for the purposes of carrying out the stated provisions of the Workers’ Compensation Act. General Statutes § 31-278. That act does not contain provisions requiring the administration of employee benefits due under municipal charters. An exception, however, is a claim for compensation and medical care which has accrued by reason of the provisions of General Statutes § 7-433c. Grover v. Manchester, 165 Conn. 615, 618, 353 A.2d 719 (1973). Since the commissioner here had properly concluded that the plaintiff’s claim was not authorized under the provisions of § 7-433c, he was equally correct in not considering whatever claim for benefits might be available under § 258A of the New Haven charter.
+The plaintiff finally claims that the commissioner erred in not including in his finding the parties’ stipulation that the plaintiff had remained unmarried since the death of her husband. While this is in fact the case, the error is clearly harmless since the commissioner correctly concluded that § 7-433c was inapplicable to the case for reasons other than the plaintiffs marital status. This being the case, a remand for the purpose of correcting the finding is not warranted. Dokus v. Palmer, 130 Conn. 247, 254, 33 A.2d 315 (1943).
+There is no error.
+In this opinion Daly and Bieluch, Js., concurred.
+General Statutes § 7-433c provides in relevant part: “[I]n the event . . . a regular member of a paid municipal police department who successfully passed a physical examination on entry into such service, which examination failed to reveal any evidence of hypertension or heart disease, suffers either off duty or on duty any condition or impairment of health caused by hypertension or heart disease resulting in his death . . . his dependents . . . shall receive from his municipal employer compensation . . . in the same amount and the same manner as that provided under Chapter 568 if such death . . . was caused by a personal injury which arose out of and in the course of his employment and was suffered in the line of duty and within the scope of his employment, and from the municipal . . . retirement system under which he is covered ... his dependents . . . shall receive the same . . . survivor benefits which would be paid under said system if such death . . . was caused by a personal injury which arose out of and in the course of his employment, and was suffered in the line of duty and within the scope of his employment.”
