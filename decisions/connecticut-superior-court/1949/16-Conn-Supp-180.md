@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 69467"
+decided: "1949-04-29"
+citations: ["16 Conn. Supp. 180"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Tomlon Realty Company, Inc., et al. v. Samuel Kravitt"]
+source_url: "https://static.case.law/conn-supp/16/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1320822
+cites_cases: ["104 Conn. 112", "242 N. Y. S. 729", "78 Conn. 355", "92 Conn. 693", "96 Conn. 644"]
+---
+
+# Tomlon Realty Co. v. Kravitt
+
+## Majority (MELLITZ, J.)
+
+MELLITZ, J.
+The plaintiff seeks to recover possession of the premises occupied by the defendant because of an alleged breach of the provisions of the lease requiring the defendant to furnish monthly statements; and the plaintiff seeks further to recover sums allegedly due for rent of the premises. By way of cross-complaint the defendant seeks to recover for damages allegedly sustained by reason of the failure of the plaintiff to furnish adequate heat in the leased premises.
+Under the provisions of the lease, the defendant was required to pay a minimum rent of $350 each month beginning January 1, 1946, and in addition, on July 1, 1946, and semiannually thereafter, additional rent computed on the volume of the defendant’s business during the preceding six months. Monthly statements as a basis for computing such additional rent were required to be furnished by the defendant on the 10th day of each month, beginning February 10, 1946. The defendant made the monthly payments of $350 as required but furnished no monthly statements, and on July 11, 1946, the plaintiff notified the defendant by registered letter that the lease was terminated as of that date because of the failure of the defendant to furnish the monthly statements. Since that date the defendant has furnished the required monthly statements and has continued to pay the minimum monthly rent of $350, but has not paid any additional rent provided for in the lease.
+The plaintiff testified that it asked for the monthly statements repeatedly during the first six months of 1946. On the other hand, the defendant claims that he had only one conversation on the subject with the plaintiff, when the latter told him that the monthly statements would be academic during the first year because of the probability that the defendant’s first year would be a difficult one and would not result in a volume of business sufficient to require payment of additional rent beyond the minimum. It seems clear that if the plaintiff attached any great importance to the monthly statements during this period it would in all likelihood have written the defendant at least once to that effect prior to the letter by which the lease was declared terminated. The action of the plaintiff in repeatedly accepting payments of the minimum monthly rent under the lease without insisting upon the monthly statements warrants a conclusion that in the absence of notice to the defendant that it would thereafter insist upon compliance with the provision relating to the monthly statements it was estopped from asserting a forfeiture. Gripo v. Davis, 92 Conn. 693, 696; Paul Pleating & Stitching Co. v. Levine, 242 N. Y. S. 729.
+However, irrespective of that fact, the defendant’s failure to furnish the required statements did not terminate the lease before some definite, unequivocal act on the part of the plaintiff showing the exercise by the plaintiff of its right to terminate the lease. Thompson v. Coe, 96 Conn. 644, 651. To accomplish this result an entry by the plaintiff for the purpose of asserting its right to possession of the premises, or its equivalent, was required. Hartford Wheel Club v. Travelers Ins. Co., 78 Conn. 355, 358; Thompson v. Coe, supra; Kovner v. Dubin, 104 Conn. 112, 120. The plaintiff’s letter of July 11, 1946, is silent on the matter of possession of the premises and may hardly be treated as the equivalent of an entry for the purpose of asserting a right to possession on the part of the plaintiff. No other action was taken by the plaintiff to complete a forfeiture of the lease, and in the present proceeding the plaintiff’s action in seeking a recovery of additional rent “in acordance with the terms of said lease,” up to the date of the complaint is inconsistent with a completed forfeiture. 51 C. J. S. 707. The plaintiff is not entitled to a judgment for possession of the premises.
+In this action, instituted March 20, 1947, the plaintiff’s right to recover additional rent due under the terms of the lease is limited to the recovery of such sums as became due July 1, 1946, and January 1, 1947. From the figures furnished by the defendant’s accountant it appears that up to July' 1, 1946, photography sales amounted to $16,711.43 and supplies $8,682.72. For the six months period to January 1, 1947, the photography sales were $26,368.66 and supplies $8,679.59. Additional rent due the plaintiff on July 1, 1946, amounted to $265.76; and from that date to January 1, 1947, $1,231.24. The plaintiff is entitled to recover these amounts, with interest.
+The issues on the allegations of the third defense and the cross-complaint, wherein the defendant sets up claims arising from the alleged failure of the plaintiff to furnish adequate heat in the leaser premises, are found for the plaintiff.
+Judgment may enter for the plaintiff to recover $1,813.28 damages, and costs.
