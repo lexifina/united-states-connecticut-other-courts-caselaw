@@ -1,0 +1,28 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CV 2-6410-31118"
+decided: "1967-10-16"
+citations: ["4 Conn. Cir. Ct. 641"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Consolidated Plan of Connecticut, Inc. v. David Cross, Jr., et al."]
+source_url: "https://static.case.law/conn-cir-ct/4/cases/0641-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1743708
+cites_cases: ["11 U.S.C. §35", "122 Conn. 641", "2 Conn. Cir. Ct. 469", "4 Conn. Cir. Ct. 627", "74 Stat. 409", "86 Conn. 63"]
+---
+
+# Consolidated Plan of Connecticut, Inc. v. Cross
+
+## Majority (Norton M. Levine, J.)
+
+Norton M. Levine, J.
+Plaintiff commenced an action against defendants, husband and wife, based on their execution of a promissory note. The answer of defendants admitted the execution of the note but pleaded as a special defense that the debt due from defendant David Cross, Jr., was discharged by bankruptcy of said defendant. The reply of plaintiff alleged that said defendant was not discharged, pursuant to the provisions of § 17 (a) (2) of the Bankruptcy Act, contending that the loan was procured by false and misleading statements of defendant David Cross, Jr., as to his financial condition. No such defense was raised as to defendant Lillian Cross, and there is no evidence that she filed a bankruptcy petition.
+The evidence reflected that defendant David Cross, Jr., had engaged in a number of financial borrowings from plaintiff prior to the instant one. It appears that his prior loan record with plaintiff had been good. When defendant David Cross, Jr., appeared at plaintiff’s place of business on October -7, 1963, he signed a form, entitled “Statement of Indebtedness,” which indicated that the total of his debts did not exceed $1558.08. When he subsequently filed a bankruptcy petition, on or about August 23, 1964, it appeared that there were at least two additional creditors, with debts in the sum of $5050, which were not disclosed at the time of the loan. The court will assume, for purposes of the instant decision, that the $5050 was due and owing at the time defendant David Cross, Jr., applied for the loan.
+The instant debt to plaintiff would normally have been discharged by the bankruptcy of defendant David Cross, Jr. Plaintiff has, however, claimed that the debt was not released or discharged, pursuant to the provisions of § 17 (a) (2) of the Bankruptcy Act, which states that a liability for obtaining money or property by false pretenses or false representations, or for “obtaining money or property on credit or obtaining an extension or renewal of credit in reliance upon a materially false statement in writing respecting . . . financial condition” shall survive the bankruptcy. 74 Stat. 409, 11 U.S.C. §35 (a) (2) (1964).
+The Connecticut rule is that the essential conditions for an action for deceit, or false representations, are that (1) a representation was made; (2) it was untrue; (3) it was known by defendant to be untrue; (4) it was made to induce plaintiff to act upon it; and (5) plaintiff did act upon it, to his injury. Helming v. Kashak, 122 Conn. 641, 642.
+As bearing on the representation, the statement of debts, while not a complete financial statement, in the standard accounting sense, may be treated, for purposes of this opinion, as a statement of financial condition. The court further finds that the absence of the two debts, in the total sum of $5050, was a material omission, although it is not entirely clear from the record whether those debts were due and owing both on the date of the bankruptcy petition and on the date of the application for the loan. As bearing on this omission, defendant David Cross, Jr., testified repeatedly that plaintiff’s credit manager, Mr. Caeser, assured him that it was not necessary to list all his debts because of his prior faithful payment record. The court proceeds, then, to the basic issue whether, in fact, plaintiff “relied” on the statement of debts as a basis for granting the loan, with the end result of validating survival of the claim. The answer must be in the negative.
+It is very obvious, from the entire sequence of events in this transaction, that defendant Cross was a well-regarded client of plaintiff, based on plaintiff’s excellent prior loan experience with him. In fact, the loan was not a “fresh money” advance but was made to refinance a prior loan. The loan was made the same day as the statement was furnished, and plaintiff’s credit manager made little or no investigation to verify the facts contained therein. The inescapable conclusion of the court is that the statement was taken as a routine ceremony and that the chief reliance of plaintiff was on its prior experience and acquaintance with defendant David Cross, Jr., and not on the statement of debts. The instant case is strikingly similar to Public Finance Corporation v. Xarhakos, 2 Conn. Cir. Ct. 469, 472, and the very recent case of Beneficial Finance Co. v. Crane, 4 Conn. Cir. Ct. 627. In both cases the defendant’s debt was held not to survive his bankruptcy.
+Failure to prove any of the elements of a fraud case is fatal. Bradley v. Oviatt, 86 Conn. 63, 67. In view of the foregoing, it is found that plaintiff has failed to establish that the present action comes within the exception contained in § 17 (a) (2) of the Bankruptcy Act.
+Judgment may be entered in favor of defendant David Cross, Jr., as to the first count; as to defendant Lillian Cross, judgment may enter in favor of plaintiff and against defendant Lillian Cross, as to the second count, for the sum of $1418.77 plus taxable costs.
