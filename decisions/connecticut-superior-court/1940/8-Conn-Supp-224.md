@@ -1,0 +1,54 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 13292"
+decided: "1940-05-03"
+citations: ["8 Conn. Supp. 224"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MORRIS A. GREEN ET AL. vs. THE T. G. SMITH CO."]
+source_url: "https://static.case.law/conn-supp/8/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1316099
+cites_cases: ["101 N.E. 756", "11 A. (2d) 382", "126 Conn. 349", "136 Ohio St. 183", "16 Conn. 12", "195 N.Y. 424", "21 N.E. (2d) 542", "24 N.E. (2d) 705", "43 Conn. 244", "45 Yale L.J. 69", "56 Ind. App. 77", "74 Atl. 1061", "83 Vt. 161", "88 N.E. 794"]
+---
+
+# Green v. T. G. Smith Co.
+
+## Majority (McEVOY, J.)
+
+McEVOY, J.
+On December 5, 1936, the plaintiff Green was the owner of a building on Bank Street in Waterbury. On that date the plaintiff Travelers Insurance Company insured the risk of the plaintiff Green for damages such as are alleged in the complaint and was subrogated to any right which the plaintiff Green had to be reimbursed for such damages as he might have been obliged to pay caused by the negligence of the defendant.
+On that date there were two iron trap doors, which when not in use were flush with the street, maintained by the plaintiff Green for convenience in the use of the cellar under the building.
+On that date the defendant was engaged as an independent contractor to perform certain repair work on the building of the plaintiff Green over which work the plaintiff Green had no control.
+On the morning of that date, solely for the purpose of his own convenience, and without notice or knowledge and beyond the control of the plaintiff Green, the defendant’s servant or agent suddenly and without warning of any kind to pedestrians who might be using the walk, attempted to open one of the trap doors.
+One Madelyn Keiser, at the time, was walking along Bank Street and just as she was about to put her foot on the trap door, it was suddenly raised against her foot and she was thrown to the ground, as a result of which she suffered severe injuries.
+Madelyn Keiser did not slip on the door but was forced to the ground because it was raised up and pushed her.
+Madelyn Keiser brought action against the plaintiff Green. The plaintiff Green notified the defendant in this action to appear and defend the action, which the defendant, The T. G. Smith Company, failed to do.
+Madelyn Keiser recovered a judgment of $5,075 with costs, which amount the plaintiff, Travelers Insurance Company, paid.
+Green, the owner of the building, could have adjusted his liability with the plaintiff, Keiser, in the original suit, and could still claim compensation from the defendant who was actually at fault. Smith vs. Foran, 43 Conn. 244.
+The plaintiff Green was, however, sued, and the amount of the judgment fixes the liability of the present plaintiff, Green, the former defendant, with the present defendant, in the original action.
+In the present action the defendant has filed a special defense in which it alleges, substantially, that subsequent to the plaintiff’s injury, the plaintiff Madelyn Keiser and her husband released and discharged the defendant in full for any liability to her. The release, however, contained a clause as follows: “Hereby reserving our rights to sue any other party or parties.”
+The present plaintiffs have demurred to this defense for the following reasons:
+“1. It does not appear, and is not alleged therein, that the agreement annexed thereto was made by or on behalf of the plaintiffs in this action.
+“2. It appears from said agreement that said release was given by said Madelyn H. and Jean Keiser to the defendant solely for the purpose of affecting the rights of the parties to-said agreement and no others.
+“3. The plaintiffs in this case were not parties to said agreement and, therefore, are not bound thereby.”
+A release by one party cannot discharge claims of another, who is not a party to the release and whom the releasor has no-power to bind, against the releasee. Gould vs. Stanton, 16 Conn. 12.
+The parties agree that Green and Smith are not joint tortfeasors but that Smith is primarily liable and Green is secondarily liable, so that they are, at most, concurrent but related tort-feasors.
+“Between them, as between tort-feasors in all the above named classes, there exists a primary and secondary liability to the injured party. In any such case the primary liability, to the extent of full compensation, rests upon the party who actually commits the wrong, while the secondary liability to the same extent, but reduced by any contribution to compensation made by the party primarily liable rests upon the party' who, by reason of his relationship to the wrongdoer, is also liable for the wrong committed. Losito vs. Kruse, 136 Ohio St. 183, 24 N.E. (2d) 705, 707.
+“The plaintiff, in any event, can have but one satisfaction of his claim. But, under such circumstances, there exists the right of subrogation to the claim of the plaintiff and reimburse' ment upon the part of the master as against the servant, in case the former is obliged to respond in damages for the wrongful act of the latter.” Losito vs. Kruse, supra, at p. 707 of 24 N.E. (2d).
+“The real party plaintiff in interest in this case was the Aetna Life Insurance Company which had paid a judgment rendered against the nominal plaintiff in favor of Duane N. Clement on account of an injury due to a defective highway' under the control of the highway commissioner. The insurance company claimed to be subrogated to the rights of the state.”' State vs. Bloomfield Const. Co., 126 Conn. 349, 11 A. (2d) 382, 383.
+“The defendants admit that an insurer indemnifying an assured against loss occasioned by the wrongful act of a third person is ordinarily subrogated to the rights of the insured against the third person on the equitable principle that the-ultimate loss should fall on the one who, in good conscience, ought to bear it.” State vs. Bloomfield Const. Co., supra, at p. 382 of 11 A. (2d).
+“A distinction should be observed between releasing a claim and releasing one of the parties liable. If the injured party releases his claim for damages to one of the parties liable as a joint tortfeasor, he cannot afterward assert it as against the others, but he may release one of the parties so liable without releasing the others.” Parry Mfg. Co. vs. Crull, 56 Ind. App. 77, 82, 101 N.E. 756, 758.
+The liability of an owner of premises for injury to a passer-by for negligence in covering or failing to cover or guard a coal hole in a sidewalk does not relieve the active or actual wrongdoer from the consequences of his act. Scott vs. Curtis, 195 N.Y. 424, 88 N.E. 794.
+As between themselves, the active wrongdoer stands in-the relation of an indemnitor to the person who has been held liable for an injury. The rule that the court will not interfere-as between two joint tort'feasors is not applicable where one •of the two or more persons chargeable with negligence is primarily liable therefor, and the others are only liable because •of their ownership of the property, and not because of any .negligence concurring by their active interposition or with their .affirmative assent. Scott vs. Curtis, supra.
+An employee or independent contractor performing an. act •dependent upon his personal care and attention is liable to the owner of the property if the latter is required to pay damages because of the lack of such care and attention. Scott vs. Curtis, supra.
+A principal’s liability to a third person for the negligence of his agent is of a derivative or secondary character, resting solely upon the doctrine of respondeat superior, and the principal is, in effect, his agent’s surety and can recover over against him if compelled to pay damages for his agent’s negligence while acting as agent within the scope of his authority. Karcher vs. Burbank, —Mass.—, 21 N.E. (2d) 542.
+Smith and Green are in the relation of nomconsensual prim •cipal and surety. The law of suretyship provides that a surety is discharged when the creditor releases the principal. How' •ever, when the creditor reserves his rights against the surety, the .surety retains his right of reimbursement against the principal, because, by agreeing to the creditor’s reservation of rights the principal has consented to the creditor’s suit against the surety with the knowledge that this would lead inevitably to a suit against the principal by the surety. Brown vs. Vermont Mutual Fire Ins. Co., 83 Vt. 161, 74 Atl. 1061.
+“The employer may compensate the injured person without ’having been first sued by him, and have recovery over in the ’lesser of two sums, namely, the amount so paid and the damage .suffered by the injured person. If, however, the injured person "brings an action against the employer, judgment recovered therein without fraud or collusion is conclusive on the agent, in a later action brought by the employer against the agent, as to the existence and amount of the employer’s liability and all •matters necessarily involved in such liability, provided that the agent had adequate opportunity to defend the former action 'by being a party thereto or by being called on by the employer to take over or participate in the defence thereof, whether he did so or not. In proceeding on any'of the theories of reiim "bursement, as distinguished from quasi'contract and subroga' lion, the employer has the advantage of incidental reimburse' ment, that is, if he successfully resisted an action brought by the tortfeasee he may have reimbursement from the agent for costs, necessary attorneys’ fees and other expenses incurred in defending the action, and so, even though the resistence proved unsuccessful, if he defended at the request of the agent, or if he acted reasonably and in good faith in undertaking and con' ducting the defence.” Campbell, Non-Consensual Suretyship, 45 Yale L.J. 69, 86.
+The distinction, as to the right to recover costs, etc., is clearly set out in State vs. Bloomfield Const. Co., supra.
+It is claimed, by the defendant, that if the contention of the plaintiff is upheld “it must be apparent that the instrument taken by the defendant from Madelyn Keiser was worthless.”
+This is not so. It is good as against the original plaintiff, Keiser, but, having in mind that the payment of $675 made to the plaintiff Keiser by the present defendant has been credited, then the former tort'feasor should be liable to the plaintiff and to the insured by subrogation.
+The record of the original suit clearly shows that these plaintiffs received the benefit of the payment made by this defendant to the original plaintiff, Keiser.
+If this defense were permitted it would not be possible to “balance the equities.”
+For all of the reasons stated the demurrer is sustained.
