@@ -2,7 +2,8 @@
 court: "Connecticut Superior Court"
 docket: "File #51477"
 decided: "1936-05"
-citations: ["4 Conn. Supp. 165", "4 Conn. Supp. 168"]
+decided_precision: "month"
+citations: ["4 Conn. Supp. 165"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["ERVIN J. FRIEDE, Receiver-Trustee, et al. vs. BENJAMIN F. BERNSTEIN, 
 source_url: "https://static.case.law/conn-supp/4/cases/0165-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1337539
-cites_cases: ["113 Conn., 770", "121 Conn. 220", "45 Conn., 101", "67 Conn., 272", "73 Conn., 607", "76 Conn., 252", "81 Conn., 213", "82 Conn., 392", "93 Conn., 658"]
+cites_cases: ["113 Conn., 770", "121 Conn. 220", "45 Conn., 101", "73 Conn., 607", "81 Conn., 213", "82 Conn., 392", "93 Conn., 658"]
 ---
 
 # Friede v. Bernstein
