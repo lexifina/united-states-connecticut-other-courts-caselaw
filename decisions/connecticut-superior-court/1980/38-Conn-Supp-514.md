@@ -1,0 +1,29 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 897"
+decided: "1980-05-09"
+citations: ["38 Conn. Supp. 514"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert D. Scinto et al. v. Bridgeport Cash and Carry, Inc."]
+source_url: "https://static.case.law/conn-supp/38/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1659698
+cites_cases: ["102 Conn. 692", "125 Conn. 543", "129 A. 716", "131 Conn. 528", "135 Conn. 364", "139 Conn. 600", "152 Conn. 675", "164 Conn. 287", "181 A.2d 611", "211 A.2d 683", "23 Conn. Sup. 291", "320 A.2d 797", "41 A.2d 109", "64 A.2d 680", "7 A.2d 228", "96 A.2d 217"]
+---
+
+# Scinto v. Bridgeport Cash & Carry, Inc.
+
+## Majority (Daly, J.)
+
+Daly, J.
+The plaintiffs instituted this summary process action to recover possession of the ground floor of a commercial building in Bridgeport which they had leased to the defendant for a five-year term from October 1,1975, to September 30,1980. The lease provided for a monthly rent of $2479.17 payable on the first day of each month. Prior to the defendant’s occupancy of the premises, the plaintiffs agreed in the lease, inter alia, to provide adequate drainage in the receiving pits and to repair the roof to make it water tight. Paragraph 5(b) of the lease agreement further provided: “if the tenant is physically deprived of any portion of the Premises because of Landlord’s failure to diligently proceed with and complete the making of any repairs required to be made by Landlord under this lease, then so long as Landlord does not proceed diligently to remedy such condition, there shall be an equitable abatement of rent, taking into consideration the area of which tenant was denied the use by the reason thereof.” Under Paragraph 16 of the lease the tenant is allowed to make repairs in the event the landlord has failed to do so after a thirty-day written notice, and the tenant may pay for the repairs and deduct a corresponding amount from the rental payments.
+In 1976 the defendant gave written notice to the plaintiffs of water drainage problems and began to withhold rent. The plaintiffs made some repairs and the defendant, thereafter, resumed the rental payments. After a heavy rain in January, 1979, the tenant tendered a check of $1568.22 to cover the February rent plus two invoices totalling $910.95 for pumping and water damage. The plaintiffs rejected this tender, treated it as a breach of the lease, and in March, 1979, caused to be served on the defendant a notice to quit possession for nonpayment of rent. This action ensued wherein the defendant counterclaimed for water damage to its inventory.
+The trial court concluded that the plaintiffs had not sustained their burden of proving that the February partial tender of rent was such an unequivocal and substantial breach of the rental covenant as to warrant summary process relief, and therefore rendered judgment for the defendant. The trial court properly dismissed the counterclaim on the basis that it was inappropriate in a summary process action. Atlantic Refining Co. v. O’Keefe, 131 Conn. 528, 531, 41 A.2d 109 (1945).
+The plaintiffs have appealed claiming that the trial court erred in failing to determine whether the lease was terminated; failing to find that the 1976 notices were ineffectual to authorize a deduction from the February 1979 rent on the basis of waiver; failing to hold that the lease did not authorize a deduction from the February 1979 rent, absent notice to the landlord and an opportunity to perform; and failing to find that water damage to inventory was not a proper subject for deduction from the rent.
+The purpose of a summary process proceeding is to permit a landlord to recover possession upon termination of a lease without suffering the delay, loss and expense to which he may be subjected under a common-law action. Prevedini v. Mobil Oil Corporation, 164 Conn. 287, 292, 320 A.2d 797 (1973); Atlantic Refining Co. v. O’Keefe, supra, 530. Summary process is limited to a few plain, simple questions of fact. Davidson v. Poli, 102 Conn. 692, 695, 129 A. 716 (1925). A failure to pay rent when due is not itself the basis of the proceeding, but may become a factor in the situation where it is claimed that the lease has been terminated because of it; and if for any reason the unpaid rent is not due that fact may be relevant to the issue of the lessor’s right to terminate the lease. Webb v. Ambler, 125 Conn. 543, 550, 7 A.2d 228 (1939).
+Summary process is limited to cases where the issue of the expiration of the lease presents itself as a simple issue of fact, not complicated by questions as to the proper legal construction of the lease. Rosa v. Cristina, 135 Conn. 364, 365, 64 A.2d 680 (1949). “It has always been the policy of our law to limit the issues in an action of summary process to a few simple ones within the express scope of the statutory provisions.” Webb v. Ambler, supra, 550-51. Because of the summary nature of this remedy, the statute granting it has been narrowly construed and strictly followed. Jo-Mark Sand & Gravel Co. v. Pantanella, 139 Conn. 600-601, 96 A.2d 217 (1953); Cianciolo v. Plano, 23 Conn. Sup. 291, 292, 181 A.2d 611 (1962).
+The interpretation of the lease in the present case, particularly paragraphs five and sixteen which invoke the principles of equitable abatement and waiver of notice, would not appear to fall into the category of simple, uncomplicated issues. Hence, summary process does not lie in this instance and the trial court was correct in rendering judgment for the defendant. The judgment being correct, it will stand regardless of the validity of the theory upon which it was entered. Wenzel v. Danbury, 152 Conn. 675, 676-77, 211 A.2d 683 (1965).
+There is no error.
+In this decision Parskey and Bieluch, Js., concurred.
