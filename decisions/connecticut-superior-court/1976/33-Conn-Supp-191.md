@@ -1,7 +1,8 @@
 ---
 court: "Connecticut Superior Court"
 decided: "1976"
-citations: ["33 Conn. Supp. 191", "33 Conn. Supp. 208"]
+decided_precision: "year"
+citations: ["33 Conn. Supp. 191"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Anonymous v. Superintendent of Hospital et al. (1977-2)"]
 source_url: "https://static.case.law/conn-supp/33/cases/0191-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1670734
-cites_cases: ["153 Conn. 103", "155 Conn. 283", "155 Conn. 68", "157 Conn. 56", "158 Conn. 217", "158 Conn. 286", "160 Conn. 559", "161 Conn. 362", "161 Conn. 396", "162 Conn. 390", "30 Conn. Sup. 320", "383 U.S. 541", "387 U.S. 1", "396 F.2d 393", "397 U.S. 358", "403 U.S. 528", "406 U.S. 715", "419 U.S. 565", "482 F.2d 648", "93 Conn. 550"]
+cites_cases: ["153 Conn. 103", "155 Conn. 283", "155 Conn. 68", "157 Conn. 56", "160 Conn. 559", "161 Conn. 362", "161 Conn. 396", "162 Conn. 390", "30 Conn. Sup. 320", "383 U.S. 541", "387 U.S. 1", "396 F.2d 393", "397 U.S. 358", "403 U.S. 528", "406 U.S. 715", "419 U.S. 565"]
 ---
 
 # Anonymous v. Superintendent of Hospital
