@@ -1,0 +1,31 @@
+---
+court: "Connecticut Circuit Court"
+decided: "1971"
+citations: ["6 Conn. Cir. Ct. 573"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Anonymous (1971-18)"]
+source_url: "https://static.case.law/conn-cir-ct/6/cases/0573-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1747725
+cites_cases: ["239 F.2d 818", "329 F.2d 854", "335 F.2d 86", "367 F.2d 1", "380 U.S. 922", "39 C.F.R. § 135.7", "39 U.S.C. § 501", "39 U.S.C. §4057", "39 U.S.C. §4302", "39 U.S.C. §462", "61 A.L.R.2d 1282", "96 U.S. 727"]
+cites_law: ["united-states/federal/usc/title-39/501.md"]
+---
+
+# State v. Anonymous (1971-18)
+
+## Majority (Jacobs, J.)
+
+Jacobs, J.
+The only question on this motion to suppress the evidence (General Statutes § 54-33Í) is whether a package mailed to Connecticut and found on inspection to contain marihuana was subject to opening and inspection without a search warrant.
+The facts of the mailing are undisputed. Via air mail and special delivery, a package weighing one pound twelve ounces and addressed to the defendant arrived at the post office. The post office department, suspecting that the package contained narcotics, opened it, went through its contents, and discovered the presence therein of one pound of marihuana. The package was restored to its original state and transmitted for delivery to the addressee. A notice was placed in the defendant’s post office box, requesting him to call for the package. He did so, and the package was turned over to him, but he was immediately divested of possession by waiting police officers who had been alerted to the delivery of the package to the addressee. Criminal proceedings were instituted against the defendant, charging him with possession of marihuana with intent to sell in violation of § 19-480 (a) of the General Statutes.
+The defendant filed a motion in the Circuit Court to suppress any possible evidential use of the package or of the examination made of it, on the ground of illegal search and seizure. His contention is that the opening and inspection of the package were unlawful because the package constituted first-class mail (see 39 U.S.C. §4057 [1964]) and that, under existing statutes and regulations, the contents of such mail may not be opened and examined without a warrant. The state contends that its case is governed by § 135.7 of the postal regulations, whieh provides in part: “[T]o assure that their parcels will not be opened for postal inspection, [patrons] should, in addition to paying the first-class rate of postage, plainly mark their parcels ‘First Class’ or with similar endorsements.” 39 C.F.R. § 135.7. The package was not so marked or endorsed.
+In a case of this kind, the court is faced with a conflict between the government’s efforts to protect the nation without hindering the smooth flow of mail and the individual’s interest in the privacy of his mail.
+It is settled law that first-class mail is protected by the fourth amendment. Ex parte Jackson, 96 U.S. 727, 733; Santana v. United States, 329 F.2d 854, 856; Oliver v. United States, 239 F.2d 818, 820; note, 61 A.L.R.2d 1282, 1283. It is important to note that these eases emphasize that the requirements of the fourth amendment apply to mail moving entirely within the country, for the “standards applicable to mail matter moving entirely within the country are not applicable to mail matter coming in from outside the country.” United States v. Beckley, 335 F.2d 86, 88, cert. denied, sub nom. Stone v. United States, 380 U.S. 922.
+In the case at bar, whether the search was legal depends on whether the parcel was sent first-class mail, for 39 U.S.C. §4057 provides: “Only an employee opening dead mail by authority of the Postmaster General, or a person holding a search warrant authorized by law may open any letter or parcel of the first class which is in the custody of the Department.” “First class or ‘letter postage’ mail is the only mail so protected from inspection under current regulations made pursuant to 39 U.S.C. § 501 . . . .” Corngold v. United States, 367 F.2d 1, 21 (dissenting opinion).
+Here, as in Oliver v. United States, supra, the package was sent by air mail special delivery. “On the basis of the statutes and regulations ... , we think it must be held that there existed at the time involved a legislative and administrative holding out, to all who might make use of the mails, that no first-class mail would, in its depositing, transmission, or delivery, be subject to any opening and inspection by the Post Office Department, without a warrant; that all mail on which first-class postage had been paid would for this purpose constitute first-class mail . . . .” Oliver v. United States, supra, 823; cf. Santana v. United States, 329 F.2d 854 (package sent from Puerto Rico to New York City; since 39 U.S.C. '§ 5006 provides indemnification by insurance only for articles sent by third- or fourth-class mail, package was not sent via first-class mail and therefore was subject to search and inspection).
+The court holds, therefore, that the affixing of first-class postage upon the package and the acceptance of the package for transmission and delivery sufficiently evidence the sender’s intention not to allow it to be opened and inspected unless the post office department first obtained a search warrant.
+The article involved in the present case is marihuana. It being contraband, there is, of course, no right to have it returned. This fact is beside the point on the search and seizure question. “Reasonableness in search and seizure is not a matter of what the things done have developed but of legal fairness in the things which have been done.” Oliver v. United States, supra, 823.
+On the basis of what we have said, the motion to suppress must be and is hereby granted; that portion of the motion seeking the return of the property is denied.
+The Air Mail Act of 1925 provided (39 U.S.C. §462 [1952]) that when used in the act “the term 'air mail’ means first-class mail prepaid at the rates of postage herein prescribed.” See 39 U.S.C. §4302 (1964).
