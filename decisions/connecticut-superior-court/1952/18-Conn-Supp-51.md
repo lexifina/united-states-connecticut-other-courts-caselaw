@@ -2,7 +2,7 @@
 court: "Connecticut Superior Court"
 docket: "File No. 5824"
 decided: "1952-05-08"
-citations: ["18 Conn. Supp. 51", "18 Conn. Supp. 42"]
+citations: ["18 Conn. Supp. 51"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The Valley Oil Company, Inc. v. Alfred D. Barry et al."]
 source_url: "https://static.case.law/conn-supp/18/cases/0051-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1324009
-cites_cases: ["109 Conn. 256", "118 A.L.R. 57", "134 Conn. 569"]
+cites_cases: ["109 Conn. 256", "118 A.L.R. 57"]
 ---
 
 # Valley Oil Co. v. Barry
