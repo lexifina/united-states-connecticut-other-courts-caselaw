@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+decided: "1977"
+citations: ["34 Conn. Supp. 603"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Anonymous (1977-7)"]
+source_url: "https://static.case.law/conn-supp/34/cases/0603-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1668211
+cites_cases: ["163 Conn. 52", "332 U.S. 708", "35 Conn. 183"]
+---
+
+# State v. Anonymous
+
+## Majority (David M. Shea, J.)
+
+David M. Shea, J.
+The defendant was found guilty by the court of larceny in the third degree by theft of services in violation of General Statutes § 53a-124. Although the defendant filed twelve assignments of error, he has abandoned all except that relating to the failure of the court to warn him adequately about the hazards in his decision to act as his own attorney at the trial and that relating to the conclusion of guilt reached by the trial court upon the evidence. Since our resolution of the latter is dispositive of the appeal, we need not consider the former issue.
+General Statutes $ 53a-119 (7) provides, in pertinent part: “A person is guilty of theft of services when: (1) With intent to avoid payment . . . for services rendered to him as a transient guest at a hotel, motel, inn, tourist cabin, rooming house or comparable establishment, he avoids such payment by unjustifiable failure or refusal to pay, by stealth, or by any misrepresentation of fact which he knows to be false . . . The question which is decisive of this appeal is whether there was sufficient evidence that the defendant was a “transient guest” within the meaning of this statute.
+There was testimony that the defendant rented an efficiency apartment at a motel on a weekly basis for four weeks. The efficiency apartments of the motel were not rented on a daily basis, as were the regular motel rooms. They were provided with cooking facilities and did not receive maid service, unlike the other units. There was no provision for renting the efficiency apartments for a period of less than one week. The rent of $58.35 per week was payable in advance on the first day of each weekly period. The defendant paid the rent as it fell due each week. On the day when the next weekly payment was due and was not made, the room of the defendant was checked and some of his belongings were still in the room. Two days later a woman came to the motel, removed the remaining property of the defendant and left the key at the motel office. The next day the complainant telephoned the defendant at an address which was obtained from his room registration card and informed him that he owed the rent for one week. The defendant claimed that he had vacated his motel room and was not responsible for rent for an additional week.
+It is fundamental that the state had the burden of proving every element of the offense charged beyond a reasonable doubt. State v. Brown, 163 Conn. 52, 64. Proof that the defendant was a “transient guest” at the motel was essential for a conviction under the statute. The word “transient” means “[a] person passing through a place or staying there only temporarily.” Ballentine’s Law Dictionary, p. 1293 (3d Ed.). “To be a guest of an inn or hotel it is essential, at least at common law, that the person should be a transient, that is, that he should come to the inn for a more or less temporary stay, for if he comes on a permanent basis he will be deemed a boarder or lodger rather than a guest.” 43 C.J.S., Innkeepers, § 3, p. 1140. Although it has been said that a guest must be a traveler, that is meant in a broad sense to include anyone away from home who enjoys the same accommodations as are offered to travelers. Walling v. Potter, 35 Conn. 183, 185. The length of stay, the existence of a special contract for the room, the fact that a person has another abode and the extent to which he has made the room his home for the time being are material circumstances in determining whether the relationship is that of a guest or a lodger. 43 C.J.S., supra, p. 1138.
+The defendant, who acted as his own counsel, never raised any claim that he was not a “transient guest.” It was essential, nevertheless, that the evidence establish beyond a reasonable doubt that he had that status. That standard has not been met in this case. The testimony bearing upon this issue indicates that the defendant may have been a roomer rather than a “transient guest.” Apparently he was not a traveler in the literal sense. The rental arrangement and the nature of the accommodations differed from those pertaining to the regular motel rooms. The duration of the occupancy was not so brief as to justify a conclusion that it was merely temporary in character. Whether the defendant intended the room to be a more or less permanent residence or whether he had a home elsewhere are questions unanswered by the testimony. In sum, there is insufficient evidence to support a conclusion that the defendant was a “transient guest.”
+There is error, the judgment is set aside and the case is remanded with direction to render a judgment of not guilty.
+In this opinion, Parskey and Sponzo, Js., concurred.
+Section 53a-124 provides, in pertinent part, that: “(a) A person is guilty of larceny in the third degree when: (1) The value of the property or service exceeds fifty dollars . . . .”
+Although we do not reach the issue of waiver of counsel, we note that the defendant has raised a serious question of whether his waiver was knowledgeable under the constitutional standards established in Von Moltke v. Gillies, 332 U.S. 708.
