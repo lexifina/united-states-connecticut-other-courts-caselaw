@@ -1,0 +1,31 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 20055"
+decided: "1951-12-04"
+citations: ["17 Conn. Supp. 335"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Theresa E. Hare v. Joseph Hare, Jr."]
+source_url: "https://static.case.law/conn-supp/17/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321764
+cites_cases: ["103 Conn. 189", "104 Conn. 169", "105 Conn. 502", "108 Conn. 292", "12 Conn. Sup. 216", "13 Conn. Sup. 186", "13 Conn. Sup. 44", "130 Conn. 449", "17 Conn. 284", "17 Conn. Sup. 161", "72 Conn. 567", "79 N. J. Eq. 24", "81 N. J. Eq. 465", "83 N. J. Eq. 690", "84 Conn. 591", "88 N. J. Eq. 29", "90 Conn. 658"]
+---
+
+# Hare v. Hare
+
+## Majority (ALCORN, J.)
+
+ALCORN, J.
+The plaintiff seeks a divorce on the ground of desertion. The defendant was served by an order of notice by registered mail and has not appeared.
+At the time of the marriage both parties resided in Massachusetts. They were married in Connecticut on December 18, 1945. Following the marriage they returned to Massachusetts and lived there together until the separation, which is the basis of this action. On May 10, 1948, the defendant left the plaintiff and went to live with his sister. The plaintiff thereupon took up residence with her aunt in the same Massachusetts town where the defendant was living. The parties continued thus to live apart in the same town in Massachusetts until the plaintiff moved to Connecticut about October 1, 1950. When the plaintiff moved to Connecticut, she had no intention of returning to Massachusetts, and she has lived in Connecticut ever since and intends to make it her permanent residence. By process dated May 16, 1951, she brought this action claiming desertion on the part of the defendant continuously since May 10, 1948.
+Not having resided in Connecticut for three years prior to the institution of the action, the plaintiff relies, for jurisdictional purposes, upon that clause of the statute (General Statutes, §7334) which provides: “£I]t £the action] shall be dismissed unless the cause of divorce shall have arisen subsequently to the removal into this state.” It is the plaintiff’s claim that since the three-year period for desertion expired on May 10, 1951, the cause of action has arisen since the plaintiff removed into this state.
+It is a necessary prerequisite to jurisdiction for purposes of divorce that one of the parties should be domiciled here. Morgan v. Morgan, 103 Conn. 189, 195. Domicil requires the two elements of actual residence and an intention to make the place of residence one’s established or permanent place of abode. Foss v. Foss, 105 Conn. 502, 505; McDonald v. Hartford Trust Co., 104 Conn. 169, 177. The plaintiff’s proof satisfies these two requirements.
+Upon the proposition that the cause of divorce “arose” subsequent to her removal into Connecticut, the plaintiff relies upon decisions in New Jersey. Koch v. Koch, 79 N. J. Eq. 24; Getz v. Getz, 81 N. J. Eq. 465; Flynn v. Flynn, 83 N. J. Eq. 690; Orens v. Orens, 88 N. J. Eq. 29. It is to be noted that the New Jersey statute on which those decisions are based, and which is quoted in Koch v. Koch, supra, refers to the time the “cause of action” arose. The pertinent part of our own statute, on the other hand, refers to the time “the cause of divorce shall have arisen.”
+Desertion within the meaning of our statute involves four elements: (1) cessation from cohabitation; (2) an intention on ■ the part of the absenting party not to resume it; (3) the absence of the other party’s consent; and (4) absence of justification. Gannon v. Gannon, 130 Conn. 449. It has uniformly been construed to embrace a continuing course of conduct in which the intent referred to is the decisive characteristic. Colt v. Colt, 90 Conn. 658, 660; Todd v. Todd, 84 Conn. 591, 593; Tirrell v. Tirrell, 72 Conn. 567, 570.
+It has long been the law in' Connecticut that a course of conduct begun elsewhere and merely continued after the plaintiff’s removal into this state would not meet the requirements of the statute. Sawtell v. Sawtell, 17 Conn. 284. An interesting sidelight to that decision is that the reported argument of plaintiff’s counsel was that in the case of desertion, which was not there involved, three years must necessarily elapse after removal of the party into the state in order to give the court jurisdiction.
+The plaintifF in the present case contends that the Sawtell decision has been overruled by Torlonia v. Torlonia, 108 Conn. 292. As was pointed out in Mowatt v. Mowatt, 17 Conn. Sup. 161, however, the Torlonia case, while holding “that adultery constituting a ground for divorce need not be committed in Con' necticut, it does not hold that an adultery occurring prior to the removal into Connecticut can form the basis of a decree under the jurisdictional provision here relied upon.” Moreover, juris' diction in that case was not claimed upon this portion of the statute.
+Misconduct of a spouse which occurred prior to the plaintiff’s removal into this state is not a' proper element to consider in determining the jurisdictional question under this portion of the statute. Caruthers v. Caruthers, 12 Conn. Sup. 216; Thesiger v. Thesiger, 13 Conn. Sup. 44, 46. While the point was not then necessary to the decision, the same view was expressed in Birdsall v. Birdsall, 13 Conn. Sup. 186.
+In order, however, to establish a cause of divorce upon the ground of desertion, the plaintiff in this case relies upon the period both before and after she came to this state. She seeks to construe the word “arose” as the equivalent of the word “matured,” and this cannot be done. Mowatt v. Mowatt, supra. In order to arrive at that interpretation she does further violence to precedents by the claim that a cause of divorce which is of a continuing nature can occur partly in this state after her removal here and partly elsewhere prior to her removal here, and thereby confer jurisdiction upon the court under the applicable portion of the statute.
+The cause of divorce did not arise, in this case, subsequently to the plaintiff’s removal into this state. Enter judgment dis' missing the complaint for lack of jurisdiction.
