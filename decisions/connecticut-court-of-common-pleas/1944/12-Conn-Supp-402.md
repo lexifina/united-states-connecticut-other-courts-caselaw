@@ -1,0 +1,35 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File No. 44234"
+decided: "1944-02-11"
+citations: ["12 Conn. Supp. 402"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PAUL L. MILLER ET AL. vs. WILLIAM S. MEANY"]
+source_url: "https://static.case.law/conn-supp/12/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1319641
+cites_cases: ["111 Conn. 490", "118 Cal. 93", "133 U.S. 626", "26 Colo. App. 186", "308 Ill. 381", "34 Wash. 643", "78 Ind. App. 582"]
+---
+
+# Miller v. Meany
+
+## Majority (CULLINAN, J.)
+
+CULLINAN, J.
+This action was brought to foreclose a mortgage given by the defendant to trustees of a trust estate created under the last will and testament of Lucien B. Price,, late of Greenwich. The plaintiffs are successors to the original trustees and the mortgaged premises are located in Greenwich.
+On March 19, 1943, a judgment of strict foreclosure was. rendered in favor of the plaintiffs, the amount of the debt being determined at $22,608.33, together with taxable costs of $90.49, and the law day for the defendant was fixed as. of October 4, 1943.
+Thereafter, on April 19, 1943, the plaintiffs successfully moved to open the judgment for the sole purpose of amending their prayer for relief, which amendment was filed on May 14, 1943.
+The original complaint, in its prayer for relief, sought: “1. Foreclosure of the mortgage”, and “2. Possession of the mortgaged premises.” By their amendment of May 14, 1943, the plaintiffs enlarged upon this prayer by seeking “3. Five Thousand Dollars ($5,000) damages”, and “4. A deficiency judgment.”
+Ultimately, on June 24, 1943, a new judgment of strict fore' closure was rendered in favor of the plaintiffs, with the amount of the debt fixed at $22,890 and the law day estab' lished for the first day of November, 1943.
+On November 1, 1943, the plaintiffs, acting under the authority of section 1313e of the 1939 Supplement to the General Statutes, moved for the appointment of three disinterested persons to appraise the property as a condition precedent to their right to seek a deficiency judgment. This motion having been granted, the named appraisers, on November 10, 1943, filed a unanimous report fixing the market value of the property at $12,000.
+The plaintiffs now seek a deficiency judgment in the sum-of $10,970.12, representing the difference between the appraiser’s value of the property, namely, $12,000, and the amount of their claim, which has increased to $22,970.12 by reason of an interest addition of $80.12 to the final judgment figure of $22,890. The motion for this deficiency judgment, having been seasonably made, appeared for disposition upon the regular Short Calendar, at which time the defendant, through counsel, offered opposition in oral argument.
+Succinctly stated, the defendant’s opposition is predicated upon two broad grounds:
+(1) Since the appraiser’s report fails to give any indication that its compilation followed a public hearing, the reception of testimony, or notice to the defendant, then it must be regarded as a summary appraisal and fatally defective because of its defiance of the claimed fundamental concepts of constitutional law as to notice, hearing, and the reception of evidence; (2) since the plaintiffs, in their amended complaint seek both a deficiency judgment and damages of $5,000, no deficiency judgment can enter for a sum in excess of $5,000. In other words, the defendant contends that the amount claimed by way of damages is to be regarded as a limitation upon the amount of any deficiency judgment which may enter.
+With respect to the defendant’s first claim it is fundamental that “an action for a deficiency judgment, as a sequel to strict foreclosure, is taken as a matter of course in our country.” 1 Glenn, Mortgages (1943) §69 and cases there cited. Further, the Connecticut General Assembly, to effectuate this common course, as early as 1835 (Connecticut General Statutes, 1835, title 31, chapter 4) made provision for deficiency judgments, which provision, without substantial change has continued and is now embodied in section 1313e of the 1939 Supplement to the General Statutes. The General Assembly has, in the succession of amended statutes since 1835, declared its will. This declaration is in plain, direct and unambiguous terms. Its intent and phraseology are clear and unmistakable.
+By way of summary, section 1313e provides that upon the motion of any party to a foreclosure, the court shall appoint three, disinterested appraisers, who shall under oath, within ten days after the time limited for redemption has expired, apprais the mortgaged property and make written report of the appraisal. Such report is to be regarded as final and con' elusive as to the value of the mortgaged property. Further, the mortgage creditor is limited, in claiming a deficiency judgment, to the difference between the value of the mortgaged property as fixed by such appraisal, and the amount of his claim, provided that application for such deficiency judgment shall have been made by the creditor within 90 days after the time limited for redemption has expired.
+Each of these statutory requirements has been met by the plaintiffs. Thus, the power of this court over the statute is at an end.
+In passing, it might be well to note that objections to the appraisal are properly to be asserted by remonstrance against the acceptance of the report. Congress Bank & Trust Co. vs. Brockett, 111 Conn. 490; Wilcox vs. Bliss, 116 id. 329; Equitable Life Assur. Soc. vs. Slade, 122 id. 451. This proceedural requirement comprehends something more than oral objection and argument at a Short Calendar hearing.
+With respect to the defendant’s second claim, I find no authority, and none has been furnished, in support of the contention that a claim for damages, in an amount certain, acts as a limitation upon the amount of a deficiency judgment, if any. In fact, the claim for a deficiency judgment and the claim for money damages are distinct prayers, having nothing in common save their inclusion within a broad general claim or prayer for relief. Since the court has jurisdiction of the defendant by reason of his having been personally served and since he has been aware of the plaintiffs’ intention to press for a deficiency judgment he can hardly be heard to complain if a personal judgment for deficiency is entered in an amount greater than $5,000. Northern Trust Co. vs. Sanford, 308 Ill. 381; Crampton vs. Collyers, 78 Ind. App. 582; Scamman vs. Bonslett, 118 Cal. 93. Several states have decreed that a prayer for general relief or further relief is sufficient to justify a deficiency judgment though such a judgment has not been specifically demanded. Continental Trust Co. vs. Patterson, 26 Colo. App. 186; Shepherd vs. Pepper, 133 U.S. 626; State ex rel. Twigg vs. Superior Court, 34 Wash. 643.
+The plaintiffs’ motion for a deficiency judgment of $10,-970.12 is granted.
