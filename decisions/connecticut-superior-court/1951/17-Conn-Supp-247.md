@@ -1,0 +1,44 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 88791"
+decided: "1951-06-06"
+citations: ["17 Conn. Supp. 247"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Northeastern Gas Transmission Company v. Harold A. Bancroft et al."]
+source_url: "https://static.case.law/conn-supp/17/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321796
+cites_cases: ["101 Conn. 356", "43 Conn. 110", "69 Conn. 424", "71 Conn. 270", "85 Conn. 602", "89 Conn. 196"]
+---
+
+# Northeastern Gas Transmission Co. v. Bancroft
+
+## Majority (TROLAND, J.)
+
+TROLAND, J.
+On January 24, 1951, the plaintiff brought its petition to this court returnable the first Tuesday of February, 1951, as a step in its endeavor to secure a right of way for the construction, operation and maintenance of a natural gas pipe line across certain lands of the defendants.
+■ The plaintiff is empowered by an act concerning natural gas pipe line companies, passed by the General Assembly and approved May 26, 1950, to take by eminent domain such land, rights of way, easements or other interests in land in this state necessary for such purposes, provided it complies with certain provisions of said act. The portion of said act to which the attention of the court has been drawn by the plea to the jurisdiction reads in part, as follows: “If any such corporation and the person or persons to whom damages may arise from any taking under the provisions of this Act of any land, right of way, easement or other interest in land shall be unable to effect an agreement on the amount of such damages, such corporation may prefer a petition to the Superior Court in the county in which the property lies . .. praying that such compensation may be determined, which petition shall describe such property to be taken and the use to which it is to be devoted. ...” Plaintiff’s petition contains an allegation that “the petitioner and said owners have been unable to effect an agreement on the amount of such damages.”
+In view of the discussion hereafter, it is significant to note at this point that the petition does not describe the property to be taken except as to the width of the way. Its length and proposed location through the extensive property of the defendants is not stated. In apparent explanation of this shortcoming, the petitioner alleges its attempt to obtain permission from the owners of the land to enter upon the same for the purpose of making a survey to determine the exact location of said right of way and that the owners have refused and been unwilling to permit such entry and such survey.
+On February 27, 1951, the petitioner moved the court for an order permitting it to enter immediately on the lands of the defendants for the purpose of making a survey of the rights of way described, and on April 16, 1951, the court (Daly, J.) denied said motion on the ground that the court was without power to grant it.
+Thereafter, on May 8, 1951, the petitioner filed an application under § 5 of the act above mentioned, directing that the applicant be permitted to enter immediately upon “the property to be taken ... to devote such property temporarily to the public use specified . . . upon the deposit with the Court of a sum to be fixed by the Court, and until the determination of such proceedings.” On May 24 the defendants filed a motion that all proceedings in the case be stayed, for reasons therein set forth.
+The two last-mentioned motions came on for hearing together by the court on May 29, 1951. At the beginning of the hearing, counsel for the defendants orally called the attention of the court to what was claimed to be an apparent lack of jurisdiction of the court to proceed further. After some discussion between counsel, the court determined to hear evidence on the point raised and later authorised defendants to file a written plea to the jurisdiction.
+The evidence produced established the following facts:
+1. On January 10, 1951, a land agent of the plaintiff called at the home of the defendants and requested of’Mrs. Bancroft permission to enter upon the land to make a survey for location of a pipe line.
+2. The agent discussed minor details of 'the proposed survey, and stated that it would involve the cutting of brush and small trees but no large trees would be cut.
+3. Mrs. Bancroft stated that she did not want, a pipe line on her property and refused to grant permission for a survey without consultation with her husband.
+4. The land agent requested that the defendants agree to meet with some of their neighbors and a representative of the company on the following Sunday. This arrangement was agreed to, but on the day before was cancelled by the company’s representative.
+5. The land agent did not talk price. He made no offer for the land. He did not ask Mrs. Bancroft to submit a price. He did not invite discussion of a price.
+6. The land agent did not again renew his request for a survey.
+7. On Sunday, January 18, 1951, another land agent of the company was present at the home of a neighbor of the defendants by invitation, and the defendants were invited there by the neighbor and at this gathering the survey of land for a pipe line was discussed. At this meeting a request was made of the Ban-crofts by the land agent for permission to survey on their land and it was refused.
+8. At the meeting January 18, 1951, no mention was made of a price by the company’s agent.
+9. The plaintiff had available federal geodetic survey maps, an aerial survey showing the land in question and land use data from the Farmington assessor’s office concerning the Bancroft property, and the vice president and chief engineer of the company had observed the land from the highway.
+10. No price or offer to purchase the right of way on any basis was ever submitted to the Bancrofts by the company.
+11. No price at which they would sell was ever submitted by the Bancrofts to the company.
+12. The company was unwilling to submit a figure until after a survey.
+13. The company made no effort to get in touch with the Bancrofts after receiving reports from its agents that survey permission was refused.
+Reasonable effort on the part of the company to obtain the land it desires by argeement is a condition precedent to the right to take the land. New York N. H. & H. R. Co. v. Long, 69 Conn. 424-438. The statute intends that there shall be a fair endeavor on the part of the plaintiff to acquire the property for itself, and for the purposes indicated, by agreement with the owner of the property as to the price, before a proceeding of this kind shall be instituted. The fact that the parties in this case are unable to effect an agreement on the amount of damages is a jurisdictional fact. Without proof of it the petition should be dismissed. Connecticut College v. Alexander, 85 Conn. 602, 605. The burden of proving this jurisdictional fact of inability to agree is upon the plaintiff. The measure of this burden is the exhaustion of all reasonable efforts to obtain the land it desires, by agreement. New York, N. H. & H. R. Co. v. Long, supra. The plaintiff has failed to show a reasonable effort on its part to agree on damages for the taking. With this view of the case, it is the duty of the court to find that it has no jurisdiction and to dismiss the petition.
+The plaintiff objected to the filing of the plea to the jurisdiction, both as to time and form, but the court allowed such filing. A jurisdictional defect may be taken advantage of at any time, and directly or collaterally. Whenever a court discovers it has no jurisdiction, it is bound to dismiss the case, without regard to previous rulings. Chzrislonk v.New York, N. H. & H. R. Co., 101 Conn. 356, 358; Hazzard v. Sallucci, 89 Conn. 196, 200; Wheeler v. New York, N. H. & H. R. Co., 71 Conn. 270, 282. Common sense teaches that a question so vital as jurisdiction should be decided preliminarily to all others. Counsel, in objecting to the filing of the written plea in this case and to the granting thereof, have urged that it was a mis' nomer, it was too late, that a proper plea would have been a plea in abatement, and that it was too late for this. Whether the document filed is technically misnamed or not, it serves to bring to the notice of the court a challenge to its jurisdiction. This is proper by motion or otherwise at any stage of the case. It is not matter of adversary nature to be regarded with dis' favor, like a dilatory plea. It is for the interest of the court to know as early as possible that it has no jurisdiction. If this information does not come early, it must not be rejected if it comes late. Olmstead’s Appeal, 43 Conn. 110, 114.
+The plea to the jurisdiction is sustained for the reasons therein stated.
+The petition of the plaintiff is dismissed.
