@@ -1,0 +1,34 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File No. 9838"
+decided: "1948-06-01"
+citations: ["15 Conn. Supp. 410"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Wolk v. Liquor Control Commission"]
+source_url: "https://static.case.law/conn-supp/15/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 707549
+cites_cases: ["123 Conn. 31", "134 Conn. 555"]
+---
+
+# Wolk v. Liquor Control Commission
+
+## Majority (FITZGERALD, J.)
+
+FITZGERALD, J.
+Plaintiff operates the Imperial Package Store at 21 Congress Avenue, in Waterbury, under a package store permit issued by the defendant commission. Upon a hearing before the commission on November 24, 1947, this permit was ordered suspended on the following day for the period of two months, one month of which was held in obeyance for one year on a condition stated. The ground of suspension reads: “. . . . by reason of UNSUITABILITY OF PERSON because of a violation of Section 57 of the Regulations of the Commission in that you did sell alcoholic liquor to a person who was purchasing such liquor for the purpose of reselling the same.”
+Briefly stated the evidence before the commission was that on different occasions during August and September, 1947, the plaintiff had hold from his stock beer and hard liquor to one Francis Brennan who operated the Farmer’s Home Restaurant at 1397 East Main Street in Waterbury. Brennan at the time had a restaurant permit issued by the commission but was on the delinquent list. At the hearing the plaintiff did not deny the sales to Brennan. The evidence supports a finding that the plaintiff knew that Brennan in turn would sell the liquor to his own customers at his place of business.
+On this appeal the plaintiff claims that the action of the commission in suspending his permit was improper, reciting the usual grounds for reversal in a case of this character. Specifically, his principal claim in argument before the court is that § 57 of the regulations, upon which the action of the commission is based, is illegal in that it exceeds the scope of power given the commission to adopt regulations and that its action thereunder should be set aside. While paragraph 6 of the complaint would seem to indicate that this question was not involved, the court nevertheless will treat the appeal as putting in issue this aspect.
+“The Liquor Control Act was originally passed in 1933 as a substitute for chapter 151 of the General Statutes, which dealt with enforcement of the liquor laws during prohibition. The act has been subjected to frequent amendment. Its purpose is to license, regulate and control the manufacture, distribution and sale of intoxicating liquor.” Downer v. Liquor Control Commission, 134 Conn. 555, 556. General Statutes, Sup. 1943, § 524g, (amending § 1019c, Cum. Sup. 1935), confers upon the commission the power “to make all needful rules and regula' tions” to enforce the Liquor Control Act “and for carrying out, enforcing and preventing violation of, all or any of” its provi' sions; and § 1020c, Cum. Sup. 1935, provides that every such regulation “shall have the same force and effect as law, unless and until set aside by some court of competent jurisdiction or revoked by the commission.”
+Section 57 of the regulations under consideration, including a parenthetical note thereto, reads: .
+“RESTRICTION OF SALES. No alcoholic liquors shall be sold, offered for sale or delivered by any package store permittee, backer or agent except upon and from the permit premises, or removed therefrom by the purchaser except during the hours of sale as permitted by Statute, nor shall any liquors be removed from the authorized place of storage except to the permit premises and only during the hours permitted by Statute.
+“No permittee shall sell or deliver any alcoholic liquors to any person who is purchasing such liquors for the purpose of resell' ing the same. (Italics by the court.) (This regulation has been adopted to prevent the delivery of unlawful sales or the taking of orders or doing business other than on the permit premises.)”
+It has already been stated that the evidence before the com' mission discloses that the plaintiff on different occasions sold beer and hard liquor to Brennan, a delinquent restaurant permittee. Some of these sales also involved deliveries to the restaurant. The second paragraph of the regulation, italicized for emphasis, was clearly contravened. Its validity as a regulation remains to be considered.
+The plaintiff contends that the statutes comprising the Liquor Control Act as it presently exists do not make unlawful the sale of alcoholic liquor by a package store permittee to a restaurant permittee for resale by the latter, as in the case at bar. He directs the court’s attention to § 646h of the 1945 Supplement to the General Statutes and argues that, while this statute prohibits specified permittees (including package store and restaurant per' mittees) from purchasing for resale alcoholic liquor from one other than a holder of a manufacturer or wholesaler permit, it does not in terms prohibit a sale by a permittee such as the plain' tiff to another permittee in Brennan’s classification for resale by the latter.
+So far as is material to the discussion, this statute, including its caption, reads: “PURCHASE FOR RESALE. No person holding a package store, druggist, tavern, restaurant, hotel, club or temporary permit shall purchase for resale alcoholic liquor except from a person holding a permit {in the classification of manufacturer or wholesaler}, provided any permittee going out of business may, upon application to and approval by the liquor control commission, sell all or part of his stock in trade to any permittee authorized by law to retail the kind of liquors so sold.”
+Notwithstanding the caption of the statute, which refers to “purchase for resale,” its contents as quoted are not restricted to prohibiting purchases for resale only. The provision commencing with the words “provided any permittee going out of business may,” to the end of the sentence quoted, clearly prohibits a permittee such as the plaintiff from selling any or all of his stock to a permittee such as Brennan unless the conditions prescribed are satisfied, two of which are: (1) he was going out of business; (2) he did so upon application to and approval by the commission.
+The intent of the lawmakers is sufficiently manifested in the terms of the statute; see Downer v. Liquor Control Commission, supra, 561; and the regulation meets the standard requirements of validity as prescribed in the rules stated in Loglisci v. Liquor Control Commission, 123 Conn. 31, 37.
+The argument of the plaintiff fails.
+Judgment may enter affirming the action of the commission in suspending the permit, and dismissing the appeal.
