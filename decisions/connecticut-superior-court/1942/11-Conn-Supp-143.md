@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 14526"
+decided: "1942-07-24"
+citations: ["11 Conn. Supp. 143"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM C. NOYES vs. IRVING SLOSBERG"]
+source_url: "https://static.case.law/conn-supp/11/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343284
+---
+
+# Noyes v. Slosberg
+
+## Majority (BALDWIN, J.)
+
+Memorandum of decision in action to recover damages for negligence of driver of gasoline delivery truck in connection with fire during delivery.
+BALDWIN, J.
+On August 12, 1941, and prior thereto, the plaintiff was the owner of premises located at 315 Laurel Hill Avenue in Norwich, upon which premises, under the trade name of Noyes Motor Car Company, he maintained and operated a sales and show room for automobiles and automobile accessories, a general automobile repair and service station, garages for the storage of automobiles and a gasoline service station. Upon these premises was an underground gasoline tank, the capacity, of which was 540 gallons, which tank was owned by' the defendant and leased to the plaintiff, to which tank was connected a combination intake and vent pipe.
+This combination intake and vent pipe, or filler pipe, as the combination is sometimes called, consists of two metal pipes, one being within the other. The intake, being the smaller and the inner pipe, has an inside diameter of two inches; the outer pipe has a sufficiently larger inside diameter to ’form a space between its inside surface and the outside surface of the intake pipe of approximately one'half inch. A metal cap having six holes, each approximately one'quarter inch in diameter, secures the two pipes together at the upper or outer end of the com' bination intake and vent pipe, which projects above the surface of the ground approximately six inches, where this end of the pipes so secured together is covered or closed by a metal cap attached thereto and secured by a padlock. The outside pipe of this combination at its lower end has screw threads cut therein, by means of which it is attached to the tank, and the space between the inside surface of this pipe and the outside surface of the intake and the six holes at the upper end constitute the vent for air and vapor to escape when the tank is being filled.
+With the right condition of atmosphere and temperature, vapors escaping from a gasoline tank may become inflammable, which may become ignited by a flame or by an electric spark.
+About 4:30 p.m. on August 12, 1941, an employee of the defendant drove a gasoline tank truck with a supply of gasoline to the plaintiff’s place of business for the purpose of delivering gasoline, and having driven the truck into position from which to deliver a supply of gasoline, he attached a 15-foot hose to one of the tank compartments of the truck and inserted the nozzle on the hose into the intake pipe of the underground tank and turned the valve at the truck, permitting the gasoline to flow through the hose into the underground tank. Very shortly a flame was observed coming from or just over the intake pipe.
+This intake pipe was located only about six inches from the plaintiff’s building and it was also only a few inches from a door opening into the building, which door at the time was open.
+After turning on the gasoline, having set the meter for a delivery of 300 gallons, the defendant’s employee stepped to the cab of the truck, where he secured a pad of delivery slips, and after some brief conversation with the plaintiff’s bookkeeper about a slip, the defendant’s employee observed the flame. In the meantime the plaintiff and one of his employees had observed the flame, and plaintiff’s employee had secured a Foamite fire extinguisher and applied that to the flame. The flame, when first discovered, was approximately six or eight inches in diameter and it extended to a height of four or five feet. Applications of the extinguisher brought it down to a small flame about six inches in height. Vapor escaping from the vent pipe, ignited by an electric spark, caused the flame. The defendant’s employee, having shut off the gasoline, proceeded toward the intake pipe, and taking hold of it about four feet from the nozzle, lifted the nozzle from the intake pipe, and immediately some gasoline, still flowing from the nozzle, became ignited, and this employee gave the nozzle end of the hose a throw into the open door of the plaintiff’s building, the flaming gasoline igniting the doorway and the building, causing a complete destruction of the plaintiff’s place of business.
+The conduct of the defendant’s employee was not that of a reasonably prudent person under the circumstances. It was negligent, and this negligence was the cause of the plaintiff’s damage.
+As a result of the fire the plaintiff sustained a heavy loss, not only resulting from the buildings and their contents which were destroyed, but from the interruption to the conduct of his business for a long period of time. The plaintiff claims his loss aggregates $26,750, and that the following items of loss aggregating that amount should be found:' damage to buildings, $6,650; damage to personal property, $5,100; loss of business, $15,000. I find the damage to building, including removal of debris, to be $6,650, and the damage to personal property, including automobiles, to be $5,100, and the loss sustained from the interruption in the conduct of his business to be $12,500, making a total of $24,250, for which damages judgment may enter for the plaintiff.
