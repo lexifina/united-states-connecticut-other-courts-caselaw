@@ -1,0 +1,28 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 211075"
+decided: "1985-04-19"
+citations: ["40 Conn. Supp. 333"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward Vagini v. Insurance Company of North America"]
+source_url: "https://static.case.law/conn-supp/40/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1655699
+cites_cases: ["101 A. 509", "158 Conn. 364", "178 Conn. 262", "186 Conn. 632", "187 Conn. 715", "192 Conn. 451", "193 Conn. 442", "260 A.2d 596", "292 N.E.2d 776", "31 N.Y.2d 411", "340 N.Y.S.2d 630", "422 A.2d 311", "443 A.2d 471", "447 A.2d 752", "472 A.2d 1257", "476 A.2d 582", "534 P.2d 1", "92 Conn. 1"]
+---
+
+# Vagini v. Insurance Co. of North America
+
+## Majority (Melville, J.)
+
+Melville, J.
+The plaintiff, Edward Vagini, brings this action against the defendant, the Insurance Company of North America, to recover the value of a stolen car pursuant to the theft provision of the insurance policy issued to him by the defendant. The plaintiff, a used car dealer, bought a 1980 Cadillac in March of 1981. The car was stolen from his lot on March 31, 1981. The plaintiff reported the theft to the Milford police department, which discovered that the car had previously been reported stolen. The defendant has filed a special defense, claiming that the plaintiff had no insurable interest in the car since it was a “stolen car” when purchased by him. The plaintiff moves for summary judgment on the issue of liability alone. The defendant objects and moves for summary judgment in its favor.
+Summary judgment may be granted where the pleadings, affidavits, and other proof show that there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law. Fogarty v. Rashaw, 193 Conn. 442, 445, 476 A.2d 582 (1984). A material fact is one that will make a difference in the case. Yanow v. Teal Industries, Inc., 178 Conn. 262, 268-69, 422 A.2d 311 (1979). The burden of showing the nonexistence of any material fact is on the moving party. Burns v. Hartford Hospital, 192 Conn. 451, 455, 472 A.2d 1257 (1984). In order to meet this burden, the movant must accompany the motion with supporting documents, such as affidavits and disclosures. Practice Book § 380.
+The court’s function, in ruling on the motion, is to determine whether an issue of material fact exists, not to resolve such issues. Telesco v. Telesco, 187 Conn. 715, 718, 447 A.2d 752 (1982). The motion should be denied unless the evidence is such that no room for disbelief could exist in the minds of the jurors. Batick v. Seymour, 186 Conn. 632, 647, 443 A.2d 471 (1982).
+The parties’ motions raise the issue of whether the plaintiff had an insurable interest in the 1980 Cadillac. There is no reported Connecticut case law concerning the issue of whether one can have an insurable interest in a stolen car. Other jurisdictions have come to different conclusions on that issue. The general rule is that a purchaser must acquire good title in the vehicle in order to have an insurable interest. See, e.g., Ernie Miller Pontiac, Inc. v. Home Ins. Co., 534 P.2d 1 (Okla. 1975). A true owner cannot be divested of title by theft of his property and can recover the stolen property from the purchaser. Id., 2. The court in Ernie Miller Pontiac, Inc., maintained that a purchaser of stolen property does not have a lawful interest and, therefore, does not have an insurable interest. Id., 3.
+Other jurisdictions maintain that a purchaser may have an insurable interest in a stolen vehicle if the purchase was made in good faith. See, e.g., Scarola v. Ins. Co. of North America, 31 N.Y.2d 411, 292 N.E.2d 776, 340 N.Y.S.2d 630 (1972). The rationale behind this view is that the insurable interest is based upon an economic interest in protecting the money paid for the vehicle or upon a possessory interest against all but the true owner. Id. The Scarola court quotes the following passage from 44 C.J.S., Insurance § 175 (b): “In general a person has an insurable interest in the subject matter insured where he has such a relation or connection with, or concern in, such subject matter that he will derive pecuniary benefit or advantage from its preservation, or will suffer pecuniary loss or damage from its destruction, termination, or injury by the happening of the event insured against. Great liberality is indulged in determining whether a person has anything at hazard in the subject matter of the insurance, and any interest which would be recognized by a court of law or equity is an insurable interest.” Scarola v. Ins. Co. of North America, supra, 413.
+The court is of the opinion that the Scarola view should be applied inasmuch as it appears to be consistent with the policy of this state. See Plum Trees Lime Co. v. Keeler, 92 Conn. 1, 101 A. 509 (1917).
+The plaintiff paid a substantial sum of money for the vehicle. He would therefore suffer pecuniary loss by its destruction or loss. See Scarola v. Ins. Co. of North America, supra, 413. If the plaintiff purchased the car in good faith, he had an insurable interest in it. Id.
+In view of this conclusion, there remains a question of fact as to whether the plaintiff purchased the car in good faith. The answer to that question is material to the defendant’s special defense. Summary judgment is particularly inappropriate in cases where inferences to be drawn deal with motive, intent, and feelings. United Oil Co. v. Urban Redevelopment Commission, 158 Conn. 364, 376, 260 A.2d 596 (1969). Accordingly, the motions for summary judgment are hereby denied.
