@@ -1,0 +1,30 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CR 1-5326"
+decided: "1963-02-06"
+citations: ["1 Conn. Cir. Ct. 591", "24 Conn. Supp. 353"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["In this opinion Kinmonth and Kosicki, Js., concurred."]
+parties: ["State of Connecticut v. Arthur Lucas"]
+source_url: "https://static.case.law/conn-cir-ct/1/cases/0591-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12141642
+cites_cases: ["105 Conn. 115", "117 So. 2d 544", "24 Conn. Sup. 94", "257 Mich. 319", "272 App. Div. 96"]
+---
+
+# State v. Lucas
+
+## Majority (Dearington, J.)
+
+Dearington, J.
+The defendant appeared in the trial court pro se. In his appeal, he has assigned error in the failure of the court to advise him of his constitutional rights and statutory privilege against self-incrimination and in its failure to give him an opportunity to cross-examine one Stevens, who was arrested with the defendant and whose trial followed that of the defendant.
+The defendant finds no fault with the finding or with the conclusions but asserts as a matter of law that the court erred in respect to both his claims. It is evident that the procedure provided in Rule 7.29 of the Circuit Court for the assignment of errors has not been followed. The finding does not present the issues raised by the defendant. In such a case, we resort to the transcript only under exceptional circumstances. Maltbie, Conn. App. Proc. $ 131. The defendant’s position would have been subject to our review as a matter of right only if he had moved to correct the finding so as to present his present claims of error. However, because he raises fundamental questions and no objection has been made, his contentions in this instance will be considered.
+So far as they are important to the legal issues before us, the facts found may be summarized as follows: The defendant and Stevens were engaged in an altercation, resulting in the arrest of both. They were arraigned together. The defendant entered a plea of not guilty to the charge of breach of the peace. General Statutes § 53-174. Stevens pleaded guilty to breach of the peace but not guilty to aggravated assault. § 53-16. Immediately following the pleas, a trial of both cases ensued. The defendant was tried first and was called by the state as its only witness. Stevens then took the stand and testified in his own behalf, after which each was found guilty and sentence followed. The defendant did not examine Stevens, but Stevens asked the defendant a few questions.
+With reference to the first claim of error, article first, § 9, of our constitution provides in part as follows: “He [the accused] shall not be compelled to give evidence against himself.” Section 54-84 of the General Statutes provides in part as follows: “Any person on trial for crime shall be a competent witness, and at his or her option may testify or refuse to testify upon such trial.”
+We recognize that the policy of the privilege against self-incrimination has been debated vigorously in other jurisdictions and much has been said for and against it. In some jurisdictions it has been held to be the duty of the trial judge to inform the defendant who is without counsel of his constitutional right and statutory privilege not to take the stand and testify. Cochran v. State, 117 So. 2d 544, 546 (Fla). Other jurisdictions have held that failure to warn a witness of his constitutional rights to refuse to answer questions on the ground of self-incrimination is not of itself an error but there may be circumstances that require such warning. People v. Smith, 257 Mich. 319, 323; 8 Wigmore, Evidence §§2251, 2269 (McNaughton Rev. 1961). We have said that ordinarily the failure to advise a witness of his right not to give self-incriminating evidence is not an error in itself. State v. Bell, 24 Conn. Sup. 94, 97. In that ease, the state had produced evidence against the defendant and rested its case before the defendant was asked if he wished to testify in his own behalf. While a defendant is not required to testify, he may waive this privilege and voluntarily testify in his own behalf, but when he does testify, he subjects himself to the same rule as applies to any other witness. State v. Feinberg, 105 Conn. 115,120.
+While a general rule requiring the court to advise a witness of his rights and privileges against self-incrimination may not be applicable to all circumstances and conditions, we conclude that when, as here, the state’s case rested solidly on the testimony of the defendant, no prima facie case having then been made out, the defendant should have been advised of his privilege and rights. Particularly is this so when, as here, the entire testimony of the defendant was such as was elicited by the state. In this situation, there would be some doubt, absent a full explanation, that the defendant was voluntarily testifying in his own behalf. In People v. Morett, 272 App. Div. 96 (N.Y.), two defendants were charged with the crime of bookmaking in separate informations. Neither was represented by counsel. One of the defendants. was directed to take the stand, and the other defendant was invited to take the stand. It was held error not to advise the defendants of their privilege against testimonial compulsion. We conclude that in the instant case the failure to advise the defendant of his privilege against self-incrimination was prejudicial. In view of our conclusion as to this claim, consideration of the remaining claim is not necessary.
+In setting aside the conviction in this case, we are not called upon to decide, nor do we decide, whether the evidence is sufficient to sustain the judgment of guilty. On the contrary, we have confined our review to the determination whether the claimed error under consideration was prejudicial, and we have concluded that it was.
+There is error, the judgment is set aside and a new trial is ordered.
+In this opinion Kinmonth and Kosicki, Js., concurred.
