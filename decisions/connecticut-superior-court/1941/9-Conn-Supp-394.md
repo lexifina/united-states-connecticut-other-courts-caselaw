@@ -1,0 +1,26 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 65130"
+decided: "1941-06-03"
+citations: ["9 Conn. Supp. 394"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANNA DONNARUMMO vs. ASSOCIATED REALTY CORPORATION"]
+source_url: "https://static.case.law/conn-supp/9/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1341736
+cites_cases: ["128 Conn. 68"]
+---
+
+# Donnarummo v. Associated Realty Corp.
+
+## Majority (FOSTER, J.)
+
+FOSTER, J.
+On April 23, 1940, and for some years prior thereto and at the present time, there was and is in New Haven a large factory building bounded by four streets, one of which is Wallace Street. This building is occupied by numerous manufacturing concerns, and there are several different entrances to the building. On the fourth floor of the building is a dress manufacturing concern by which the plaintiff was and is employed. The employees of this concern and other concerns entered and left the building by an entrance designated as 73 Wallace Street. As one here enters the building there are two doors, the upper half of which is of wire glass. Just inside the doors there is a flight of stairs consisting of twenty steps leading to a spacious landing. From this landing there are different passageways leading to parts of the building on that floor and to different stairways to upper floors.
+On April 23, 1940, at noon, the plaintiff came down to the landing and then started to descend the stairs to the entrance. She testifies that she put her right foot on the first step and then her left foot on the second step and then fell to the foot of the stairway and was injured. She testifies that there were seven or eight girls descending the steps at the same time, most of whom had reached the foot of the stairway; one girl was behind her; one girl was on her right on the same step with her. She testifies that she did not use the hand rail; that she never uses the handrail; that the girl on her right was between her and the handrail. She testifies: “I could not tell you what caused me to fall.” No witness testifies as to what caused the plaintiff to fall.
+There is some similarity in this state of the evidence to the case of O’Brien vs. H. L. Green Company, 128 Conn. 68. In that case the court said (p. 69): “She offered no evidence except her own that her fall was due to the slippery condition of the floor.” Here the plaintiff does not even offer her own testimony as to what caused her to fall.
+The plaintiff offers evidence that the stairway and step in question were out of repair and that the defendant did not maintain a reasonable amount of light upon the stairway. It appearing in all of the evidence in the case that the condition on the stairway is the same now as on April 23, 1940, the court, with consent of counsel for plaintiff and defendant, inspected the premises. It is not the kind of stairway that would be suitable for a dwelling house. It is the sort of stairway one would expect to find in a factory building. The stairway is six feet wide, constructed of hard wood and has an iron railing on each side. The lowest step is six feet from the outside doors. The treads are eleven and one-half inches wide, and the risers are seven and one-quarter inches high, except the top riser, which is six and one-half inches high. There are knots and nailheads in the treads, but none of these protrude above the surface of the wood. The nosing of the treads has been worn smooth and from long use the treads are slightly uneven. Upon walking, up and down the stairs one has a feeling that the treads are level and that the stairway is solidly and substantially constructed, so that it does not shake when being used by one weighing over two hundred pounds. There is an electric light at the top of the stairway and one at the bottom. The plaintiff claims that these lights were not burning at the time she fell. This the defendant disputes. The court examined the stairs with the lights burning and with the lights extinguished. When the lights are burning there is an abundance of light. When the lights are extinguished the stairway is reasonably well lighted. Such natural light comes from the windows in the doors at the foot of the stairs and from a window in the outside of the building at the end of a short passageway leading from the landing at the head of the stairs. The photographs, defendant’s exhibits one and two, were taken by natural light by Joseph Howard Candee between four and five p.m. on April 26, 1940. These photographs show that there was a reasonable amount of light upon the stairs under such conditions. The stairs were inspected by an agent of the defendant at least twice each day. The plaintiff is not a tall woman. She testifies that at the time she fell she weighed two hundred fifteen pounds. Defendant’s counsel suggest that she might not have been able to see her feet as she walked and might so have miscalculated her step.
+I find that the plaintiff has faffed to prove the essential allegations of her complaint as to liability of the defendant by a fair preponderance of evidence.
+Judgment is rendered in favor of the defendant against the plaintiff.
