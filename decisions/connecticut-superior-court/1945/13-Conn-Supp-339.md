@@ -1,0 +1,36 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 68133"
+decided: "1945-07-18"
+citations: ["13 Conn. Supp. 339"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HOPE HENDERSON de GOLYER vs. ANTHONY G. de GOLYER"]
+source_url: "https://static.case.law/conn-supp/13/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1344829
+cites_cases: ["122 Conn. 155", "125 Conn. 84", "13 Conn. Sup. 262", "97 A.L.R. 1197"]
+---
+
+# de Golyer v. de Golyer
+
+## Majority (KING, J.)
+
+KING, J.
+On February 29, 1940, the plaintiff obtained a decree of divorce from the defendant in the Supreme Court of New York. The decree provided for the payment of attorneys’ fees in the aggregate amount of $1,750, for the payment of $200 in lieu of so-called “alimony arrears” and for alimony of $150 a month ($100 on March 5, 1940) beginning April 15, 1940.
+On February 14, 1944, the plaintiff, still a resident of New York, brought this action against the defendant, now and for several years last past continuously a resident of Old Greenwich, Connecticut, seeking equitable enforcement of the alimony provisions of the divorce decree rendered in New York under the rule of German vs. German, 122 Conn. 155; s.c. 125 id. 84; and Kline vs. Kline, 13 Conn. Sup. 262.
+It was in effect admitted that the defendant had fully performed that part of the decreee providing for the payment of the attorneys’ fees. It was also substantially undisputed that (D the defendant had paid only $60 under that part of the decree awarding the plaintiff “alimony arrears”, thus leaving a net arrearage under this head of $140; and (2) tinder that part of the decree providing for alimony proper the defendant had made the payments due in 1940, had paid $695 on the payments due in 1941, had paid nothing on the payments due in 1942, had paid $200 on the payments due in 1943, had paid $90 on the payments due in 1944, and had paid nothing on the payments due in 1945. In other words, the total pay' ments made for alimony proper accruing from and after January 1, 1941, aggregated $985.
+The total gross payments of alimony proper under the decree from January 1, 1941, through June 30, 1945, would amount to $8,100. Deducting the $985 paid leaves a net arrearage in alimony proper of $7,115. There is also due the arrearage in “alimony arrears” of $140.
+Thus the total net arrearage under all parts of the New York decree through June 30, 1945, is $7,255, and as to this figure there was no real dispute.
+The defendant is a metallurgical engineer, now about 57 years old, presently in fair health for his age, and hopes to find employment in some section of this country or in Canada at a salary of $10,000 or more a year. In the past he has had, at times, considerably larger earnings. His employment has required his residence from time to time in different states of this country.
+The plaintiff procured a Mexican divorce in 1936 or 1937, and the defendant, at that time, agreed upon a property settle' ment with the present plaintiff of $10,000. Subsequently the invalidity of this divorce was discovered, but the defendant in the meantime had remarried. The defendant paid the $10,000 to the plaintiff but over a period of years instead of in a sub' stantially lump sum payment as the plaintiff testified without contradiction had been agreed upon. The plaintiff used up most of this money for current living expenses because, as she claimed, she did not have it as a lump sum available for use as capital to start a business with which to support herself as the parties had agreed.
+The New York divorce was secured on the ground of adultery, the adultery consisting of the admitted cohabitation incident to the marriage entered into by the defendant after the Mexican divorce.
+The defendant had had a series of financial reverses since the New York divorce, with some ill health. He has not been financially able to keep up his payments, but rather than spend the money to attempt a modification of the New York decree has allowed matters to run along as hereinbefore indicated. He has lived fairly well, pays a rather high rental for his home, but has subsisted in large part on loans made by his friends who had faith in his ultimate ability to obtain employment. There have been periods when he could and should have made some payments to the plaintiff over and above the small amounts which he has paid. It was quite obvious that he has no intention of enduring any personal hardship in order to meet the payments under the court order. Indeed it is unlikely that he will accord to his obligations under the court decree that priority over his other credit liabilities which the law requires, without the education of jail experience.
+Under the law of New York, as under our own law, a decree providing for periodic alimony payments is subject to modification as to future payments upon proof of change of circumstances in certain respects. German vs. German, 122 Conn. 155, 164. Past due payments, on the other hand, constitute vested property rights not subject to modification, and it is only such payments which are enforceable in another jurisdiction. This eliminates from consideration any order or decree for the payment of installments not yet accrued. Id. 165.
+There was no evidence from which it could reasonably be found that the defendant could make substantial payments at this time or at any reasonably ascertainable future date. He may, and expects that he will, obtain employment which will enable him so to do, but this is problematical. Whether or not such employment will involve his removal from Connecticut is equally problematical. Upon the evidence presented it would be utterly absurd to order this defendant to pay the amount of accrued arrears or any substantial part of it at this time.
+At this present time there is no occasion for equitable interference, and an order in equity should not enter. German vs. German, 125 Conn. 84, 86; 1 Pomeroy, Equity Jurisprudence (5th ed. 194.1) §237d, p. 436.
+Counsel for the plaintiff specifically and unequivocally, in response to questions by the court,. stated that the plaintiff did not wish the rendition in her favor of “a judgment simply for damages, enforceable as in an action at law by execution.” German vs. German, 125 Conn. 84, 86; 1 Pomeroy, Equity Jurisprudence (5th ed. 1941) §§237d, 237e, pp. 436-442. Such a judgment would not differ, in essence, from a money judg* ment for the past due installments.
+It follows that there is no occasion for the granting of any relief to the plaintiff at this time. If the plaintiff is able later on to show that this defendant has funds from which to make substantial payments on account of the alimony arrearage, she may then institute a suit to obtain equitable relief to compel the making of such payments. If the defendant is then in Connecticut, but not otherwise, such action would be brought in a Connecticut court.
+Whether such an action would lie in another state or nation would depend on the law of the forum. Anno. 97 A.L.R. 1197; 109 id. 652.
+Judgment may enter for the defendant.
