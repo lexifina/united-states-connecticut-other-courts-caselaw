@@ -1,0 +1,31 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File No. 45349"
+decided: "1945-01-26"
+citations: ["13 Conn. Supp. 214"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GERALD A. RODE vs. JENNIE M. SIGNOR"]
+source_url: "https://static.case.law/conn-supp/13/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1344811
+cites_cases: ["104 Conn. 355", "110 Conn. 443", "122 Conn. 641"]
+---
+
+# Rode v. Signor
+
+## Majority (CULLINAN, J.)
+
+CULLINAN, J.
+Centuries of judicial analysis and interpretation have never varied the elements essential to an action predicated on misrepresentation. They continue to be: (1) a misrepresentation made as a statement of fact; (2) that it was untrue and known to be untrue by the party making it; (3) that it was made for the purpose of inducing the other party to act upon it; (4) that the latter was in fact induced to act thereon; and (5) that he did so act to his injury. Helming vs. Kashak, 122 Conn. 641, 642, 643.
+To be sure, there has been a slight extension of this early yet constant definition of misrepresentation in that false representations are now said to include those relied and acted on to one’s loss, when the same have been made knowingly and recklessly with intent to deceive, or on unreasonable or groundless belief in their truth. Laukaitis vs. Klikna, 104 Conn. 355, 359.
+The plaintiff, seeking recovery by reason of the claimed misrepresentations of the defendant, must, if he is to prevail, establish his cause within this broad framework surrounding the doctrine of misrepresentation.
+To this end he says, with greater fervor than conviction, that he purchased the defendant’s commercial rooming house property under her misrepresentation as to the weekly income therefrom. Moreover, he alleges a further misrepresentation in the defendant’s claimed statement that the weekly rooming house rents, being charged and collected at the date of his purchase, represented ceiling rents established by the Office of Price Administration, when, in truth, they were charges in excess of the maximum rates permitted in the Bridgeport defense area. In consequence, the plaintiff claims a monetary loss through his inability to collect the represented income, as well as additional loss through a government order to lower his rents to conform to established ceiling rates. Finally, he seeks to recoup an alleged depreciation in the value of his holding.
+The property, which is the subject of the litigation, came to the defendant, as a record holder, on or about October 10, 1943. Thereafter, Mrs. Signor, who actually owned a one-eighth interest in the premises, continued to retain record title as the agent of a group, who shared ownership of the remaining seven-eighths interest. In short, the defendant, by reason of complex family circumstances, accepted absolute title as a temporary expedient against an early day when the property might be sold.
+Within three weeks after acquiring title, Mrs. Signor, on three distinct occasions, publicly advertised the property for sale. At no time did she manage or operate the rooming house business, nor did she check its actual rental income. Broadly speaking, she knew that the business produced a gross income of approximately $400 a month; a figure which had been quoted her by a deceased sister as well as by her daughter, who assisted in the management of the enterprise. Never, however, did she analyze the financial detail minutely, since her sole interest was in finding a purchaser who would relieve her of a burdensome title to an unwanted holding.
+The plaintiff became interested in the property through the solicitation of a real estate broker. He now says that he was induced to purchase only after Mrs. Signor represented the weekly income to be $100 a week, and only after she represented the rental charges as having been approved and fixed as ceiling rates by the Office of Price Administration.
+The fundamental issue is factual, requiring a determination of the probabilities of the transaction. The plaintiff’s cause has not been established by the better evidence. On the contrary, I am convinced that Mrs. Signor made no false representation to the plaintiff when she stated that the business was producing a gross return of $400 per month. An analysis of the rooming house income demonstrates that this figure was not only a reasonable approximation but also a conservative estimate, since the gross return was slightly in excess of the indicated sum. If the plaintiff construed $400 a month as 'the equivalent of $100 a week, then his mathematical miscalculation cannot be said to be a misrepresentation of the defendant. Too, I have not been persuaded of any misrepresentation by Mrs. Signor concerning permissible rentals within the intendment of regulations of the Office of Price Administration.
+According the plaintiff’s version of the incident, the most generous construction, I could find nothing more than an honest error by Mrs. Signor with a bona fide belief in its truth. Surely her representations, assuming they had been made, were without knowledge or culpable ignorance of their falsity. Her belief in their truth, once again assuming their existence, was based on adequate grounds. In such situation, the party making the representations is not to be charged with liability. Behrmann vs. Behrmann, 110 Conn. 443, 445.
+On November 30, 1943, the plaintiff purchased the Signor property. Thereafter, for approximately eleven weeks, he continued to receive the weekly rates which were charged at the date of his purchase. Desirous of enhancing his gross income, he, at that latter point, effected substantial increases ' which quickly engulfed him in a wave of protest from irate roomers. The uncompromising machinery of price control was quickly set in motion to halt what was said to have been an illegal and unwarranted series of overcharges. This circumstance, rather than Mrs. Signor’s misrepresentations, may fairly be said to be the root of the plaintiff’s difficulty.
+judgment may enter for the defendant to recover of the plaintiff her costs.
