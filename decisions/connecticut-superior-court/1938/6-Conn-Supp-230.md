@@ -2,7 +2,7 @@
 court: "Connecticut Superior Court"
 docket: "File #6026"
 decided: "1938-07-14"
-citations: ["6 Conn. Supp. 230", "6 Conn. Supp. 243"]
+citations: ["6 Conn. Supp. 230"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["STATE OF CONNECTICUT vs. T. FRANK HAYES, ET AL."]
 source_url: "https://static.case.law/conn-supp/6/cases/0230-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1314805
-cites_cases: ["104 N.W. 116", "104 N.Y.S. 482", "110 N.Y.S. 793", "118 Ky. 1", "12 Gray (Mass.) 167", "126 App. Div. 72", "141 Ill. 270", "156 N.E. 84", "16 Ark. 534", "16 Conn. 457", "177 N.E. 306", "195 Atl. 497", "245 N.Y. 24", "257 N.Y. 54", "258 Pac. 226", "27 L.R.A. (N.S.) 558", "27 L.R.A. 82", "30 N.E. 1027", "30 S.W. (2d) 59", "53 Misc. 158", "55 Conn. 579", "6 Conn. Sup. 215", "6 Conn. Sup. 227", "6 Conn. Sup. 230", "60 A.L.R. 1356", "63 Ind. 327", "71 Am. Dec. 741", "80 S.W. 211", "81 Ohio St. 397", "91 N. E. 186"]
+cites_cases: ["104 N.W. 116", "104 N.Y.S. 482", "110 N.Y.S. 793", "118 Ky. 1", "12 Gray (Mass.) 167", "126 App. Div. 72", "141 Ill. 270", "156 N.E. 84", "16 Ark. 534", "16 Conn. 457", "245 N.Y. 24", "27 L.R.A. (N.S.) 558", "30 N.E. 1027", "53 Misc. 158", "55 Conn. 579", "6 Conn. Sup. 215", "6 Conn. Sup. 227", "63 Ind. 327", "71 Am. Dec. 741", "80 S.W. 211", "81 Ohio St. 397", "91 N. E. 186"]
 ---
 
 # State v. Hayes
