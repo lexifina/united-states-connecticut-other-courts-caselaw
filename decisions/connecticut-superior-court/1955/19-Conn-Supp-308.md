@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 101292"
+decided: "1955-03-07"
+citations: ["19 Conn. Supp. 308"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shirley Noonan et al. v. Thomas Galick et al."]
+source_url: "https://static.case.law/conn-supp/19/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1324964
+cites_cases: ["114 Conn. 262", "305 Mich. 58", "320 Ill. App. 475", "80 Ala. 505"]
+---
+
+# Noonan v. Galick
+
+## Majority (Phillips, J.)
+
+Phillips, J.
+In this action an attempt is made to hold a permittee for the sale of liquor liable in common-law negligence for serving intoxicating liquors to the plaintiff in such quantities as to make her intoxicated and for serving them to her while intoxicated; and also in statutory negligence for serving her intoxicating liquors while intoxicated in violation of General Statutes, § 4293, and for serving such liquors to her after legal hours in violation of § 4296. It is alleged that in consequence of such negligence the plaintiff was subsequently run over while lying in the highway. Section 4307 of the General Statutes, which makes the seller of liquor to an intoxicated person liable to a person injured by the purchaser, is not directly involved in this case, as it is the intoxicated person herself who is here suing. The defendant has demurred to so much of the complaint as seeks to hold the permittee liable.
+The plaintiff has cited no case at common law which renders the seller of intoxicating liquor liable under such circumstances. There is abundant authority for the proposition that no remedy exists against the dispenser of liquor for injuries and damage resulting from the acts of an intoxicated person except to the extent provided by statute. See 48 C.J.S. 716, § 430, and cases cited. The rule is based on the theory that the proximate cause of the injury is the act of the purchaser in drinking the liquor and not the act of the vendor in selling it. Ibid. To provide a remedy in such cases, the so-called civil damage acts, or “dram shop acts” have been passed in numerous states, including Connecticut. General Statutes § 4307.
+If there is no remedy at common law against the seller in favor of one injured by the purchaser of liquor, certainly there can be none in favor of the intoxicated person himself. In such a case, not only is the act of selling the liquor not the immediate cause of the injury, but if it were, the contributory negligence of the plaintiff himself would be a defense to the action as a matter of law. King v. Henkie, 80 Ala. 505.
+Though there are few cases directly in point in the country, and none in Connecticut, the court has no hesitation in holding that in so far as the complaint endeavors to set up a common-law action of negligence against the defendant permittee, it is demurrable.
+As to the allegations of statutory negligence by reason of the violation of §4293 (selling liquor to an intoxicated person) and § 4296 (selling liquor after hours), a like conclusion is reached. While in general the violation of a statute is negligence per se, there are limitations to this rule. In order to base a recovery upon negligence in violation of a statute, it must appear that the injury suffered was of a nature which the statute was intended to guard against. Gonchar v. Kelson, 114 Conn. 262, 264. It is extremely doubtful if these provisions in our Liquor Control Act were intended to guard an intoxicated person from personal injury. Rather, they were passed in pursuance of a broader public policy for the protection of the public at large. But even assuming that the purpose of these provisions was to protect an intoxicated person, the same barrier to a recovery by the purchaser of liquor would arise as in an action based on common-law negligence, namely, the absence of proximate cause and the existence of contributory negligence as a matter of law.
+Entirely aside from the above, our legislature has enacted a provision creating a remedy against the seller of liquor to an intoxicated person in favor of one whom the latter has injured. General Statutes § 4307. Had it desired to extend this remedy, unknown to the common law, to the intoxicated person himself, it would have done so in this statute. It is not hard to see why the legislature has not so provided if one contemplates the vast number of claims which would be urged by drunks if they were entitled to recover for every expense or injury that is the natural concomitant of intoxication. Holmes v. Rolando, 320 Ill. App. 475. Not having provided such a remedy in § 4307, the legislature could hardly have intended that it should be created by indirection through the violation of §§ 4293 and 4296, for which criminal penalties are specified. In Malone v. Lambrecht, 305 Mich. 58, 62, the court held that a provision of the Liquor Control Act making it unlawful to sell liquor to an intoxicated person did not give a right of action against the seller to such intoxicated person for injury sustained while he was intoxicated. “The statute does not so provide. Whether such a provision should be embodied in our statute is within the province of the legislature, not the courts.”
+The demurrer of the defendant Emanuel Maddalena to the cause of action set forth in paragraph 7 of the first count of the complaint is sustained.
