@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+decided: "1967-03-16"
+citations: ["27 Conn. Supp. 63"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Bernard Badwick"]
+source_url: "https://static.case.law/conn-supp/27/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1765818
+---
+
+# State v. Badwick
+
+## Majority (By the Division.)
+
+By the Division.
+The defendant, age 21 years, pleaded guilty to thirteen counts contained in four different informations a,s follows: at Waterbury, one count of breaking and entering with criminal intent and four counts of breaking and entering a dwelling in the daytime; at-New Haven, one count of breaking and entering a dwelling in the daytime; in Fairfield County, one count of breaking and entering with criminal intent; and in Litchfield County two counts of breaking and entering a dwelling in the daytime, three counts of breaking and entering with criminal intent, and one count of larceny of goods exceeding in value $250 but not exceeding $2000.
+The court on the Waterbury information imposed an effective state prison sentence of not less than three nor more than twelve years; on the New Haven information, a sentence of not less than three nor more than four years, concurrent with the sentence on the Waterbury information; and on the Fairfield County information, an effective sentence of not less than three nor more than four years, concurrent with the sentence on the Waterbury information. The court on the Litchfield County information imposed an effective sentence of not less than two nor more than nine years, to take effect at and after the sentence on the Waterbury information.
+The maximum sentence for breaking and entering with criminal intent and also for breaking and entering a dwelling in the daytime is four years. General Statutes U 53-76, 53-73. The maximum sentence for larceny of goods exceeding the value of $250 but not exceeding $2000 is five years or a fine of $500 or both. General Statutes § 53-63.
+The defendant, from November, 1964, to December, 1965, broke into various places and dwelling houses in Southbury, Waterbury, Middlebury, Bethany, Shelton, Roxbury and Bridgewater in the counties of New Haven, Fairfield and Litchfield. On those various occasions he was accompanied by one or more participants. The defendant and his companions took various items from these places such as cash, cigarettes, radio, television sets, cameras, guns and golf clubs. In their operation, they checked to see if anyone was at home and, if not, they made the illegal entry. The defendant was finally caught in December, 1965, in the act of breaking and entering.
+This defendant received an effective state prison sentence, on all informations, of not less than five nor more than twenty-one years. Two of the other participants received similar minimum sentences, but the defendant has the largest maximum sentence. The other participants, with varying past records and degrees of involvement, received sentences to the reformatory and the state jail, some of which were suspended.
+One of the offenses was committed while the defendant was out on bond awaiting sentences on the other offenses in Superior Court. The defendant has a bad conduct discharge from the United States navy and an adult record including breach of the peace, theft and possession of stolen goods. The prior record of the defendant that was before the court contained some inaccuracies and duplications which have been discovered by the diligence of defendant’s attorney. In one instance, a conviction of the defendant’s father was erroneously charged against the defendant. Counsel has also pointed out that this defendant’s participation in the offenses was not as dominant as some of the others and argues that a state prison sentence of the length imposed may not serve any effective or valuable purpose as far as defendant’s rehabilitation is concerned.
+The multiple felony offenses are of an aggravated nature and have seriously affected the rights and security of a large number of persons. The long maximum would, of course, ensure that the defendant would be under the jurisdiction of the parole board for a long period of time. However, if there is any possibility of rehabilitation, we are inclined to believe that the “law of diminishing returns” comes into play when too staggering a sentence is imposed upon a person who is just twenty-one years of age. Because of this and because the sentencing court did not have all the facts when imposing sentence, we feel that the sentence should be modified.
+Accordingly, it is hereby ordered that sentence on the information in Waterbury, No. 9114, should be modified and that the defendant should be resentenced by the Superior Court, on the first count to not less than three nor more than four years in state prison, on the second count to one year, on the third count to one year, on the fourth count to one year, and on the fifth count to one year, making an effective sentence of not less than three nor more than eight years in state prison. The sentences on the other informations are to remain the same, making the total sentences an effective sentence of not less than five nor more than seventeen years instead of not less than five nor more than twenty-one years in state prison.
+Palmer, Healey and Barber, Js., participated in this decision.
