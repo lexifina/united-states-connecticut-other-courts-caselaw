@@ -1,0 +1,35 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 1682; File No. 1683; File No. 1684"
+decided: "1953-01-30"
+citations: ["18 Conn. Supp. 239"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Paul W. Fultz State of Connecticut v. William H. Ahlers State of Connecticut v. Paul W. Ridzon"]
+source_url: "https://static.case.law/conn-supp/18/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1323986
+cites_cases: ["126 Conn. 22", "134 Conn. 694", "136 Conn. 49", "138 Conn. 582", "35 Conn. 314", "96 Conn. 605", "98 Conn. 522"]
+---
+
+# State v. Fultz
+
+## Majority (King, J.)
+
+King, J.
+These three cases were presented on January 9, 1953, upon an oral stipulation of fact after pleas of not guilty and election of trial by the court.
+Each of the accused took an appeal from a decision of the City Court of Rockville finding him guilty of a violation of an ordinance of the city of Rockville the material portion of which reads as follows:— “No person shall park or leave stationary on any public sidewalk within the City of Rockville, any motor vehicle, trailer or other object so as to obstruct or interfere with the use of, or pedestrian traffic upon, such sidewalk.”
+The stipulated facts included the following:—
+1. The ordinance (if constitutional in its provisions) was legally enacted and its enactment was authorized by the provisions of the charter of the city of Rockville.
+2. Each of the accused was a truck driver, operating a tractor-trailer truck, and each parked his tractor-trailer outfit across a public sidewalk in Rockville so as completely to obstruct pedestrian travel thereon for a continuous period of several hours. This occurred both in daylight and at night. It was not done maliciously but was done intentionally and deliberately for the purpose of loading the trailer with a cargo of wood products, such as church furniture and pews, from the plant of a company in Rockville which has been engaged in the manufacture of the same since a time some months prior to the enactment of the ordinance.
+3. The ordinance was adopted on November 12, 1952, and its effective date was December 1, 1952.
+4. While it is not material on the issue of guilt or innocence, no claim is made by the company (admittedly the real party in interest in each of these prosecutions) that it did not know of the enactment of the ordinance or of the purported applicability of its prohibitory terms to the method of loading pursued at the company’s plant. While each of the accused is charged with a single offense, the parking complained of was a routine operating method of •the company.
+5. Since the effective date of the ordinance, the company has erected at its plant a loading platform so designed, constructed and located that the company will not again have occasion to violate the terms of the ordinance in the operations of its plant.
+6. Prior to the construction of this loading platform, it was not convenient or practical to load the trailer trucks except by so parking them that they completely blocked the public sidewalk.
+7. The products of the company have a national distribution, and are carried by trailer truck to purchasers scattered throughout the United States.
+The basic claim of these accused is that the ordinance is unconstitutional because in violation of the fourteenth amendment of the constitution of the United States. It may be noted at the outset that the accused have assumed a heavy burden in raising this issue. Northeastern Gas Transmission Co. v. Collins, 138 Conn. 582, 586. They base their attack on the claim that the terms of the ordinance prohibit a person from leaving “stationary on any public sidewalk . . . [any] object so as to obstruct or interfere with the use of, or pedestrian traffic upon, such sidewalk”; and that this language would cover not merely a motor vehicle but also any other object, large or small, such, for example, as a trash can.
+In the first place it may be noted that the word “park” has reference to vehicles and not to trash cans. Secondly, the words “leave stationary” are inapt words to use in reference to any objects other than vehicles. They would hardly apply to trash cans. See, for example, General Statutes §4200. Thirdly, the ordinance does not purport to prohibit the leaving stationary of an object on a sidewalk, but only the doing of such an act when it obstructs or interferes with the use of the sidewalk. Fourthly, even if the ordinance is susceptible of the construction claimed it is a proper exercise of the police power since the city of Bockville (like all other Connecticut municipalities) is charged with the duty of exercising reasonable care to have and keep its sidewalks reasonably safe for normal travel by pedestrians. This duty might be found to have been breached if even a relatively small object (of a character such as to render the sidewalk not reasonably safe for normal pedestrian travel) made the sidewalk defective, assuming the object had remained in place long enough for a finding of constructive notice. See, for example, cases such as Ward v. Hartford, 134 Conn. 694. Indeed, the language complained of here is no more inclusive than that in our statute as' to obstructions in highways. General Statutes § 4200.
+The defendant seems to claim that the ordinance might be valid if restricted to nuisances. The mere failure to characterize the prohibited action as a nuisance is immaterial. Constitutionality depends upon substance and not upon mere nomenclature. It is difficult to conceive of a greater nuisance than a complete obstruction of the entire sidewalk such as existed here, maintained uninterruptedly for several hours, during all of which time all pedestrian traffic was admittedly forced off the sidewalk and out into the dangers of that portion of the highway open to use both by vehicles and pedestrians. State v. Merrit, 35 Conn. 314, 316; Ratti v. P. Berry & Sons, Inc., 98 Conn. 522, 524. And it must be remembered that sidewalks are for the exclusive use of pedestrians. Caschetto v. Silliman & Godfrey Co., 126 Conn. 22, 24.
+Fifthly and finally, the defendants have no right to attack a legislative enactment as unconstitutional unless they can show that its enforcement against them has violated or will violate their constitutional rights. Their only involvement with the ordinance arises out of their total obstruction of a public sidewalk by trailer trucks for continuous periods of several hours’ duration. Whether the statute is unconstitutional as applied to the leaving of other objects, or even the parking of trailer trucks for short periods, upon a sidewalk is of no concern to them nor have they any standing to raise the point. As to them it is obviously constitutional and a proper, if not absolutely necessary, exercise of the police power. State v. Sinchuk, 96 Conn. 605, 615; Carroll v. Socony-Vacuum Oil Co., 136 Conn. 49, 59.
+Each of the accused is found guilty as charged.
