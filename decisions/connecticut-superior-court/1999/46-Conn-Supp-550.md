@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. CV96-0055574S"
+decided: "1999-08-19"
+citations: ["46 Conn. Supp. 550"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANTHONY E. BASILICATO v. STATE OF CONNECTICUT ET AL."]
+source_url: "https://static.case.law/conn-supp/46/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1128084
+cites_cases: ["115 A.2d 671", "139 Conn. 20", "139 Conn. 515", "142 Conn. 497", "172 Conn. 492", "193 Conn. 7", "374 A.2d 1101", "475 A.2d 257", "60 Conn. App. 503", "760 A.2d 140", "89 A.2d 558", "95 A.2d 378"]
+---
+
+# Basilicato v. State
+
+## Majority (HON. GEORGE W. RIPLEY II, JUDGE TRIAL REFEREE.)
+
+HON. GEORGE W. RIPLEY II, JUDGE TRIAL REFEREE.
+The plaintiff, Anthony E. Basilicato, appeals from the denial by the state board of firearms permit examiners (board) of his application for a pistol permit pursuant to General Statutes § 4-183 of chapter 54 of the General Statutes, the Uniform Administrative Procedure Act, General Statutes § 4-166 et seq.
+The plaintiff, desiring to carry a pistol, first applied to the chief of police of the town of West Haven pursuant to General Statutes § 29-28. In that application dated March 16, 1996, the plaintiff made mention of the fact that he had been treated for mental or emotional problems, that he had lpst time from work resulting from stress, and that he had been disabled from working since October 1, 1991, because of the condition. On May 30, 1996, Sergeant Ralph Meliso of the West Haven police department requested that the plaintiff obtain from his stress management counselor a letter indicating that she saw “no problems with the possessing or carrying of a handgun.” The plaintiff declined to comply with that request, and the chief of police or his authorized representative declined to issue the permit. Under § 29-28 (b), the chief of police has the obligation before issuing a permit to an applicant to determine that such applicant “is a suitable person to receive such permit. ...”
+Following notice that the chief of police was withholding the permit because of the plaintiffs failure to provide the requested information, the plaintiff appealed to the board, as provided by General Statutes § 29-32b. Under that statute, the board is required to determine the facts de novo and, if it finds that the refusal of the permit was without just and proper cause, it is empowered to order the issuance of the requested permit.
+The plaintiff in his application to the board again set out his involvement with stress management activities, and the board thereafter held the de novo hearing on August 7, 1996, with the plaintiff presenting his evidence. The board determined that the chief of police appropriately withheld the permit on the basis of the plaintiff’s failure to furnish the chief of police with the requested information. The board found that the consideration of an applicant’s mental and emotional stability is relevant to determine suitability to possess a pistol permit.
+It should be noted that the court’s function in determining appeals from administrative agencies is sharply circumscribed. The court does not try the matter de novo. It is not the function of the court to adjudicate questions of fact, nor may it substitute its own conclusions for those of the appeals referee or the board of review. It may go no further than to determine whether the administrative officer or board acted unreasonably, arbitrarily or illegally. Guevara v. Administrator, Unemployment Compensation Act, 172 Conn. 492, 495, 374 A.2d 1101 (1977); Lanyon v. Administrator, Unemployment Compensation Act, 139 Conn. 20, 28, 89 A.2d 558 (1952). The court is bound by the findings of subordinate facts and the reasonable conclusions of fact made by the administrative officer. Bartlett v. Administrator, Unemployment Compensation Act, 142 Conn. 497, 505, 115 A.2d 671 (1955); Carper v. Administrator, Unemployment Compensation Act, 139 Conn. 515, 520, 95 A.2d 378 (1953). The purpose of the statutory scheme is “to protect the safety of the general public from individuals whose conduct has shown them to be lacking the essential character or temperament necessary to be entrusted with a weapon.” (Internal quotation marks omitted.) Dwyer v. Farrell, 193 Conn. 7, 12, 475 A.2d 257 (1984). Since the statutory scheme makes such a determination relevant to the issuance of a permit, the chief of police and the board acted appropriately on the plaintiff’s application when the plaintiff failed to provide the requested information for evaluation by the chief of police and the board. The determination of the board as to the plaintiffs suitability to possess a permit is subject to great deference. See Guitton v. Commissioner of Public Safety, Superior Court, judicial district of Stamford-Norwalk, Docket No. 131083 (July 21, 1994).
+As to the plaintiffs claims for damages arising out of the denial of his application, the court notes that under the statutes providing for appeals from administrative agencies, the court’s authority is limited solely to the determination of whether the agency lawfully applied the statutes applicable to the agency’s action.
+The court finds that the record herein supports the conclusion of the board, and the appeal accordingly is dismissed.
