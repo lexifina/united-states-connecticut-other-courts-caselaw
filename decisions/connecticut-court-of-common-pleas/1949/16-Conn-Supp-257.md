@@ -1,0 +1,30 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File No. 47463"
+decided: "1949-06-17"
+citations: ["16 Conn. Supp. 257"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Aldo J. Saporiti v. Zoning Board of Appeals of the Town of Manchester"]
+source_url: "https://static.case.law/conn-supp/16/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1320877
+cites_cases: ["115 Conn. 581", "117 Conn. 527", "118 Conn. 174", "119 Conn. 182"]
+---
+
+# Saporiti v. Zoning Board of Appeals
+
+## Majority (CULLINAN. J.)
+
+CULLINAN. J.
+Intending to engage in the retail sale of cemetery monuments and memorials, Mr. Saporiti, in the fall of 1945, applied to the town of Manchester for a building permit to erect a one-story office and display room at 470 Center Street, Manchester. The necessary permit issued since the proposed location was and is properly situated in a business zone; construction was completed in midsummer 1946; and immediately thereafter Mr. Saporiti began his retail operation.
+In the fall of 1947, residents of the area complained to the building inspector of the community since it was contended that Mr. Saporiti was violating the zoning ordinance applicable to a business district in that he was using a compressor and sand blasting equipment to letter monuments with names of deceased persons, dates and other pertinent family data. An order was ultimately issued by the town’s building inspector requiring Mr. Saporiti to cease the offensive operation; appeal from that order was taken by Mr. Saporiti to Manchester’s board of appeals on zoning; the action of the building inspector as the zoning enforcement officer was sustained; and thus the matter is before me on Mr. Saporiti’s appeal from the decision of the board of appeals on zoning.
+Section 6 of Manchester’s Zoning Regulations provides, among other details, that (1) In a business zone, no building shall be used except as a retail shop and personal service establishment, or as a shop for the making of articles incidental to the conduct of a retail business on the premises, if not more than four employees are engaged in the manufacturing process. (2) Specifically excluded from a business zone are “stone yard and monument works”. (3) Specifically excluded from a business zone are businesses or services which are detrimental to the neighborhood because of noise, vibration, smoke, dust, odor, fumes or other characteristics.
+Mr. Saporiti’s contentions, when summarized, appear to follow three avenues of approach: (a) his lettering of monuments, by use of a compressor and blasting equipment, constitutes an operation incidental to the conduct of a retail business; (b) he is not operating a stone yard or monument works within the prohibitory intendment of the zoning regulations; and (c) his operation is not detrimental to the neighborhood by reason of vibration caused through use of the indicated mechanical equipment.
+In reviewing the action of a zoning board of appeals, the trial court’s function is limited to a determination of whether the board acted arbitrarily or illegally or in an abuse of its discretion. Blake v. Board of Appeals, 117 Conn. 527, 532. It is fundamental that the burden of showing that a zoning board of appeals has acted improperly is on him who pursues the appeal. Perdue v. Zoning Board of Appeals, 118 Conn. 174, 178.
+Construing Mr. Saporiti’s claims in a light most favorable to him, it can scarcely be argued with any plausibility that his lettering operation is merely incidental to the conduct of a retail business. “Incidental” in its accepted sense, implies a casual or subordinate act; hence not of prime concern. Surely use of mechanical appliances resulting in the blowing with air of sand or abrasive material cannot be said to constitute a fortuitous or accessory happening. The evidence indicates that Mr. Saporiti customarily carries a stock of fifty monuments, all of which are on display for selection by prospective costumers; that 99 per cent of his transactions are sales from stock on display; that each memorial requires lettering and blasting to cause it to be adapted to individual needs; that preparation of each monument necessitates use of the compressor for at least one-half hour; and that the compressor is in operation at least ten hours each month. This activity, obviously, is an integral and essential part of Mr. Saporiti’s service and is in no sense an incidental matter.
+Likewise I am unable to find merit in Mr. Saporiti’s claim that he is not operating a “monument works” within the meaning of the zoning regulations. Expert testimony discloses that a genuine difference or distinction between a retail monument shop and monument works is non-existent; that the designation of the establishment is a matter of terminology only; and that, functionally speaking, both can be and frequently are identical.
+Finally, I must conclude that there was ample evidence before Manchester’s zoning board of appeals on zoning to justify its conclusion that Mr. Saporiti is operating a business detrimental to the neighborhood because of noise and vibration. It must be remembered that his business premises adjoin a residence “A” zone whose residents are entitled to peace, tranquility and zoning protection.
+In construing zoning regulations, the object of restrictions and exceptions must always be considered. Darien v. Webb, 115 Conn. 581, 585. That individual hardship may flow to Mr. Saporiti, while a matter for regret, fails to justify' disturbing the action of the zoning authorities. Individual hardship and loss are a necessary accompaniment of zoning in any community. Such loss, however, must be borne to make possible the broader advantages secured to the community as a whole. Osborn v. Darien, 119 Conn. 182, 185.
+There is nothing in the record to suggest illegality, arbitrariness or abuse of discretion. Accordingly, judgment may enter dismissing the appeal and the defendants are to recover of the plaintiff their costs.
