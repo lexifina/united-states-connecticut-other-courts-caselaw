@@ -1,0 +1,30 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #53856"
+decided: "1937-10-21"
+citations: ["5 Conn. Supp. 301"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BOARD OF EDUCATION OF THE TOWN OF STAMFORD vs. BOARD OF FINANCE OF THE TOWN OF STAMFORD, ET AL."]
+source_url: "https://static.case.law/conn-supp/5/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1313405
+cites_cases: ["10 Conn. 389", "99 Conn. 484"]
+---
+
+# Board of Education v. Board of Finance
+
+## Majority (SIMPSON, J.)
+
+SIMPSON, J.
+This is an action brought by the Board of Education of the Town of Stamford against the Town of Stamford and the Board of Finance of the Town of Stamford in which the plaintiff seeks a declaratory judgment defining its powers, duties and obligations more particularly with regard to its power to make up a budget for the management and con' duct of the schools in the Town of Stamford, of which it has such management and conduct, and when the budget is so made, whether the Board of Finance has power to reduce the budgets as so made. It appears from the complaint that there are serious disputes among the parties upon these questions, particularly as to whether the Board of Finance may decrease the budget of the Board of Education. McDonald vs. New Haven, 99 Conn. 484.
+The defendants have filed joint pleas in abatement and to the jurisdiction, in which it is alleged that no statute or law authorises the Board of Education to sue or be sued, and likewise that no statute or law authorises the Board of Finance to sue or be sued, and that the Superior Court has no jurisdiction in the premises because there is no party plaintiff in the action. The plaintiff has denied these allegations, although they might have been met by demurrer.
+That the Town as the School District of the Town of Siam' ford may be sued in any proper action may be conceded. In fact,' the statute so provides. (Cum. Sup. Sec. 291c.) The Board of Finance of the Town of Stamford, as created, is vested by statute with certain powers and duties. It is there' fore a quasi municipal corporation. Some of its claimed powers are being questioned in the action, and even if strictly speaking it might not be sued alone, it is- an interested party. As the Town may be sued in any proper action, the whole writ ought not to be abated, because, if it be a fact, one of the parties, although an interested party, may not be sued.
+It is clear that under our declaratory judgment law and rules of court thereunder, that this Court has jurisdiction of the subject matter.
+As the Town as the School District may be sued in any proper matter, it remains for consideration whether the Board of Education of the Town of Stamford may bring this action to have its powers and duties defined, and thereby settle the disputes that have arisen. That a question of large public interest is involved is manifest.
+The Board of Education is an agency of the State and empowered with certain specific powers and duties. Formerly school districts were the exclusive agency for conducting the schools. Now under the Town Plan Management, part of those duties and powers with which the school district was invested by statute have been divided, part upon the Town as a School District, and part on the Board of Education as an agency of the law. Thus the Town as the School District and the Board of Education have certain duties and powers, each in its own sphere.
+In the case of McLoud vs. Selby, 10 Conn. 389, the question whether or not a school district was liable to be sued was involved. No law at that time authorised it to sue or be sued. It was held that the school district was a quasi corporation, and that the power given it to make contracts settled the question as to whether it could be sued, even though there was no express statutory authority empowering it to be sued or to sue.
+In the instant case the Board of Education is expressly given power by statute to make certain contracts. It is an agency of the law and a quasi corporation. One of the powers given it is to make contracts with the Boards of Education of adjoining towns for the instruction of children of the adjoining town. It does not seem possible that the Board of Education may not be sued to enforce such a contract. This does not mean and the Court does not intend to imply that the Board of Education in the instant case might be sued upon all the contracts it might make. Some of them might be made as the agency of the Town as a School District. In such cases the suit might properly be brought against the Town as the School District. McDonald vs. New Haven, supra. In this action the power to hire and discharge teachers is invested in the Board of Education, and for the purpose of assisting the Town to make up the rate of taxation it must make up a budget of its expenses. Where a question has arisen as'to its pówer in this respect, it would seem strange indeed if it could not bring an action in this Court to have its powers and extent thereof defined.
+The other ground of abatement is that the Board of Finance was not properly served. There is no question as to the service upon the Town as the School District. The plea in abatement is defective in that it does not allege in what manner the Board of Finance should have been served, if at all. Aside from this, however, it appears that service of the process was made upon the Chairman of the Town Board of Finance. As the Board was being sued as such, and not the individual members thereof, it does not appear how it should have been otherwise served.
+Under the circumstances, the Court does not deem it necessary to consider the plaintiff’s claim that the plea in abatement superseded the plea to the jurisdiction, both having been filed at the same time, but in view of the fact one of the pleas appears to make both claims, both of the pleas as filed are overruled.
