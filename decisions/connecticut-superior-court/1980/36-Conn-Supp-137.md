@@ -1,0 +1,32 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 174629"
+decided: "1980-01-24"
+citations: ["36 Conn. Supp. 137"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Regal Steel, Inc. v. Farmington Ready Mix, Inc., et al."]
+source_url: "https://static.case.law/conn-supp/36/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1664997
+cites_cases: ["136 Conn. 670", "30 Conn. Sup. 126"]
+---
+
+# Regal Steel, Inc. v. Farmington Ready Mix, Inc.
+
+## Majority (Mancini, J.)
+
+Mancini, J.
+The plaintiff’s employee sustained injuries as the result of the collapse of steel columns and has received workmen’s compensation benefits. The plaintiff has filed this action to recover sums paid by it pursuant to the Workmen’s Compensation Act. The complaint alleges that the injuries suffered by the employee were due to the defendants’ negligence in constructing and maintaining steel columns and in installing anchor bolts connecting the columns to a concrete foundation. The defendant East Hartford Equipment Corporation (hereinafter sometimes referred to as the defendant) has asserted as a special defense that. §11 of Public Acts 1979, No. 79-483 (hereinafter P.A. 79-483), An Act Concerning Product Liability Actions, bars the present action. Additionally, that defendant pleads the employee’s negligence as a defense. The plaintiff now moves to strike the defense of negligence on the ground that it is irrelevant and immaterial, and the defense of the public act on the ground that the present action is one in negligence, not product liability.
+The defendant argues that inasmuch as the present action falls within the definition of a product liability claim contained in P.A. 79-483 § 1 (b), the plaintiff is precluded from bringing this suit because an employer no longer has a right of subrogation against a third party in a product liability claim. P.A. 79-483 §11 (e).
+A product liability claim is one for “personal injury . . . caused by the manufacture, construction, design, formula, preparation, assembly, installation, testing, warnings, instructions, marketing, packaging or labeling of any product,” and includes actions based in, inter alia, strict liability in tort, negligence and breach of warranty. P.A. 79-483 § 1 (b). The plaintiff alleges that the accident and injuries suffered by its employee were the result of the defendants’ negligence either in constructing and maintaining the steel columns by utilizing improper bolts to connect the column to the concrete foundation, or in installing the bolts improperly. Construction and installation fall within the scope of the act.
+A product liability claim, however, replaces negligence and warranty actions against product sellers only. P.A. 79-483 §2 (a). A product seller is a “manufacturer, wholesaler, distributor or retailer who is engaged in the business of selling . . . products,” and includes lessors or bailors of products. P.A. 79-483 §1 (a). A manufacturer is one who designs, assembles, fabricates, constructs, processes, packages or otherwise prepares a product prior to its sale to a user. P.A. 79-483 § 1 (e). The pleadings nowhere contain allegations which would bring the defendants within the definition of a product seller, and, in light of the information before the court, it appears unlikely that they are product sellers. Accordingly, the plaintiff’s claim is not one in product liability and the motion to strike the second special defense of the defendant East Hartford Equipment Corporation is granted.
+The plaintiff’s right to bring this action is grounded in § 31-293 of the General Statutes, the Connecticut Workmen’s Compensation Act, which provides the employer with an independent cause of action against a third party to recover benefits paid. General Statutes § 31-293; Stavola v. Palmer, 136 Conn. 670. The plaintiff bases its motion to strike the defense of its employee’s negligence on the grounds of irrelevancy and immateriality. These are not proper grounds for such a motion. Practice Book, 1978, § 152. It is assumed for purposes of this memorandum that the plaintiff is challenging the legal sufficiency of this defense.
+The Connecticut courts have not addressed the issue of whether the negligence of a non-party employee is a defense to an action brought by the plaintiff employer in a workmen’s compensation situation. If the plaintiff were subrogated to the employee, the defense of contributory negligence would lie. 2A Larson, Workmen’s Compensation Law (1976), Third Party Actions §75.21. Similarly, were this action brought by the employee, his own negligence could be raised. Ibid. In Connecticut, however, the employer’s right of action is derived from the employee’s right. Stavola v. Palmer, 136 Conn. 670, 678. Accordingly, “the right of the employer depends upon the employee’s right to the extent that he has no cause of action unless the employee . . . has a cause of action, and he cannot recover any more than the employee himself . . . could recover.” Ibid. Inasmuch as the comparative negligence of an employee would limit his recovery, it should be allowed to stand as a defense against the plaintiff employer.
+The plaintiff’s motion to strike the defendant’s special defense alleging the employee’s negligence is denied.
+The court should note that both defendants subsequently moved to strike the complaint on the basis of Public Acts 1979, No. 79-483. Only the plaintiff's motion to strike was placed on the short calendar list. A ruling on this motion, however, is decisive as to the others.
+Maintenance of such a defect is clearly outside the act’s reach, thus entitling the plaintiff to pursue this action as to that claim. In light of the discussion which follows finding this action as one not covered by P.A. 79-483, that distinction is a minor point.
+Although the plaintiff makes this argument only in its memorandum in opposition to the defendant Farmington Ready Mix, Inc., it is equally applicable to the defendant East Hartford Equipment Corporation.
+It should be noted that the plaintiff has failed to allege any statutory basis for his claim, in violation of § 109A of the 1978 Practice Book.
+It has been held that the contributory negligence of a coemployee may not be imputed to the employer in its suit to recover benefits paid. Perruccio v. Nadeau, 30 Conn. Sup. 126.
