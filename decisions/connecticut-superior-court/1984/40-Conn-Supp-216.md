@@ -1,0 +1,37 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 38518"
+decided: "1984-12-20"
+citations: ["40 Conn. Supp. 216"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jeffrey P. Tunick v. Day, Berry & Howard et al."]
+source_url: "https://static.case.law/conn-supp/40/cases/0216-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1655733
+cites_cases: ["113 Cal. Rptr. 561", "150 Conn. 457", "157 Cal. Rptr. 435", "160 Conn. 391", "190 Conn. 48", "191 A.2d 124", "279 A.2d 565", "294 A.2d 344", "30 Conn. Sup. 501", "38 Cal. App. 3d 579", "39 Conn. Sup. 167", "459 A.2d 503", "472 A.2d 812", "95 Cal. App. 3d 836"]
+---
+
+# Tunick v. Day, Berry & Howard
+
+## Majority (Pickett, J.)
+
+Pickett, J.
+The plaintiff, Jeffrey P. Tunick, commenced this action on October 18, 1983, against the defendant law firm, Day, Berry & Howard, and against Attorney James F. Stapleton individually, for legal malpractice. In the four count complaint, the plaintiff alleges that the defendants failed to exercise reasonable care, diligence and skill in representing the plaintiff, both in litigation and in his business activities.
+On August 6, 1984, the defendants filed objections to the plaintiffs interrogatories and request for production primarily on the ground of attorney-client privilege. The court, on September 17,1984, sustained the objections in part, and overruled them in part.
+On September 4,1984, the plaintiff noticed the depositions of Stapleton and Attorney Daniel S. Matos and filed a notice to produce the same documents that were the subject of the court’s September 17, 1984 order. The defendants objected again to the production of any documents on the ground of attorney-client privilege.
+The plaintiff filed a motion for clarification of the court’s previous discovery order and requested the court to rule that the documents sought are not protected by attorney-client privilege. On October 19,1984, the court ordered the defendants to disclose the specific items requested in the plaintiffs motion for clarification.
+On October 30,1984, the plaintiff noticed the depositions of Matos, John B. Nolan and F. Lee Griffith, with accompanying notices to produce various documents. The present motion before the court is a second motion for clarification and order for compliance filed by the plaintiff. The plaintiff requests the court to order an in camera inspection of the documents previously ordered disclosed, and to determine whether the defendants’ claim of attorney-client privilege is appropriate.
+The defendants have filed objections to the notices to produce, and have objected to the motion for clarification on the basis of attorney-client privilege.
+The granting or denial of a discovery request rests in the sound discretion of the court. Standard Tallow Corporation v. Jowdy, 190 Conn. 48, 57-58, 459 A.2d 503 (1983). Discretion is limited however, by the rules pertaining to discovery. Communications protected by the attorney-client privilege are not discoverable. Practice Book § 219.
+Connecticut has adopted the common law principle of attorney-client privilege which has not been altered by statute. Beal v. Washton, 39 Conn. Sup. 167, 472 A.2d 812 (1983). “ ‘Where legal advice of any kind is sought from a professional legal adviser in his capacity as such, the communications relating to that purpose, made in confidence by the client, are at his instance permanently protected from disclosure by himself or by the legal adviser, except the protection be waived.’ ” Rienzo v. Santangelo, 160 Conn. 391, 395, 279 A.2d 565 (1971); 8 Wigmore, Evidence (McNaughton Rev. 1961). § 2292, p. 554.
+The burden of proving facts essential to the privilege is on the person asserting it. State v. Hanna, 150 Conn. 457, 466, 191 A.2d 124 (1963). The privilege is generally destroyed if the communication is divulged to, or overheard by a third party. Miller v. Anderson, 30 Conn. Sup. 501, 504, 294 A.2d 344 (1972).
+In his motion before the court, the plaintiff requests production of the following: (a) copies of written memoranda, notes, documents, statements and writings of the defendant in connection with the representation of the plaintiff; (b) the complete files of and pertaining to Jeffrey Tunick; (c) copies of all interoffice memoranda with respect to Jeffrey Tunick; and (d) copies of all interoffice memoranda with respect to representation of Jeffrey Tunick, David H. Tunick, Sylvia Tunick and Tunick Brothers, Inc.
+The four requests fall within two general categories: material prepared for representation of the plaintiff in litigation, and material prepared in relation to the plaintiff’s business activities. Since the legal representation of the plaintiff creates an attorney-client relationship, and the client may always waive the attorney-client privilege, the material prepared for the legal representation of the plaintiff is not privileged.
+The defendants’ claim of privilege rests primarily on their joint representation of both the plaintiff and his family in business activities. The defendants assert that members of the plaintiff’s family have not waived the privilege with regard to their representation, and thus the defendants are prevented from disclosing the requested information.
+This case falls within one of the recognized exceptions to the attorney-client privilege regarding multiple clients. The rule that in a suit between the client and the attorney, there is a waiver of the privilege, but only by the client asserting the liability, and only of communications relating to joint representation applies in this case. Glacier General Assurance Co. v. Superior Court, 95 Cal. App. 3d 836, 157 Cal. Rptr. 435 (1979); American Mutual Liability Ins. Co.v. Superior Court, 38 Cal. App. 3d 579, 113 Cal. Rptr. 561 (1974); Mallen & Levit, Legal Malpractice (2d Ed. 1981) § 677.
+This rule was recognized in Beal v. Washton, supra, 170, where the plaintiff claimed he was represented by an attorney who also represented the buyer and seller of an automobile dealership. Although the court declined to rule on the joint client exception because the attorney denied representing the plaintiff, the court stated that “[i]f Beal can then demonstrate his status as a client, he may seek further discovery consistent with the joint client exception to the attorney-client privilege.” Beal v. Washton, supra, 170.
+The plaintiff seeks the production of items prepared for the joint representation of the plaintiff and his family. Therefore, on the basis of the joint client exception, the plaintiff may waive the attorney-client privilege with respect to that material.
+A second exception to the attorney-client privilege exists for any communication relevant to an issue of breach of duty by a lawyer to his client. Graham, Handbook of Federal Evidence (1981) p. 305. Since the plaintiff’s claim of legal malpractice includes an allegation that the defendants breached their duty owed to the plaintiff, this exception destroys the claim of attorney-client privilege.
+Accordingly, the attorney-client privilege does not bar discovery of requested material. It is noted, however, that material associated with the representation of David H. Tunick and/or Sylvia Tunick, individually, and not as parties to any representation of, nor made in the presence of, Jeffrey P. Tunick, is protected by the attorney-client privilege unless waived.
