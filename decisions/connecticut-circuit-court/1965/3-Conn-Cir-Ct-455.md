@@ -1,0 +1,26 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CV 1-632-7691"
+decided: "1965-12-10"
+citations: ["3 Conn. Cir. Ct. 455"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward A. Powell III et al. v. Town of Westport et al."]
+source_url: "https://static.case.law/conn-cir-ct/3/cases/0455-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1740907
+cites_cases: ["107 Conn. 417", "109 Conn. 577", "136 Conn. 440", "152 Conn. 718", "70 Conn. 159"]
+---
+
+# Powell v. Town of Westport
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This action was brought in two counts, praying for (1) judgment for possession of real property, being a portion of Melwood Lane, also known as Sturges Common, in Westport; (2) an injunction directing the defendant town of Westport to remove the roadway to another location; (3) an injunction restraining the defendant Covina from using real property which the plaintiffs claimed as their own; and (4) damages. At issue is the claim that the continuance of a town road over the plaintiffs’ premises was a taking by the town of the plaintiffs’ land without right, that the defendant Covina was using a portion of the plaintiffs’ lot as her own, and that the defendant Fortuna was liable to the plaintiffs by virtue of his warranty deed of the premises to the plaintiffs’ immediate predecessor in title. The court found the issues on both counts for the defendants, and from this judgment the plaintiffs have appealed, assigning as error (1) the failure to correct the finding; (2) that the court’s conclusions are not supported by the finding; and (3) that the judgment is not supported by the conclusions. By virtue of the power granted us in § 985 of the Practice Book, a supplemental finding was ordered and filed by the trial judge.
+The road shown on the survey map of the defendant Fortuna’s real estate development was accepted as a town road by the Westport town meeting. An engineer’s survey made thereafter, however, indicated that the roadway land so accepted never had a road constructed on it and was occupied by development landowners as part of their premises. The development roadway actually constructed and in use was in a location other than the one shown on the map and covered twenty-three hundredths of the plaintiffs’ one-acre plot. In issue was title to that fraction of an acre so used as a roadway since 1954, and involved was the question whether it had been dedicated as a town road by open and notorious use by the public or whether in fact it was dedicated as a roadway by acceptance of the town meeting. A further issue involved the title to the land accepted as a roadway by the town meeting but never used as such and now occupied by the landowners as part of their plots, and included in this category was the defendant Covina, who, it is alleged, was using as part of her lawn a portion or wedge of land to which the plaintiffs claim title; herein involved was the question of title by adverse possession. The last question concerned the liability of the defendant Fortuna by reason of his warranty deed of the plaintiffs’ premises to the plaintiffs’ grantor.
+Our review of the finding and supplemental finding, both lengthy, indicates that a basic principle of appellate procedure, namely, that the subordinate facts found by the trial court shall support the conclusions drawn by it, and that the conclusions so drawn shall support the judgment, has not been complied with. Fairfield County Trust Co. v. Thompson, 152 Conn. 718, 719. A judgment rendered on facts found will be reversed or set aside if “ ‘some erroneous rule of law material to the case has been applied, or . . . [if] a conclusion has been reached, or an inference drawn, from a fact, many facts, or the facts found, which affects the judgment rendered in material degree and is legally or logically inconsistent with that or those facts, or is so illogical or unsound ... as to be unwarranted in law.’ ” Farkas v. Halliwell, 136 Conn. 440, 444; Endut v. Borodenko, 109 Conn. 577, 582; Davis v. Margolis, 107 Conn. 417, 422; Nolan v. New York, N.H. & H.R. Co., 70 Conn. 159, 191. The finding and the supplemental finding and conclusions therein do not set forth sufficient facts, with respect to the issues involved in the case, supporting the conclusions found by the trial court, and the conclusions do not support the judgment.
+The plaintiffs filed a supplementary assignment of errors directed solely to the supplemental finding ordered by the Appellate Division, as they had a right to do. Ordinarily another hearing by the Appellate Division would have been required on the added assignments of error. Since, however, the plaintiffs failed to file a motion addressed to the trial court for correction of the finding, an appellate hearing would have availed them nothing. A motion to correct the finding is required, so that the trial judge may act upon the motion, before we can consider the claimed error in the supplemental finding.
+There is error, the judgment is set aside and a new trial is ordered.
+Dearington, Jacobs and Levine, Js., participated in this decision.
