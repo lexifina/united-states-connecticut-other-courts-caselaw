@@ -1,0 +1,27 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File #5560"
+decided: "1935-07-05"
+citations: ["3 Conn. Supp. 125"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDWARD NORDSTROM vs. THE CONNECTICUT COMPANY"]
+source_url: "https://static.case.law/conn-supp/3/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336605
+cites_cases: ["116 Conn. 18", "129 N.E. 881", "212 Mass. 599", "237 Mass. 485", "99 N.E. 467"]
+---
+
+# Nordstrom v. Connecticut Co.
+
+## Majority (HAMLIN, J.)
+
+HAMLIN, J.
+This is an action in negligence, in which the defendant moves to set aside the verdict for $5,000., as contrary to the law and the evidence.
+There are two important questions. (1) Viewing all the evidence in the light most favorable to the plaintiff, does the light from the trolley car, which the jury found to have existed, constitute negligence as a matter of law? The plain' tiff described the light as a “flash”. The plaintiff’s only supporting witness repeatedly said, “It was just a flash”; but no evidence as to whether it came from the headlight or from a short circuit or some part of the car. Assuming, as we must, that the flash was from a fixed source of light upon the trolley car and that its instant of illumination was interntional, it must still be considered whether such a flash constitutes actionable negligence. No precise authority is found in this State. In a case in another jurisdiction it was said, “The fact that the plaintiff, while a traveler on the highway, was darkled by the headlight ... is insufficient to show anything more than a momentary darling or blinding . . . and such facts do not establish negligence in the use or operation of the headlight”. (Tupper vs. Union Street Railway Co. 237 Mass. 485; 129 N.E. 881.)
+A previous case in the same jurisdiction, in many respects similar to the case at bar, said, “The plaintiff traveling in the night time upon a bicycle on a highway was injured by collision with a team. It is sought to fasten liability upon the defendant because a headlight upon one of its cars proceeding on its track dazzled the plaintiff so that he ran into, the team. . . . The street was wide and the tracks of the defendant were on its side, and there was plenty of room to pass without collision but-for the blinding effect of the light. This, in substance, is the plaintiff’s case. It is too meager to show any negligence on the part of the defendant, either in the character or management of the light, or in the running of the car. At most, there appears to have been only a momentary blinding of the plaintiff, as the rays from a head' light such as are in common use included him in their range for an instant while the car came around a curve. More facts than these must appear before it can be said that there was fault in the use or operation of the light or car.” (Spoatea vs. Berkshire Street Railway Co. 212 Mass. 599, 600; 99 N.E. 467; Opinion by Rugg, C.J.)
+(2) The other important question on this motion is whether the evidence, taken in all particulars most favorable to the plaintiff, permits a conclusion by the jury that the plaintiff was free of contributory negligence.
+The highway was well lighted at the time, about one o’clock in the morning. The road was dry, the night clear. The plaintiff was returning home from observing a boxing contest, after which he had a meal at a restaurant. There was no traffic other than the plaintiff’s automobile and the defendant’s trolley. The trolley was upon its right hand track. Before the impact the plaintiff was upon his right hand side of the road. The plaintiff saw the trolley at least 200 feet distant, when he was passing the Armour building. The plaintiff had uninterrupted vision ahead for more than that distance when he came around the curve under the railroad bridge. The plaintiff, when he saw the trolley car in the distance, saw that it had a light on the front, which was not the “flash” which dazzled him. The plaintiff, if he had remained on his right hand side of the way, had 24 feet 8 inches of roadway within which to pass the trolley in safety. The plaintiff swerved first to his left toward the trolley, then to his right, then again to his left into the trolley. The plaintiff traveled 50 feet swerving back and forth. The plaintiff saw the flash when he was an appreciable distance from the trolley, at least the width of Thomaston Avenue as it then existed which was over 30 feet. The plaintiff at no time applied his brakes or decreased his speed. The lights within the trolley were well lighted. The wreckage of the plaintiff’s automobile, and the damage to the heavy trolley car, show conclusively as a physical fact that the plaintiff’s speed was sustained. It is an inescapable conclusion that the plaintiff’s act in driving his car head-on into the trolley was neither “instinctive” or “momentary and excusable inattention”, neither of which may constitute contributory negligence”. (French vs. Mertz, 116 Conn. 18, 30.)
+It is concluded that the “flash” of light, which the jury must have found to have existed, is not sufficient as a matter of law to constitute negligence on the part of the defendant. It is also found that the act of the plaintiff in driving into the trolley car was not that of a reasonably prudent man so circumstanced. The plaintiff was guilty of contributory negligence as a matter of law.
+The motion to set aside the verdict is granted.
