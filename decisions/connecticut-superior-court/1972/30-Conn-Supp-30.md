@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 21900"
+decided: "1972-06-27"
+citations: ["30 Conn. Supp. 30"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter J. Troj v. Helen D. Chesebro"]
+source_url: "https://static.case.law/conn-supp/30/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1769857
+cites_cases: ["10 Conn. 192", "106 Conn. 484", "107 Conn. 181", "108 Conn. 683", "149 Conn. 236", "228 Cal. App. 2d 230", "26 A.L.R.3d 855", "79 Conn. 581", "85 Conn. 504", "91 Conn. 29"]
+---
+
+# Troj v. Chesebro
+
+## Majority (Parskey, J.)
+
+Parskey, J.
+Distilled to its essentials, the question here is whether a contract for the sale of land that provides for a purchase money mortgage which “will be subordinate to land development and construction mortgages” is enforceable. The short answer to this question is No.
+The complaint is in two counts, the first seeking specific performance, the second damages. The crucial question involved in both counts is the applicability of the Statute of Frauds, General Statutes § 52-550. This statute provides in pertinent part: “No civil action shall be maintained . . . upon any agreement for the .sale of real estate . . . unless such agreement, or some memorandum thereof, is made in writing and signed by the party to be charged therewith or his agent . . . .” The words of the statute clearly mean that no action can be maintained for the direct enforcement of any agreement which is within the statute, and no damages can be recovered for its breach. Kilday v. Schancupp, 91 Conn. 29, 32 .
+The complaint alleges that on January 4, 1971, the plaintiff and the defendant entered into a written agreement wherein the plaintiff was given the option to purchase some fifty acres of the defendant’s land for the total purchase price of $12,000, $3000 of which was to be paid at the time of closing and the balance in five annual payments at 6 percent interest; that the “above-mentioned mortgage” was to be subordinate to land development and construction mortgages; and that after execution of the agreement the defendant refused to complete the transaction. The defendant interposed a demurrer to the complaint on the ground that the agreement failed to comply with the Statute of Frauds by failing to define the nature, amount and terms of a lien to be subsequently created and to which the seller’s interest was to be subordinated.
+The Statute of Frauds provides a plain and precise test. “The note or memorandum of sale, required by the statute, must state the contract with such certainty, that its essentials can be known from the memorandum itself, without the aid of parol proof, or by a reference contained therein to some other writing or thing certain; and these essentials must at least consist of the subject of the sale, the terms of it and the parties to it, so as to furnish evidence o'f a complete agreement.” Nichols v. Johnson, 10 Conn. 192, 198; Santoro v. Mach, 108 Conn. 683, 687; Marsico v. Kessler, 149 Conn. 236, 237.
+The vice of the contract in question lies in the uncertainty respecting the quality of the purchase money mortgage. The agreement is silent with respect to the amount, terms, interest rate and date of maturity of the land development and construction mortgages. The nature of the lien represented by the purchase money mortgage cannot be ascertained by reference to the agreement but depends instead upon whatever financial arrangements the purchaser may make with any given lender or lenders. To permit the mortgagee’s position on the security totem pole to depend upon the good faith and business judgment of the mortgagor is the very mischief which the Statute of Frauds is designed to prevent. Subordination agreements which, at the very least, do not delineate the outer limits of the subordinating loan lack the certainty required of contracts involving interests in land. Magna Development Co. v. Reed, 228 Cal. App. 2d 230; note, 26 A.L.R.3d 855, 860, and cases cited. Although, the Statute of Frauds does not outlaw foolish bargains, it does reject bargains that are merely evanescent.
+The second count is an olla podrida of claimed losses arising out of the defendant’s refusal to perform the terms of the agreement. The items consist of expenditures for expert assistance and business travel and claimed loss of business time and profit. The Statute of Frauds bars recovery of any of these losses in a suit on the contract. Kilday v. Schancupp, supra. None of the claimed expenditures, taken singly or in the aggregate, constitutes part performance so as to take the ease outside of the statute. Santoro v. Mack, supra, 692. None of the expenditures was made for repairs or improvements on the defendant’s property so as to afford a basis for recovery on the ground of unjust enrichment. Fischer v. Kennedy, 106 Conn. 484, 492. None of the expenditures is alleged to have been incurred at the request of the defendant; Kearns v. Andree, 107 Conn. 181, 187; or under circumstances similar to those in General Hospital Society v. New Haven Rendering Co., 79 Conn. 581, 586, and Taylor v. Robertson Co., 85 Conn. 504, 508, so as to give rise to an implied contract. Viewed from afar or close at hand, the second count will not pass muster.
+Accordingly the defendant’s demurrer is sustained.
