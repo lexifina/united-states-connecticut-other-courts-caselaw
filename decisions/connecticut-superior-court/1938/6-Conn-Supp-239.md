@@ -2,7 +2,7 @@
 court: "Connecticut Superior Court"
 docket: "File #6026"
 decided: "1938-07-07"
-citations: ["6 Conn. Supp. 239", "6 Conn. Supp. 228", "6 Conn. Supp. 227"]
+citations: ["6 Conn. Supp. 239"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["STATE OF CONNECTICUT vs. T. FRANK HAYES, ET AL."]
 source_url: "https://static.case.law/conn-supp/6/cases/0239-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1314820
-cites_cases: ["119 Conn. 70", "174 Atl. 74", "6 Conn. Sup. 215"]
+cites_cases: ["6 Conn. Sup. 215"]
 ---
 
 # State v. Hayes
