@@ -1,0 +1,26 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 28737S"
+decided: "1993-05-10"
+citations: ["42 Conn. Supp. 514"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roy Lenz v. CNA Assurance Company"]
+source_url: "https://static.case.law/conn-supp/42/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 784204
+cites_cases: ["212 Conn. 509", "223 Conn. 786", "562 A.2d 1100", "614 A.2d 414"]
+---
+
+# Lenz v. CNA Assurance Co.
+
+## Majority (Flynn, J.)
+
+Flynn, J.
+The plaintiff is seeking to have the truth of a 1991 financial statement of the defendant CNA Assurance Company admitted by the defendant. This lawsuit involves a claim that arises out of the alleged unilateral reduction of state workers’ compensation benefits by the defendant insurer in violation of General Statutes § 31-296. One count of the complaint sounds in violation of the Connecticut Unfair Trade Practices Act (CUTPA), General Statutes § 42-110a et seq. The plaintiff seeks to have the defendant admit the truth of a financial report that may be part of his evidence offered at trial to show the financial wealth of the defendant to be considered by the trier to determine the amount of any punitive damages to be awarded under the CUTPA count.
+Under the traditional common law rule, punitive damages are awarded when the evidence shows a reckless indifference to the rights of others or an intentional or wanton violation of those rights. That same common law rule restricts them to the costs of litigation including attorney’s fees less taxable costs. Champagne v. Raybestos-Manhattan, Inc., 212 Conn. 509, 532, 562 A.2d 1100 (1989).
+The equivalent of common law punitive damages was provided for in General Statutes § 42-1 lOg (d), which allows an award of costs and attorney’s fees. The legislature departed from the narrow scope of common law punitive damages, however, when it adopted § 42-110g (a) of CUTPA, which provides that the “court may, in its discretion, award punitive damages . . . as it deems necessary or proper.” See Bailey Employment System, Inc. v. Hahn, 545 F. Sup. 62, 72 (D. Conn. 1982). This statutory provision allows for punitive damages based on a theory of deterrence, whereas the common law premise of such an award is compensation. Practice Book § 238 (a) provides in pertinent part: “A party may serve in accordance with Sec. 120 upon any other party a written request for the admission, for purposes of the pending action only, of the truth of any matters relevant to the subject matter of the pending action set forth in the request that relate to statements or opinions of fact or of the application of law to fact, including the existence, due execution and genuineness of any documents described in the request.”
+Where compensatory damages are concerned, the focus of the trier must be on what is necessary to compensate fairly the party who has suffered some legal injury and by such compensation to restore the injured party to the position that the party would have been in had the wrong not been committed. Once deterrence rather than compensation becomes the focus of CUTPA punitive damages, however, then the financial standing of the party against whom damages are sought becomes relevant and material. CUTPA neither sets out any formula for arriving at the amount nor sets a maximum of double or treble damages for the punitive damages awarded to deter future conduct. As with the biblical widow’s mite, the financial impact of an event on a party depends on financial circumstances. An amount that might deter a poor widow could seem trifling and leave undeterred a corporate entity with large financial resources. The issue then of the defendant’s financial circumstances is relevant and material to the deterrent non-common law punitive damages that the plaintiff would be required to prove under the CUTPA count. The defendant also objects on the basis that the 1991 financial data, even if relevant to punitive damages generally, is irrelevant to that issue in the present case because it is after the year in which the injury occurred and before the year in which the case will be tried. The defendant’s financial circumstances at the time of trial are relevant and a record of consistent earnings in years prior to the time of trial is also relevant in determining the value of the corporation as an ongoing business enterprise. The objection to the request for admission is, therefore, overruled.
+Subsection (a) of General Statutes § 42-110g provides for punitive damages generally, while a separate subsection (d) provides, in addition, for the costs and attorney’s fees, which have constituted traditional common law punitive damages. This leaves the court to conclude that the General Assembly intended to expand by statute what case law had traditionally limited to costs and counsel fees associated with the prosecution of the litigation.
+“[PJunitive damages . . . hopefully serve as a deterrent to the kinds of unfair and deceptive acts . . . .” Bailey Employment System, Inc. v. Hahn, 545 F. Sup. 62, 73 (D. Conn. 1982). “[CJommon law punitive damages serve primarily to compensate . . . .” Berry v. Loiseau, 223 Conn. 786, 827, 614 A.2d 414 (1992).
