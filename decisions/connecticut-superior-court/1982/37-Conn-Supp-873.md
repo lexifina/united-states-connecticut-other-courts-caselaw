@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 1165"
+decided: "1982-01-08"
+citations: ["37 Conn. Supp. 873"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cecilia C. Moffitt v. Philip A. Horrigan"]
+source_url: "https://static.case.law/conn-supp/37/cases/0873-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1661978
+cites_cases: ["137 Conn. 516", "172 Conn. 341", "222 A.2d 749", "3 Conn. Cir. Ct. 621", "32 Conn. Sup. 181", "345 A.2d 594", "36 Conn. Sup. 619", "374 A.2d 1040", "422 A.2d 331", "79 A.2d 278"]
+---
+
+# Moffitt v. Horrigan
+
+## Majority (Daly, J.)
+
+Daly, J.
+On June 1, 1979, the plaintiff, a former tenant of the defendant, filed a small claims action alleging that the defendant, in violation of General Statutes § 47a-7(a) and § 47a-13, had maliciously evicted her from premises located at 33B Crouch Road in Branford. The facts found by the trial court are summarized as follows: Pursuant to a lease dated May 30, 1978, the plaintiff rented a summer cottage from the defendant for a one-year term. On February 11, 1979, the plaintiff discovered that because the water pipes in the cottage had frozen, she was without running water. Although she immediately notified the defendant of this condition, he had not yet repaired the pipes when the plaintiff returned to the premises on the following day. On February 13,1979, the plaintiff paid her monthly rent and gave the defendant her keys so that he would have access to the premises for repair purposes. Upon returning to the premises later that same day, the plaintiff found a note from the defendant in which he held her responsible for the damaged pipes and claimed damages in excess of $1,000.
+Four months later, the plaintiff brought this action in Small Claims Court seeking damages of $729.66. Because the amount of damages sought by the defendant in his counterclaim exceeded the jurisdictional limit of the Small Claims Court, the case was transferred to the regular docket. The trial court subsequently found for the plaintiff on both the complaint and the counterclaim, awarding her $1,528.66. Portions of this award represented $586.91 in damages, $191.75 in counsel fees incurred prior to suit and $750 in attorney’s fees for legal services provided throughout the action. The defendant has appealed from this judgment, contending that the trial court wrongfully awarded counsel fees for services incurred prior to suit and abused its discretion by awarding unreasonable and excessive attorney’s fees for services rendered throughout the suit.
+Absent contractual or statutory authorization, a party may recover from his opponent neither the expenses of litigation nor the expenditures for counsel fees. Bross Line Construction Corporation v. Ryan Crane Service Corporation, 32 Conn. Sup. 181, 182, 345 A.2d 594 (1975). General Statutes § 52-251a authorizes the court to award to the prevailing plaintiff “in a small claims matter which was transferred to the regular docket ... his costs, together with reasonable attorney’s fees to be taxed by the court.” Accordingly, it is unquestioned that the trial court was entitled to award to the plaintiff, as the prevailing party, both costs and reasonable counsel fees for services performed during the pendency of the suit.
+The defendant, nevertheless, claims that the trial court erred by awarding counsel fees for services performed prior to the commencement of the suit. The plaintiff, however, brought her original action under General Statutes § 47a-13; subsection (a) of this statute affords relief to tenants of those landlords who have failed to supply essential services, such as running water. Subsection (b) of § 47a-13 provides that “[i]n any cause of action . . . arising under subsection (a) of this section, the tenant may recover reasonable attorney’s fees.” We see no reason why the plaintiff should not recover those counsel fees expended in pursuing her small claims action under § 47a-13 as part of her recovery in addition to the counsel fees allowed her as prevailing plaintiff under § 52-251a after transfer by the defendant to the court’s regular docket.
+Finally, the defendant contends that the amount of attorney’s fees awarded by the court was unreasonably excessive. A court has few duties of a more delicate nature than that of fixing counsel fees. The issue grows even more delicate on appeal; we may not alter an award of attorney’s fees unless the trial court has clearly abused its discretion, for the trial court is in the best position to evaluate the circumstances of each case. Hoenig v. Lubetkin, 137 Conn. 516, 525, 79 A.2d 278 (1951); C & S Research v. Holton, 36 Conn. Sup. 619, 623, 422 A.2d 331 (1980); Bridgeport Singer Employees Federal Credit Union v. Piczko, 3 Conn. Cir. Ct. 621, 622, 222 A.2d 749 (1966). Absent a conviction that the action of the trial court constituted a clear abuse of discretion, we may not substitute our opinion concerning counsel fees for that of the trial court. Simons v. Simons, 172 Conn. 341, 349, 374 A.2d 1040 (1977). We deem it ample to say that our careful consideration reveals no abuse of discretion by the court in awarding attorney’s fees incurred as part of the original claim or later.
+There is no error.
+In this opinion Bieluch and Covello, Js., concurred.
