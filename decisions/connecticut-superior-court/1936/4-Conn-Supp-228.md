@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #48925"
+decided: "1936-10-13"
+citations: ["4 Conn. Supp. 228", "122 Conn. 600"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MILDRED E. ANDERSON vs. RAYMOND T. ANDERSON"]
+source_url: "https://static.case.law/conn-supp/4/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1337338
+---
+
+# Anderson v. Anderson
+
+## Majority (BOOTH (JOHN RUFUS), J.)
+
+BOOTH (JOHN RUFUS), J.
+The subject of this motion is a little boy seven years of age. He is of slight build and of average intelligence. For the past five years he has been in the custody of his father, a salesman variously employed and a musician who is engaged three nights each week. The care and training of the boy has been largely entrusted to his paternal grandmother, an estimable woman whose main idea has apparently been to cater to his happiness. With this thought in mind the boy has been permitted to exercise his will in regard to his personal habits. The result is that his attitude toward his elders is critical, his habits are careless and uncouth, and even though seven years of age he continues the infantile custom of wetting his clothing and his bed. While his health has been fairly good, his attendance at school has been far from perfect, and while he has not exhibited any vicious tendencies, his conduct out of school has apparently been uncontrolled. He resents discipline and regularity of conduct and is naturally happier in an atmos' phere where his free will has full play, but is cooperative when discipline is required. His father undoubtedly has a great love for the boy as have his paternal grandparents, but equally so.is the love of his mother.
+On November 28th, 1934, his mother secured a divorce from his father in this Court upon the grounds of desertion. His father makes his home with the boy’s paternal grandparents, and his mother, who has again married, lives with her husband at Great Neck, L. I. The present home of the boy is unexceptional insofar as physical comfort is concerned and the home of his mother is likewise. Until her recent marriage his mother was unable to provide a home which would include her personal attention during the entire day and night, but she now has such advantages and is eager to exercise them.
+At a previous hearing upon this matter the Court on October 31st, 193?, awarded the custody of the boy to his father, extending to his mother, however, the privilege of visitation at reasonable times and of his full custody during his summer school vacation.
+The fundamental question involved in this proceeding is whether the interests of the boy will be best served by awarding his principal custody to his mother or by allowing him to remain in the principal custody of his father. All material things being equal, and the love and affection for the boy being equal, as seems to be the fact, the determining feature appears to be whether the father or the mother is better equipped to guide the destinies of the child during his tender years of childhood and adolescence. From the history of the past five years and the appearance of the boy and both parents, the Court is of the opinion that his mother rather than his father will more effectually give to the boy the guidance, discipline and care which he needs. His father is engaged in business each day and at least three nights a week. His mother has nothing to interfere with an undivided attention every day and every night. The habits of the boy need discipline and control and while he would perhaps be happier at the present time without such discipline and control, his future will undoubtedly be better therefor because if allowed to go uncontrolled the result may be most unsatisfactory. At first the boy will probably be resentful and critical of his changed position, but as time goes on he will probably adjust himself thereto and be grateful in the end.
+The conclusion reached has not been without due regard of the wishes of his father and his paternal grandmother, who unquestionably have a deep love and regard for the boy and who are intensely interested in his welfare. Nor is the Court unmindful of the care which they have given the boy during the past five years. The impelling thought, however, is that the care and training which the Court is satisfied will be furnished by his mother will be more helpful to the boy than that' which has been given by his father and his paternal grandmother, and will prove more beneficial to his character and future usefulness.
+For the foregoing reasons the motion as made is granted and the modification of the judgment of this Court made on October 31st, 1935, is hereby further modified by adding thereto the following:
+“The Court finds that at this time the plaintiff ought to have the care, custody and education of said minor child, subject to the rights of the defendant to visit the child at all reasonable times and subject to his right to have the full custody of the child during his summer school vacation. Further, that the entire support of said child should be borne by the plaintiff, except such time as he shall be in the full custody of the defendant, during which time his support should be borne by the de' fendant.”
+Judgment may enter in accordance with this memorandum.
