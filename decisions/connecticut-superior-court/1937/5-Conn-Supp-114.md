@@ -1,0 +1,30 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #52368"
+decided: "1937-05-10"
+citations: ["5 Conn. Supp. 114"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MOOSUP TRUCKING COMPANY, INC. vs. JOHN A. MacDONALD STATE HIGHWAY COMMISSIONER"]
+source_url: "https://static.case.law/conn-supp/5/cases/0114-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1313341
+cites_cases: ["103 Conn. 607", "104 Conn. 542", "108 Conn. 246", "111 Conn. 427", "113 Conn. 651", "115 Conn. 98", "116 Conn. 36", "120 Conn. 610", "61 Conn. 553", "81 Conn. 9", "82 Conn. 392", "99 Conn. 378"]
+---
+
+# Moosup Trucking Co. v. John A. MacDonald State Highway Commissioner
+
+## Majority (CORNELL, J.)
+
+CORNELL, J.
+In its complaint, the plaintiff alleges, in brief, that, as a subcontractor, it furnished material and labor in the construction of certain public highways in the town of Woodbury in connection with the performance of a contract therefore originally let by the State Highway Commissioner to The Silliman 6? Godfrey Co.; that pursuant to the provb sions of General Statutes, Revision 1930, §5109, Cumulative Supplement, 1935, §1594c, it filed its claim with the State Highway Commissioner but that the latter has failed and refuses to pay plaintiff a balance of $3,613.55 due it thereon, with interest.
+The special defense predicates on the premise that in per' forming the duties required of him by the statute, the State Highway Commissioner acts “in pursuance of his duty as a State officer” and so, is, in effect, the State. (Munson vs. McDonald, Highway Commissioner, 113 Conn. 651, 660) and the State by virtue of an attribute of sovereignty is immune from suit in its own courts by any of its subjects. State of Connecticut vs. Anderson, 82 Conn. 392, 394; see, also, State vs. Kilburn, 81 Conn. 9.
+It is next affirmatively alleged, that the State has not waived its immunity as concerns it liability to suit under the statute here in question by any general act nor has it consented that the instant plaintiff be permitted to sue it by any special act.
+All of this is admitted by the demurrer. The claim is set up in the latter that the statute “necessarily implies the consent of the State to be sued if the defendant shall reject the claim of any person” entitled to file it pursuant to its provisions.
+It is not perceived, however, that either the special defense or the demurrer to it raises anything more than an academic question in view of the cause of action alleged and the relief demanded in the complaint. The latter proceeds on the theory that the defendant State Highway Commissioner is obligated and empowered to pay plaintiff the sum which it alleges is owing it. So far as that pleading shows, the sum named is actually due, but the State Highway Commissioner wrongfully abstains from liquidating the debt.
+However, the State Highway Commissioner has no authority to pay monies for the purpose alleged. That function resides with the State Treasurer who, insofar as the present instance is concerned may do so only upon order or warrant from the State Comptroller, who, in turn, may issue no such warrant or order except “upon an adequate expenditure voucher . . . .” General Statutes, Cumulative Supplement, 1935, §15c.
+It may be suspected that the situation to remedy which the processes of the court are sought to be invoked resides in one of two states of fact, vi?., (1) the sum sought to be collected is admittedly due plaintiff, but the State Highway Commissioner refrains from certifying the fact to the State Comptroller so that the latter may be enabled to issue his warrant or order upon the State Treasurer, or (2) the State Highway Commissioner for some reason-not disclosed by the complaint denies that (a) the amount demanded is due or, perhaps (b) that any sum is due plaintiff.
+If the first is the case, mandamus would seem to be the proper remedy to require a public officer charged with the performance of a duty to perform it by issuing the necessary certification or voucher to the State Comptroller. There would be no difficulty about this if the sum so due is liquidated. State vs. Staub, 61 Conn. 553, 567, 569; Comley, State’s Attorney vs. Donovan, et al, 120 Conn. 610, 613; State etc. vs. Crawford, 99 Conn. 378, 382. If on the other hand, the State Highway Commissioner is claimed to refuse to ascertain the sum due — i.e. to carry out the duties imposed on him by statute, mandamus may be resorted to — not to compel him to make a finding or certify any particular amount to be owing or to control his discretion in ascertaining what sum, if any, is owing plaintiff here, but simply to perform his statutory duty in making the ascertainment. State etc. vs. Bartholomew, 103 Conn. 607, 615; likewise, if in making such ascertainment, if the State Highway Commissioner acts in plain disregard of his statutory duty or capriciously or arbitrarily. State etc. vs. Erickson, 104 Conn. 542, 545, 546; State etc. vs. Evarts, 115 Conn. 98. But see, State etc. vs. Bartholomew, 108 Conn. 246; State etc. vs. Bartholomew, 111 Conn. 427, and Comley, State’s Attorney vs. Harrison, et al, 116 Conn. 36, 43.
+The rule that a State is immune from suit in its own courts does not apply to an action of mandamus brought to compel a public officer to perform public duties delegated to him, since the State, as well as individuals is interested in the fulfillment of the purposes of the office which he holds. 59 C. J. p. 312, #466.
+As it would appear that the misapprehension is mutual in the instant matter, costs will be avoided if the plaintiff amends his complaint or withdraws the action as it may deem proper. Opportunity to do so will be afforded, provided it is done within ten days next following the filing of this memorandum. If not so done during such period, the clerk will return the file to the undersigned, upon which the demurrer will be decided on the record as it now stands.
