@@ -1,7 +1,8 @@
 ---
 court: "Connecticut Superior Court"
 decided: "1970"
-citations: ["29 Conn. Supp. 153", "29 Conn. Supp. 94"]
+decided_precision: "year"
+citations: ["29 Conn. Supp. 153"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["State of Connecticut v. Anonymous (1971-9)"]
 source_url: "https://static.case.law/conn-supp/29/cases/0153-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1768441
-cites_cases: ["209 Pa. Super. 1", "248 Ind. 66", "285 U.S. 452", "291 F.2d 262", "36 A.L.R.2d 1299", "361 U.S. 98", "388 U.S. 917", "391 F.2d 308", "392 U.S. 40", "95 Ark. 233"]
+cites_cases: ["209 Pa. Super. 1", "248 Ind. 66", "285 U.S. 452", "291 F.2d 262", "361 U.S. 98", "388 U.S. 917", "391 F.2d 308", "392 U.S. 40"]
 ---
 
 # State v. Anonymous
