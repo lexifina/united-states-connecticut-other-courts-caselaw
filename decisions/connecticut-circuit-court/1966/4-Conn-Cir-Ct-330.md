@@ -1,0 +1,29 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CV 4-6512-5446"
+decided: "1966-10-06"
+citations: ["4 Conn. Cir. Ct. 330"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Godfrey M. Weinstein v. Frank Talevi"]
+source_url: "https://static.case.law/conn-cir-ct/4/cases/0330-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1743618
+cites_cases: ["1 Conn. 39", "117 Conn. 39", "138 Conn. 306", "139 Conn. 294", "16 Conn. Sup. 209"]
+---
+
+# Weinstein v. Talevi
+
+## Majority (DiCenzo, J.)
+
+DiCenzo, J.
+The plaintiff, a resident of New York City, brings this action to recover on a judgment in the sum of $1819.25, alleged to have been obtained against the defendant, a resident of Naugatuck, Connecticut, in the Civil Court of the city of New York.
+The defendant's daughter and another minor leased an apartment in New York City from the plaintiff. The defendant signed, in the city of Naugatuck, Connecticut, a guarantee of the lease. Upon an alleged default by the tenants, the plaintiff instituted an action in the Civil Court of the city of New York against both minors and against the defendant as guarantor, and obtained the judgment described above. Process in that action was served upon the defendant herein by a Connecticut deputy sheriff at Naugatuck, Connecticut. The defendant did not appear in said action in the Civil Court of the city of New York and judgment by default in that court was entered against him.
+The complaint in the instant action based on the New York judgment alleges that service was made on the defendant pursuant to § 404 of the New York City Civil Court Act, which provides that the New York court may exercise personal jurisdiction over any nonresident of the city of New York if he transacts any business within the city of New York or owns, uses or possesses any real property situated within the city of New York.
+The defendant denies the essential allegations of the eomplaint and in his answer sets forth a special defense alleging that no process was served upon the defendant in the New York action resulting in the judgment mentioned in the complaint and that the defendant never appeared in person or by an attorney in the New York action.
+The New York City Civil Court is a court of limited jurisdiction, and the court may exercise personal jurisdiction over nonresidents only if either of the above conditions are satisfied. In the instant case, the evidence establishes that none of these conditions existed. The defendant at no time transacted any business within the city of New York, nor did he own, use or possess any real property situated within the city of New York. The defendant did execute an agreement of guarantee in the city of Naugatuck, Connecticut. This act, however, did not make him a lessee, a user, or an owner. He was a surety, simply, and as such had no proprietary interest in real property in New York City.
+The plaintiff contends that the foreign judgment is conclusive and cannot be collaterally attacked, stating as his reasons that he has complied with the laws of New York in obtaining a judgment against the defendant and that under the full faith and credit clause of the United States constitution the New York judgment is entitled to enforcement by the courts of Connecticut. Our court has held that jurisdiction is not conclusively presumed in the case of a foreign judgment, and such a judgment can be collaterally attacked. Lampson Lumber Co. v. Hoer, 139 Conn. 294; City Savings Bank of Brooklyn v. Seftel, 16 Conn. Sup. 209.
+The New York court was without in personam jurisdiction over the defendant because its so-called “long-arm” statute (New York City Civil Court Act § 404) did not reach the defendant for the reasons already stated, and further because the Connecticut deputy sheriff’s return shows that service of process at the commencement of the original action in New York was made in Naugatuck, Connecticut. This also is insufficient to give the New York court jurisdiction over the defendant. “Process of one state cannot run into another to summon parties from their domicils to respond to proceedings in personam against them.” Samson v. Bergin, 138 Conn. 306, 309.
+As early as Grumon v. Raymond, 1 Conn. 39, 44, our court stated that it is laid down as elementary law that a court must have jurisdiction over the parties, the subject matter and the process, or its proceedings are coram non judice. And in that case the court also stated (p. 46) that it “is no uncommon thing where there is a court of limited jurisdiction, that their jurisdiction depends upon the existence of certain things, and for want of these the court has no jurisdiction.” See O’Leary v. Waterbury Title Co., 117 Conn. 39, 43. “A nonresident upon whom service has not been had within the state may, however, submit to jurisdiction by consent. This may be given in various ways. . . . The most usual example is when the defendant voluntarily enters a general appearance.” Samson v. Bergin, supra, 309-10. The defendant in the instant case did not submit to jurisdiction by consent. The case of Hempstead Medical Arts Co. v. Willie, 150 N.Y.L.J., No. 111, p, 18, col. 6 (Dec. 9, 1963), cited by the plaintiff, is distinguishable from the instant case. In the Willie case, the nonresident defendant was the actual tenant and lessee and had occupied the premises in New York before going to Maine. There was a clear use of real estate in New York by the defendant. Such was not the fact in this case.
+This court finds that the Civil Court of the city of New York was without jurisdiction over the defendant in the New York case and therefore its acts and its judgment in that case are a nullity and void. Accordingly, the issues are found for the defendant and judgment may enter accordingly.
