@@ -1,0 +1,28 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CV 6-661-22997"
+decided: "1967-04-07"
+citations: ["4 Conn. Cir. Ct. 293"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nathan A. Resnik et al. v. Richard S. Muir"]
+source_url: "https://static.case.law/conn-cir-ct/4/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1743711
+cites_cases: ["151 Conn. 193", "151 Conn. 402", "152 Conn. 296", "201 U.S. 117", "275 U.S. 106", "309 U.S. 323", "323 F.2d 716", "332 F.2d 266", "332 F.2d 588", "337 F.2d 844", "369 Pa. 581", "37 A.L.R.2d 586", "74 Harv. L. Rev. 940"]
+---
+
+# Resnik v. Muir
+
+## Majority (Jacobs, J.)
+
+Jacobs, J.
+At the very beginning of this appeal we encounter a question of jurisdiction. Is the denial of the plaintiffs’ application of which they complain appealable? In response to a notice of deposition and subpoena duces tecum, the defendant appeared before a notary public, at the time and place designated in the subpoena, to testify to “what you know in a certain action pending . . . between Nathan A. Resnik, et als., plaintiffs, and Richard S. Muir, defendant, in a civil action, and . . . to bring with you all records, agreements and orders in the case of Richard S. Muir v. Ursula B. Muir, ... to be used in evidence in the trial thereof.”
+A brief statement of the proceedings is all that is necessary. The plaintiffs, attorneys at law, instituted this action to recover of the defendant $600 for legal services rendered Ursula B. Muir, which sum, it is alleged, the defendant, “as part consideration in a divorce agreement between himself and the said Ursula B. Muir, undertook and agreed to pay ... to the plaintiffs.” The defendant filed what in effect amounts to a general denial. Prior to the filing of the answer, the plaintiffs took full advantage of the provisions for statutory examination of an adverse party. Oeneral Statutes § 52-178; see Practice Book § 185; Martyn v. Donlin, 151 Conn. 402, 406; Mendez v. Dorman, 151 Conn. 193, 197. The defendant thereupon moved for a protective order pursuant to § 186 of the Practice Book upon the ground, inter alia, that the deposition was intended by the plaintiffs “to annoy, embarrass and oppress the defendant by questioning him about claims insufficiently alleged [in the complaint].” The court (Zarrilli, J.) denied the defendant’s motion. The defendant appeared before the notary public in obedience to the subpoena but, under advice of counsel, refused to answer certain questions put to him, the ground of this action being the claim of privileged communications. The plaintiffs thereafter presented a petition to the Circuit Court reciting the taking of the deposition and the refusal of the defendant to answer certain questions asked of him; the petition prayed that the defendant be committed to jail in accordance with § 52-153 “until he signifies his willingness to answer such questions.” The motion was denied.
+On oral argument addressed to us in justification of their appeal, the plaintiffs contend that the denial of the motion constitutes independent proceedings and amounts to a final judgment.
+Section 51-265 restricts appeals to this court to those taken “from any final judgment or action of the circuit court.” See State v. Amara, 152 Conn. 296, 300; Maltbie, Conn. App. Proc. § 10. Eulings on the propriety or impropriety of incidents of deposition taking in a pending suit are not final judgments within the general right of appeal statute. Cobbledick v. United States, 309 U.S. 323; Alexander v. United States, 201 U.S. 117; Cimijotti v. Paulsen, 323 F.2d 716, 717. “Neither a party nor a non-party witness will be allowed to take to the upper court a ruling where the result of review will be ‘to halt in the orderly progress of a cause and consider incidentally a question which has happened to cross the path of such litigation . . . .’ Mr. Chief Justice Taft, in Segurola v. United States, 275 U.S. 106 . . . .” Cobbledick v. United States, supra, 326. “[A] civil contempt order is normally considered not to have the requisite finality, since its validity can be tested by an appeal from the final judgment.” Note, 74 Harv. L. Rev. 940, 996; Atlantic City Electric Co. v. General Electric Co., 337 F.2d 844 (District Court’s ruling sustaining objections to interrogatories, thereby foreclosing defendants from pretrial discovery, not appealable) ; Great Lakes Carbon Corporation v. Continental Oil Co., 332 F.2d 588 (question of discovery will not be ruled upon in advance of a full trial); Alexander v. Pacific Maritime Assn., 332 F.2d 266 (clearly a refusal to apply sanctions is interlocutory and not appealable); Cimijotti v. Paulsen, supra (rulings on propriety or impropriety of incidents of deposition taking are not final judgments); James, Civil Procedure § 1.21, p. 52; 4 C.J.S. 360, Appeal and Error, § 120 (c); 4 Am. Jur. 2d 594, Appeal and Error, § 79; note, 37 A.L.R.2d 586, 606.
+“If the . . . [Circuit Court] is in error, as to which no opinion is expressed, . . . [the plaintiffs] will have fnll opportunity in the event of an adverse judgment, if based in whole or in part upon this error, to have it corrected upon appeal together with any other errors which may be urged.” Atlantic City Electric Co. v. General Electric Co., supra, 845.
+The denial of sanctions in the instant case was clearly an interlocutory order. Mackowain v. Gulf Oil Corporation, 369 Pa. 581.
+The appeal is dismissed.
+In this opinion Pruyn and Kosicki, Js., concurred.
