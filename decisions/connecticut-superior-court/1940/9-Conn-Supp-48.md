@@ -2,7 +2,7 @@
 court: "Connecticut Superior Court"
 docket: "File No. 60954"
 decided: "1940-12-26"
-citations: ["9 Conn. Supp. 48", "9 Conn. Supp. 47"]
+citations: ["9 Conn. Supp. 48"]
 reporter: "conn-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
