@@ -1,0 +1,26 @@
+---
+court: "Connecticut Superior Court"
+docket: "File #52511"
+decided: "1936-10-06"
+citations: ["4 Conn. Supp. 216"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CATHERINE A. HIGBY vs. GRACE L. NYE, ET AL."]
+source_url: "https://static.case.law/conn-supp/4/cases/0216-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1337369
+---
+
+# Higby v. Nye
+
+## Majority (INGLIS, J.)
+
+INGLIS, J.
+The plaintiff’s claim in this action is that the defendant, Grace L. Nye, encouraged and abetted by her husband, Alfred B. Nye, alienated the affections of the plaintiff’s husband, Harry B. Higby, by conduct extending over the period from early in 1933 until late in 193?.
+The plaintiff is now and for several years has been of a highly nervous and excitable disposition. She and her husband were married in 1911. They have never had any children. Since their marriage Mr. Higby’s mother has lived in their home and for most of the time during the past five years Mrs. Higby’s mother has lived with them.
+Prior to the depression Mr. Higby was prosperous and provided his wife with all of the luxuries of life for which she could wish. As a result of a diminution of Mr. Higby’s income which followed the depression, since 1932 their expenditures have had to be curtailed materially.
+It is clear from the evidence that at least since 1932 Mrs. Higby’s chief occupation in life has been the search after pleasure. Her husband apparently has joined her in this so far as his rather long and somewhat uncertain working hours permitted. They associated in the main with two social groups. Since 198? Mr. and Mrs. Nye have also been members of both of these groups. One of the groups was made up of two other couples and this group played bridge at stated intervals. The parties of this group were relatively sedate. The other group was made up of the Higbys, the Nyes and two other couples quite regularly and two or three other couples at various times. This latter group not only played cards frequently but also quite frequently had dancing parties either by themselves or with larger parties. At many of the affairs of this group or smaller sections of it, an excess of intoxicating liquor was consumed so that the parties degenerated into mere drunks. In these parties the plaintiff’s conduct was no more commendable than that of any of the rest of the group.
+With such an attitude toward life and such a character of living as that of the plaintiff and her husband differences between them very naturally arose. The presence in their home of Mr. Higby’s mother irritated Mrs. Higby and her treatment of her motherdndaw was not as kind as Mr. Higby thought it should be. The shortage of spending money fret' ted Mrs. Higby particularly because the others with whom she associated, particularly the Nyes, were comparatively affluent and she nagged her husband on that score. Mr. Higby’s devotion to golf interfered with some of her pleasures and that caused some irritation. And then, by the end of 1934 she began to get the idea that Mrs. Nye was alienating her husband’s affections. This idea was possibly suggested to her and in any event was certainly encouraged in her by the advice and innuendos of at least two of her women friends who like herself had no particular occupation in life except to seek pleasure and who clearly wanted the stimulation of the thrill of “drama” as one said “unfolding before their eyes”. • Por the sake of that thrill they were willing to read into the situation drama which, so far as the evidence in this case discloses, was not there. It is a fair inference that these friends of Mrs. Higby communicated their false suspicions to her. When couples are together as much and under such circumstances as were the Higbys and Nyes there are bound to be occurrences which a suspicious mind may interpret as evil but which are entirely innocent. Mr. Higby and Mrs. Nye were frequently in each other’s company, danced with each other and conversed with each other but so far as the evidence discloses they were never alone by themselves away from the crowd except for very brief times. Mrs. Nye associated with other men of the groups as much as she did with Mr. Higby and Mr. Higby associated with other women of the group as much as he did with Mrs. Nye. Neither of them have had at any time any affection for the other except the affection of friends. Mrs. Nye has had no intention of winning the love of Mr. Higby away from Mrs. Higby nor has she done anything which would even tend to do that. Indirectly, it is true that Mrs. Higby’s groundless suspicion of Mrs. Nye has been one factor in producing the present estrangement between Mr. and Mrs. Higby, but that is some' thing for which Mrs. Nye is not responsible. It goes with' out saying that Mr. Nye has done nothing to alienate Mr. Higby’s affections.
+The cause of the present estrangement of Mr. Higby from the plaintiff, so far as it lies outside of Mr. Higby’s own attitude toward his wife is the plaintiff's own attitude and conduct toward him and that estrangement is in no way chargeable to the defendants.
+Judgment may enter for the defendants to recover of the plaintiff their taxable costs.
