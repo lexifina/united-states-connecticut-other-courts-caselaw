@@ -1,0 +1,31 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. FA7-475"
+decided: "1984-06-27"
+citations: ["40 Conn. Supp. 66"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charlene Miller v. Eugene Miller"]
+source_url: "https://static.case.law/conn-supp/40/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1655657
+cites_cases: ["127 Mich. App. 123", "150 Cal. App. 3d 1053", "198 Cal. Rptr. 391", "293 F. 1013", "339 N.W.2d 1", "466 A.2d 1240", "583 F.2d 1194"]
+---
+
+# Miller v. Miller
+
+## Majority (Foti, J.)
+
+Foti, J.
+This is a civil action to determine the paternity of the named plaintiffs child. A hearing in limine was conducted in advance of trial on the state’s motion to allow it to introduce, for the purpose of establishing the probability of paternity, the results of human leukocyte antigen tests (hereinafter HLA) and related tests.
+HLA testing is based on tissue typing of the white blood cells, wherein those cells are tested against different reagents to establish genetic markers which then may form a correlation between the mother and the child and between the child and the putative father. Since a large number of factors is identified by HLA testing, the proof of parentage is very conclusive, usually over 90 percent in terms of probability that the putative father is the biological father. See, Terasaki, “Resolution by HLA Testing of 1000 Paternity Cases Not Excluded by ABO Testing,” 16 Journal of Family Law, 543 (1977-78).
+The method of HLA testing is accepted by the scientific community, and the results are accurate. Although blood grouping test results may exclude with 100 percent accuracy, HLA test results, or, HLA and related test results, may not. They may, however, show a probability of paternity as high as 99.9 percent, and the results are statistically significant and reliable. HLA testing has been used in matching for organ transplants. As accurate and as reliable as HLA test results are, the probability factor will be increased when those tests are combined with other tests involving blood grouping.
+General Statutes § 46b-168, enacted in 1957 as Public Acts 1957, No. 367, governs the admissibility of blood grouping test results and provides in pertinent part: “In any proceeding in which a question of paternity is an issue, the court, on motion of any party, may order the mother, her child and the putative father or the husband of the mother to submit to one or more blood grouping tests, to be made by a qualified physician or other qualified person, designated by the court, to determine whether or not the putative father or the husband of the mother can be excluded as being the father of the child. The results of such tests shall be admissible in evidence only in cases where such results establish definite exclusion of the putative father or such husband as such father.” Section 46b-168 allows blood grouping tests into evidence only where a definite exclusion is established, and such results cannot be used affirmatively to prove paternity.
+The statute is clear and unambiguous. It would, therefore, serve no purpose to examine the legislative history, to discuss the legislative intent, or to discuss at length the status of medical knowledge regarding blood grouping tests in 1957 and the development of that field through the years. In 1957, blood grouping tests, commonly referred to as the Landsteimer series of red cell blood grouping tests, were limited to ABO, MN and RH-HN tests. Landsteimer test results yielded inconclusive results on the likelihood of paternity because the probability of paternity based on nonexclusion is not very high. See Everett v. Everett, 150 Cal. App. 3d 1053, 198 Cal. Rptr. 391 (1984); Cutchember v. Payne, 466 A.2d 1240 (D.C. App. 1983); Pizana v. Jones, 127 Mich. App. 123, 339 N.W.2d 1 (1983).
+Suffice it to say that even serological testing has come a long way since 1957, there being at least sixteen such tests in use today. It is, however, for the legislature to say that given the current technology in medical research and testing, the probative value of blood grouping test results outweighs the danger of any undue prejudice.
+The results of HLA tests, however, should be and are hereby found to be admissible since those tests are not blood grouping tests, specifically excluded by statute, and since, as already discussed, they are reliable, scientifically accurate, and statistically significant. Courts in many other jurisdictions, including California, the District of Columbia, Florida, Idaho, Michigan, New Jersey, Ohio and Pennsylvania, have so held. Some have allowed HLA test results in spite of an exclusionary rule.
+The court finds that HLA tests satisfy the criteria for admission of newly developed scientific tests set forth in Frye v. United States, 293 F. 1013 (D.C. App. 1923), and adopted in the second circuit. See United States v. Williams, 583 F.2d 1194, 1197-98 (2d Cir. 1978), which held that there must be a preliminary showing that scientific evidence has been sufficiently established to have gained general acceptance in the particular field in which it belongs. Clearly, HLA test results are admissible and the weight to be given those results should be left to the trier of fact.
+The motion, however, goes further in that the state seeks to have allowed as admissible in evidence the results of HLA tests in conjunction with other related tests which are blood grouping tests. As discussed previously, the combination of HLA testing and red cell testing produces markedly higher probabilities that the putative father of a child is the biological father. There is no question that the results of combining such tests provide maximum probability and reliability. The results, produced by combining HLA tests with the Landsteimer test or series of tests, are no longer those of blood grouping but rather a hybrid not specifically excluded by the plain and unambiguous language of § 46b-168.
+The court concludes, therefore, that the results of HLA and related tests are admissible and not prohibited by § 46b-168, and that the probative value of those results far outweighs their prejudicial effect.
+The motion by the state to admit the results is granted.
