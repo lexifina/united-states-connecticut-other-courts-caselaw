@@ -1,0 +1,27 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 164990"
+decided: "1970-08-31"
+citations: ["29 Conn. Supp. 41"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Petricia Parker v. William V. Parker"]
+source_url: "https://static.case.law/conn-supp/29/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1768452
+cites_cases: ["119 Conn. 194", "129 Conn. 427", "196 Mass. 280", "27 Conn. Sup. 342", "304 U.S. 64", "311 U.S. 169", "334 Mass. 4", "6 Conn. Sup. 179"]
+---
+
+# Parker v. Parker
+
+## Majority (Shea, J.)
+
+Shea, J.
+In this action seeking an annulment, it appears that the plaintiff wife married the defendant husband in Connecticut on September 30, 1967. On June 14, 1967, less than six months before, the defendant had obtained a divorce in Massachusetts from his former wife. A decree of divorce in Massachusetts is a decree nisi in the first instance, becoming absolute six months after entry of the decree, unless otherwise ordered by the court. The judgment of divorce obtained by the defendant on June 14, 1967, was never modified. His marriage to the plaintiff occurred, therefore, before his previous marriage had terminated.
+At the time of their marriage, the plaintiff believed the defendant had been lawfully divorced and was not aware of any impediment to his remarriage. The parties resided in Connecticut after the marriage, at least until commencement of the action, the defendant having been served personally.
+“If a person, during the lifetime of a husband or wife with whom the marriage is in force, enters into a subsequent marriage contract with due legal ceremony and the parties thereto live together thereafter as husband and wife, and such subsequent marriage contract was entered into by one of the parties in good faith, in the full belief that the former husband or wife was dead, that the former marriage had been annulled by a divorce, or without knowledge of such former marriage, they shall, after the impediment to their marriage has been removed by the death or divorce of the other party to the former marriage, if they continue to live together as husband and wife in good faith on the part of one of them, be held to have been legally married from and after the removal of such impediment . . . .” Mass. Ann. Laws, c. 207 § 6. It was held by the federal District Court for Connecticut that this statute applied to validate a marriage performed in Connecticut under circumstances indistinguishable from the present case. Arcand v. Flemming, 185 F. Sup. 22. The decision was rendered upon a postulation of what the state court would do, in the absence of any applicable Connecticut precedent, and it is not, of course, controlling. Fidelity Union Trust Co. v. Field, 311 U.S. 169; Erie R. Co. v. Tompkins, 304 U.S. 64.
+The validity of the marriage between the plaintiff and the defendant is governed by the lex loci contractus, Connecticut, where the ceremony was performed. Davis v. Davis, 119 Conn. 194, 198. There is no conflict upon the matter, however. Where monogamy prevails, a subsequent marriage by a person whose existing marital bond has not been absolutely severed is plainly void. Bombard v. Bombard, 6 Conn. Sup. 179; Fraser v. Fraser, 334 Mass. 4; 24 Am. Jur. 2d, Divorce and Separation, §429. Although the statute under consideration would instil validity into the matrimonial corpse once the impediment was removed, such an effect could follow only where Massachusetts retained some interest in the status of the parties at the time the disability ended. 16 Am. Jur. 2d, Conflict of Laws, § 10. It has been expressly held that this Massachusetts statute was not intended to have extraterritorial force and that it is inapplicable if the parties to the marriage are nonresidents at the time the invalidating flaw disappears. Commonwealth v. Stevens, 196 Mass. 280.
+It appears that the plaintiff and the defendant remained in Connecticut after their marriage here and that neither had any subsequent connection with Massachusetts. It is concluded, therefore, that the Massachusetts statute involved does not apply extra-territorially to validate the marriage, because that state had no interest in the matter at the time the defendant’s divorce became absolute. The statute is not an appendage of the divorce decree as a kind of special exception to the nisi limitation. It applies to other common situations in -which invalid marriages occur, not only to interlocutory divorce decrees. Its entire scope would call for extraterritorial application if any portion were to be given that effect. Arcand v. Fleming, supra, holding to the contrary, is supplanted by this decision as a statement of Connecticut law on the subject. Fidelity Union Trust Co. v. Field, supra; Erie R. Co. v. Tompkins, supra.
+It is clear under the law of this state that the cohabitation of the parties as spouses after the bar to the defendant’s remarriage had ceased does not validate their marriage. State ex rel. Felson v. Allen, 129 Conn. 427, 432; Anderson v. Anderson, 27 Conn. Sup. 342; Bombard v. Bombard, 6 Conn. Sup. 179.
+The court declares the marriage of the plaintiff and the defendant void. In accordance with General Statutes § 46-28, giving the court the same power to award alimony in an annulment proceeding as in a divorce, the plaintiff is awarded the sum of $2000 alimony, payable in weekly instalments of $10 per week.
