@@ -1,0 +1,29 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 594"
+decided: "1979-05-04"
+citations: ["36 Conn. Supp. 501"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Beverly Castellani v. Peter Criscuolo"]
+source_url: "https://static.case.law/conn-supp/36/cases/0501-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1665098
+cites_cases: ["123 Conn. 166", "143 Conn. 688", "165 Conn. 33", "85 Conn. 663"]
+---
+
+# Castellani v. Criscuolo
+
+## Majority (Parskey, J.)
+
+Parskey, J.
+The plaintiff, a resident of the city of New Haven, brought this paternity proceeding in March, 1975. In September, 1976, the parties reached a settlement in which the plaintiff, in exchange for $3000, executed a general release in favor of the defendant and filed a withdrawal of the proceeding with the court. When the withdrawal was filed on September 17, 1976, the approval of the court was neither requested nor granted. Although between April 8,1974, and June 15, 1976, the plaintiff had received from the state over $4500 in public assistance for herself and for her child, no approval of the settlement by the commissioner of social services (now the commissioner of human resources) or the attorney general was sought or obtained. On August 31, 1977, the court acted on the defendant’s motion to approve the withdrawal with knowledge that the plaintiff had been the recipient of city and state public assistance prior to the commencement of the paternity proceeding. Nevertheless, it approved the withdrawal on two grounds: (1) There was no agreement of settlement of the paternity action; and (2) neither the plaintiff nor her child was then receiving city or state public assistance. On September 9, 1977, the plaintiff filed an appeal from the court’s order of approval.
+Before proceeding to a consideration of the merits we are confronted with the threshold question of whether the attorney general has standing to participate in this appeal. General Statutes § 52-435a, as amended by Public Acts 1976, No. 76-334 § 9, makes the attorney general a party to paternity proceedings both before and after judgment in cases involving public assistance. Even before the passage of this act, the attorney general would have had a right to intervene in order to protect the financial interest of the state. See Gelinas v. Nelson, 165 Conn. 33, 41. Although it would have been preferable for the attorney general to have formalized his status in the appeal, the fact that he chose instead to associate with private counsel on the brief does not in any way limit his right to be heard in discharge of his public duty. Ibid.
+The plaintiff challenges the trial court’s order approving the withdrawal of her petition. Because the determination of this issue is dispositive of the appeal we need not consider the plaintiff’s other assignments of error. The plaintiff withdrew her petition in September, 1976. In the absence of a statute or rule, her right to do so could not be questioned so long as the withdrawal did not injuriously affect rights of the defendant acquired by reason of the action. Bristol v. Bristol Water Co., 85 Conn. 663, 673. In a paternity action, however, General Statutes § 52-439a requires the approval of the court before a petition may be withdrawn. Thus, to render a withdrawal effective to prevent further action in the proceeding an order of the court is essential. Lusas v. St. Patrick’s Roman Catholic Church Corporation, 123 Conn. 166, 169.
+Under § 52-439a (Rev. to 1977), the court’s approval of the withdrawal is required in all paternity cases. In addition, in cases where children have been recipients of public assistance, any agreement of settlement between the mother and the putative father must be approved not only by an appropriate judge of the court to which the petition was brought but also by either the commissioner of social services or the attorney general. There can be no question that the withdrawal here was based on an agreement of settlement. The purpose of the statutory provision is the protection “not only of the mother and child but also of the [state or] town where the child may become a public charge.” Cichy v. Kostyk, 143 Conn. 688, 697. The approval of the agreement by the appropriate state authority is a condition precedent to the withdrawal of the petition. None of the designated authorities approved the settlement in this case. Under these circumstances, the trial court’s approval of the withdrawal was erroneous.
+There is error, the judgment is set aside and the case is remanded to the Superior Court with direction to grant the motion to open the order approving the withdrawal of the petition.
+In this opinion A. Healey and D. Shea, Js., concurred.
+Section 52-435a has been transferred to General Statutes chapter 815y, $ 46b-160.
+“[General Statutes] Sec. 52-439a [Rev. to 1977], withdrawal ok settlement. No such petition shall be withdrawn except upon approval of a judge assigned to the court in which the petition was brought. Any agreement of settlement, before or after a petition has been brought, other than an agreement made under the provisions of section 52-442a, between the mother and putative father shall take effect only upon approval of the terms thereof by a judge of the court of common pleas assigned to the geographical area in which the mother or the putative father resides and, in the ease of children supported by the state or the town, on the approval of the commissioner of social services or the attorney general. When so approved, such agreements shall be binding upon all persons executing them, whether such person is a minor or an adult.” Section 52-439a has been transferred to chapter 815y, § 46b-170.
+General Statutes § 51-164s transferred the jurisdiction of the Court of Common Pleas to the Superior Court effective July 1, 1978.
