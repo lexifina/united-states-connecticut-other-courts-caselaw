@@ -1,0 +1,31 @@
+---
+court: "Connecticut Court of Common Pleas"
+docket: "File Nos. CR 4-31657, MV 4-41455"
+decided: "1972-11-17"
+citations: ["30 Conn. Supp. 534"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Rene R. Ventura"]
+source_url: "https://static.case.law/conn-supp/30/cases/0534-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1769825
+cites_cases: ["153 Conn. 445", "158 Conn. 281"]
+---
+
+# State v. Ventura
+
+## Majority (Missal, J.)
+
+Missal, J.
+The defendant was convicted of the crimes of giving false information to the police in violation of § 53-168 of the General Statutes, operating a motor vehicle while his right to operate was under suspension in violation of § 14-215 of the General Statutes, and evading responsibility in violation of § 14-224 of the General Statutes. During the trial, the defendant made two attempts to introduce the hospital record of Raymond DeMarco, a non-appearing stranger to the trial. The basic claims of error in this appeal relate to the refusal of the court to admit the hospital record in evidence. The other claims of error were not briefed and are considered abandoned.
+In the trial the defendant admitted that his motor vehicle operator’s license had been suspended but claimed he was not operating the motor vehicle on the night in question, was not even at the scene of the accident, and hence could not have given the false statement to the police and could not have been guilty of evading responsibility.
+The operator of the motor vehicle suffered from cuts to the face and was taken to a hospital. He was admitted to the hospital under the name of Raymond DeMarco. The defendant attempted to introduce the hospital record under the provisions of § 4-104 of the General Statutes. The pertinent provisions of the statute provide: “Each private hospital, public hospital society or corporation receiving state aid shall, upon the demand of any patient who has been treated in such hospital and after his discharge therefrom, permit such patient or his physician or authorized attorney to examine the hospital record .... If any such hospital, society or corporation is served with a subpoena issued by competent authority directing the production of such hospital record in connection with any proceedings in any court, the hospital, society or corporation upon which such subpoena is served may . . . deliver such record or at its option a copy thereof to the clerk of such court. . . . Any such record or copy so delivered to such clerk shall be sealed in an envelope which shall indicate the name of the patient, the name of the attorney subpoenaing the same and the title of the case referred to in the subpoena. No such record or copy shall be open to inspection by any person except upon the order of a judge of the court concerned, and any such record or copy shall at all times be subject to the order of such judge. Any and all parts of any such record or copy, if not otherwise inadmissible, shall be admitted in evidence without any preliminary testimony, if there is attached thereto the certification in affidavit form of the person in charge of the record room of the hospital or his authorized assistant indicating that such record or copy is the original record or a copy thereof, made in the regular course of the business of the hospital, and that it was the regular course of such business to make such record at the time of the transactions, occurrences or events recorded therein or within a reasonable time thereafter.”
+The court refused to admit the hospital record for two reasons: (1) Counsel opened and examined the hospital record without first obtaining an order from the judge as required by § 4-104. (2) The hospital record was that of Baymond DeMarco, and the hospital record was demanded by the defendant, Bene Ventura, who claims he was not the patient and who requested the admission of the hospital record to attempt to prove that he was not the patient.
+The defendant admits that the hospital record was opened without an order of the trial judge but claims that § 4-104 should be read in conjunction with § 228 of the Practice Book. He contends that § 228 practically provides for blanket permission for counsel to examine a hospital record before trial, provided the record is under the supervision of the clerk. The short answer to this contention is that both the statute and the Practice Book require an order of the judge before counsel is permitted to inspect a hospital record. The trial court was correct in ruling as it did.
+The second ground for the court’s refusal to admit the hospital record under § 4-104 was that the hospital record was not offered “upon the demand of any patient.” The purpose of the offer of the exhibit was to attempt to prove that the “patient” was not the defendant.
+Section 4-104 provides for the inspection of hospital records only by the patient or those representing him. Ianni v. Daily, 153 Conn. 445, 448. The defendant failed to make a representation to the trial court that he was the patient; on the contrary, he claimed that someone else, not a party to the action, was the patient. The court, therefore, properly refused to admit the hospital record under § 4-104.
+If $ 4-104 is not available to a party to the action, there is an alternate procedure available. Hospital records, where relevant and material, are admissible as exhibits in evidence as general business entries under General Statutes § 52-180. Kelly v. Sheehan, 158 Conn. 281, 284; Ianni v. Daily, supra. The defendant did not choose to avail himself of § 52-180.
+There is no error.
+In this opinion O’Brien and Hamill, Js., concurred.
+“[Practice Book] See. 228. medical evidence. A parly wko plans to offer a hospital record in evidence shall have the record in the clerk’s office twenty-four hours prior to trial. The judge holding the civil jury shall, at the opening session, order that all such records be available for inspection in the clerk’s office to any counsel of record under the supervision of the clerk. Counsel must recognize their responsibility to have medical testimony available when needed and shall, when necessary, subpoena medical witnesses to that end.”
