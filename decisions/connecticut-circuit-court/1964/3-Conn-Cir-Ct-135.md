@@ -1,0 +1,26 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CR 10-12215"
+decided: "1964-12-12"
+citations: ["3 Conn. Cir. Ct. 135"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. James E. Taylor"]
+source_url: "https://static.case.law/conn-cir-ct/3/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1740809
+cites_cases: ["105 Conn. 757", "147 Conn. 7", "80 Conn. 317", "96 Conn. 420"]
+---
+
+# State v. Taylor
+
+## Majority (Levine, J.)
+
+Levine, J.
+In a trial to the court, the defendant was convicted of breach of the peace in violation of § 53-174 of the General Statutes and found not guilty of wilful injury to personal property. § 53-126. In his appeal from the conviction of breach of the peace, he assigns error in the court’s denial of his motion to change his election of trial by the court to trial by the jury, in the court’s denial of a motion for a mistrial, and in the court’s conclusion upon all the evidence that the defendant was guilty of the crime charged beyond a reasonable doubt. We shall consider first the last error assigned, and upon this assignment of error we examine the entire evidence and determine from it whether the court erred in holding guilt was established by the requisite degree of proof. State v. Pundy, 147 Conn. 7, 8.
+On the evening of June 6, 1964, the defendant was a passenger in a car operated by Isidore Michaud and was seated in the front seat between the driver and Ronald Utersteadt. The defendant had been injured previously and was required to use crutches in walking. Between Jewett City and Voluntown, a second car passed the Michaud car and “cut it off,” as a result of which there was shouting between the cars and both vehicles stopped. Utersteadt and the other driver got out of their cars, a fight took place between them, and a window was broken in the other car, after which both men got back into their respective cars and drove off. About a minute elapsed between the time the cars stopped and the fight began, and the defendant at all times remained seated in the Michaud car. No conversation took place among the three persons in the car in which the defendant was seated, and the defendant was not involved in the shouting between the vehicles. The argument between the two cars arose as a result of the Michaud car’s passing the second car and a third car containing three girls. This third car thereafter passed the Michaud car, and Michaud continued to follow and drive to the left of it, with the three men in the second car following.
+There was no evidence introduced to show that the defendant was a principal in the commission of the breach of the peace. He did not strike a blow or physically do anything else in violation of § 53-174 of the General Statutes. If he is guilty, it must be shown that he falls within § 54-196, which is entitled “Accessories” and reads: “Any person who assists, abets, counsels, causes, hires or commands another to commit any offense may be prosecuted and punished as if he were the principal offender.” “Every one is a party to an offense who either actually commits the offense or does some act which forms part of the offense, or assists in the actual commission of the offense or of any act which forms part thereof, or directly or indirectly counsels or procures any person to commit the offense, or do any act forming a part thereof.” State v. Scott, 80 Conn. 317, 323; State v. Thomas, 105 Conn. 757, 763. “One who is present when a crime is committed but neither assists in its commission nor shares in the criminal intent of its perpetrator cannot be convicted as an accessory. . . . Mere presence as an inactive companion, passive acquiescence, or the doing of innocent acts which may in fact aid the one who commits the crime must be distinguished from the criminal intent and community of unlawful purpose shared by one who knowingly and wilfully assists the perpetrator of the offense in the acts which prepare for, facilitate, or consummate it.” State v. Pundy, supra, 11; State v. Enanno, 96 Conn. 420, 425.
+Upon all the evidence proven, together with such inferences as the court was warranted in drawing from the facts established, the state has shown only that the defendant was present when the crime was committed and that he was an inactive companion. No evidence was submitted to prove that the defendant in conversation agreed to or counseled the fight or any other violation of the breach of the peace statute. The state failed to show community of unlawful purpose on the part of the defendant, or that the defendant assisted Utersteadt in his acts, or that the defendant facilitated or assisted the consummation of his acts. Upon the evidence presented, the state failed to prove that the defendant was guilty beyond a reasonable doubt of a breach of the peace. In the view which we have taken of this case, it is unnecessary to decide the other assignments of error presented.
+There is error, the judgment is set aside and the case is remanded with direction to render judgment that the defendant is not guilty and ordering that he be discharged.
+In this opinion Kosicki and Pruyn, Js., concurred.
