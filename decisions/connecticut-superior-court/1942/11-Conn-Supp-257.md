@@ -1,0 +1,47 @@
+---
+court: "Connecticut Superior Court"
+docket: "File No. 61595"
+decided: "1942-09-04"
+citations: ["11 Conn. Supp. 257"]
+reporter: "conn-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARIA SCINTO vs. GIOVANNINA MATARAZZO ET ALS."]
+source_url: "https://static.case.law/conn-supp/11/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343297
+cites_cases: ["101 Conn. 44", "123 Conn. 368", "144 S.E. 256", "166 Ga. 747", "44 A.L.R. 78", "85 Conn. 83", "89 A.L.R. 1444"]
+---
+
+# Scinto v. Matarazzo
+
+## Majority (O’SULLIVAN, J.)
+
+Memorandum of decision in action for reformation of deeds and other relief.
+O’SULLIVAN, J.
+This is an action brought against Giovan' nina Mataraiao, Michele Matarazao, and Carmela Mastriano, seeking legal and equitable relief as the result of a controversy involving a boundary line.
+On August 20, 1913, the plaintiff purchased from Nellie F. Houston a parcel of land situated at the northeasterly corner of Green, and Hamilton Streets in the City of Bridgeport, which, for convenience, will be referred to as plot No. 1. Its description, as set forth in the deed, ran as follows:
+North on land now or formerly of Thomas Kelly, 138 feet more or less;
+East on land now or formerly of the estate of William Casey, deceased, 50 feet, more or less;
+South on Hamilton Street, 150 feet, more or less;
+West on Green Street, 50 feet, more or less.
+On September 13, 1916, she purchased from Zoila Galla another parcel, which will be called plot No. 2 and which ad' joined plot No. 1 on the north. The deed described the land as follows:
+North on land now or formerly of William Casey, 148 feet, more or less;
+East on land now or formerly of William Casey, 50 feet, more or less;
+South on land now or formerly of John O’Brien, 148 feet, more or less;
+West on Green Street, 50 feet, more or less.
+Based on these two descriptions, Mrs. Scinto apparently had acquired title to 100 feet, more or less, on Green Street. Actually, this was not the fact, although she was unaware of any shortage at the time of her purchases. The correct amount of frontage on Green Street for plot No. 1 was 45.08 feet, and 49.33 feet for plot No. 2.
+It appears that in 1916, when plot No. 2 was bought, an old fence stood on the division line between' the two parcels. This fence began at a point on Green Street 45.08 feet north of the intersection of the street lines of Green and Hamih ton Streets and thence, along the - line of an inside angle of 79°41, ran easterly to the Casey land which it met at a point about 50 feet north of Hamilton Street. Some time after 1916, the fence separating the two parcels was removed, but the post on the Green Street sidewalk from which the fence ran east' erly was replaced at exactly the same location by -another used in connection with a new fence erected along the sidewalk.
+On January 31, 1928, Mrs. Scinto conveyed plot No. 1 to the defendants,. Giovannina and Michele Mataratao, both grantor and grantees intending that the deed should embrace only the parcel obtained from Mrs. Houston and, more spe' cifically, that the Green Street frontage should include no more than the distance between the street lines’ intersection and the post on Green Street. Although this distance was but 45.08 feet, it was described as 50 feet, more or less. This was in' accurate and expressed a greater number of feet than Mrs. Scinto intended to convey or the Matarazzos to receive.
+On March 4, 1929, the latter conveyed plot No. 1 to the defendant, Carmela Mastriano. The grantee knew that the land on Green Street was to run only to the post, and although the same distance of 50 feet was used as had appeared in deeds from prior grantors, the parties intended that title to only so much land on Green Street as ran to the post was to pass.
+Some time during 1940, Mrs. Mastriano caused the parcel to be surveyed, and then for the first time discovered that the 50 feet bound on Green Street extended 4.92 feet beyond the post, at which point, by the way, her husband had chiseled a cross-mark into the sidewalk at the time negotiations were being had concerning its purchase from the Matarazaos. When Mrs. Scinto learned of the discrepancy in the description, she made a commendable effort to avoid unnecessary litigation over a piece of land, whose value is grossly disproportionate to the expense entailed in maintaining a law suit, by offering to Mrs. Mastriano $200 for a quitclaim deed of the 4.92 foot strip. This offer, which was made not as a concession of Mrs. Mastriano’s ownership but solely to solve peaceably the problem between the parties, was refused. From then on, relations grew strained, and eventually Mrs. Mastriano erected a concrete wall, about 15 inches high, capped by a five-foot wire fence, as close to a line extending easterly from Green Street at a point 50 feet north of Hamilton Street as the presence of two dwelling houses on plot No. 2 would permit. To follow the exact line would have required the removal of a small portion of the southwest corner of a dwelling house in the rear of plot No. 2.
+The height and position of the wall acts as a dam, restraining rain water from flowing in its natural course from plot No. 2 to the street, and quite frequently an areaway in the rear of the house on plot No. 2 facing Green Street has been flooded to a depth of several inches, all of which has resulted in the creation of a nuisance.
+On December 19, 1940, Mrs. Scinto brought this action. Her claims for relief are (1) damages; (2) a mandatory injunction requiring Mrs. Mastriano to remove the wall and fence; (3) reformation of the deeds from herself to the Matarazaos and from the latter to Mrs. Mastriano; and (4) such other relief as may be equitable and necessary under the circumstances.
+That a mutual mistake was made by the grantors of the two deeds has been established by unequivocal, certain and satisfactory evidence, and in as much as no bona fide purchaser for value without notice is affected, the rule enunciated in Snelling vs. Merritt, 85 Conn. 83, 100, is applicable. “To warrant. .. . reformation.... on the ground of mutual mistake, the mistake must have been common to both parties, and it must appear that. .. .both have done what, neither intended, and the evidence should be clear, substantial, and convincing as to both those facts.” Corticelli Silk Co. vs Slosberg, 101 Conn. 44.
+The real agreement between the parties to each deed was to buy and to sell only from the corner of Green and Hamilton Streets to the post 45.08 feet away. In as much as each deed includes 4.92 feet more than the parties intended, each fails' to express the real agreement of the parties in each transaction. Mrs. Scinto’s neglect to verify by survey the actual frontage on Green Street does not, under the circumstances of this case, defeat her right to relief. Our rule is that negligence may not of itself be a sufficient ground for refusing relief if it appears that the other parties have not been prejudiced thereby. Cherkoss vs. Gasser, 123 Conn. 368.
+These mistakes should be corrected and my chief anxiety is as to the appropriate machinery to be employed to accomplish the desired objective. So far as the plaintiff and the Matarassos are concerned, no difficulty arises. The deed from the former to the latter should be reformed to effectuate the true agreement. That part of the description of the premises reading as follows, to wit: “West: On Green Street, Fifty (50) feet, more or less”, shall be reformed by substituting the following, to wit: “West: On Green Street, forty-five and eight one-hundredths feet.”
+Just how to handle the problem occasioned by the mistake in the deed from the Matarassos to Mrs. Mastriano is more pussling. One line of thought suggests an order that Mrs. Mastriano execute a quitclaim deed to the plaintiff of the triangular shaped parcel over which this dispute has arisen. Another suggests that in as much as all parties to be affected are before the court, the deed from the Matarassos to Mrs. Mastriano may likewise be reformed. I see no sound reason why this cannot be done. It will thus terminate litigation.
+The usual case for reformation of a deed arises when the grantee, rather than the grantor, is seeking relief. In such cases, if a mistake in the deed’s description occurs in a series of conveyances, under circumstances that would entitle any one of the grantees to a reformation as against the immediate grantor, equity will work back through all and give the last grantee a right of reformation against the grantor inaugurating the mistake. 5 Pomeroy Eq. Jur. (4th ed.) §2099. See, also, Anno. 89 A.L.R. 1444; 44 A.L.R. 78.
+If such relief is available to a grantee, it ought likewise to be available to a grantor. Wachovia Bank & Trust Co. vs. Jones, 166 Ga. 747, 144 S.E. 256. Therefore, the deed from the Mataraasos to Mrs. Mastriano is reformed in identically the same as is Mrs. Scinto’s deed to the Matarassos.
+From the facts found, it is apparent that Mrs. Mastriano has committed a trespass on Mrs. Scinto’s land, for which judgment may enter that she recover $1 damages. A mandatory injunction may also issue requiring Mrs. Mastriano to remove the wall and fence erected by her just southerly of the two dwelling houses on plot No. 2.
+Costs shall be taxed in favor of the plaintiff against the defendant, Mrs. Mastriano, but none shall be taxed against the defendants Matara^o.
