@@ -1,7 +1,8 @@
 ---
 court: "Connecticut Superior Court"
 decided: "1787-11"
-citations: ["1 Kirby 344", "2 Kirby 25"]
+decided_precision: "month"
+citations: ["1 Kirby 344"]
 reporter: "kirby"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
