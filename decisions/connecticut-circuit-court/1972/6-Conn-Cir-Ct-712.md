@@ -1,0 +1,28 @@
+---
+court: "Connecticut Circuit Court"
+docket: "File No. CR 18-6049"
+decided: "1972-12-08"
+citations: ["6 Conn. Cir. Ct. 712"]
+reporter: "conn-cir-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Connecticut v. Anthony G. Pope"]
+source_url: "https://static.case.law/conn-cir-ct/6/cases/0712-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1747677
+cites_cases: ["14 Cal. 2d 679", "154 Conn. 23", "20 A.L.R.3d 473", "295 Mich. 704", "5 Conn. Cir. Ct. 316", "82 Conn. 671"]
+---
+
+# State v. Pope
+
+## Majority (Dearington, J.)
+
+Dearington, J.
+The defendant was convicted of the crime of negligent homicide in violation of § 14-218 of the General Statutes and has appealed.
+The trial court concluded that the sole proximate cause of death was the negligent acts of the defendant in that he failed to keep a proper lookout for persons in and upon the highway; in that he operated his vehicle in such a manner as to endanger the life and limb of the decedent; in that he did not have his vehicle under proper control; and in that he operated his vehicle at a speed greater than was reasonable, having regard to width, traffic and use of the highway and weather conditions, in violation of § 14-219 (speeding). The court further concluded that the decedent and her two companions were clearly visible, since the area was well lighted and visibility was good. Thereupon, the court found the defendant guilty beyond a reasonable doubt of violating § 14-218.
+The defendant claimed that the court ignored the decedent’s conduct, which, it is asserted, was a substantial factor and contributed to the accident. In short, it is argued that the conduct of the decedent constituted contributory negligence. Section 14-218 provided that “[a]ny person who, in consequence of the negligent operation of a motor vehicle upon the highways of this state, causes the loss of any human life” shall be subject to the penalty provided. The defendant contends that contributory negligence of a decedent in a negligent homicide case is a factor to be considered, and if such negligence is established it becomes a defense. Contributory negligence has been held to be no defense if a defendant’s vehicle is operated in a grossly negligent or reckless manner. State v. Alterio, 154 Conn. 23, 29; State v. Campbell, 82 Conn. 671, 675. We have been unable to find a reported case in this jurisdiction holding that contributory negligence is a defense where one is charged with a violation of § 14-218, wherein the culpable standard is described in terms of “negligence” without the use of modifying words or phrases. The general rule that contributory negligence is not a defense in a criminal case; 21 Am. Jur. 2d, Criminal Law, § 139; would appear to apply in a negligent homicide case where ordinary negligence is one of the required elements, unless such negligence on the part of the decedent is found to be the sole proximate cause of his own death. Note, 20 A.L.R.3d 473, 481. Thus, the alleged negligence of a decedent becomes a material factor in the case solely as it bears on the question of the defendant’s negligence. See State v. Campbell, supra. If it is shown that the sole proximate cause of death is the decedent’s own negligence rather than that of the defendant, there can be no conviction. People v. Pociask, 14 Cal. 2d 679. If, however, the defendant’s negligence was the cause of the decedent’s death, the defendant would be responsible under the statute whether or not the decedent’s failure to use due care contributed to his injuries, since contributory negligence is no defense in such a case. People v. Clark, 295 Mich. 704. We hold that contributory negligence is not a defense unless such negligence can be shown to be the sole proximate cause of the injuries resulting in death.
+The finding recites that the decedent was walking in a southerly direction along the westerly side of the highway between her two companions. It was nighttime but the highway in this area was illuminated by a street light and an adjacent parking light. The road surface was clear and visibility good. As the defendant’s car approached the three pedestrians, one of them held, over his shoulder, a lighted flashlight focused in the defendant’s direction, and he nudged his two companions towards the westerly side of the highway. The defendant failed to see the decedent or either of her two companions prior to striking them. There was no approaching traffic. The injuries suffered by the decedent from being struck by the defendant’s vehicle caused her death. Upon such evidence the court was justified in concluding that the sole proximate cause of the accident resulting in the decedent’s death was the negligence of the defendant.
+The defendant cites State v. Benson, 5 Conn. Cir. Ct. 316, in support of his claim relative to the factor of contributory negligence. Benson did not concern itself with contributory negligence hut with what point in a sequence of events the defendant’s negligence came into operation.
+There is no error.
+In this opinion Jacobs and Kinmonth, Js., concurred.
+Section 14-218 of the General Statutes has been replaced by § 53a-57, wherein the degree of negligence required in a misconduct with a motor vehicle violation is described as “criminal negligence.” Criminal negligence is defined as the failure “to perceive a substantial and unjustifiable risk that such result will occur or that such circumstance exists. The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the situation.” § 53a-3 (14).
